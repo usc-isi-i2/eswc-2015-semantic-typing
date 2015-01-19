@@ -1,0 +1,212 @@
+5
+
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson
+6
+16 Robert Witt Ames
+11 Toshio Aoki
+20 John White Alexander
+13 Mabel Alvarez
+12 Wayman Adams
+9 Ben Abril
+
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description
+6
+207 Watercolor Watercolor on paper Framed: 40 1/2 x 34 3/4 x 3/4 in. 102.87 x 88.265 x 1.905 cm; Image and sheet: 28 x 22 in. 71.12 x 55.88 cm Purchased with funds provided by Mr. and Mrs. Thomas H. Crawford Jr.
+102 Painting Oil on canvas 62 1/4 x 52 1/8 in. 158.2 x 132.4 cm Gift of Dr. and Mrs. Matthew S. Mickiewicz
+206 Painting Oil on canvas 48 3/16 x 60 1/16 in. 122.4 x 152.56 cm Signed lower right: BEN ABRIL. Inscribed and dated lower left: OLD HALL OF RECORDS / LOS ANGELES CALIF. 1966 Museum Associates Acquisition Fund
+161 Sculpture: Mahogany bas relief carving Framed: 61 x 87 1/4 x 2 in. 154.9 x 221.6 x 5.1 cm Gift from the Estate of Barbara Carol Weston sister of Robert Witt Ames
+86 Painting Oil on canvas 40 x 30 in. 101.6 x 76.2 cm Gift of Margery and Maurice H. Katz
+112 Painting Oil on canvas 52 1/16 x 40 1/16 in. 132.24 x 101.76 cm Mr. and Mrs. William Preston Harrison Collection
+
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/objectId
+6
+6 152811
+5 71392
+6 137517
+5 10763
+5 48602
+5 27824
+
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink
+6
+82 http://collectionsonline.lacma.org/MWEBimages/all%20departments/thumb/M2002_85.jpg
+80 http://collectionsonline.lacma.org/MWEBimages/all%20departments/thumb/25_6_2.jpg
+68 http://collectionsonline.lacma.org/MWEBimages/aa_mm/full/M91_326.jpg
+68 http://collectionsonline.lacma.org/MWEBimages/aa_mm/full/M81_182.jpg
+67 http://collectionsonline.lacma.org/MWEBimages/aa_mm/full/M67_89.jpg
+84 http://collectionsonline.lacma.org/MWEBimages/all%20departments/full/M2005_115_1.jpg
+
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber
+6
+7 M.67.89
+8 M.81.182
+8 M.91.326
+12 M.2005.115.1
+6 25.6.2
+9 M.2002.85
+
+164
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Toshio 0.8045156450071733
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Ames 0.6614855836716411
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_length_9 -0.5352209245397476
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Aoki 0.8045156450071733
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Adams 0.5943873965086326
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Alvarez 1.2777303163712557
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Alexander 0.594395209383976
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_John 0.594395209383976
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_B 0.285241904674868
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_A 4.5944090518125345
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Wayman 0.5943873965086326
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_J 0.2179136412695874
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson capitalized_token 3.083613105669655
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_M -0.994254644779622
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Mabel 1.2777303163712557
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Robert 0.6614855836716411
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_length_7 -0.6048488726191806
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_R 0.2850040140572933
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_length_6 0.17798086427760934
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_length_5 2.370403503976955
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_T 0.4280340768927846
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_length_4 0.5496004616895681
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_length_3 -1.2255540414680117
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Abril 1.0383764704842038
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Ben 1.0383764704842038
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_White 0.594395209383976
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Witt 0.6614855836716411
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_W 1.097305082065856
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description after_decimal_len_0 -3.724399159124302
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description symbol_/ 1.73350549468017
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description num_len_1 1.9862424786725896
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description num_len_2 1.4913811085733757
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description tenth_place_digit_2 0.7753664872490929
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description tenth_place_digit_7 0.3764835340570781
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_the 0.4833543948964559
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description starts_with_char_c 2.1125594021551684
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description starts_with_char_l 0.04015654590306427
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_Sculpture 0.4833543948964559
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description starts_with_char_r 0.8605026965578367
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description starts_with_char_x 2.449551157913485
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description starts_with_char_w 0.4570281649222656
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description starts_with_char_M -0.007336086531534159
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description starts_with_char_G 1.2388911572727601
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_Robert -0.5544865277397637
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description starts_with_char_R -0.17733822607838245
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description starts_with_char_S 1.2369855514591432
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description starts_with_char_O 1.5091685980947636
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description starts_with_char_P 1.9661967630170294
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_Crawford 0.4570281649222656
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description starting_digit_8 1.165658722112415
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description starting_digit_6 1.0451031072127674
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description starting_digit_5 1.693348948777106
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description starting_digit_4 1.4532011179987854
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description starting_digit_3 1.1117000826738381
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description starting_digit_1 -0.5096236835817716
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_Katz 0.3790539074749982
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_Carol 0.4833543948964559
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_provided 0.4570281649222656
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_LOS 0.37714830166138097
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_length_8 2.449551157913485
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description unit_place_digit_0 1.485950739194472
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description unit_place_digit_2 0.022729714564464265
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description unit_place_digit_4 0.38029266926160915
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_length_10 1.2501510997837144
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_sheet 0.4570281649222656
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_length_7 0.7159890930187437
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_length_5 -2.522326692119905
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_length_3 1.0747182973719611
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_length_2 2.216322571076419
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description before_decimal_len_1 1.9862424786725896
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_length_1 1.3307786585485455
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_Painting 1.5091685980947636
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_Oil 1.5091685980947636
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_right 0.37714830166138097
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_x 2.449551157913485
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_Weston 0.4833543948964559
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description capitalized_token -3.2315358868125386
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_Thomas 0.4570281649222656
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/objectId unit_place_digit_7 0.871627303349544
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/objectId after_decimal_len_0 5.18638861260663
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/objectId unit_place_digit_1 0.4900508537654132
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/objectId unit_place_digit_2 1.4416255571619192
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/objectId unit_place_digit_3 0.9101791858909073
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/objectId unit_place_digit_4 0.7898177260131748
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/objectId num_len_6 1.899365704141793
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/objectId num_len_5 3.6253015061308105
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/objectId starting_digit_7 0.9036061173928933
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/objectId before_decimal_len_5 3.939429467045494
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/objectId before_decimal_len_6 1.9781951762378955
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/objectId starting_digit_4 0.8169036336915948
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/objectId starting_digit_2 0.43476933184225613
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/objectId starting_digit_1 2.5129995200244224
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink symbol__ 0.8920503463677135
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_jpg 0.8920503463677135
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink after_decimal_len_0 0.8830526773434054
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_M -0.16473779407319034
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink symbol_/ 0.8832215739598613
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink num_len_4 -0.3487512233923508
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink num_len_3 -0.4310668214943943
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink symbol_. 0.8831926808239247
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink num_len_1 0.28854131939529026
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink num_len_2 0.779977562495928
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink symbol_: 0.883221938800558
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink symbol_% 0.4460449965117097
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_all 0.4460449965117097
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starts_with_char_d 0.44584357481190595
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starts_with_char_c 0.8831926808239247
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starts_with_char_a 0.889884227827846
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starts_with_char_m 0.4460053498560039
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starts_with_char_l 0.8918489246679097
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starts_with_char_j 0.8920503463677135
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starts_with_char_h 0.8920503463677135
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starts_with_char_f 0.5860787716878411
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starts_with_char_t 0.2906530418085993
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starts_with_char_o 0.8831926808239247
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink all_capitalized_token -0.1669036105102405
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starts_with_char_M -0.025742182844461017
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_MWEBimages 0.8920503463677135
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_lacma 0.8920503463677135
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_http 0.8920503463677135
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_departments 0.4460449965117097
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starting_digit_8 0.4374060574681362
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_aa 0.4460053498560039
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starting_digit_2 0.371897196113817
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_full 0.5947057575551926
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_collectionsonline 0.8920503463677135
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink capitalized_token 0.8807291276078476
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink unit_place_digit_5 0.3719075342276659
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink unit_place_digit_7 0.1419336299947011
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink unit_place_digit_0 0.44387894070972184
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink unit_place_digit_1 0.43710146649652737
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink unit_place_digit_2 0.43719937481697874
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_mm 0.4460053498560039
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_length_10 0.8899131209637828
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_length_11 0.44584357481190595
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_length_17 0.8920503463677135
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_length_5 0.8817870595230476
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_length_4 0.8820350605598262
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_length_2 0.43714768431221507
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink before_decimal_len_1 0.28854131939529026
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_length_1 -0.173595459616979
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink before_decimal_len_3 0.43718087439138426
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber after_decimal_len_1 0.7714108834877207
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber after_decimal_len_2 1.5249844866567726
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber alpha_id_M 1.9112449284174513
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber all_capitalized_token 1.9107766788235594
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber after_decimal_len_3 1.147340185000956
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber after_decimal_len_4 0.7702876360817308
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber tenth_place_digit_9 0.38044916069439044
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber num_len_5 0.769746052803803
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber tenth_place_digit_8 1.1442225682105749
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber num_len_4 1.5329695023409262
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber starts_with_char_M 1.9104670552700982
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber num_len_3 1.525130266064779
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber num_len_2 0.7711108741579846
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber unit_place_digit_5 0.3852880597930323
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber tenth_place_digit_1 0.766512296362436
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber tenth_place_digit_3 0.3807625521816459
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber tenth_place_digit_2 1.1554527229634104
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber tenth_place_digit_6 0.7648325078506275
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber before_decimal_len_0 2.2969295899307074
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber starting_digit_2 0.3852829227599284
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber before_decimal_len_2 0.38504717764832597
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber alpha_length_1 1.9107113347375237

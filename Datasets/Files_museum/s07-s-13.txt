@@ -1,0 +1,1552 @@
+10
+
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber
+81
+10 1929-184-7
+13 1985-52-39491
+13 2008-25-69a,b
+10 2001-22-17
+9 1947-51-1
+9 1983-42-2
+8 1971-1-1
+11 1941-79-139
+9 1974-57-1
+13 1982-151-1--5
+9 1981-68-1
+10 2006-163-7
+8 1977-3-1
+10 1999-105-2
+10 1965-209-5
+14 2001-150-1--33
+11 1997-132-24
+9 E1924-3-8
+9 1985-94-4
+10 1999-107-1
+9 1985-94-4
+9 1981-68-1
+9 2007-65-6
+8 2000-8-4
+9 2001-12-1
+11 1929-184-16
+9 1983-42-1
+9 1981-68-1
+12 2001-68-1a,b
+9 1949-53-1
+9 1987-99-1
+8 1984-6-1
+8 2000-8-4
+13 1985-52-39491
+11 2007-186-21
+10 1959-35-59
+10 1999-107-3
+10 1988-68-20
+9 1947-51-1
+10 2006-163-7
+9 1974-57-1
+10 2000-155-1
+10 1957-79-21
+9 1983-50-4
+9 1926-19-1
+8 1964-6-3
+11 1938-23-184
+9 1991-76-2
+10 2008-124-2
+9 1974-57-1
+13 2004-37-1a--o
+10 1984-108-1
+13 2004-37-1a--o
+10 2000-155-1
+13 1982-151-1--5
+10 1957-79-21
+12 1931-55-2a,b
+11 1938-23-217
+10 1956-68-42
+10 1956-68-42
+12 1961-79-2b,c
+10 1999-154-1
+9 1987-99-2
+9 1985-94-4
+13 1950-134-1053
+10 1967-266-1
+12 1931-55-2a,b
+9 1990-88-1
+9 1983-50-4
+10 2008-25-18
+13 1950-134-1053
+8 1971-1-1
+10 1999-107-1
+9 1974-57-1
+10 2004-115-1
+8 1971-1-1
+10 2006-163-7
+8 2000-8-4
+10 1941-103-3
+8 1987-8-1
+11 2007-186-28
+
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink
+102
+78 http://www.philamuseum.org/audio/collections/historicAmericaFamilyTour/694.mp3
+78 http://www.philamuseum.org/audio/collections/historicAmericaFamilyTour/694.mp3
+62 http://www.philamuseum.org/images/cad/large/1959-35-59crop.jpg
+63 http://www.philamuseum.org/images/cad/large/1931-55-2a,b-ov.jpg
+62 http://www.philamuseum.org/images/cad/large/2006-163-7-pma.jpg
+62 http://www.philamuseum.org/images/cad/large/1994-101-2-neh.jpg
+62 http://www.philamuseum.org/images/cad/large/2008-100-9-pma.jpg
+64 http://www.philamuseum.org/images/cad/large/1978-99-3det-pma.jpg
+62 http://www.philamuseum.org/images/cad/large/1929-184-23-sl.jpg
+63 http://www.philamuseum.org/images/cad/large/2008-100-21-pma.jpg
+62 http://www.philamuseum.org/images/cad/large/1999-107-4-pma.jpg
+61 http://www.philamuseum.org/images/cad/large/1979-87-6-pma.jpg
+61 http://www.philamuseum.org/images/cad/large/2009-32-1-neh.jpg
+65 http://www.philamuseum.org/images/cad/large/1993-141-1a--e-ov.jpg
+58 http://www.philamuseum.org/images/cad/large/1956-68-42.jpg
+57 http://www.philamuseum.org/images/cad/large/1992-18-2.jpg
+56 http://www.philamuseum.org/images/cad/large/2004-5-1.jpg
+65 http://www.philamuseum.org/images/cad/large/1969-288-191-dept.jpg
+60 http://www.philamuseum.org/images/cad/large/1964-6-3-pma.jpg
+56 http://www.philamuseum.org/images/cad/large/1971-1-1.jpg
+61 http://www.philamuseum.org/images/cad/large/1982-151-1--5.jpg
+60 http://www.philamuseum.org/images/cad/large/1991-76-4-ov.jpg
+62 http://www.philamuseum.org/images/cad/large/1938-23-184-ov.jpg
+65 http://www.philamuseum.org/images/cad/large/1985-52-39491-pdp.jpg
+64 http://www.philamuseum.org/images/cad/large/2009-160-677-pdp.jpg
+61 http://www.philamuseum.org/images/cad/large/1978-98-6-pma.jpg
+63 http://www.philamuseum.org/images/cad/large/2008-100-15-pma.jpg
+61 http://www.philamuseum.org/images/cad/large/1979-87-1-pma.jpg
+62 http://www.philamuseum.org/images/cad/large/1994-101-1-neh.jpg
+57 http://www.philamuseum.org/images/cad/large/1987-99-1.jpg
+57 http://www.philamuseum.org/images/cad/large/1985-94-4.jpg
+61 http://www.philamuseum.org/images/cad/large/1979-87-1-pma.jpg
+63 http://www.philamuseum.org/images/cad/large/2008-100-20-pma.jpg
+57 http://www.philamuseum.org/images/cad/large/1992-18-2.jpg
+60 http://www.philamuseum.org/images/cad/large/1949-53-1-ov.jpg
+58 http://www.philamuseum.org/images/cad/large/1978-99-26.jpg
+61 http://www.philamuseum.org/images/cad/large/1978-98-6-pma.jpg
+62 http://www.philamuseum.org/images/cad/large/2004-115-1-pma.jpg
+63 http://www.philamuseum.org/images/cad/large/1980-21-114-pdp.jpg
+60 http://www.philamuseum.org/images/cad/large/1946-5-1-nyd.jpg
+62 http://www.philamuseum.org/images/cad/large/1999-107-3-neh.jpg
+64 http://www.philamuseum.org/images/cad/large/1972-226-1v1-pma.jpg
+58 http://www.philamuseum.org/images/cad/large/1999-154-1.jpg
+60 http://www.philamuseum.org/images/cad/large/1996-3-1-neh.jpg
+60 http://www.philamuseum.org/images/cad/large/1986-15-3-ov.jpg
+63 http://www.philamuseum.org/images/cad/large/2011-88-1v1-pma.jpg
+61 http://www.philamuseum.org/images/cad/large/1965-209-5-ov.jpg
+61 http://www.philamuseum.org/images/cad/large/1984-6-1view1.jpg
+67 http://www.philamuseum.org/images/cad/large/1957-79-21open-dept.jpg
+62 http://www.philamuseum.org/images/cad/large/1999-105-2-pma.jpg
+59 http://www.philamuseum.org/images/cad/large/1915-119-ov.jpg
+64 http://www.philamuseum.org/images/cad/large/2009-160-717-pdp.jpg
+61 http://www.philamuseum.org/images/cad/large/1979-87-7-pma.jpg
+58 http://www.philamuseum.org/images/cad/large/1978-99-26.jpg
+63 http://www.philamuseum.org/images/cad/large/1961-79-2b,c-ov.jpg
+64 http://www.philamuseum.org/images/cad/large/1996-2-13a,b-neh.jpg
+57 http://www.philamuseum.org/images/cad/large/1992-18-2.jpg
+60 http://www.philamuseum.org/images/cad/large/1946-5-1-nyd.jpg
+58 http://www.philamuseum.org/images/cad/large/1956-68-42.jpg
+61 http://www.philamuseum.org/images/cad/large/1978-98-4-pma.jpg
+60 http://www.philamuseum.org/images/cad/large/E1924-3-8-CX.jpg
+63 http://www.philamuseum.org/images/cad/large/2008-100-12-pma.jpg
+60 http://www.philamuseum.org/images/cad/large/1996-3-1-neh.jpg
+61 http://www.philamuseum.org/images/cad/large/1981-68-1-neh.jpg
+56 http://www.philamuseum.org/images/cad/large/1971-1-1.jpg
+60 http://www.philamuseum.org/images/cad/large/1926-19-1-sl.jpg
+61 http://www.philamuseum.org/images/cad/large/1983-42-1-pma.jpg
+61 http://www.philamuseum.org/images/cad/large/1979-87-5-pma.jpg
+58 http://www.philamuseum.org/images/cad/large/1974-229-1.jpg
+63 http://www.philamuseum.org/images/cad/large/2008-100-20-pma.jpg
+65 http://www.philamuseum.org/images/cad/large/1985-52-39491-pdp.jpg
+57 http://www.philamuseum.org/images/cad/large/1965-48-1.jpg
+62 http://www.philamuseum.org/images/cad/large/1978-99-31-pma.jpg
+58 http://www.philamuseum.org/images/cad/large/1956-68-42.jpg
+61 http://www.philamuseum.org/images/cad/large/2009-32-1-neh.jpg
+62 http://www.philamuseum.org/images/cad/large/1994-101-1-neh.jpg
+63 http://www.philamuseum.org/images/cad/large/1931-55-2a,b-ov.jpg
+66 http://www.philamuseum.org/images/cad/large/2007-186-21v1-cons.jpg
+61 http://www.philamuseum.org/images/cad/large/2009-32-1-neh.jpg
+61 http://www.philamuseum.org/images/cad/large/2004-37-1a--o.jpg
+70 http://www.philamuseum.org/images/cad/large/1966-205-49-50(10)-pdp.jpg
+64 http://www.philamuseum.org/images/cad/large/1978-99-3det-pma.jpg
+62 http://www.philamuseum.org/images/cad/large/1978-99-47-pma.jpg
+56 http://www.philamuseum.org/images/cad/large/1971-1-1.jpg
+57 http://www.philamuseum.org/images/cad/large/1983-50-4.jpg
+61 http://www.philamuseum.org/images/cad/large/1983-42-2-pma.jpg
+67 http://www.philamuseum.org/images/cad/large/1994-190-1a,bv1-pma.jpg
+64 http://www.philamuseum.org/images/cad/large/2008-100-23a-pma.jpg
+63 http://www.philamuseum.org/images/cad/large/1961-79-2d-dept.jpg
+61 http://www.philamuseum.org/images/cad/large/1979-87-6-pma.jpg
+62 http://www.philamuseum.org/images/cad/large/1938-23-168-ov.jpg
+61 http://www.philamuseum.org/images/cad/large/1939-7-15-pma.jpg
+56 http://www.philamuseum.org/images/cad/large/1971-1-1.jpg
+59 http://www.philamuseum.org/images/cad/large/1941-79-139.jpg
+61 http://www.philamuseum.org/images/cad/large/1983-42-1-pma.jpg
+61 http://www.philamuseum.org/images/cad/large/1979-87-4-pma.jpg
+67 http://www.philamuseum.org/images/cad/large/1994-190-1a,bv1-pma.jpg
+62 http://www.philamuseum.org/images/cad/large/2010-14-21-pma.jpg
+62 http://www.philamuseum.org/images/cad/large/1994-101-2-neh.jpg
+61 http://www.philamuseum.org/images/cad/large/1982-151-1--5.jpg
+56 http://www.philamuseum.org/images/cad/large/1987-8-1.jpg
+62 http://www.philamuseum.org/images/cad/large/1947-51-1v1-ov.jpg
+
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel
+100
+33 Prints, Drawings, and Photographs
+12 American Art
+33 Prints, Drawings, and Photographs
+33 Prints, Drawings, and Photographs
+12 American Art
+38 European Decorative Arts and Sculpture
+33 Prints, Drawings, and Photographs
+38 European Decorative Arts and Sculpture
+20 Costume and Textiles
+38 European Decorative Arts and Sculpture
+12 American Art
+20 Costume and Textiles
+20 Costume and Textiles
+38 European Decorative Arts and Sculpture
+12 American Art
+38 European Decorative Arts and Sculpture
+12 American Art
+27 Modern and Contemporary Art
+33 Prints, Drawings, and Photographs
+33 Prints, Drawings, and Photographs
+12 American Art
+20 Costume and Textiles
+33 Prints, Drawings, and Photographs
+12 American Art
+33 Prints, Drawings, and Photographs
+12 American Art
+33 Prints, Drawings, and Photographs
+38 European Decorative Arts and Sculpture
+38 European Decorative Arts and Sculpture
+12 American Art
+12 American Art
+38 European Decorative Arts and Sculpture
+12 American Art
+38 European Decorative Arts and Sculpture
+33 Prints, Drawings, and Photographs
+20 Costume and Textiles
+12 American Art
+38 European Decorative Arts and Sculpture
+12 American Art
+33 Prints, Drawings, and Photographs
+12 American Art
+12 American Art
+12 American Art
+38 European Decorative Arts and Sculpture
+12 American Art
+12 American Art
+33 Prints, Drawings, and Photographs
+12 American Art
+33 Prints, Drawings, and Photographs
+12 American Art
+38 European Decorative Arts and Sculpture
+12 American Art
+38 European Decorative Arts and Sculpture
+38 European Decorative Arts and Sculpture
+12 American Art
+33 Prints, Drawings, and Photographs
+20 Costume and Textiles
+33 Prints, Drawings, and Photographs
+38 European Decorative Arts and Sculpture
+33 Prints, Drawings, and Photographs
+12 American Art
+12 American Art
+38 European Decorative Arts and Sculpture
+38 European Decorative Arts and Sculpture
+20 Costume and Textiles
+38 European Decorative Arts and Sculpture
+38 European Decorative Arts and Sculpture
+33 Prints, Drawings, and Photographs
+33 Prints, Drawings, and Photographs
+20 Costume and Textiles
+33 Prints, Drawings, and Photographs
+38 European Decorative Arts and Sculpture
+38 European Decorative Arts and Sculpture
+20 Costume and Textiles
+38 European Decorative Arts and Sculpture
+12 American Art
+33 Prints, Drawings, and Photographs
+33 Prints, Drawings, and Photographs
+33 Prints, Drawings, and Photographs
+38 European Decorative Arts and Sculpture
+38 European Decorative Arts and Sculpture
+38 European Decorative Arts and Sculpture
+38 European Decorative Arts and Sculpture
+38 European Decorative Arts and Sculpture
+38 European Decorative Arts and Sculpture
+12 American Art
+33 Prints, Drawings, and Photographs
+33 Prints, Drawings, and Photographs
+12 American Art
+12 American Art
+38 European Decorative Arts and Sculpture
+38 European Decorative Arts and Sculpture
+33 Prints, Drawings, and Photographs
+33 Prints, Drawings, and Photographs
+12 American Art
+38 European Decorative Arts and Sculpture
+12 American Art
+33 Prints, Drawings, and Photographs
+33 Prints, Drawings, and Photographs
+38 European Decorative Arts and Sculpture
+
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance
+200
+23  Estate of Edna Andrade
+100 Gift of Collab: The Group for Modern and Contemporary Design at the Philadelphia Museum of Art, 1983
+39 The Alex Simpson, Jr., Collection, 1946
+25 Gift of Swid Powell, 1993
+28 Gift of DesignTex Inc., 2000
+64 The Ella King Torrey Collection of African American Quilts, 2006
+59 Whitman Sampler Collection, gift of Pet, Incorporated, 1969
+23  Estate of Edna Andrade
+60  Beatrice Wood Center for the Arts / Happy Valley Foundation
+99  The Isamu Noguchi Foundation and Garden Museum , New York / Artists Rights Society (ARS), New York
+34 Gift of Libbey Glass Company, 1982
+28 Gift of John T. Morris, 1915
+22  Estate of Paul Strand
+33 Purchased with Museum Funds, 1950
+42 Gift of Dr. and Mrs. George Woodward, 1939
+60  Beatrice Wood Center for the Arts / Happy Valley Foundation
+23  Estate of Edna Andrade
+100 Gift of Collab: The Group for Modern and Contemporary Design at the Philadelphia Museum of Art, 1987
+60  Beatrice Wood Center for the Arts / Happy Valley Foundation
+99  The Isamu Noguchi Foundation and Garden Museum , New York / Artists Rights Society (ARS), New York
+34 Gift of Mrs. Henry W. Breyer, 1957
+23  Estate of Edna Andrade
+60  Beatrice Wood Center for the Arts / Happy Valley Foundation
+60  Beatrice Wood Center for the Arts / Happy Valley Foundation
+99  The Isamu Noguchi Foundation and Garden Museum , New York / Artists Rights Society (ARS), New York
+35 Gift of Laverne International, 1971
+32 Gift of Nessen Lamps, Inc., 1974
+63 Gift of Mrs. Thomas Eakins and Miss Mary Adeline Williams, 1929
+60  Beatrice Wood Center for the Arts / Happy Valley Foundation
+39 Gift of the Heirs of Samuel Breck, 1956
+22  Estate of Paul Strand
+60  Beatrice Wood Center for the Arts / Happy Valley Foundation
+67 The Collection of Edgar William and Bernice Chrysler Garbisch, 1965
+69 125th Anniversary Acquisition. Gift of H. Richard Dietrich, Jr., 2001
+60  Beatrice Wood Center for the Arts / Happy Valley Foundation
+61 Gift of Mrs. William M. Elkins in memory of her husband, 1947
+23  Estate of Edna Andrade
+38 The George H. Lorimer Collection, 1938
+60  Beatrice Wood Center for the Arts / Happy Valley Foundation
+100 Gift of Collab: The Group for Modern and Contemporary Design at the Philadelphia Museum of Art, 2001
+39 Gift of the Heirs of Samuel Breck, 1956
+60  Beatrice Wood Center for the Arts / Happy Valley Foundation
+32 Gift of Nessen Lamps, Inc., 1974
+23  Estate of Edna Andrade
+59 Whitman Sampler Collection, gift of Pet, Incorporated, 1969
+38 The George H. Lorimer Collection, 1938
+23  Estate of Edna Andrade
+38 The George H. Lorimer Collection, 1938
+387 The Muriel and Philip Berman Gift, acquired from the Pennsylvania Academy of the Fine Arts, with funds contributed by Muriel and Philip Berman, gifts (by exchange) of Lisa Norris Elkins, Bryant W. Langston, Samuel S. White 3rd and Vera White, with additional funds contributed by John Howard McFadden, Jr., Thomas Skelton Harrison, and the Philip H. and A.S.W. Rosenbach Foundation, 1985
+60  Beatrice Wood Center for the Arts / Happy Valley Foundation
+60  Beatrice Wood Center for the Arts / Happy Valley Foundation
+64 The Ella King Torrey Collection of African American Quilts, 2006
+99  The Isamu Noguchi Foundation and Garden Museum , New York / Artists Rights Society (ARS), New York
+99  The Isamu Noguchi Foundation and Garden Museum , New York / Artists Rights Society (ARS), New York
+24 Gift of Curvet USA, 1999
+32 Gift of Nessen Lamps, Inc., 1974
+99  The Isamu Noguchi Foundation and Garden Museum , New York / Artists Rights Society (ARS), New York
+23  Estate of Edna Andrade
+60  Beatrice Wood Center for the Arts / Happy Valley Foundation
+23  Estate of Edna Andrade
+60  Beatrice Wood Center for the Arts / Happy Valley Foundation
+63 Gift of an anonymous donor in memory of Marjorie Bare Rex, 2001
+60  Beatrice Wood Center for the Arts / Happy Valley Foundation
+60  Beatrice Wood Center for the Arts / Happy Valley Foundation
+23  Estate of Edna Andrade
+23  Estate of Edna Andrade
+64 The Ella King Torrey Collection of African American Quilts, 2006
+59 Whitman Sampler Collection, gift of Pet, Incorporated, 1969
+71 Gift of Lisa S. Roberts in honor of Eric Rymshaw and James Fulton, 2004
+32 Gift of Henry P. McIlhenny, 1977
+99  The Isamu Noguchi Foundation and Garden Museum , New York / Artists Rights Society (ARS), New York
+25 Gift of Swid Powell, 1993
+60  Beatrice Wood Center for the Arts / Happy Valley Foundation
+60  Beatrice Wood Center for the Arts / Happy Valley Foundation
+28 Gift of Robert Venturi, 1992
+60  Beatrice Wood Center for the Arts / Happy Valley Foundation
+63 Gift of Mrs. Thomas Eakins and Miss Mary Adeline Williams, 1930
+38 The George H. Lorimer Collection, 1938
+25 Gift of Umbra, Ltd., 1999
+60  Beatrice Wood Center for the Arts / Happy Valley Foundation
+100 Gift of Collab: The Group for Modern and Contemporary Design at the Philadelphia Museum of Art, 1983
+35 Gift of Laverne International, 1971
+100 Gift of Collab: The Group for Modern and Contemporary Design at the Philadelphia Museum of Art, 1986
+60  Beatrice Wood Center for the Arts / Happy Valley Foundation
+34 Gift of Libbey Glass Company, 1982
+60  Beatrice Wood Center for the Arts / Happy Valley Foundation
+60  Beatrice Wood Center for the Arts / Happy Valley Foundation
+63 Gift of Mrs. Thomas Eakins and Miss Mary Adeline Williams, 1930
+137 Purchased for the Cadwalader Collection with funds contributed by the Mabel Pew Myrin Trust and with the gift of an anonymous donor, 1984
+22  Estate of Paul Strand
+99  The Isamu Noguchi Foundation and Garden Museum , New York / Artists Rights Society (ARS), New York
+22  Estate of Paul Strand
+76 125th Anniversary Acquisition. Gift of the McNeil Americana Collection, 2004
+60  Beatrice Wood Center for the Arts / Happy Valley Foundation
+60  Beatrice Wood Center for the Arts / Happy Valley Foundation
+22  Estate of Paul Strand
+32 Gift of Totem Design Group, 2000
+32 Gift of Henry P. McIlhenny, 1977
+71 Gift of Lisa S. Roberts in honor of Eric Rymshaw and James Fulton, 2004
+23  Estate of Edna Andrade
+48 Made in United States, North and Central America
+67 Photograph taken in Quebec, Gasp, Canada, North and Central America
+73 Made in Jersey City, New Jersey, United States, North and Central America
+48 Made in United States, North and Central America
+72 Made in Concord, New Hampshire, United States, North and Central America
+66 Made in Ojai, California, United States, North and Central America
+73 Photograph taken in Perc, Quebec, Gasp, Canada, North and Central America
+48 Made in United States, North and Central America
+48 Made in United States, North and Central America
+48 Made in United States, North and Central America
+48 Made in United States, North and Central America
+48 Made in United States, North and Central America
+48 Made in United States, North and Central America
+48 Made in United States, North and Central America
+48 Made in United States, North and Central America
+48 Made in United States, North and Central America
+48 Made in United States, North and Central America
+48 Made in United States, North and Central America
+66 Made in Ojai, California, United States, North and Central America
+48 Made in United States, North and Central America
+48 Made in United States, North and Central America
+48 Made in United States, North and Central America
+41 Made in Canada, North and Central America
+48 Made in United States, North and Central America
+79 Photograph taken in Perc, Perc, Quebec, Gasp, Canada, North and Central America
+72 Made in Concord, New Hampshire, United States, North and Central America
+73 Made in New York City, New York, United States, North and Central America
+73 Photograph taken in Connecticut, United States, North and Central America
+62 Made in Toledo, Ohio, United States, North and Central America
+41 Made in Canada, North and Central America
+76 Made in Philadelphia, Pennsylvania, United States, North and Central America
+78 Photograph taken in Taos, New Mexico, United States, North and Central America
+48 Made in United States, North and Central America
+48 Made in United States, North and Central America
+76 Made in Philadelphia, Pennsylvania, United States, North and Central America
+48 Made in United States, North and Central America
+66 Made in Ojai, California, United States, North and Central America
+79 Made in East Greenville, Pennsylvania, United States, North and Central America
+66 Made in Ojai, California, United States, North and Central America
+74 Photograph taken in Louiseville, Quebec, Canada, North and Central America
+39 Made in Cuba, North and Central America
+48 Made in United States, North and Central America
+66 Made in Ojai, California, United States, North and Central America
+48 Made in United States, North and Central America
+48 Made in United States, North and Central America
+48 Made in United States, North and Central America
+48 Made in United States, North and Central America
+74 Made in Pittsburgh, Pennsylvania, United States, North and Central America
+39 Made in Cuba, North and Central America
+66 Made in Zanesville, Ohio, United States, North and Central America
+76 Made in Philadelphia, Pennsylvania, United States, North and Central America
+48 Made in United States, North and Central America
+48 Made in United States, North and Central America
+66 Made in Ojai, California, United States, North and Central America
+73 Made in New York City, New York, United States, North and Central America
+76 Made in Philadelphia, Pennsylvania, United States, North and Central America
+48 Made in United States, North and Central America
+66 Made in Albany, New York, United States, North and Central America
+48 Made in United States, North and Central America
+48 Made in United States, North and Central America
+66 Made in Ojai, California, United States, North and Central America
+58 Made in New York, United States, North and Central America
+48 Made in United States, North and Central America
+48 Made in United States, North and Central America
+48 Made in United States, North and Central America
+76 Made in Philadelphia, Pennsylvania, United States, North and Central America
+76 Made in Philadelphia, Pennsylvania, United States, North and Central America
+48 Made in United States, North and Central America
+48 Made in United States, North and Central America
+76 Made in Philadelphia, Pennsylvania, United States, North and Central America
+48 Made in United States, North and Central America
+48 Made in United States, North and Central America
+48 Made in United States, North and Central America
+73 Photograph taken in Perc, Quebec, Gasp, Canada, North and Central America
+48 Made in United States, North and Central America
+73 Made in New York City, New York, United States, North and Central America
+48 Made in United States, North and Central America
+76 Made in Philadelphia, Pennsylvania, United States, North and Central America
+48 Made in United States, North and Central America
+48 Made in United States, North and Central America
+48 Made in United States, North and Central America
+48 Made in United States, North and Central America
+48 Made in United States, North and Central America
+48 Made in United States, North and Central America
+48 Made in United States, North and Central America
+41 Made in Mexico, North and Central America
+39 Made in Cuba, North and Central America
+76 Made in Philadelphia, Pennsylvania, United States, North and Central America
+48 Made in United States, North and Central America
+48 Made in United States, North and Central America
+41 Made in Canada, North and Central America
+48 Made in United States, North and Central America
+48 Made in United States, North and Central America
+48 Made in United States, North and Central America
+76 Made in Philadelphia, Pennsylvania, United States, North and Central America
+48 Made in United States, North and Central America
+41 Made in Canada, North and Central America
+62 Made in Toledo, Ohio, United States, North and Central America
+67 Photograph taken in Quebec, Gasp, Canada, North and Central America
+48 Made in United States, North and Central America
+
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created
+100
+29 1932 (negative); 1932 (print)
+8 May 1917
+27 Designed 1978-84; made 1985
+10 c. 1976-77
+4 1771
+30 1929 (negative); 1960s (print)
+4 1885
+4 1837
+4 1884
+14 Designed 1960s
+37 Designed 1999-2001; manufactured 2003
+7 c. 1750
+10 c. 1917-18
+7 1835-37
+4 1996
+4 1905
+4 1891
+7 c. 1972
+7 c. 1972
+7 c. 1950
+10 c. 1917-18
+12 19th century
+7 1770-85
+10 c. 1840-45
+30 1936 (negative); 1970s (print)
+4 1941
+7 1785-95
+7 1860-70
+105 Color samples for The Fairman Rogers Four-in-Hand (Philadelphia Museum of Art, 1930-105-1) are on reverse
+7 c. 1950
+4 1941
+30 1936 (negative); 1970s (print)
+4 1891
+4 1993
+7 1847-50
+7 c. 1835
+4 1874
+18 Early 19th century
+16 Designed c. 1992
+30 1936 (negative); 1970s (print)
+7 c. 1917
+13 Designed 1995
+75 Sketch for the painting in the Metropolitan Museum of Art, New York (81.14)
+7 c. 1874
+30 1936 (negative); 1960s (print)
+7 c. 1779
+29 Designed 1990 (restyled 1997)
+7 1770-71
+10 c. 1917-18
+13 Designed 1952
+13 Designed 1975
+30 1936 (negative); 1970s (print)
+14 Designed 1960s
+7 c. 1904
+16 Designed c. 1993
+14 Designed 1960s
+29 Designed 1990 (restyled 1997)
+4 1837
+7 1948-50
+13 Designed 1975
+7 c. 1811
+4 1951
+18 Early 19th century
+7 c. 1950
+10 c. 1917-18
+7 1847-50
+30 1916 (negative); 1950s (print)
+4 1838
+4 1953
+30 1932 (negative); 1970s (print)
+4 1948
+7 c. 1910
+7 c. 1982
+10 c. 1976-77
+4 1917
+13 Designed 1952
+17 Late 19th century
+36 1915 (negative); 1917 (photogravure)
+4 1993
+10 c. 1917-18
+17 Late 19th century
+7 c. 1917
+30 1929 (negative); 1960s (print)
+7 c. 1900
+14 Designed 1960s
+4 1961
+4 1837
+13 Designed 1995
+17 Late 19th century
+12 19th century
+4 1993
+7 c. 1943
+14 Designed 1960s
+10 c. 1917-18
+37 Designed 1999-2001; manufactured 2003
+29 Designed 1990 (restyled 1997)
+4 1993
+27 Designed 1978-84; made 1985
+13 Designed 1975
+13 Designed 1947
+
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent
+100
+31 75 x 50 inches (190.5 x 127 cm)
+31 Diameter: 13 3/8 inches (34 cm)
+254 Jigger [1982-151-1] height: 2 1/4 inches (5.7 cm)Old-Fashioned [1982-151-2] height: 3 3/8 inches (8.6 cm)Collins [1982-151-3] height: 4 3/4 inches (12.1 cm)Iced Tea [1982-151-4] height: 5 1/4 inches (13.3 cm)Cooler [1982-151-5] height: 6 inches (15.2 cm)
+38 Sheet: 11 x 17 inches (27.9 x 43.2 cm)
+190 Length (Knife): 9 1/2 inches (24.1 cm)Length (Fork): 8 inches (20.3 cm)Length (Salad fork): 7 inches (17.8 cm)Length (Teaspoon): 6 1/4 inches (15.9 cm)Length (Soup spoon): 7 inches (17.8 cm)
+87 37 1/2 x 23 1/8 x 18 1/2 inches (95.3 x 58.7 x 47 cm)Seat height: 15 3/4 inches (40 cm)
+53 12 1/8 x 8 3/4 x 8 3/4 inches (30.8 x 22.2 x 22.2 cm)
+42 Sheet: 8 9/16 x 11 inches (21.7 x 27.9 cm)
+36 Sheet: 13 x 16 inches (33 x 40.6 cm)
+55 Image (sight): 8 5/8 x 10 15/16 inches (21.9 x 27.8 cm)
+57 5 x 5 3/16 inches (12.7 x 13.2 cm)Weight: 7 ounces 10 dwt
+88 Image: 7 1/2 x 9 5/8 inches (19 x 24.5 cm)Sheet: 7 15/16 x 9 7/8 inches (20.1 x 25.1 cm)
+104 6 5/8 x 4 7/8 inches (16.8 x 12.4 cm)Diameter (of base): 2 5/8 inches (6.7 cm)Weight: 5 ounces (0.14 kg)
+45 17 x 13 x 13 1/2 inches (43.2 x 33 x 34.3 cm)
+90 Image: 4 5/8 x 5 7/8 inches (11.8 x 15 cm)Sheet: 9 15/16 x 7 15/16 inches (25.2 x 20.2 cm)
+92 33 1/4 x 21 3/4 x 23 1/2 inches (84.5 x 55.2 x 59.7 cm)Height (to seat): 17 inches (43.2 cm)
+33 97 x 72 inches (246.4 x 182.9 cm)
+39 11 5/8 x 8 9/16 inches (29.5 x 21.7 cm)
+55 40 3/16 x 22 1/16 x 22 7/16 inches (102.1 x 56 x 57 cm)
+92 34 1/4 x 24 x 24 inches (87 x 61 x 61 cm)Seat: 15 x 24 x 19 1/2 inches (38.1 x 61 x 49.5 cm)
+67 Knife (Length): 13 inches (33 cm)Fork (Length): 10 inches (25.4 cm)
+49 Sheet: 10 13/16 x 8 11/16 inches (27.5 x 22.1 cm)
+37 4 1/2 x 8 1/2 inches (11.4 x 21.6 cm)
+96 open: 45 x 32 inches (114.3 x 81.3 cm)closed: 7 x 30 1/4 x 30 1/4 inches (17.8 x 76.8 x 76.8 cm)
+74 28 1/8 x 48 inches (71.4 x 121.9 cm)Framed: 37 x 57 inches (94 x 144.8 cm)
+32 47 x 22 inches (119.4 x 55.9 cm)
+41 Sheet: 11 x 8 1/2 inches (27.9 x 21.6 cm)
+45 Sheet: 9 1/4 x 10 1/2 inches (23.5 x 26.7 cm)
+47 Sheet: 13 11/16 x 9 1/8 inches (34.8 x 23.2 cm)
+41 66 3/8 x 50 1/4 inches (168.6 x 127.6 cm)
+34 108 x 56 inches (274.3 x 142.2 cm)
+31 Diameter: 13 3/8 inches (34 cm)
+41 Sheet: 11 x 9 7/8 inches (27.9 x 25.1 cm)
+48 1 1/8 x 11 x 8 1/8 inches (2.9 x 27.9 x 20.6 cm)
+35 3 7/8 x 2 1/8 inches (9.8 x 5.4 cm)
+26 Height: 7 inches (17.8 cm)
+43 32 x 21 x 23 inches (81.3 x 53.3 x 58.4 cm)
+30 Height: 7 5/8 inches (19.4 cm)
+109 Sheet (left panel): 12 7/8 x 9 inches (32.7 x 22.9 cm)Sheet (right panel): 13 3/4 x 9 inches (34.9 x 22.9 cm)
+101 Image: 4 5/8 x 5 7/8 inches (11.8 x 14.9 cm)Sheet (at longest point): 11 x 14 inches (27.9 x 35.5 cm)
+35 Sheet: 13 x 8 inches (33 x 20.3 cm)
+101 Image: 4 5/8 x 5 7/8 inches (11.8 x 14.9 cm)Sheet (at longest point): 11 x 14 inches (27.9 x 35.5 cm)
+51 Image (sight): 7 3/4 x 9 7/16 inches (19.7 x 24 cm)
+51 28 7/8 x 39 x 19 3/4 inches (73.3 x 99.1 x 50.2 cm)
+44 Sheet: 16 5/8 x 10 5/8 inches (42.2 x 27 cm)
+41 Sheet: 11 x 8 1/2 inches (27.9 x 21.6 cm)
+83 31 1/2 x 23 3/4 x 23 inches (80 x 60.3 x 58.4 cm)Seat height: 15 3/4 inches (40 cm)
+32 7 x 3 7/8 inches (17.8 x 9.9 cm)
+36 Sheet: 9 x 9 inches (22.9 x 22.9 cm)
+38 Sheet: 14 x 17 inches (35.6 x 43.2 cm)
+45 6 feet 3 inches x 14 inches (190.5 x 35.6 cm)
+89 Plate: 20 1/2 x 14 3/8 inches (52 x 36.5 cm)Sheet: 27 3/16 x 21 1/2 inches (69 x 54.6 cm)
+48 Sheet: 10 13/16 x 8 7/16 inches (27.5 x 21.4 cm)
+46 4 3/4 x 4 x 3 1/2 inches (12.1 x 10.2 x 8.9cm)
+44 Sheet (each): 11 x 8 inches (27.9 x 20.3 cm)
+81 Cup: 2 1/4  3 1/4  4 1/2 inches (5.7  8.3  11.4 cm)Saucer: 6 1/4 inches (15.9 cm)
+35 14 1/2 x 10 inches (36.8 x 25.4 cm)
+31 75 x 50 inches (190.5 x 127 cm)
+41 Sheet: 11 x 8 1/2 inches (27.9 x 21.6 cm)
+36 Sheet: 13 x 16 inches (33 x 40.6 cm)
+91 8 feet 2 1/2 inches x 3 feet 11 1/2 inches x 1 feet 11 1/4 inches (250.2 x 120.7 x 59.1 cm)
+91 8 feet 2 1/2 inches x 3 feet 11 1/2 inches x 1 feet 11 1/4 inches (250.2 x 120.7 x 59.1 cm)
+45 13 x 10 x 10 1/2 inches (33 x 25.4 x 26.7 cm)
+48 9 7/8 x 12 5/8 x 3 inches (25.1 x 32.1 x 7.6 cm)
+36 58 x 35 3/4 inches (147.3 x 90.8 cm)
+52 7 3/4 x 9 3/4 x 6 1/2 inches (19.7 x 24.8 x 16.5 cm)
+45 Sheet: 10 3/8 x 8 1/2 inches (26.4 x 21.6 cm)
+36 4 1/2 x 3 1/2 inches (11.4 x 8.9 cm)
+51 31 x 23 1/2 x 19 1/2 inches (78.7 x 59.7 x 49.5 cm)
+39 27 3/4 x 30 7/8 inches (70.5 x 78.4 cm)
+90 Image: 4 5/8 x 5 7/8 inches (11.8 x 15 cm)Sheet: 9 15/16 x 7 15/16 inches (25.2 x 20.2 cm)
+48 46 x 36 1/2 x 34 inches (116.8 x 92.7 x 86.4 cm)
+42 Sheet: 8 9/16 x 11 inches (21.7 x 27.9 cm)
+52 7 3/4 x 9 3/4 x 6 1/2 inches (19.7 x 24.8 x 16.5 cm)
+36 Sheet: 13 x 16 inches (33 x 40.6 cm)
+53 12 1/8 x 8 3/4 x 8 3/4 inches (30.8 x 22.2 x 22.2 cm)
+30 Height: 6 1/2 inches (16.5 cm)
+47 30 x 23 1/2 x 22 inches (76.2 x 59.7 x 55.9 cm)
+46 Sheet: 13 1/2 x 20 5/8 inches (34.3 x 52.4 cm)
+32 47 x 22 inches (119.4 x 55.9 cm)
+43 14 x 14 x 14 inches (35.6 x 35.6 x 35.6 cm)
+45 17 x 13 x 13 1/2 inches (43.2 x 33 x 34.3 cm)
+46 4 3/4 x 4 x 3 1/2 inches (12.1 x 10.2 x 8.9cm)
+53 12 1/8 x 8 3/4 x 8 3/4 inches (30.8 x 22.2 x 22.2 cm)
+37 1 1/8 x 12 1/4 inches (2.9 x 31.1 cm)
+26 Height: 7 inches (17.8 cm)
+36 Sheet: 9 x 9 inches (22.9 x 22.9 cm)
+55 40 3/16 x 22 1/16 x 22 7/16 inches (102.1 x 56 x 57 cm)
+31 Diameter: 13 3/8 inches (34 cm)
+101 Image: 4 5/8 x 5 7/8 inches (11.8 x 14.9 cm)Sheet (at longest point): 11 x 14 inches (27.9 x 35.5 cm)
+36 4 1/2 x 3 1/2 inches (11.4 x 8.9 cm)
+31 75 x 50 inches (190.5 x 127 cm)
+33 Diameter: 12 1/4 inches (31.1 cm)
+87 37 1/2 x 23 1/8 x 18 1/2 inches (95.3 x 58.7 x 47 cm)Seat height: 15 3/4 inches (40 cm)
+36 Sheet: 13 x 17 inches (33 x 43.2 cm)
+45 Sheet: 10 3/8 x 8 1/2 inches (26.4 x 21.6 cm)
+73 22 1/4 x 15 x 5 7/8 inches (56.5 x 38.1 x 14.9 cm)Weight: 33 ounces 8 dwt
+82 Image: 8 1/8 x 6 7/8 inches (20.6 x 17.4 cm)Sheet: 8 1/4 x 7 inches (21 x 17.8 cm)
+35 19 1/2 x 19 inches (49.5 x 48.3 cm)
+30 63 x 23 inches (160 x 58.4 cm)
+
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson
+100
+11 Paul Strand
+13 Beatrice Wood
+28 Designed by Greta von Nessen
+20 Artist/maker unknown
+24 Designed by Karim Rashid
+13 Beatrice Wood
+25 Designed by Freda Diamond
+26 Designed by Erwine Laverne
+26 Designed by Erwine Laverne
+11 Paul Strand
+25 Designed by Isamu Noguchi
+13 Beatrice Wood
+69 Possibly made by American Porcelain Company (formerly Tucker Factory)
+26 Made by Albany Glass Works
+11 Paul Strand
+11 Paul Strand
+24 Designed by Karim Rashid
+25 Designed by George Nelson
+13 Winslow Homer
+26 Published by Beatrice Wood
+13 Beatrice Wood
+25 Designed by Isamu Noguchi
+25 Made by Adams and Company
+25 Designed by George Nelson
+26 Designed by Robert Venturi
+26 Designed by Erwine Laverne
+26 Published by Beatrice Wood
+13 Beatrice Wood
+13 Pearlie Posey
+20 Julius Gari Melchers
+13 Beatrice Wood
+26 Possibly by Thomas Affleck
+40 Reproduction after a painting by A. Roms
+11 Paul Strand
+22 Made by Hannah Andrews
+11 Paul Strand
+13 Winslow Homer
+38 Made by the workshop of Thomas Affleck
+28 Attributed to Thomas Affleck
+25 Designed by Isamu Noguchi
+12 Edna Andrade
+13 Beatrice Wood
+25 Designed by Isamu Noguchi
+25 Designed by David Rowland
+18 Albert Coles & Co.
+20 Artist/maker unknown
+26 Possibly by Thomas Affleck
+13 Beatrice Wood
+11 Paul Strand
+21 Designed by Asymptote
+10 John Sloan
+13 Beatrice Wood
+25 Designed by Isamu Noguchi
+9 Bass Otis
+28 Embroidered by Hannah Abbott
+26 Designed by Erwine Laverne
+54 Stand and frame made by the Workshop of Thomas Affleck
+12 Edna Andrade
+26 Published by Beatrice Wood
+28 Attributed to Thomas Affleck
+36 Designed by Evelyn Hill Anselevicius
+11 Paul Strand
+15 Eastman Johnson
+13 Horace Pippin
+13 Beatrice Wood
+25 Designed by Isamu Noguchi
+25 Designed by Isamu Noguchi
+25 Designed by Isamu Noguchi
+15 Henry Benbridge
+13 Thomas Eakins
+36 Designed by Evelyn Hill Anselevicius
+26 Designed by Robert Venturi
+34 Possibly made by Adams and Company
+26 Workshop of Thomas Affleck
+15 Warren Sheppard
+28 Designed by Greta von Nessen
+13 Beatrice Wood
+11 Paul Strand
+25 Designed by Isamu Noguchi
+18 Washington Allston
+11 Paul Strand
+20 Artist/maker unknown
+28 Designed by Greta von Nessen
+21 Designed by Asymptote
+12 Edna Andrade
+26 Designed by Robert Venturi
+60 Made by American Porcelain Company (formerly Tucker Factory)
+10 John Sloan
+25 Designed by Isamu Noguchi
+60 Made by American Porcelain Company (formerly Tucker Factory)
+45 Made by Aetna Glass and Manufacturing Company
+22 Made by Hannah Andrews
+69 Possibly made by American Porcelain Company (formerly Tucker Factory)
+13 Beatrice Wood
+13 Hctor Aguilar
+13 Thomas Eakins
+13 Beatrice Wood
+26 Designed by Robert Venturi
+12 Karim Rashid
+25 Designed by Freda Diamond
+
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson
+100
+8 American
+8 American
+8 American
+8 American
+10 Zanesville
+8 American
+8 American
+12 Philadelphia
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+10 Pittsburgh
+19 Canadian(bornEgypt)
+8 American
+10 JerseyCity
+8 American
+8 American
+21 American(activeLondon
+8 American
+7 NewYork
+8 American
+8 American
+8 American
+8 American
+7 NewYork
+8 American
+8 American
+8 American
+8 American
+6 Havana
+8 American
+8 American
+8 American
+6 Havana
+31 CubanorSpanish.LabelHonoreLaine
+8 American
+8 American
+8 American
+8 American
+7 NewYork
+8 American
+8 American
+8 American
+8 American
+8 American
+19 Canadian(bornEgypt)
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+28 American.MadebyKnollTextiles
+8 American
+8 American
+22 American(bornScotland)
+8 American
+12 Philadelphia
+8 American
+8 American
+8 American
+8 American
+8 American
+19 Canadian(bornEgypt)
+8 American
+8 American
+16 MexicanorSpanish
+8 American
+8 American
+10 Pittsburgh
+8 American
+8 American
+16 MexicanorSpanish
+8 American
+8 American
+8 American
+16 MexicanorSpanish
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+22 American(bornScotland)
+6 Albany
+8 American
+
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium
+100
+6 Silver
+6 Silver
+90 Transparent watercolor, colored crayon and graphite on wove paper (recto);graphite (verso)
+14 Steel, plastic
+20 Gelatin silver print
+67 Hand-painted lace with gold appliqu and sequins; gold filigree loop
+39 Printed paper; wooden sticks and guards
+6 Cotton
+41 Mahogany; modern embroidered silk textile
+22 Non-lead glass (olive)
+14 Steel, plastic
+21 Mahogany, yellow pine
+20 Gelatin silver print
+36 Thomas Eakins, American, 1844 - 1916
+7 Etching
+34 Graphite on heavy cream wove paper
+11 Metal alloy
+46 Mino-gami (mulberry bark paper), bamboo, metal
+46 Mino-gami (mulberry bark paper), bamboo, metal
+18 Glazed earthenware
+25 Luster-glazed earthenware
+90 Transparent watercolor, colored crayon and graphite on wove paper (recto);graphite (verso)
+13 Oil on canvas
+18 Glazed earthenware
+18 Glazed earthenware
+22 Non-lead glass (olive)
+35 Bluet non-lead glass (blown-molded)
+52 Porcelain with overglaze transfer-printed decoration
+20 Gelatin silver print
+46 Mino-gami (mulberry bark paper), bamboo, metal
+13 Oil on canvas
+30 Earthenware with glaze, lustre
+43 Watercolor, ink, and graphite on wove paper
+21 Non-lead glass (aqua)
+13 Oil on canvas
+27 Silver, amethyst, gold wash
+36 Cotton and polyester; running stitch
+20 Molded polypropylene
+56 Crayon and pen and black ink over graphite on wove paper
+46 Mino-gami (mulberry bark paper), bamboo, metal
+50 Pen and brown ink and colored crayon on wove paper
+57 Graphite and colored pencil on cream wove paper (diptych)
+6 Silver
+46 Mino-gami (mulberry bark paper), bamboo, metal
+20 Gelatin silver print
+42 Pen and black ink on thin beige wove paper
+41 Porcelain with enamel and gilt decoration
+43 Watercolor, ink, and graphite on wove paper
+69 Mahogany, mahogany veneer, red gum, white cedar, yellow poplar; brass
+29 Colored pencil on graph paper
+37 Gold, moonstone, semi-precious stones
+20 Gelatin silver print
+12 Photogravure
+13 Mahogany, oak
+5 Glass
+80 Pen and black ink, colored pencil and colored crayon over graphite on wove paper
+16 Wool plain weave
+27 Painted birch, steel, brass
+20 Gelatin silver print
+36 Thomas Eakins, American, 1844 - 1916
+18 Glazed earthenware
+30 Non-lead amber glass (pressed)
+28 Periodical with paper covers
+22 Cotton; running stitch
+12 Photogravure
+38 Molded Plexiglas, polyester upholstery
+34 Mulberry bark paper, bamboo, metal
+18 Glazed earthenware
+35 Tempera glazed with oil on Masonite
+46 Mino-gami (mulberry bark paper), bamboo, metal
+31 Watercolor on ivory, gold frame
+30 Non-lead amber glass (pressed)
+46 Mino-gami (mulberry bark paper), bamboo, metal
+12 Yellow glass
+13 Oil on canvas
+12 Metal, glass
+12 Metal, glass
+39 Molded high-impact virgin polypropylene
+148 Ivory linen plain weave with multicolored silk embroidery in cross, gobelin and satin stitches; pink silk satin ribbon; white silk braid with fringe
+34 Mulberry bark paper, bamboo, metal
+80 Pen and black ink, colored pencil and colored crayon over graphite on wove paper
+25 Luster-glazed earthenware
+50 Watercolor, gouache, ink, and crayon on wove paper
+39 Molded high-impact virgin polypropylene
+31 Plexiglas, aluminum; upholstery
+42 Graphite and colored pencil on graph paper
+31 Plexiglas, aluminum; upholstery
+34 Mulberry bark paper, bamboo, metal
+31 Plexiglas, aluminum; upholstery
+41 Porcelain with enamel and gilt decoration
+13 Oil on canvas
+43 Watercolor, ink, and graphite on wove paper
+22 Cotton; running stitch
+60 Pen and black ink, colored pencil and graphite on wove paper
+37 Opaque watercolor on beige wove paper
+31 Watercolor on ivory, gold frame
+148 Ivory linen plain weave with multicolored silk embroidery in cross, gobelin and satin stitches; pink silk satin ribbon; white silk braid with fringe
+13 Oil on canvas
+14 Wood engraving
+43 Watercolor, ink, and graphite on wove paper
+
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title
+100
+22 40-in-4 Stacking Chair
+9 Chess Set
+59 Fairmount Park (Sketch for The Fairman Rogers Four-in-Hand)
+5 Flask
+29 Beaching the Boat, Perc, Gasp
+29 Flask in the Form of a Scroll
+59 A Chester County Art Critic (Portrait of Christian Brinton)
+5 Flask
+13 Animals Quilt
+9 Love Boat
+33 Enormites se disent dans un salon
+32 Figure and Bird Line Drawing III
+13 Animals Quilt
+11 Fire Screen
+20 Flowers Dinner Plate
+24 Adobe Facade, New Mexico
+12 Clytemnestra
+14 Sheraton Chair
+10 Bread Tray
+3 Fan
+12 Blindman Pin
+12 Career Woman
+14 A Coming Storm
+15 A3 Work Station
+37 Death, The Victor, Tombstone, Vermont
+13 Anywhere Lamp
+15 Senate Armchair
+7 Pitcher
+59 A Chester County Art Critic (Portrait of Christian Brinton)
+16 Akari Floor Lamp
+14 Finale Drawing
+17 As a Little Child
+41 Achilles among the Daughters of Lycomedes
+32 Beatrice and Her Twelve Children
+7 Pitcher
+12 Grid Drawing
+20 A Temperance Meeting
+10 Akari Lamp
+32 Disappearing Man and Conch Shell
+12 Blindman Pin
+32 Figure and Bird Line Drawing III
+10 Akari Lamp
+33 Tile with Bust of Abraham Lincoln
+23 Classic Crystal Glasses
+10 Aura Table
+39 Coffeepot from a Tea and Coffee Service
+15 Ball Wall Clock
+33 Enormites se disent dans un salon
+19 LAprs Midi DUn Faun
+14 Between Rounds
+7 Sampler
+10 Akari Lamp
+7 Sampler
+12 Grid Drawing
+7 Sampler
+32 Beatrice and Her Twelve Children
+17 Beach, Perc, Gasp
+18 Grandmother Fabric
+29 Boat Houses, Wolf River, Gasp
+10 Akari Lamp
+10 Side Chair
+10 Akari Lamp
+9 Garbo Can
+49 Boats on the Shore (Sails and Clouds), Perc, Gasp
+10 Side Chair
+16 Pair of Andirons
+39 An Actress (Portrait of Suzanne Santje)
+12 Clytemnestra
+5 Trees
+25 Baptism (Church Interior)
+26 Toilet Bottle with Stopper
+10 Akari Lamp
+12 Center Table
+19 LAprs Midi DUn Faun
+38 Giant Bulls Eye Cruet, without Stopper
+10 Akari Lamp
+12 Center Table
+12 Blindman Pin
+10 Akari Lamp
+9 Iphigenia
+20 The Blind Man (No.2)
+36 Street Scene, Santiago de Cuba, 1885
+21 Evening at Arensbergs
+10 Aura Table
+10 Card Table
+11 Footed Dish
+15 Champagne Chair
+51 Abstraction, Porch Shadows, Twin Lakes, Connecticut
+12 Career Woman
+15 A3 Work Station
+10 Akari Lamp
+9 Iphigenia
+16 Antrim Coastline
+29 Boat Houses, Wolf River, Gasp
+17 As a Little Child
+9 Love Boat
+12 Blindman Pin
+36 Black Horse on the Beach, Perc, Gasp
+51 Abstraction, Porch Shadows, Twin Lakes, Connecticut
+16 Jimmy Sugar Bowl
+
+436
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber after_decimal_len_0 6.270200869525613
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber num_len_5 3.58111290961508
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber num_len_4 8.362159911580656
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber num_len_3 10.107205466364316
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber symbol_- -3.358360802827579
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber symbol_, 4.161818689698537
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber num_len_2 9.347365753050976
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber starts_with_char_c -10.431185103385438
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber starts_with_char_b 4.302819545057636
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber starts_with_char_a -0.45532624950717276
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber starting_digit_- 20.909792828467832
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber starting_digit_2 3.793857774907047
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber starting_digit_1 4.295194914844569
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber unit_place_digit_6 4.820845377325367
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber unit_place_digit_5 1.6769632308005338
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber unit_place_digit_8 4.899763873459535
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber unit_place_digit_7 3.015016320212749
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber unit_place_digit_9 10.674683202721225
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber unit_place_digit_0 -5.849253060976751
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber unit_place_digit_1 6.724996375832632
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber unit_place_digit_2 4.629586661829691
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber unit_place_digit_3 7.762383808987703
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber unit_place_digit_4 6.3620836023300855
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber before_decimal_len_4 8.362259545413886
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber before_decimal_len_5 3.5989941367594316
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber alpha_length_1 -4.107059484587802
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber before_decimal_len_2 9.34727761567526
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber before_decimal_len_3 10.342227932151982
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber alpha_id_a 1.6272817264349362
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber alpha_id_b 4.302819545078863
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber alpha_id_c -4.207630816247377
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel symbol_, -8.198943098760266
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_id_Arts 7.169412162223508
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel starts_with_char_a 12.814128043217515
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_id_Art 19.845345819917313
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_id_Prints 6.053175301232063
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_id_Sculpture 12.92005511981436
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_id_Costume 6.149476490802811
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel starts_with_char_C -6.490891606029468
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel starts_with_char_E 4.545659606545716
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel starts_with_char_D 12.227713904112559
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel starts_with_char_A -5.511986676898377
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel starts_with_char_S 5.877497327897278
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel starts_with_char_T -2.4463282589805693
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel starts_with_char_P 1.068760811326097
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_id_American -0.7336430247201192
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_length_8 9.743176200158345
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_length_9 8.446672421448143
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_length_10 1.5570212103961143
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_length_11 3.6246934022437474
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_length_7 -6.350514311269333
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_length_6 -16.71028498826128
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_length_4 -13.353708960495265
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_length_3 24.080242694398386
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_id_European 12.92005511981436
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_id_Textiles 6.149476490802811
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_id_and 15.962159806670526
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_id_Photographs 6.053175301232063
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_id_Drawings 6.053175301232063
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_id_Decorative 12.92005511981436
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel capitalized_token -7.238210757103843
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created after_decimal_len_0 11.354638527522576
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created alpha_id_Designed 4.363421090008635
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created num_len_5 4.389202182178472
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created symbol_) 1.5959930689595676
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created symbol_( 1.5959930689595676
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created num_len_4 8.252932146663216
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created num_len_3 8.582825882836385
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created symbol_. 6.377155488701883
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created alpha_id_Metropolitan 8.246183732869838
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created symbol_; 6.081471901673012
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created alpha_id_print 3.634711790288833
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created tenth_place_digit_1 5.896255701674104
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created starts_with_char_c 4.925614181214131
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created starts_with_char_f 7.76383698453525
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created starts_with_char_t 12.827881008719666
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created starts_with_char_s 2.5464438439540102
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created starts_with_char_p 10.132117971674214
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created starts_with_char_n 4.240472480233837
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created starts_with_char_o 0.7825827993051233
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created starts_with_char_D 2.986307543263802
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created starts_with_char_L 3.603544469268735
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created starting_digit_- 8.312728422262587
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created starting_digit_1 12.070523716042219
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created alpha_id_painting 8.246177334648547
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created unit_place_digit_6 -6.792084012276858
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created unit_place_digit_8 -1.1270160002963014
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created unit_place_digit_7 1.7856895032030866
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created alpha_length_8 9.861294289633713
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created alpha_id_Sketch 8.246183721725306
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created unit_place_digit_0 4.0125795806383
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created unit_place_digit_1 2.4075278502030226
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created unit_place_digit_2 -5.469714290447205
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created unit_place_digit_3 -7.683965860540666
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created unit_place_digit_4 -8.086904981745661
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created alpha_length_12 8.080358438991562
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created alpha_length_7 -1.6641137489362423
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created before_decimal_len_4 17.887322729571352
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created alpha_length_5 -5.537098046502482
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created alpha_length_4 1.6722572869002386
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created before_decimal_len_2 -0.18951149189180821
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created alpha_length_1 6.179579729102511
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created before_decimal_len_3 8.817778549574655
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created alpha_id_Late 4.963725673863896
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created alpha_id_in 8.175973177200733
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created alpha_id_s 3.0289264874569315
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created alpha_id_c 13.56471050213796
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created alpha_id_century 4.963725673863896
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created alpha_id_negative 4.240497096085138
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created alpha_id_th 4.581697850542482
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created capitalized_token 0.7312504737872844
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent symbol_) 8.157286242272697
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent symbol_( 8.157286242272697
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent symbol_: 0.42818930829362895
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent unit_place_digit_6 2.2689140849548846
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent unit_place_digit_5 3.2184062416732737
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent unit_place_digit_8 4.378156975352288
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent unit_place_digit_7 3.365418989118666
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent unit_place_digit_9 1.6209718901203127
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent unit_place_digit_0 1.4112189067761378
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent unit_place_digit_2 3.8803009013332153
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent unit_place_digit_3 3.812147026447344
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent unit_place_digit_4 3.132302384047405
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent alpha_id_cm 11.74937831320222
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starts_with_char_i 5.458416440177354
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starts_with_char_x 10.339452915616796
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starts_with_char_L 0.2303451017769771
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starts_with_char_F 0.07808551309547114
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starts_with_char_H -0.15887218314672802
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starts_with_char_S 3.148137324255999
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starting_digit_8 7.771431913717825
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starting_digit_7 3.524813493960271
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starting_digit_5 5.404714024073728
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starting_digit_3 6.71488982814873
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starting_digit_2 5.510218617118642
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starting_digit_1 -0.7266010666795487
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starting_digit_9 2.819850795168218
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent alpha_id_Fork 0.23498756626401804
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent alpha_id_x 10.339452915616796
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent alpha_id_Sheet 3.289825927696254
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent alpha_id_inches 11.74937831320222
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent after_decimal_len_1 11.279403180674176
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent after_decimal_len_0 -3.539556462864815
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent tenth_place_digit_1 2.1317303233813893
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent tenth_place_digit_5 2.584863228904199
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent tenth_place_digit_4 3.054838361432235
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent tenth_place_digit_7 1.4099253975854205
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent tenth_place_digit_6 2.3498756626414923
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent before_decimal_len_1 8.12196391063399
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent before_decimal_len_2 6.3393022964738694
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent before_decimal_len_3 -1.885202689061737
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent tenth_place_digit_9 3.524813493960271
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent capitalized_token 3.813292806366912
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent num_len_5 1.6504649598029653
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent num_len_4 -5.080185825569409
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent num_len_3 -1.4152275565323882
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent num_len_1 8.12196391063399
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent num_len_2 4.912534671885845
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent alpha_length_6 4.948733457568464
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent alpha_length_5 -3.745817169895214
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent alpha_length_2 8.46567288236429
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starts_with_char_c 6.091184684331744
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starts_with_char_h 12.551927655834158
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starts_with_char_p 7.5949130390237105
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starts_with_char_o 12.317479743400586
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink after_decimal_len_0 -5.514036651996509
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starts_with_char_w 11.718260837232803
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink symbol_/ 13.990677470245705
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink num_len_3 -5.62264631309387
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink symbol_. 9.16549816260324
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink num_len_1 5.434336069212185
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_philamuseum 15.798882588667842
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink symbol_: 15.798882588667329
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_www 15.798882588667842
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_http 15.798882588667842
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink unit_place_digit_3 1.770335414452728
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink unit_place_digit_4 2.0494830467504355
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_length_11 9.374370398159183
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_length_5 7.533296970712798
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_length_4 1.4151374487879103
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_length_3 -5.080343407529689
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink before_decimal_len_1 5.434336069212185
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_length_2 2.2264243400469454
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink before_decimal_len_3 -5.622646313090465
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink symbol_- 6.118493669159481
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink unit_place_digit_6 -0.8637559759550443
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink unit_place_digit_8 -3.3644789359456784
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink unit_place_digit_7 -4.9756765559309635
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink unit_place_digit_9 -0.9579358432979211
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink unit_place_digit_0 -3.1395382624311376
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink unit_place_digit_1 0.34687327478469576
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink unit_place_digit_2 1.5179441604794484
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_jpg 11.54233589664576
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_cad 11.54233589664576
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starts_with_char_l 11.259328590049943
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starts_with_char_j 11.54233589664576
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starts_with_char_i 8.01989088899362
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starts_with_char_v -1.1491447321123915
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starting_digit_- -6.100709201902568
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starting_digit_1 -7.974871273295537
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_v 0.706673626380154
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_images 11.54233589664576
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_large 11.54233589664576
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink before_decimal_len_4 -6.115745003222143
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink before_decimal_len_2 5.14346137698039
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_pma 4.004483882282542
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink num_len_6 0.47111575091987307
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink num_len_4 -6.115745003222143
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink num_len_2 6.115475001169405
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_length_6 2.0502468882637674
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_ov 1.8844630036654815
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Stand 1.6106659219405497
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Wood 0.0992403723901399
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson symbol_/ -0.25471969439325665
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Designed 7.298533168244811
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Manufacturing 2.517575782143431
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_the -5.149741394139986
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_b 14.501936036747287
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_f -3.9289656328494105
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_u 5.8392208851680385
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_p -0.9389717512724921
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_B 2.237869682601313
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_E 0.021546087809698355
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_D 7.296783644460823
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_A 1.1962490817745774
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Beatrice 0.09924036935735146
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_M -0.6848219588858044
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_L -1.2915113003766745
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_F -5.208341338427994
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_I 2.4400205794460286
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Robert 0.6104424034086738
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_R 3.3679784037794893
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_S 4.108717461401577
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_O 1.2955642438678403
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_P 5.4093369475563895
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Possibly 2.4417717781947865
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_W 5.301951686152944
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_made 2.8315528933174163
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_painting 1.0300607138314872
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Aetna 2.517575782143431
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Diamond 0.6104424045303809
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Factory 1.2209563325993722
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_length_8 9.599991472692702
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_length_9 1.9207069842942768
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_unknown 6.505687595933759
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_length_7 4.306968631906802
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_length_6 5.4833077488171975
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_length_5 6.050354612876609
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_length_4 9.36706726443921
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_length_3 -6.508486657544735
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_length_2 5.167046751135542
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Affleck 2.83155072875847
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Company 4.348976678320582
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_by 19.13456593653066
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_and -0.28119378536006806
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Made -0.577284333933484
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Glass 2.5704261490112374
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_of -7.329337000858901
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson capitalized_token 9.635769204881486
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Adams 0.6104445635777804
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Thomas 5.720855807610497
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson symbol_) 3.2736138997625512
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson symbol_( 3.2736138997625512
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson starts_with_char_b 3.294538872148981
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson starts_with_char_C 2.119184713599947
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson starts_with_char_A 5.080922712202705
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson starts_with_char_M 0.44827828836050526
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson starts_with_char_H 2.6034548432706393
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson starts_with_char_N 4.495393547420822
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson starts_with_char_P 1.5435486887935514
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson alpha_id_bornEgypt 3.294545191732265
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson alpha_id_MexicanorSpanish 1.4333709194370097
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson alpha_id_American 8.508180703491396
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson alpha_id_Havana 3.2987473557906557
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson alpha_id_NewYork 4.495393573513715
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson alpha_id_Philadelphia 3.012576555897238
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson capitalized_token 13.702189327114056
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson alpha_length_8 9.374447604888921
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson alpha_length_9 1.6697911079598942
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson alpha_id_Canadian 3.294545191732265
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson alpha_length_10 0.31064472722538117
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson alpha_length_12 0.9016221790820438
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson alpha_length_16 1.4333709194370097
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson alpha_length_7 1.1484579647591042
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson alpha_length_6 -1.0476205312500926
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson alpha_id_Pittsburgh 2.4761735916042285
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance symbol_/ 10.212052844898677
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance symbol_, 15.074239885375269
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Arts 4.03045978672407
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_length_10 9.955381250624473
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance capitalized_token -10.95427981841262
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance num_len_4 8.740952060336934
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_a -3.8401529710289948
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_t 0.8640140085825032
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_o 14.4900022177529
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_C 16.580328645433166
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_A 6.209788442849073
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_M 6.307833179995127
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_G 9.768290817822475
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_F 15.964767022524569
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_S -4.993328713029488
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_V 11.917758458142286
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Gift 12.721941311004281
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_length_8 -17.09594363372001
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_length_7 -0.7747447897364941
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_length_5 5.8923659731563145
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_length_4 8.012739638325451
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_length_3 5.532977076530081
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_length_2 4.868261260750499
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_and -2.313070667090528
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_of 19.598124218939624
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance symbol_. 0.907117567634159
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_the -1.7963524832667754
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Quebec 0.1290119169409235
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Libbey 0.0
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Funds 0.7801655503953049
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Made 2.809126770732084
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Collection 2.783107024792888E-7
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_i 2.567112707662878
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_h 1.1235468270032136E-9
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_B -1.7826791313549877
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Beatrice 3.265928145223583E-5
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_H -0.4833719184992125
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_R -2.623073424242899E-4
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_U 4.685812821035616
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_N 2.638533442215307
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_Q 0.12901191683709298
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_W -1.9247071192501939
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starting_digit_2 7.444528906207069E-16
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Hampshire 0.20359083430335884
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_length_6 2.2678598632644134
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Central 5.018060923048481
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Noguchi 4.483615394762018E-9
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_America 5.018060923048481
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_in 4.3656706791225055
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_States 4.685812821035616
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium symbol_( 2.5830130527955135
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium symbol_, 7.5318037576099375
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_Graphite 1.5258705709911915
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium symbol_; 3.905229902343587
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_cream 1.4332976037829586
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_graphite 0.6480243627098847
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_Watercolor 2.072466884972632
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_bark 1.2613384112703914
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_over 0.1851459345294742
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_length_10 4.286545635541443
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_length_11 1.856254209298593
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_pink 0.09257373574930436
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_Non 1.824759049456807
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_Tempera 0.09257348683484075
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium capitalized_token 13.382094684753804
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_wove 2.6159505412039903
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_gilt 0.19096149545039082
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_watercolor 0.18514593426961148
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium num_len_4 2.033599502063508
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_e 1.9546435076787971
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_c 3.898368115814137
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_b 1.92797982482521
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_a 3.469911372408887
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_l 2.9442638544934616
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_i 4.348088525649865
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_g 7.076468560061546
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_r 1.8269485181338405
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_p 9.353562897529219
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_o 7.1739330057685695
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_v 2.091377612932808
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_G 2.293571812838101
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_ribbon 0.09257373574930436
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starting_digit_1 2.0335995020633435
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_with 1.8419453636234189
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_Gelatin 0.28833815339158714
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_Yellow 0.19860950887235101
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_length_8 7.08415995009179
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_length_7 2.9276234241091585
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_length_6 4.9143907079747935
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_length_5 6.7969760849455145
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_length_4 4.2264591676248555
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_length_3 4.1904799207800165
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_Oil 0.5471670566886261
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_and 1.622515154503659
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_ink 0.9975070031514206
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_colored 0.6480107708399929
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_paper 4.705125261224593
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_bamboo 1.2613384112703914
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_Cotton 1.549228848114924
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_on 4.697816737900146
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title after_decimal_len_0 1.2588489453898601
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title symbol_) 1.2732877889872927
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title symbol_( 1.2732877889872927
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title num_len_1 0.5688355192852973
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Akari 2.636031608174517
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Work 0.5688355192852973
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_the 1.7587834958385407
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_d 0.6895386385627513
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Animals 0.37881227800322687
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_C 6.332553489986076
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_B 4.891735863023716
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_D 2.5108666769685364
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_A 6.844038779169474
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Beatrice 0.7570870137407124
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_M 0.7966683323874318
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_L 5.897235607831573
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_G 1.1155748373209622
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_F 3.0742209736192385
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_H 1.9093475226345795
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_S 3.4506388200988276
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_T 3.444232694138113
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Brinton 0.4051234273736884
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_P 1.7782956470276228
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Lamp 2.636031608174517
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Can 0.38603862123678345
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Gasp 2.199732619784194
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Tile 0.6890466060442177
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Chair 1.1310081453730239
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Disappearing 0.6900181806123264
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title unit_place_digit_5 0.6900137553988137
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_length_8 3.6732026423072015
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_length_9 2.30505501306119
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Table 1.1305424339090369
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_length_6 1.330636577737128
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_length_5 9.14083265648313
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_length_4 7.564906474112947
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_length_3 6.144428136708267
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_length_2 4.234725385693262
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_length_1 1.350885014805008
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_a 0.37692606814602225
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Faun 0.7539010567779191
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_River 0.7539275381116683
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Sheraton 0.37733774971016065
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Woman 0.3769932857342376
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_DUn 0.7539010567779191
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Fan 0.4198391769082296
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Perc 1.4458050816725263
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Boat 1.8840523763349792
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_of 2.4618512288876815
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title capitalized_token 14.04625748487117

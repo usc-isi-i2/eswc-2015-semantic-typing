@@ -1,0 +1,1313 @@
+9
+
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber
+100
+11 86.XM.636.1
+9 86.AE.230
+9 85.GB.228
+7 55.PA.1
+8 74.PB.31
+9 86.GB.641
+7 89.GG.7
+12 84.XM.956.25
+8 72.PA.24
+8 95.SC.21
+8 72.PA.23
+14 84.XM.1000.173
+8 99.XM.15
+8 71.PB.30
+9 86.SB.688
+12 84.XM.153.17
+15 MS. 37, FOL. 32
+11 84.XM.349.2
+6 2007.5
+8 88.XM.15
+8 98.GG.14
+8 87.GG.98
+6 2003.4
+9 83.DE.271
+11 88.XM.57.25
+8 91.GA.13
+27 MS. LUDWIG IX 18, FOL. 250V
+11 90.XM.64.45
+16 MS. 46, FOL. 32V
+8 87.PA.49
+9 2011.9.26
+8 95.AF.60
+7 69.PB.6
+8 99.GE.43
+11 85.XM.386.3
+9 85.PB.146
+12 84.XM.504.28
+11 84.XM.894.2
+7 57.PA.3
+8 69.PA.29
+9 85.DD.100
+9 98.SA.169
+16 MS. 63, FOL. 183
+13 84.XM.126.108
+9 83.DD.337
+16 MS. 37, FOL. 70V
+25 MS. LUDWIG XI 8, FOL. 34V
+6 2003.4
+8 86.GG.16
+8 2005.123
+8 92.GA.38
+9 88.DE.137
+8 72.PA.11
+11 94.XM.37.49
+11 99.XM.88.12
+24 MS. LUDWIG IX 8, FOL. 34
+8 97.GA.69
+9 88.GA.129
+24 MS. LUDWIG IX 8, FOL. 94
+13 84.XM.956.294
+11 84.XT.266.9
+10 2000.41.13
+14 84.XO.734.1.18
+17 MS. 63, FOL. 131V
+9 71.DD.468
+25 MS. LUDWIG IX 8, FOL. 104
+9 87.SA.110
+13 84.XM.956.778
+14 MS. 7, FOL. 72
+8 70.DE.99
+24 MS. LUDWIG IX 7, FOL. 22
+13 MS. 88, RECTO
+16 MS. 37, FOL. 25V
+24 MS. LUDWIG IX 8, FOL. 78
+16 MS. 66, FOL. 108
+12 94.XA.113.22
+8 87.GA.11
+27 MS. LUDWIG IX 19, FOL. 173V
+11 95.XM.45.60
+8 85.GG.41
+9 84.DK.568
+11 84.XP.460.7
+8 96.GB.23
+9 84.GG.807
+11 94.XM.108.4
+8 71.PA.68
+14 84.XC.873.4616
+26 MS. LUDWIG XIII 6, LEAF 13
+13 84.XM.151.129
+28 MS. LUDWIG XIII 7, FOL. 138V
+25 MS. LUDWIG IX 8, FOL. 78V
+8 95.SA.71
+26 MS. LUDWIG XIII 6, LEAF 10
+12 84.XO.1343.9
+7 96.PA.8
+16 MS. 30, FOL. 14V
+12 84.XP.459.14
+12 84.XM.637.17
+14 MS. 7, FOL. 1V
+9 86.AE.205
+
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson
+100
+7 Unknown
+7 Man Ray
+11 Andy Warhol
+25 Alfred Hart, photographer
+14 Hill & Adamson
+14 Dorothea Lange
+25 Gerbrand van den Eeckhout
+19 Louis-Lopold Boilly
+15 Joris Hoefnagel
+27 Giovanni Francesco Grimaldi
+20 Jean-Antoine Watteau
+28 Giulio Romano (Giulio Pippi)
+13 August Sander
+7 Man Ray
+22 Bernard van Risenburgh
+19 Jean-Baptiste Oudry
+13 Martin Carlin
+19 Carleton E. Watkins
+15 Cornelis Dusart
+12 Walker Evans
+13 Auguste Rodin
+19 Jean-Gabriel Eynard
+14 Hill & Adamson
+24 Cornelis van Poelenburgh
+15 Perino del Vaga
+15 Bernard Palissy
+27 Edgar Germain Hilaire Degas
+22 Lucien-Franois Feuchre
+16 Boucicaut Master
+10 Guido Reni
+7 Man Ray
+14 Willem Vrelant
+15 Adam Weisweiler
+14 Hill & Adamson
+11 Bute Master
+12 Walker Evans
+15 Simon Hurtrelle
+19 Jean-Gabriel Eynard
+29 Master of the Berlin Roundels
+29 Gobelins Tapestry Manufactory
+12 Loyset Lidet
+17 William Eggleston
+17 Hendrick Goltzius
+12 Simon Bening
+12 Jean Fouquet
+7 Man Ray
+25 Hippolyte-Auguste Collard
+20 Jean-Honor Fragonard
+14 Jan van Huysum
+16 Girolamo Muziano
+30 Master of the Brussels Romulon
+13 August Sander
+17 Jos Ximnez Donoso
+13 August Sander
+16 Nicolas Spierinc
+13 Aaron Siskind
+17 Abraham Bloemaert
+15 Pierre Gouthire
+13 Edward Weston
+9 Cosm Tura
+16 Boucicaut Master
+16 Jacopo Sansovino
+30 Master of James IV of Scotland
+15 Gaspare Diziani
+17 Lieven van Lathem
+18 Jrg Breu the Elder
+29 Gobelins Tapestry Manufactory
+16 Thodore Gricault
+20 Gerald L. Brockhurst
+30 Master of the Ingeborg Psalter
+11 Eugne Atget
+16 Anthony van Dyck
+23 Pierre-Philippe Thomire
+12 Walker Evans
+30 Master of the Ingeborg Psalter
+16 Nicolas Spierinc
+31 Chantilly Porcelain Manufactory
+16 Joseph Baumhauer
+14 Willem Vrelant
+13 Lucas Samaras
+18 William A. Garnett
+15 Marsyas Painter
+18 Baldassare Peruzzi
+14 Jacopo Ligozzi
+16 Nicolas Spierinc
+11 Paul Strand
+19 Jean-Gabriel Eynard
+45 Master of the First Prayer Book of Maximilian
+12 Rohan Master
+13 Franois Grard
+15 Nikolaus Knpfer
+7 Man Ray
+26 Frans Crabbe van Espleghem
+10 Lee Miller
+19 Carleton E. Watkins
+22 Julia Margaret Cameron
+20 Timothy H. OSullivan
+16 Hans Jacob Plepp
+31 Master of the Copenhagen Caesar
+11 Eugne Atget
+
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created
+100
+11 1775 - 1780
+4 1480
+4 1930
+11 1510 - 1520
+8 22, 1973
+5 1450s
+4 1415
+4 1858
+11 1812 - 1814
+4 1632
+5 1450s
+4 1722
+11 1853 - 1854
+4 1864
+11 1467 - 1472
+4 1768
+11 1000 - 1025
+4 1650
+5 1460s
+4 1856
+4 1469
+11 1812 - 1814
+4 1515
+4 1755
+11 1812 - 1814
+8 22, 1851
+11 1464 - 1468
+4 1933
+4 1861
+4 1946
+5 1880s
+4 1878
+4 1667
+4 1650
+11 1525 - 1530
+4 1731
+11 1450 - 1470
+4 1469
+4 1919
+16 1973, 1984, 1992
+11 1883 - 1884
+11 1640 - 1644
+11 1465 - 1470
+4 550 
+4 1723
+4 1808
+4 1971
+11 1759 - 1760
+4 1475
+9 1591-1596
+4 1636
+4 1667
+11 1692 - 1730
+11 1857 - 1860
+4 1475
+4 1760
+4 1861
+11 1752 - 1753
+5 1460s
+4 1925
+11 1430 - 1440
+4 1982
+4 1953
+4 1639
+4 1941
+11 1745 - 1749
+5 1770s
+4 1926
+4 1934
+4 480 
+4 1962
+11 1722 - 1724
+11 1741 - 1742
+11 1763 - 1766
+11 1901 - 1902
+4 1469
+4 1415
+11 1480 - 1483
+11 1846 - 1847
+4 1870
+4 1880
+4 1933
+11 1664 - 1670
+4 1939
+4 1773
+4 1455
+11 1636 - 1638
+11 1967 - 1969
+11 1975 - 1977
+9 1270-1280
+4 1877
+11 1853 - 1857
+11 1868 - 1872
+4 1781
+9 1550-1600
+5 1620s
+11 1480 - 1483
+17 1857, print later
+11 1467 - 1472
+11 1798 - 1799
+
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description
+100
+881 Francesco Primaticcio made this drawing as a preparatory study for the last decorative project he planned, the central section of the chapel ceiling in the Htel de Guise, Paris. Nicol dellAbate painted thefrescoesafter Primaticcios designs. Unfortuntaely, the decoration was destroyed in the 1800s, and scholars can now only reconstruct it through written descriptions, prints, and drawings such as this one. The ceilings central section showed God the Father in glory surrounded by angels. An apparently complete study in theLouvreMuseum shows the entire designsquaredfor transfer.With one exception, the studies of arms on this sheet reappear in the Louvremodello. In developing a project, Primaticcio probably began by establishing the composition as a whole and then developing the poses of individual figures. His next step might have been studies of details, like this sheet.
+889 Thodore Gricault carried this little book around in his pocket for more than two years, from 1812 to 1814. He used it to make rapid sketches from life and to copymotifsfromOld Masterpaintings and ancient sculpture, as well as to note ideas for future projects. The sketchbook clearly illustrates his broad range of interests, though it focuses on subjects such as horses and lions, which interested Gricault throughout his career.After Gricaults early death at the age of thirty-two in 1824, the contents of his studio, including thirty-three sketchbooks, were sold at auction. Most of these sketchbooks were later taken apart, and their individual pages have scattered among various private and public collections. Only six remain intact today. The Getty Museums sketchbook is nearly complete, with a few detached single sheets showing that a few pages were cut or torn out at some point.
+943 A young man lies outstretched with his legs crossed, reclining on a bunched piece of fabric and strumming a lute or another stringed instrument. With his back to the viewer and his face partially hidden, the mans twisted pose rather than his identity becomes the focus of the drawing. The gathers of fabric on which he leans, the wrinkled folds of his coat, and the outstretched length of his legs all create interest and draw the viewers eyes around the figure and into the composition.Franois Boucher used a technique known asaux trois crayons, in red, black, and white chalks, which he and his contemporaries made popular in France in the 1700s. As a middle tone, he adopted the blue paper favored by Venetian artists.A favorite painter at the French court, Boucher designed tapestries for the royal factories, Beauvais and Gobelins. He made this drawing, one of very few that survive, for his first suite of tapestries, theFtes italiennes.
+945 This large, lidded jar painted with thecoat of armsof Jean dArlatan, Baron de Lauris, probably once held tobacco. Amazingly, the original loose-fitting lid, painted with a matching miniature coat of arms, still survives unbroken. A fanciful arrangement of arabesques topped by female busts frames the arms on the front, while the figure of Neptune with a dolphin is centered on the back. These delicatemotifsare based on the engravings of Jean Brain, chief designer to Louis XIV. This jar was produced in Moustiers, at one of the most important and influential of the French faience factories, which was run by the Clrissy family.In 1689 and 1709, Louis XIV ordered the French nobility to turn in all their silver, which was then melted down to pay for debts accumulated by the king during his numerous wars. As a direct result of these laws, faience, tin-glazed earthenware, became popular as a replacement for silver in upper-class households.
+699 Three winged angels carry aCorinthiancolumn through the clouds. Symbolizing one of the instruments of Christs Passion, the column represents the pillar against which Christ was flogged.Friedrich Sustris produced this drawing in preparation for a series of  twenty-five etched glass panels that formed the door of a reliquary shrine in the royal chapel of theMunich Residenz. Six of the panels, including this one, show angels with symbols of the Passion. Sustriss drawing style gave clues to aid the craftsman who transformed this image into an etched panel. The dark outlines of the angels and the column would have been carved more deeply into the glass than the lightly drawn edges of the clouds.
+879 With the determined, confident air of an officer accustomed to giving orders, this young man was typical of the wealthy admirals, military heroes, and members of the regent class who patronized Bartholomeus van der Helst, the most popular portrait painter among Amsterdams leading citizens. They sought him out for his elegant, almost glamorous manner, inspired by the art of Anthony van Dyck, and for his scrupulous attention to their expensive costume.In characteristic fashion, van der Helst devoted extensive attention to the raised ornament of this somber soldiers costume, brilliantly depicting the gold and silver brocade and scattering reflection throughout the whole picture. In his concern with realistic effects, the artist also attended to the varied details of other surfaces, from the soft doeskin of the soldiers glove to the tassels hanging from his stiff collar.
+932 We can tell from appearance the work someone does or does not do; we can read in his face whether he is happy or troubled, for life unavoidably leaves its trace there.August Sander professed his belief in physiognomy in a 1931 radio lecture; however, he still chose to photograph this taxi driver at the wheel of his cab, visually linking the man and his profession. Sander also made many portraits of workers in his studio, without the tools of their trade to act as props or visual clues to their profession.The original image was not so tightly arranged. Sander isolated and enlarged this detail from the original composition. One historian has noted the evocative relationship of the mans body to the space surrounding it: By tightly inscribing his subject into the frame of his vehicle, Sander creates an image of almost claustrophobic intensity. It is suggestive, perhaps, of the drivers entrapment in a narrow, limited world.
+910 Such an elaborately ornamented cup and saucer was intended for display rather than use. Its heavily decorated surface combined various complicated techniques: jeweling, painted cameos, and painted scenes. The expensive technique known asjeweling,using stamped gold foils set with colored enamels to imitate pearls and precious jewels in red, yellow, orange, and green, was used at the Svres Porcelain Manufactory for only five years, between 1780 and 1785.On the sides of the cup and saucer, slightly domed oval plaques of porcelain have been attached, imitating stone cameos with profiles of classical busts. The painted reserves show scenes from the sacrifice of Cupid. All these decorative elements are set in a deep brown ground color--a novelty at Svres at this date--evocatively namedmerde doie,literally goose droppings.These objects were gilded by tienne-Henri Le Guay and jeweled by Philippe Parpette.
+523 At this intersection, a dome surmounts an architecturally eclectic building with shuttered windows and an arch surmounted by a cartouche. Eugne Atgets quest for the remnants of Pariss past led him to photograph this unusual building, which once housed the medical school of the University of Paris. He also captured the wine shop across from it, with its potted plants along the sidewalk and vegetable cart parked in the street. Despite human activity on each of the three corners, the intersection appears still and quiet.
+332 The angel takes Tondals soul to the gate of Hell. Amidst a crowd of demons, the greatLucifersqueezes writhing souls in his ten thousand hands as if they were in a winepress. He then tosses the crushed souls into the flames around him. Tondals soul recognizes many of his friends and family members suffering in this infernal region.
+1074 The heroHerakleswrestles theNemean Lionon both sides of this Athenian,black-figureLittle Master cup. The Nemean Lion was a monstrous beast sent by the goddessHerato ravage the countryside around Nemea in southern Greece. Since the beast had an impenetrable hide, Herakles had to strangle him in the first of his twelve labors. The repetition of the same or very similar scenes on both sides of a vase was common in the 500s B.C.Little Master cups, introduced around 560 B.C. and so-named for their detailed miniature decoration, had a taller, slimmer shape than earlier cups. Little Master cups were either lip cups or band cups, easily differentiated by the placement of their decoration. A standard lip cup was decorated with a compact scene of one to three figures centered on each side of the lip with an inscription below, in the zone between the handles. The inscription might be a motto, an artists signature, or, as in this case, just a nonsensical combination of letters, attesting to the decorative aspects of writing in this period, when few people were literate.
+857 In an episode from the story ofDon Quixote, based on the enormously popular romance novel by Miguel de Cervantes Saavedra, the armored knight Don Quixote leads a hunt for wild boar while his terrified companion, Sancho, climbs a tree trunk to the left.All four of the Getty Museums Don Quixote tapestries feature a surrounding decoration known as thealentours.This elaborate frame represents a damask wall covering festooned with thick garlands of fruit and flowers. The picture frame rests on a base piled with armor, an axe, flags, and twocornucopiaspilling fruit. The tapestrys title is woven in yellow thread at the bottom.This tapestry was woven at Gobelins under the direction of Michel Audran and his son Jean Audran fils. Thealentourswere designed by Claude Audran III, Jean-Baptiste Belin de Fontenay fils, Alexandre-Franois Desportes, and Valande.
+616 The Virgin Mary sits on a cushioned throne, watching her mother Saint Anne lovingly clutching the baby Jesus. On the right, Saint Joseph peers eagerly over her shoulder. A cluster ofputtihovers overhead, carrying a large piece of fabric to shelter the Holy Family from behind.Pietro Testa produced two other compositional studies of this scene, probably in preparation for analtarpiece. Since this study lacks detail in the background and is the least finished of the three, it must be the earliest. The final drawing of the group is rounded at the top, implying a curved frame, but no final painting is known today.
+465 These decorative vases would have sat on the mantelpiece to be admired rather than used. Elaborately decorated withgilding, pearl-like beads, and a delicate pinkpointill(dotted) ground, these vases are fine pieces of Svres porcelain, made at the height of the factorys popularity in the 1770s and 1780s.Copying paintings by the French artist Joseph Vernet, the porcelain painter Vincent Taillandier painted the maritime scenes in the reserves on the front and back.
+317 Beato made this image not only to celebrate the capture of South Taku Fort, but also to commemorate an earlier episode in the Second Opium War. On June 25, 1859, 89 British sailors were killed and another 252 wounded in the mudflats below the fort. The military atlas includes detailed studies of the Chinese defense.
+674 The Chantilly porcelain manufactory, established about 1725 by thePrince de Cond, made this ornate clock case ofsoft-paste porcelain. The prince owned a large collection of Japanese porcelain, which the factory used as models for its earliest productions. By the time this unique clock was made, the factory had developed its own whimsical interpretations of Asianmotifs, combining an exotic dragon and monkey with European flowers.Clock movements such as this one, designed for the alcoves of bedchambers(pendules dalcove),were fitted with a cord that struck the nearest hour and a quarter when pulled. This mechanism eliminated the need to light a candle to tell the time.
+607 What inspired Edward Weston to photograph this dilapidated park bench surrounded by weeds? In many ways, this image resembles a still-life painting. By focusing on a simple, everyday object, Weston invites viewers to contemplate a subject they might otherwise ignore. As the centerpiece of the photograph, the bench is transformed from a commonplace piece of furniture to a graphic study of rhythmic, horizontal bands. The weathered finish and broken bottom band are telling signs of age; like the discarded comics page, they suggest that this park bench has provided a restful stop for many weary visitors.
+1202 A construction worker stands below eye-level amidst the geometric structure of a two-story building. This photographic view of daily life in the 1840s was quite unusual, demonstrating Hippolyte Bayards early interest in what later came to be considered a social-documentary approach.Aside from his human subject, Bayard seemed drawn to the negative shapes of the broken glass pane of a shuttered window and those of the barred one below. These graphical forms support the photographs gridlikecomposition, which seems curiously at odds with its gentle framing. The oval mask may have been an attempt to soften the subjects starkness, following a fine-art approach adopted by photographers in the 1800s.Bayard made many views of Paris in the early years following photographys invention, favoring the British-inventedcalotypeprocess over Francesdaguerreotypeprocess. He created this photograph several years before working on a series of architectural studies for the Commission des Monuments HistoriquesMission Hliographique,a French government-sponsored project to record historic buildings around the city. It also predates Eugne Atgets atmospheric, Parisian street scenes made some fifty years later.
+1236 This miniature depicts the Ascension, Christs appearance on earth after the Resurrection when his apostles witness him being taken to heaven. Christ is shown as an object of veneration, like a cult statue, purposefully separated from the other figures in the narrative. All of the other participants direct their attention toward him--even the angels with instruments who appear along the sides. The two kneeling figures in the border below, who also gaze in adoration up at Christ, are members of the Compagnia di SantAgnese, a group of pious laypeople (both men and women) who met at the church of Santa Maria del Carmine in Florence. The manuscript from which this leaf comes was a laudario, a hymnal used by the group in their public devotions. The hymn for the feast of the Ascension begins below the miniature.The miniatures artist, Pacino di Bonaguida, was well known in Florence for his devotional paintings. Here he has focused attention on the figure of Jesus, who is isolated at the center of the image. Christs robes of brilliant yellow and white, however, make him less substantial than the figures below and at the same time, more radiant, absorbed into the brightness of the gold surrounding him, as he ascends to heaven.
+1035 In theminiatureof theDeposition, theVirgin Mary,Joseph of Arimathea,Nicodemus, and Jesus other followers stand and kneel in a shallow, stagelike space before a flat, textile-patternedbackgroundwhose richness contributes to the images ceremonial quality. The miniature introduces a verse meditation on the Virgins experience of theCrucifixion, the moving prayer known from its opening lines as theStabat Mater.Arranged symmetrically aroundJesus, his followers lower his crucified body from the cross. In concert they present his limp, lifeless form to the viewer as an object for veneration. Despairing angels in the borders grieve over Christs death.The artists inclusion ofnaturalisticeffects counters the artifice of the theatricalcomposition. He enveloped the figures in voluminous draperies that fall to the ground in heavy folds suggesting bodymass. The artist transmitted a sense of the weight of Jesus dead body by depicting its effect on the figure in green on the right, who buckles under the strain as he tries to support it.
+1061 In a rustic barn interior, Franois Boucher created an idyllic scene of country life. In theforeground, a man repairs barrels while a mother and child rest in the straw by his side. As the sun streams in through the open doorway and down through the loft at the rear of the building, long fingers of light create patterns on the dark floor. The backlighting gives the scene an added sense of serenity, while throwing the figures at the front into deeper shadow.On a trip to Holland from around 1763 to 1766, Boucher studied Dutch landscape andgenre scenesfrom the 1600s. Influenced by Dutch depictions of idyllic countrysides and interiors, the French artist produced a number of drawings of rural settings. Although most of these drawings have now been lost, scholars examining the records of Bouchers contemporary collectors have found various titles of similar works, such asFarmers House in the Form of a Barn and An Interior of a Barn with Three Farmers and a Woman.This drawing therefore provides the only known record of Bouchers visit to the Netherlands.
+183 Mainly self-taught, Thodore Gricault spent hours before theOld Masterpaintings in museums. He copied this standing cavalier from Anthony Van Dycks portrait of KingCharles Iof England.
+1055 Shown separately or together, as inLandscape withAllegoriesof the Four Elements,the four elements were a popular subject for Jan Brueghel the Younger and his collaborator Hendrik van Balen. Here, earth is represented by the goddessCeres, who is surrounded with asatyr,putti, and a figure holding a sheaf of wheat. Ceres, whose name means creator, was the goddess of agriculture, worshiped over a large part of ancient ItalyTogether Jan Brueghel the Younger and Van Balen often painted the four elements, which had also been part of the repertoire of Jan the Youngers father, Jan Brueghel the Elder. Brueghel the Elder taught his son the lush, decorative, yet highly detailed landscape and still life style seen in this painting.Van Balen, one of Jan the Youngers most consistent collaborators, was known for his attractive nudes. This panel was probably one of his latest works; he had begun painting figures for the Brueghel family years before, working with his friend Jan the Elder in addition to collaborating with Frans Snyders and Frans Francken II.
+418 Man Ray paid homage to the French photographic pioneer Joseph Nicphore Nipce with this print. The lavishness of this monument, erected near Gras, France, in 1933, probably appealed to Man Ray. By the early thirties Man Ray had created a significant body of photographic work and, through his revival of thephotogramprocess and the Sabattier effect, had linked himself with early practitioners of the medium like Nipce.
+430 After seeing a poster advertising Egyptian Deities brand cigarettes, Ruth St. Denis became fascinated with eastern forms of dance and costume. St. Denis, one of the early innovators of modern dance in America, co-founded the influential Los Angeles dance school Denishawn. Dissatisfied with traditional ballet and the notion of dance as mere entertainment, she explored dance as a medium of spiritual and philosophical expression.
+494 In a tapestry from the set known asThe Story of the Emperor of Chinaseries, four attendants carry the Emperor in a palanquin. Two guards on horseback follow the procession, one wearing a sword and bearing the imperial banner and the other carrying a quiver of arrows over his shoulder. The path in front is strewn with cut flowers, apparently from baskets like the one that remains in the center bottom, resting on the border. Birds fill the air above and the palace is visible in the distance.
+518 When framed within the border of a photograph, subjects as seemingly mundane as a shop door can assume a mythic character. To emphasize the revelations found in a local neighborhood, Mitch Epstein focused his project of the 1990s,The City,on New York City, his hometown, rather than traveling to distant places like India and Vietnam as he did in the 1970s and 1980s. Taking this photograph around the corner from his house, he documented his community while demonstrating the extraordinary aspects of everyday scenes.
+929 Described in the archives of the Svresporcelainmanufactory as avase  panneaux(paneled vase), this lidded vase was named for its prominent reserve panels, which show pastoral and floral designs. The porcelain painter based the front scene on an engraving of a Dutch painting by Nicholaes Berchem. Porcelain painters in France in the 1700s were particularly fond of copyinggenrescenes from the previous century to decorate their vessels.Not only the painted scenes but also the gilding on this vase are typical of the grandest works produced at Svres. The gilding is of outstanding quality, thickly applied and then carefully tooled to create varied borders and patterns with subtle textures. Laurel leaf branches with berries and veined leaves and a wide band with zigzag lines frame the reserve panels. The gilded surfaces of the handles, the laurel swags, and the gadroons above the foot areburnishedin imitation of gilt bronze.
+882 Wearing a crown and the Order of the Golden Fleece around his neck, Solomon kneels to worship a statue on the pedestal. Toward the end of his life, the king became increasingly obsessed with pagan cults, which contributed to the decline and finally to the division of his kingdom. In the 1500s, artists from Protestant countries used the subject of Solomons idolatry to warn against the use of imagery in the Roman Catholic Church. The rich costumes, the lavish floor covering and carved pedestal, and the rare pet monkey in the corner all show that this room belongs to a noble individual. The large paintings hanging on the back wall show battle scenes, with soldiers proceeding along the roads in the distance. The flamboyant robes and feathered hats resemble those worn by courtiers from southern Germany in the early 1500s, which suggests that the artist came from this region.
+579 Charles Martel was an early ruler of France, and Duke Gerard de Roussillon was his Burgundian vassal. In the 700s, the duke came to Martels aid, saving him from death in a battle against the Saracens. When this book was made in the 1400s, such a battle between East and West had great relevance: theOttomanTurks, heirs to the Muslim Saracens, had just conquered Constantinople, putting an end to theByzantineEmpire and Christian rule in the east. The scene of the earlier battle would have reminded European viewers of this recent conquest and their long-time enemies, the Turks.
+1242 Four seated women representing water, air, earth, and fire are surrounded by a lush landscape. The fish flowing from the water jug and the cornucopia of abundance cradled in the arms of the figure on the right correspond to the tactile elements of water and earth. The birds in the sky and trees and the accoutrements of battle in the foreground correspond to the intangible elements of fire and air. The figures, the still life objects, and the landscape work together as a unified scene, yet two different artists worked to create this painting. Frequent collaborators, the skilled figure painter Frans Francken II painted the women and background figures, and Jan Brueghel the Younger described the landscape.Such collaboration between artists was common in Antwerp during the 1600s, as artists often specialized in either landscape or figure painting. Flemish artists of the time repeatedly painted representations of the four elements, suggesting that it was a popular subject with buyers. The widely admired Brueghel the Younger depicted the senses, the elements, or the seasons as allegories many times throughout his career, either together or individually, as in the pendant to this painting,Landscape with Ceres (Allegory of Earth).
+966 At least three specialized craftsmen collaborated to produce this elaborate gilt bronze wall clock. The clockmaker Julien Le Roy, who signed the clock face and the movement, made the interior movement mechanisms. The bronze caster Jacques Caffieri cast and gilded the ornate case, which would have been the most costly part to produce. In this rare example, he engraved his signature on a cartouche below the dial. Antoine-Nicolas Martinire, the enameler, painted the numbers on the clock face and fired the whole dial. He inscribed the back of it with his name and the date1747.A detailed inventory of Jacques Caffieris workshop made in 1747 describes a clock similar to this one, decorated with the figures of Minerva andCupidholding a scythe. Minerva, thepatronof learning and the arts, wears a helmet and armor and perches on a cloud on the top of the dial. The winged figure of Cupid, probably once holding a scythe in his hand, symbolizes Love conquering Time.
+305 Steel blue pipes from a water treatment plant intrude into the picture frame like multi-barreled weapons. With the reference to waste and the resemblance to guns or oversized tailpipes, William Eggleston engaged both the consumerism of contemporary American culture and its infatuation with cars and guns.
+611 As in many of the judgment scenes in this book,Christcomes before his accuser with his wrists bound, surrounded by a cruel and ugly group of tormentors. According to the Gospels, Pilate found Christ innocent but was reluctant to release him because the Jews wanted him executed. Bowing to the demands of the crowd, he decided to follow custom and release a prisoner onPassover. Upon asking the Jews whether they wanted to free Christ or the robber Barabbas, the people called for Barabbas. Pilate gave in to the wishes of the people but publicly washed his hands as a sign of his disagreement with the decision.
+267 In a peaceful landscape setting,Christsits in meditation during a self-imposed fast in the wilderness that lasted forty days and forty nights. The border surrounds a prayer concerning his fast and subsequent temptations, the subject of theminiatureon the facing page.
+436 The thin trunk and skeletal branches of a leafless tree cast soft shadows against a pristine, white wall, whose solidity seems to contrast with the trees fragility. Hairline cracks in the walls surface meander upward from its base in the foreground, as if stretching to meet the trees branches, and echoing their lines. To the left of the building, a black void--negative space--enhances the mysterious and elusive quality of the scene.
+952 Sunlight breaks through rolling clouds and illuminates a lush valley. The expansive sky fills much of the composition, but the long horizontal bands of rich green and blue pigment that compose the valley draw our eye downward. This open vista is seen from an elevated vantage point--a curving road in the foreground. The modest, down-to-earth scene encourages us to imagine the artist himself, on-the-spot and out in nature, striving to capture this particular view at a particular time of day.Paul Huet traveled often to the French countryside to observe and draw its specific features and weather conditions. He was a frequent visitor to Normandy, in northern France, where he painted and sketched its cliffs and hills, rivers and beaches. This watercolor is one of many works he produced during these visits. Like other French artists of his generation, Huet was inspired to take up the medium after seeing watercolors by his English contemporaries.
+617 InTorquato Tassos1581 epic poemGerusalemme Liberata(Jerusalem Delivered), the legendary medieval knight Rinaldo is bewitched by the beautiful sorceress Armida and lulled into a life of easy sensuality on the Fortunate Isles. His friends, the knights Carlo and Ubaldo, enter her garden and break her spell by showing Rinaldo a magic mirror-shield. His military spirit reawakened, he later rejoins his companions in the enchanted forest.Some seventy years after the famous book was written, theBaroqueartist Francesco Maffei applied his expressive brushwork and rich color to enhance the drama of TassosRenaissanceepic.
+708 Across from theminiaturedepicting the last rites and prayers at the deathbed, thisilluminationshows the Office of the Dead. In a small, private chapel adorned withheraldicbanners, the deceased rests in a richly covered catafalque. Around him, hoodedmonkskneel during their devotions, members of the choir sing, and one monk passes out candles. Standing before the altar, the priest leads the service, the text of which appears on a panel illusionistically painted as if incorporated into the frame. Theilluminatorused the trompe loeil frame to separate spaces and to suggest simultaneous views of both the churchs interior and its exterior and scenes above- and below-ground, including a subterranean chapel.
+619 According to legend, Astyages, the king of the Medes, had a dream one night that one of his descendents would grow up to overthrow him. He immediately ordered that his precocious grandson Cyrus be killed. His chief adviser, however, secretly gave the baby to a shepherd to raise. Here the shepherd minds his sheep, while the child Cyrus takes nourishment from a wild goat in order to survive. Astyages discovered Cyrus when he reached the age of ten, but others persuaded Astyages to allow the boy to live, in spite of the dream. Cyrus eventually did revolt against his grandfather and conquered the kingdom in 550 B.C.
+966 At least three specialized craftsmen collaborated to produce this elaborate gilt bronze wall clock. The clockmaker Julien Le Roy, who signed the clock face and the movement, made the interior movement mechanisms. The bronze caster Jacques Caffieri cast and gilded the ornate case, which would have been the most costly part to produce. In this rare example, he engraved his signature on a cartouche below the dial. Antoine-Nicolas Martinire, the enameler, painted the numbers on the clock face and fired the whole dial. He inscribed the back of it with his name and the date1747.A detailed inventory of Jacques Caffieris workshop made in 1747 describes a clock similar to this one, decorated with the figures of Minerva andCupidholding a scythe. Minerva, thepatronof learning and the arts, wears a helmet and armor and perches on a cloud on the top of the dial. The winged figure of Cupid, probably once holding a scythe in his hand, symbolizes Love conquering Time.
+713 Lisette Models photographs of wealthy men and women are frequently unflattering and often brutal indictments of the pernicious excesses of privilege. This portrait of an unidentified woman walking down the street in New York is no exception. Her scowling face stands in glaring contrast to the finery of her garments, which seem to indicate a life of comfort and ease. Yet there is anything but ease in the exchange between the subject and the photographer who stood directly in front of her, almost blocking her on the street. As a sobering metaphor for the social ills of the nation, the images close-up, unrelenting framing presents a visual paradox that describes and measures class and cultural distinctions.
+938 In the crowded interior of a forge, the gaunt figure of a blacksmith looks over his shoulder to observe his apprentices, who wear aprons like their master. Engaged in a gluttonous rampage, some raid the cupboards, while another takes food from a woman with a begging child. Tools lie strewn across the floor. As the smith is distracted from his work, the object that he holds in the flame flies apart. Various spectators stop outside the windows and at the top of the stairs to observe the chaotic scene, and an old woman slumped on a chair in the corner symbolizes Laziness, indicating that the scene might represent the popular Netherlandish theme ofSorghelos Leven(carefree living). The moralizing story warns the viewer against the extravagant waste of time, effort, and goods.Jan Verbeeck covered this sheet with dense hatching, enveloping every part of the surface with lines to effectively increase the sense of chaos in the scene.
+931 Marys beatifically idealized face reflects the heavenly light emanating from the glowing babyJesus. Attractive young women coo over the infant, an old man whispers to a bare-chested shepherd cradling a sheep at the far left, and two birds rest contentedly at the foot of the rustic manger. Though on the earthly plane, a young boy holding a dove and shading his eyes in theforegroundseems more like a sibling to the heavenlyputtiholding a scroll and a censer over the newbornChrist.The young Sebastiano Conca successfully blended thisBaroquewealth of activity with a symmetrical,classicizingcompositioncentered on the manger. Despite the paintings expansive scale, his brilliant handling lends a cool sweetness that points toward theRococostyle.Conca painted this picture for Romes most adventurouspatron,CardinalPietro Ottoboni. He may also have used this painting as a model for an altar frontal, a pillow-like plaque decoration.
+746 Oblivious to the photographer, this well-appointed couple at the San Francisco Opera looks intently ahead, off to the left side of the photograph. Unidentified and relentlessly observed, they are reduced to types. The mans slender, angular, and youthful face is juxtaposed with the womans older, fleshier countenance. His pert, upturned nose is no match for her long, formidable snout, while his crisp, white shirt and bow tie are a dramatic contrast to her dark, velvety folds. One white-gloved hand holds a cigarette aloft; the other clutches a beaded handbag. Lisette Models camera with its harsh, flash lighting recorded every superb detail, from the goosebumps on her upper arm to the shadowy ear visible in the distance just below his chin.
+911 This is one of four identical, elaborately carved tables Charles VII had made for theKaisersaal(kings room) in the monastery of Kloster Ettal, near Munich. All four of the tables survive in museums, one in Germany and three in the United States. The Getty Museums table displays a portrait, possibly of Charles, in the central medallion and a shield with the Austrian coat of arms on the stretcher below.Although this table was created in the 1740s when the exuberant Rococo style was fashionable, it exhibits only one Rococo feature: the asymmetrical grouping on the stretcher. The corner masks with their feather headdresses, tasseled lambrequins, curving shields, lions paw feet, square section stretcher, and deep symmetrical frieze are all typical of the precedingRgenceperiod. Underneath the tabletop, in the center of the stretcher, two putti play with unlikely toys, a trophy of military arms and armor.
+434 In this depiction of the ancient citys remains, Philippos Margaritis, a native-born Greek, and Philibert Perraud, a Frenchman, photographed the Arch ofHadrianat Athens, a masterpiece ofclassicalarchitecture. The Arch, built around 131 A.D., is a light, elegant structure, with an opening flanked by freestanding columns and a colonnaded upper story. Barely visible beyond the Arch at upper right is the distant mount of the Acropolis.
+1015 This three-partaltarpiecedepicts the visionary experiences of the layman Chiarito del Voglia, who commissioned it in the 1340s. The central panel--executed ingildedgessoreliefand showing the apostles receiving communion through narrow tubes emanating from Christs navel--is most unusual in subject matter and medium.The left wing displays scenes from Christs Passion, the events leading up to hisCrucifixion. In an unusual addition, three scenes below the main panel feature the bearded donor Chiarito participating in theMass. In the central scene, he participates in the communion of the Apostles shown above by means of a tube that extends down to his mouth.On the right wing in the bottom panel, Chiarito, seen standing alone, listens to amonkpreaching to an audience. His powerful vision is made manifest in the scene above. He imagines the blood ofChristflowing down from the Trinity, shown in the top panel, to bathe the crowd below. Diagonal lines on the pulpit direct the viewers eyes to the flowing blood.
+510 After a long and bloody civil war with his brother Seleucus, the defeated Antiochus III, king of Asia and Syria, sought asylum in Cappadocia with his brother-in-law. Turned away, he fled to Egypt, where the king imprisoned him. Antiochus managed to escape with the help of a courtesan, but while in flight he was attacked in a forest by marauders who slit his throat. In the miniature, one brigand stabs the king in the throat, while the second rogue prepares to thrust his dagger into the kings exposed chest.
+911 Whether concealed by a fig leaf or locked by a chastity belt, a womans erogenous area has traditionally been kept hidden from view. Flouting convention, Manuel Alvarez Bravo staged this scene by clothing the models upper thighs, hips, and waist, and exposing her pubic region. Although this photograph challenges traditional representations of women, it alludes to confinement through the use of bandages around the models wrists and ankles. These devices can be interpreted as symbols of bondage and lack of free will.In this seemingly serene setting, the star cacti lined up beside the slumbering model signal pain and danger. The plants impede the womans free movement, while at the same time protecting her from the sexual advances of a potential intruder. In naming this photographThe Good Reputation,Sleeping, Alvarez Bravo drew upon the Mexican proverb: Earn a good reputation, then rest on your laurels.
+695 TheOld Testamentjudge and warrior Gideon kneels in the bottom corner, watching as the fleece he has laid on the ground receives rain from an angel. In order to determine by sign whether or not God would deliver Israel, Gideon had proposed to God that the wetting of the fleece while the ground around it remained dry would signify Gods promise of action. Christians came to see this event as aprefigurationof theAnnunciation, when God again delivered humanity, this time throughChrist. This page faces themanuscriptsAnnunciationminiature, and its text focuses on the subject of Gods redemption of humanity. In both images, Simon Bening used golden rays of light to represent divine intervention.
+322 Man Ray photographed three masks in a close-up view that makes them appear almost human. The arrangement and cropping make the masks appear to cascade down like a bunch of grapes, curiously evoking references to decadence and besotted bacchanals. Masks often appear in Man Rays photographs; he probably made these himself.
+617 Masks, shoes, and a crown line the shelves of the window, while a clown suit and a childs military jacket adorn the facade of this extremely modest costume shop. A rod running over the window and door, along with brackets on the buildings corner, provided ample space for this merchant to present goods outside the shop itself, a practice regarded as inelegant and unsuitable for valuable items. Eugne Atgets interest in merchandise display specifically excluded the grand windows of bourgeois boutiques and department stores in favor of cheaper commodities hung outside small storefronts and strewn across sidewalks.
+1180 Marie-Antoinette sat in this chair while her servants arranged her hair and applied her makeup in her bedroom at the Petit Trianon a small house built on the grounds of the Palace of Versailles. Known as achaise de toilette, its swivel mechanism and low back were specially designed for performing the daily rituals of dressing. It is finely carved with bands of lily of the valley and ivy along the curved supports of the arms, while the legs and edge of the circular seat imitate caning.The Petit Trianon was given to the queen by her husband, Louis XVI, as a private retreat where she could escape from the rigid etiquette of court life. Marie-Antoinette furnished these intimate apartments, which were never seen by most of the courtiers, with exquisite furniture that reflected her own personal taste.This chair was part of a set of furniture delivered to the palace in 1787 that also included two armchairs, two side chairs, a fire screen, and a stool. The bed from the set is missing, but the rest remains at the Petit Trianon. The other pieces retain the original pastel-colored paint in yellow, blue, green, and white that has unfortunately been stripped from this chair.
+806 Relationships between small and large, dark and light, and man and nature are all evident in this monumental portrait of a giant coastal redwood in Santa Cruz, California. Carleton Watkins, the photographer, composed this image with two diminutive figures at the base of the behemoth to illustrate the trees grand scale. While the sun beams down across the left side of the photograph, a dark shadow fills theforeground. Watkins made numerous pictures of Californias trees, predominantly in Yosemite and Santa Cruz, throughout the late 1800s. His photographs were exhibited on the East Coast, testifying to people that the outlandish stories they had read and heard about the western wilderness were true. Watkinss pictures were instrumental in the successful effort to reserve Yosemite as a national park.
+474 Much of Man Rays work was motivated by his desire to create a momentary shock in the viewer that would arrest rational thought processes and stimulate fresh ways of seeing. This piece, with its awkward juxtaposition of hands, feet, and buttocks, shocks the viewer in a more conventional sense as well. Man Ray admired the writings of the Marquis de Sade, and this image evokes that authors sexual predilections and strong opposition to clerical influence in secular matters.
+1172 The contre-jour[backlighted]effect and the passing gleam of light on the water produced by a momentary opening in the clouds aroused the wonder and envy of all photographers who saw this picture at the many exhibitions in which it was subsequently shown. The moonlight effect...was due to the necessary exposure.So wrote a reviewer after the photograph was first exhibited in 1856. Though no seam can be found between sea and sky, viewers speculated that this image, like other seascapes by Le Gray, was acombination print. In the 1850s, it was virtually impossible to render both sea and sky in the same negative. If the photographer exposed the film so that the sea or land was fully rendered, the sky would be overexposed and appear white; if exposed for the sky, the sea or land would appear dark as a silhouette. As it happened, the luminosity of the cloud-laden sky was equal to that of the water, making it possible for Le Gray to render each area exquisitely in a single negative. Here the sun breaks through the clouds at the upper right and reflects on the seas shimmering surface directly below. The brig appears to sail just into or out of the watery clearing.
+1059 Nobody has a greater understanding of the harmony of color and reflections. Ah, Chardin, what you grind on yourpaletteis not this color or that, red, black, or white, but the very substance of things.Jean-Simon Chardin impressed criticDenis Diderotwith his unique style and impeccable technique, which he applied to what was then considered a lowlygenre, the still life. Exemplifying what Diderot noticed in his paintings, Chardin here transforms a simple kitchen scene with a subtle palette, innovativecomposition, and virtuoso brushwork.The objects arrangement is spare but dynamic: Two mackerels hang vertically in front of a plainbackground, perpendicular to an arrangement of food on the tabletop below. Brilliant light directs the eye, attracting attention to the shiny fish, leafy greens, root vegetables, a wheel of cheese, and covered bowls. Although the overall palette is subdued, the oil and vinegar cruets are infused with rich color. The signature and date in the lower right corner are the last Chardin is known to have applied to a still life.
+884 In May 1843 William Henry Fox Talbot went to Paris with his assistant Nicolaas Henneman. A year later, with Talbots support,  Henneman established the first photographic printing firm in Reading, England. They traveled to France to negotiate the licensing rights for Talbotscalotypeprocess and to instruct the licensee in its use. This was Talbots first trip outside of England with his camera, and he was undoubtedly eager to put it to good use.This view outside of an elegant Parisian townhouse shows an active scene. The carriage driver and horses wait curbside, poised to carry passengers to their destination, and the line of arriving and departing carriages rolling across the bottom of the picture suggests a busy boulevard. The calotypes clarity of detail is superb, rivaling that of thedaguerreotype, Frances homegrown photographic medium and the calotypes chief competition.
+797 Focusing on the performers expression and gestures, Edgar Degas quickly captured a caf singer absorbed in her song. Two black lines form her closed eyes, a small oval serves as her nose, and a circle is her mouth. With a quick flurry of strokes, her dress puddles around her feet, while an irregular zigzagging line forms the ruffled edge of her bodice. On the right, another singer makes a deep curtsy toward the upturned face of a male spectator.As a youth, Degas was instructed by his teacher Jean-Auguste-Dominique Ingres to use lines, young man, many lines, both to remember as well as to copy nature. Quick sketches such as these two were vital tools for the artist to record a specific performance he attended or person he had observed as he prepared for a more elaborate painting or print.
+989 Look closely at the brilliantly illuminated white trees on the left of the image. High upon the right side of the tree trunk is a marker for tourists, who would have been following a carefully prescribed guidebook path through the Forest of Fontainebleau. In the mid-nineteenth century, the forest was an extremely popular destination for artists, especially theBarbizon Schoolof landscape painters, as well as vacationing Parisians. The images only direct light seems to seek out this human intrusion, somehow vindicating the notion that the experience of nature requires instructions. This view may, in fact, be the other side of Gustave Le Grays photographThe Road to Chailly, Fontainebleau; the clearing here in the distance suggests that Le Gray was not far from such a road.When Le Gray made this photograph in the 1840s, the chemistry of the photographic negative was not sensitive to the color green, so the foliage appears darker in the photograph than it would have in real life.
+871 In the center of this chaotic, theatrical scene, Mary Magdalen kneels to anoint Christs feet, while Judas Iscariot stands before them scorning the waste of precious ointment. Rather than showing the scene as it would have appeared during the Biblical era, Giovanni Domenico Tiepolo created an image related to contemporary Venice, with wigged and turbaned gentlemen crowding a large room. The tonal nuances of golden washes throughout the sheet are characteristic of Tiepolos style. Divine light pours in from the direction to which Christ points, and the large column along the center of the sheet stands in shadow against the masonry wall. Tiepolo created this large drawing as part of an extensive Biblical series of more than 250 sheets depicting scenes from the lives of Christ and the Apostles. He conceived each drawing in the series as an independent work of art.
+714 While visiting her family in Nice, a fashionable resort on the French Riviera, Lisette Model began a series of photographs of wealthy vacationers along the Promenade des Anglais and another series of photographs of the working classes in other parts of the city. This rear-view portrait of a circus performer is an unforgiving commentary on his generous proportions, exaggerated by Models close cropping of the figure to fill the images frame. The posts of the bench bisect him horizontally and vertically, dividing his body into neat sections of rounded pattern and texture. Identified only as a Circus Man, the subjects anonymity is secured: not even an eyelash peeks out from the smooth, blank side of his face.
+703 The engravings of Franois de Cuvillis, one of the leading interpreters of theRococostyle in Southern Germany and an architect forMaximilian II Emanuel,Electorof Bavaria, influenced the design of this pair of ornately carved German commodes.Carved white pearls hang from the foreheads and the ears of the femalebustsadorning the corners, while scrolling leaves hang from the lower edge. The combination of white painted surfaces and gilded, pierced elements probably reflects the interior for which the commodes were originally designed. These commodes, with their sculptural elements in carved wood, differ from contemporary French pieces, which would have had applied gilt-bronze mounts for decoration.
+372 In this photograph of a rainy street, made at the exact moment of twilight when there is not light enough to reflect the full colors of the spectrum, the color is barely perceptible. Yet its vague, overall greenish tint reveals more than a black-and-white print could. William Egglestons mastery of the color medium accounts for this subtle yet highly effective rendering.
+1205 His subjects rank and social position interested Hyacinthe Rigaud more than each individuals character. In this drawing of a wealthy nobleman, Rigaud concentrated on the luxurious sheen of his satin coat, the delicate lace frothing around his throat and cuffs, and the damask lining of his cloak, which surrounds him like a cloud. Subtlehighlightseven pick up the gleam of the brass studs decorating the chair underneath his left hand. Rigaud achieved these effects by applying a layer of white gouache on top of the black chalk and gray wash, creating a gleaming, three-dimensional effect. In contrast, the mans face and luxuriant flowing wig appear flat and static.Textiles, used for either home furnishings or dress, were important indicators of an individuals social rank in the 1700s. In an age when only the wealthiest members of society could afford such expensive and fragile fabrics as silk, satin, and damask, both quality and quantity mattered. Only wealthy individuals could wear lace in the early 1700s, and fashion strictly controlled the style and the amount that was shown. The abundance of fabulous cloth in this drawing is therefore a silent indicator of this mans wealth and importance.
+722 Based on Book VII ofOvidsMetamorphoses,theroundelin this tapestry shows Aurora, goddess of the dawn, gazing upon the sleeping form of her lover, the hunter Cephalus. She sits among clouds with the morning star shining on her forehead. Cephalus, a mortal who is bound to the earth, reclines on the forest floor, but his dog awakens as the goddess approaches.This roundel imitates a painting set in an oval frame, complete with Franois Bouchers signature under Cephalus. Exotic birds and a hunting trophy in the center ornament thealentoursor decorative setting, which was narrower than others in the set in order to fit the shorter wall of a room.This tapestry is also based on designs by Louis Tessier and Jacques Neilson.
+988 Peering through an open doorway with her back to the viewer, a prostitute stands looking into the room beyond. With a few hasty strokes, Edgar Degas suggested the scantily clad figure, robed only in a flimsy chemise with bedraggled bows on her shoulders and slippers and a dark ribbon holding her hair, the ends of which hang down her back. Three vertical lines representing the doorframe and open door effectively frame the simple, evocative scene. Scholars believe the drawing is based on a scene from the novelLa Fille Elisa(The Girl Elisa), which tells the story of a girl who became a prostitute.The simple realities of everyday life captured the artists interest, revealing his gift for expression in every line. When another artist invited him to go to a caf, Degas objected to traveling by horse-drawn cab, saying, Personally, I dont like cabs. You dont see anyone. Thats why I love to ride on the omnibus-you can look at people. We were created to look at one another, werent we?
+896 The carousel is in the exact center of the image; an equal amount of sky and ground surrounds it. Like many of the figures who were captured in Eugne Atgets photographs, the bow-tied bunny at the right appears to be eyeing the photographer cautiously and curiously as Atget goes about recording him. The pleasure spectacle of the carnival ride is made ordinary by the ladder visible at the right toward the back of the ride. Carnivals were usually traveling shows, stopping for only a short while before moving on to the next town, and this attraction was probably still being assembled when Atget came upon it and set his tripod down.The two small, half-oval marks along the top of the print come from the clips that held the glass negative plate in place in the back of the camera. They appear in many of Atgets prints and serve as a kind of trademark, even though they may look like a mistake.
+752 Amarchand-mercierprobably commissioned both the design and execution of this vase. He would have purchased the mid-1700s Chineseporcelainbowl and ordered abronzierto make themountsingiltbronze. In this design, four elegant legs extend fromsatyrsheads, linked with swags of vine leaves and bunches of grapes, to terminate in goats hooves.This vase was once part of the collection of a Polish princess who had been a great friend of Marie-Antoinette. The Polish princess, who spent a great deal of time in Paris before theFrench Revolution, is reputed to have acquired it at the sale of the contents of the palace ofVersaillesin 1794. Another vase was bought by the Prince Regent, who later became King George IV, for his London residence, Carlton House.
+1140 Sir William Hamilton, British envoy to the court of Naples from 1764 to 1800, wanted a painting of the panoramic view of the Bay of Naples from his apartment window. He sought out the Italian artist Giovanni Battista Lusieri, whose detailed drawings and watercolors of views of Naples and other Italian sites were popular withGrand Touristsin the 1780s and 1790s.Lusieri produced this sweeping view on six sheets of watercolor paper. Its clarity, purity of color, and accuracy of detail led many people to believe that Lusieri used a telescope orcamera obscurato record the intricacies, proportion, andperspectiveof his settings. He was a slow and painstaking draftsman; this drawing is one of his few important, completely finished works. He proceeded slowly, first drawing the entire scene in outline down to the smallest detail with a faint but hard pencil and then finishing and coloring the work on location, rather than in a studio. An English tourist wrote of Lusieri: As an artist he was always slow in deliberation; but it was the tardiness of the most scrupulous accuracy; for he frequently laid on even his colours on the spot...
+656 This is one of a series of twelve tapestries, which each showed an astrological sign for a month with a French royal palace in thebackground. The month of December shows the Chteau of Monceaux (demolished in 1799, during theFrench Revolution) through the bare trees. On the left,Louis XIVleads a hunting party with horsemen and hounds after a wild boar. In the center of the top border, the astrological sign of Capricorn hangs between garlands of winter fruit and vegetables. In theforeground, two liveried pages drape a rareNear Easterncarpet over thebalustrade, while a moorhen, crane, and bustard, birds from the royal menagerie, strut along the front.
+1093 Andrea del Sarto worked out the problem of placing full-length figures behind a balustrade, or railing on both sides of this sheet. Each side contains two separate compartments with figures in varied poses.With quick, sure strokes of his red chalk, del Sarto experimented with a variety of complex arrangements for each figures body, sometimes including drapery and always crossing limbs and turning heads. He overlaid numerous ideas for each figure, quickly trying one thought, then modifying it for the next. Beyond giving the figures balance, he aimed to make them look natural and relaxed. With the railing both standing in front of and bisecting the figures, the artist also had to work out how to maintain unity between the upper and lower halves of each figure. The many artistic solutions evident in this study give a glimpse of his fertile and creative mind.Scholars are uncertain about the purpose of these studies, but they may have been initial concepts for the Evangelists in the border of theParamento Passerini, an embroidered altar frontal now in the Museum Diocesano, Cortona.
+666 A young woman lies on her bed, provocatively displayed in the nude, while a nurse leans attentively over her, ready to administer an enema. Jean-Antoine Watteau drew the scene with perfect mastery, using a subtle patterning of red, black and white chalk lines to create shadows and highlights. In drawings such as this one, he made this technique, known astrois crayons, famous. He sketched the nurses head twice, trying two different angles over another study of the models head.Watteau made this highly finished drawing in preparation for a painting now in the Norton Simon Museum. The severely trimmed painting lacks the nurse and severs the nude below her knees.
+1046 An ancient Roman religious rite inspired this clock, designed in the Neoclassical style after a drawing by Hubert Robert that was published as an engraving between 1771 and 1773. Two bronze priestesses of the temple of Vesta, the ancient Roman goddess of the hearth and its fire, carry the altar bearing the sacred flame. The sacred flame and the vigilance of the maidens, who kept the altar fire burning continuously, came to symbolize eternity, a suitable association for a timepiece. The theme extends to the hour and minute hands, which are in the form of a snake, another symbol of eternity.The French craftsmen added fine chasing to emphasize decorative details on the pedestal altar, the delicate ritual vessels, and the arabesque patterns on the altar cloth surrounding the clock face. Panels representing Art and Science flank a frieze with cherubs and a goat. Four lounging lions and a marble plinth support the clock. Pierre-Philippe Thomire designed a number of examples of this piece, two of which belonged to Queen Marie-Antoinette.
+1090 The writer Edmond de Goncourt wrote in his journal in 1873: Yesterday I spent the afternoon in the studio of a painter named Degas. After many attempts, many bearings being taken in every direction, he has fallen in love with the modern and, in the modern, he has cast his choice upon laundresses and dancers.In the 1870s Edgar Degas became fascinated with ballet dancers, paying frequent visits to the classes where the Opras ballet master, Perrot, trained groups of young girls. He used these excursions to work out new ideas for various paintings or lithographs or to rework ideas that he had used before. In this group of three quick sketches, Degas concentrated on the gestures and expressions of the ballet master and his pupil, several of which he later re-used. At the left Perrot directs the dancers as he does in a painting known asRptition de Ballet(Ballet Practice). In the center, a tall dancer faces left with her head bent forward. Perrot appears again on the right in the same position as in two earlier paintings,Classe de Danse(Dance Class) andExamen de Danse(Dance Exam).
+764 In this gentleallegoryof peace by Louis Jean Franois Lagrene, Mars, the Roman god of War, throws back the rich green bed curtains that frame the scene. As the drapery parts, the morning light spills in to reveal the form of the sleepingVenus, the Roman goddess of love. Mars gazes at her, utterly captivated by her beauty. Her love has tempered his fierce character, and his shield and sword lie abandoned on the floor. Echoing the lovers bliss, a pair of white doves, symbolizing Peace, build a nest inMarsshelmet.Lagrene created his finest works, including this small, jewel-like painting, around 1770. The lavish folds of drapery, the delicate play of light over fabric and skin, and the rich, restrainedpalettecombine to create a captivatingly beautiful image.
+1222 Through the dramaticminiaturesin theprayer bookheilluminatedforCardinal Albrecht of Brandenburg, Simon Bening encouraged the viewer to identify withJesusin his Passion. TheAgony in the Gardenopens the sequence of devotional texts interspersed with Passion miniatures. To heighten the emotional tension, the artist compressed three events into one scene. In theforegroundthe apostles have fallen asleep despite Jesus request that they keep watch. In the center of the image, Jesus prays to God, while in thebackgroundthe soldiers already approach toarresthim. Bening emphasized Jesus emotional isolation as he prays by showing him separated from the apostles by a fence and a fallen tree. Before Jesus, an angel kneels, offering the cup that symbolizes his acceptance of death on the cross.Thenaturalisticdepiction of the dark night sets the mood, creating a dramatic setting for the events. The glow from Jesushaloin the center provides a spotlight on his face, while in the background the soldiers torches--painted with tiny dots of gold paint--draw attention to the imminent danger. Even the naturalistic trees flanking the central action increase the drama as they restrict the space around the central figure of Jesus.
+969 This study of a shop window in Paris unites interior with exterior in an intriguing juxtaposition of reflections and objects. The sidewalk, which is completely overexposed in the foreground, is revealed in detail in the reflection of the shop window. A clear depiction of the photographer at work is also evident: Eugne Atget appears in profile, standing at his camera in the lower-center pane of the shop window, as though he is a miniature automaton prominently placed for sale. It is almost impossible, in fact, to tell where the reflection of the street ends and the contents of the shop begin. A lamppost appears to be up for sale alongside a mantel clock; a wagon wheel is displayed just under a cherub to the right of the vases. The overlapping of the contents of the antique store with the everyday objects of the rapidly urbanizing city suggests that Atget was making a commentary about the reduction of Old Paris into nothing more than a collection of curios.
+1127 Greek vases created in the colonies often illustrated themes of local interest. This fragment of a bell-krater made inApuliain South Italy depicts Scylla, a monster who personified the terrors of the sea and was believed to live in the straits between Sicily and the toe of Italy. Scylla, who grabbed sailors off their ships and devoured them, was a hybrid creature, having a womans upper body, a fishy lower body, and a ring of dogs heads around her waist. The survival of only a small fragment makes it difficult to determine what is happening on this vase. The dolphins at the lower edge suggest that Scylla is swimming in the sea. Above her head, a section of a wing and a garment decorated with stars, which are part of another mythological figure, are visible. Just in front of Scylla, the chest and hooves of a bull are preserved. The vase may have depicted the myth of the rape ofEuropa, in whichZeusturns himself into a white bull and carries the princess off across the sea. This tale was very popular in the Greek colonies in Italy. Scylla may here have been just another creature populating the sea in such a scene.
+1100 Fixing the viewer with a dreamy gaze, the fair-haired Telemachus grasps Euchariss thigh with his right hand while holding his sword upright with the other. In the 1699 French novelLes Aventures de Tlmaque, loosely based on characters from the Odyssey, the author Fnelon describes how Telemachus, the son ofOdysseus, fell passionately in love with the beautifulnymphEucharis. His duty as a son, however, required that he end their romance and depart in search of his missing father.The ill-fated lovers say farewell in agrottoon Calypsos island. Facing towards us, Telemachuss blue tunic falls open to reveal his naked torso. Eucharis, seen in profile, encircles Telemachuss neck and gently rests her head upon his shoulder in resignation. In this way, Jacques-Louis David contrasts masculine rectitude with female emotion.David paintedThe Farewell of Telemachus and Eucharisduring his exile in Brussels. The use of saturated reds and blues contrasted with flesh-tones and combined with a clarity of line and form typifies theNeoclassicalstyle, which is characteristic of Davids latehistory paintings.
+983 The French governments commissions to document and preserve their national historical monuments through photographs greatly impressed Roger Fenton. In the early 1850s he began to photograph Englands  historical and architectural splendors.The BenedictineAbbeyof St. Mary at Glastonbury was one of the oldest abbeys in England. The graves of King Arthur and Queen Guinevere, the legendary rulers of post-Roman Britain, were allegedly discovered in the cemetery at Glastonbury, and their bones were reburied in the abbey church. After a disastrous fire and centuries of strife within the church, themonasteriesat Glastonbury were dissolved and the abbey became a quarry, although some ruins, like the ones in this view, remained.The ravages of time and the force of nature are evident. Fentons photograph evokes the passage of time: the lush cascade of ivy spills over the remainingtranseptarch, devouring the ruins and metaphorically reclaiming what is left of the abbey for the past.
+1063 Thisphotogenic drawingof a plant specimen shows the stems of the plant species in various stages of growth, from an almost-solid staff to a spidery, blossoming branch. It is a page fromCyanotypesof British and Foreign Ferns, an album of one hundred botanical illustrations with hand-written titles now in the Getty Museum. Anne Dixon originally gave the album to her nephew, who was interested in photographically illustrated volumes.Dixon and Anna Atkins created each image, or photogenic drawing, by carefully placing the specimen onto a sheet of paper that had been made light-sensitive by a coating of a combination of chemicals. The resulting print is called a cyanotype because of the blue color produced by the chemicals. Securing the specimens to the paper with a sheet of glass, the glass and paper were then placed in the sun; after sufficient exposure to light, the paper was washed in water, which caused the image to appear in its final form. Because the specimens were solid objects that light could not pass through, they appear as negative images.
+1077 A crowd of Venetians gathers to observe the dramatic submission of the German Emperor Frederick Barbarossa to Pope Alexander III. Soldiers and clerics mingle with children and dogs. Federico Zuccaro filled the scene with small details, noting everything from the delicate carving in the arches of the cathedral to the boats in the harbor and the men peering around the columns to better view the scene below.Zuccaro made this drawing in preparation for a painting for the Palazzo Ducale, Venice, which was to replace Tintorettos version destroyed by fire. Zuccaro drew an event that took place in 1177, more than four hundred years earlier. Emperor Frederick I, nicknamed Barbarossa or Red Beard by the Italians, had tried to invade Italy and set up his own pope, which led Pope Alexander to excommunicate him. Frederick withdrew temporarily but then returned, captured Rome, and was in the midst of preparing further attacks when his army was destroyed by disease. After his defeat, he agreed to recognize Alexander and was triumphantly accepted back into the Catholic Church.
+1197 Waving his club threateningly, the Greek hero Herakles pursues a centaur, a mythological part-horse, part-human creature, on the front of this Athenian black-figure amphora. On the back of the vase, Theseus battles the Minotaur. The Affecter depicted the two great heroes of the Greeks, Herakles and Theseus, battling monsters, symbolic victories of Greek civilization over the barbarians, yet he did not appear very interested in the stories. For example, in Greek mythology, Herakles battles two centaurs, Pholos and Nessos.The depiction on this vase is quite unusual for Athenian pottery of the time, because the Affecter did not provide the clues that would identify which encounter was represented here. It is, however, quite typical for the Affecter, who focused primarily on the decorative aspects of figures. His unusual approach to potting is also evident on this vase, where he threw an old-fashioned neck-amphora form but modified it by adding a raised ring to separate the neck from the body. The oddness of the Affecters style may be explained by the fact that he appears to have been creating vases for export to Etruria. He created products to suit Etruscan rather than Greek taste.
+428 Cameron was surrounded by children and identified strongly with her role as a mother. Children made natural subjects for her work because they were readily available, and she could easily cajole them into participation. She often cast them as angels, viewing the young as closer to God due to their proximity in years from birth. Here Cameron posed a maternal Venus, played by her maid Mary Hillier, attending to a sleepy cupid.
+930 A young woman reclines on a tiger skin on a marble ledge while her companion teases her with a dress pin. They are dressed in diaphanous robes fashioned afterchitonsworn by women in ancient Greece. Another dress pin and the reclining womans hair ribbon lie scattered on the marble floor.For over half a century after the continued excavations ofPompeiibegan in 1748, artists were fascinated with Greek and Roman life. John William Godward painted many scenes like this one of idealized beauties in calm, often sterile environments. In this painting, the figure of Repose is arranged seductively, with her breast and nipple showing through the thin material of her dress. But there is something distinctly untouchable about these women; they do not engage the viewer with an inviting gaze nor solicit personal contact. Like theirantiquesetting, they possess a monumental, marmoreal quality, resembling Greek statues frozen in time.
+622 In 1930Creative Artjournal published this Walker Evans photograph to accompany architect Frank Lloyd Wrights essay on The Tyranny of the Skyscraper. Captioned What beauty the whole has is haphazard, this view encompasses a hodgepodge of architectural styles littering the skyline yet holding together in a tightly choreographed dance. The Lincoln Building, with its crenellated tower, appears in the center, literally eclipsed by the towering structures surrounding it, which cast it into deep shadow. At the lower left, a sliver of sunlight picks out two crane ladders, emphasizing their pivotal role in the work at hand.
+954 The turbulent life of the writer Henri Mrger originated and epitomized the durable myth of a starving artist struggling to survive in a garret in Paris. His friends were not-yet-famous poets, artists, writers, and musicians, and his short stories about their lives made him famous. These ironic accounts encapsulated and celebrated the bohemian milieu in which both Nadar and Mrger were conspicuous figures.Nadar and Mrgers lives were entwined throughout the 1840s, their deep friendship ending only when Mrger, weakened by hardship and dissipation at the age of forty, died in Nadars arms. Shortly afterwards Nadar joined two friends in writing a memorial book that included Mrgers letters. It may have been at this time that Nadar rephotographed his 1857 portrait of Mrger to make this tombstone-shaped print. Mrger appears much older than his thirty-five years, and his eyes are oddly wary as he looks toward the camera and one of his closest friends.
+962 In this figure study, a lightly sketched female personification of Truth removes a veil from the eyes of an allegorical figure. Holding symbols of earthly greed-a scepter and crown-the reclining figure represents intellectual and spiritual Blindness.Volterrano showed his great command of the red chalk technique with the figure of Blindness, shaped by soft, richly applied strokes. With sensitivity and economy, he added luminous highlights of white lead. To develop the boundaries of her body and define her relationship to other elements, Volterrano relied on more than contour. For instance, he used the paper, touches of lead white, and the chalk shading that defines the cushions to create the form of her left arm.Volterrano made this drawing for a fresco in a palazzo in Florence. In the fresco, Truth holds a book in her upraised left hand, and additional symbols of earthly greed, including two sacks of money, surround the jeweled figure of Blindness.
+1179 These coolers were designed to hold half-bottles of wine set in ice or cold water and probably once formed part of a large dinner service. With their fanciful chinoiserie scenes of gold and platinum pagodas on a black ground, the wine coolers imitate Chineselacquerwork. In the 1790s, elaborate vessels such as these were mainly purchased by wealthy clients outside of France, since theFrench Revolutionseverely reduced the number ofpatronsable to afford such luxurious objects.Scholars consider the rich decoration in gold and platinum on these wine coolers to be both rare and interesting. Only in the 1780s did porcelain makers at the Svres manufactory succeed in producing this deep blue-black ground by mixing oxides of iron, cobalt, andmanganese. In the 1770s and 1780s, the potters had experimented with silver decoration but found that it tarnished with time. Platinum thus became a more popular alternative in the 1790s, and craftsmen used it mainly to decorate objects with black or brown grounds. Artists also applied two colors of gold to these coolers--a yellowish and a more orangish shade--and further varied them by burnishing some areas and leaving others matte.
+457 An eighteenth-century clock such as this one was a collaborative effort of numerous craftsmen. The clockmaker, in this case the kings own clockmaker Julien Le Roy, produced only the movement. Le Roy would have commissioned a sculptor to design the elaborate model, a bronze caster to produce the bronze case, and a gilder to chase and gild it. The enamel clock dial was then painted and fired separately by a specialized enameler, Antoine-Nicolas Martinire.
+1161 A cut-away wall reveals a small bedroom where an angel appears to Pope Sergius in his sleep. The angel tells Sergius that the bishop Saint Lambert has been assassinated and Sergius is to appoint a new bishop, Saint Hubert. The angel holds a bishops miter and crozier formerly belonging to Saint Lambert. To the right, the Pope and two cardinals go out into a brick enclosure, meeting a lawyer or noble and a Franciscan friar, who both kneel before the papal retinue and present petitions requesting benefits or indulgences. In the far distance, on the steps of the early Saint Peters Cathedral, Pope Sergius presents Saint Hubert with the bishops miter and staff.The artists made an imaginative effort to recreate Rome as it would have appeared at that time. The depiction of minutely detailed objects and the ability to portray space in a convincing manner were among the major achievements of Netherlandish painters in the 1400s.The Dream of Pope Sergiusand its companion,The Exhumation of Saint Hubertin the National Gallery, London, were probably wings from a lost altarpiece that stood in the Chapel of Saint Hubert in the church of Saint Gudule, Brussels.
+742 The young musician stands holding his cello, with his bow poised as if playing. He looks directly at the photographer, posing proudly with his instrument, which fills the frame from top to bottom. Barely visible along the left edge of the photograph is the shoulder of another man eliminated by August Sanders cropping. In the full view of this image, the cellist stands with four other musicians. Their location outdoors suggests that the unidentified man may have been an itinerant musician, although with such a large instrument it is unlikely that he simply strolled the countryside. This working musician from the Siegerland iron-ore mining district of northwestern Germany was part of Sanders systematic documentation of German workers.
+830 In this simple yet dramaticcomposition, an angel leadsSaint Peterpast the sleeping guards, releasing him from King Herods imprisonment on the night before his trial. Early Christians traditionally regarded the episode as symbolic of the coming deliverance of the Church from persecution.With its elegantly posed figures, carefully drawn drapery, and delicate combination of black chalk and brownwash, this scene epitomizes Laurent de la Hyres refined, distinctive draftsmanship. Powerful lines representing supernatural light emanate from the angel and focus the viewers eye on the two protagonists. Silhouetted against this brilliant light, Saint Peters strong form resembles a three-dimensional statue. The bodies of the sleeping soldiers anchor the scene at the bottom, echoing the heavy, intersecting beams in the upper right.
+777 Carleton Watkins first photographed the base of the grizzly giant with Galen Clark, Yosemites caretaker, in 1861. At that time, fallen branches so large they were the size of ordinary trees surrounded the base of the giant sequoia. In this image, taken five years later, the area around the tree had been cleared, giving it a less rugged, more park-like appearance. Although Yosemite Valley attracted artists and wealthy travelers as early as the 1850s, Watkinss images helped to further promotevisitationto the site, especially after the completion of the transcontinental railroad in 1859.When Watkins displayed his images of the Big Trees at the 1867ParisInternational Exhibition, he added elegant redwood frames, providing a tactile hint of California for European viewers.
+828 With an approach completely different from that of his contemporaries, Jacobus Vrel captured the feeling of everyday life on a town street where tall buildings with shops and markets crowd out the sky and people have time to chat amidst the bricks and cobblestones.Never trained in the popular manner, Vrel did not useperspectiveand he never primed his canvases. His figures do not cast shadows. Yet his primitive, independent style imparts a naive intimacy and truth to the moments he chose for his panels. His humble approach, imbued with sincerity and compassion for the average person, shows sensitivity toward the quiet moments that make up the bulk of most peoples lives.This picture was once owned by Thophile Thor-Brger, who rediscovered Johannes Vermeer in the 1800s and believed that this panel was by Vermeer himself.
+577 Elaborately decorated with multi-colored panels of landscape scenes, this ewer and basin combine influences from a variety of sources. The ewers helmet shape copies a metalwork form, while the flowers decorating the stem and handle derive from Japanese ceramics.The painted scenes are attributed to Christian Friedrich Herold, who began working at the Meissen Porcelain Manufactory in 1726. He became a prominent painter there, specializing in landscapes. Both the ewer and basin are decorated with landscape and harbor scenes containing figures in contemporary European dress.
+1032 When Edmond de Goncourts novelLa Fille Elisa(The Girl Elisa) was published in March 1877, the tragic story of a girl who becomes a prostitute quickly caught Edgar Degass attention. Months later, he sketched several scenes from the book in his notebook, focusing on the episodes when the prostitute is with her soldier lover. Here the drunken pair have fallen asleep at a table with an empty wine bottle between them. Using hasty, seemingly careless strokes, Degas outlined the figures and their surroundings with a few slashing lines. The womans slumped posture and her companions open-mouthed sleep are both recorded in the most emphatic terms, without sacrificing either swiftness or spontaneity. Simply by smudging the pencil lines with his finger, Degas also created darker accents such as the shadows under the table, the crease of the prostitutes shoulder blades, and her black hair. This effect dissolves the bodys contours and emphasizes the womans dark form in contrast to the soldiers pale, empty figure in the background.
+542 Venus, goddess of beauty and love in ancient mythology, leans on a tree trunk to remove her remaining sandal. She turns inward, drawing the viewer in to examine her nude body. Carved fully in the round, the figure provides views from multiple angles.Along with statues ofMinervaandJuno, Venus illustrates the subject of the Judgment of Paris, drawn from ancient mythology, when Paris was asked to judge which of the three goddesses was the most beautiful. Venus, here carved in a satiny white marble and in the greatest state of undress, won.
+
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent
+100
+14 6 x 4 3/16 in.
+18 7 1/4 x 5 9/16 in.
+35 H:  19 x W:  15 1/4 x D:  8 1/4 in.
+18 7 1/2 x 8 7/16 in.
+19 4 5/8 x 5 13/16 in.
+33 1 ft. 2 1/8 in. x 8 in. x 3/8 in.
+13 3 7/8 x 3 in.
+15 12 7/8 x 10 in.
+23 Leaf: 6 1/2 x 4 5/8 in.
+19 8 1/16 x 12 3/8 in.
+40 H:  5 7/8 x W:  9 1/16 x D:  4 11/16 in.
+19 7 5/16 x 9 7/16 in.
+18 4 5/16 x 3 1/8 in.
+19 4 3/8 x 5 15/16 in.
+22 20 9/16 x 16 13/16 in.
+18 6 9/16 x 4 7/8 in.
+20 8 1/16 x 5 13/16 in.
+10 H:  24 in.
+17 5 7/8 x 4 1/8 in.
+19 12 5/8 x 20 5/8 in.
+20 16 9/16 x 11 5/8 in.
+21 10 1/16 x 6 13/16 in.
+21 10 1/16 x 6 13/16 in.
+21 14 5/16 x 10 5/16 in.
+14 6 x 4 3/16 in.
+19 6 3/16 x 5 5/16 in.
+17 4 1/2 x 3 1/4 in.
+20 15 1/16 x 11 5/8 in.
+18 9 1/2 x 12 1/2 in.
+13 8 x 8 1/8 in.
+19 15 5/8 x 12 5/8 in.
+18 9 1/8 x 6 9/16 in.
+19 16 1/2 x 51 1/4 in.
+20 12 5/8 x 16 1/16 in.
+15 18 x 13 1/4 in.
+19 21 1/8 x 30 1/8 in.
+18 5 5/16 x 7 7/8 in.
+17 6 5/8 x 4 1/2 in.
+9 3 x 3 in.
+19 24 1/2 x 20 1/4 in.
+18 6 9/16 x 4 7/8 in.
+18 10 3/8 x 7 1/4 in.
+18 9 1/16 x 6 5/8 in.
+18 3 7/16 x 3 1/4 in.
+19 10 5/16 x 7 7/8 in.
+21 15 1/8 x 12 13/16 in.
+19 14 3/8 x 10 3/8 in.
+18 2 7/16 x 2 1/8 in.
+9 3 x 3 in.
+19 9 3/4 x 7 13/16 in.
+20 13 9/16 x 9 3/16 in.
+18 11 1/4 x 8 7/8 in.
+19 18 7/8 x 13 3/4 in.
+17 6 5/8 x 4 1/2 in.
+34 H:  11 ft. 4 in. x W:  8 ft. 3 in.
+19 6 5/16 x 4 5/16 in.
+21 14 15/16 x 18 3/4 in.
+19 11 3/8 x 10 1/8 in.
+17 4 1/2 x 3 1/4 in.
+18 4 9/16 x 3 5/8 in.
+17 7 1/2 x 5 1/2 in.
+18 9 3/4 x 7 9/16 in.
+19 2 1/2 x 1 13/16 in.
+41 2 ft. 5 1/2 in. x 1 ft. 2 in. x 4 3/8 in.
+15 24 1/2 x 20 in.
+19 53 1/4 x 91 1/4 in.
+21 4 15/16 x 4 15/16 in.
+10 11 x 6 in.
+21 14 7/16 x 10 5/16 in.
+20 4 5/16 x 5 13/16 in.
+27 12 ft. 7 in. x 10 ft. 5 in.
+20 4 9/16 x 3 11/16 in.
+21 7 13/16 x 4 13/16 in.
+19 47 1/2 x 35 7/8 in.
+18 9 1/8 x 6 9/16 in.
+19 9 3/4 x 6 15/16 in.
+19 3 1/2 x 4 11/16 in.
+15 20 3/4 x 32 in.
+14 3 3/8 x 11 in.
+52 6 ft. 3 5/8 in. x 3 ft. 4 9/16 in. x 1 ft. 4 1/8 in.
+60 H: 18 in. x W [at base]: 12 3/8 in. x D [at base]: 7 7/8 in.
+13 7 7/8 x 6 in.
+18 2 3/4 x 2 5/16 in.
+20 16 9/16 x 11 5/8 in.
+18 9 1/8 x 6 9/16 in.
+18 8 5/8 x 6 7/16 in.
+15 9 x 13 7/16 in.
+19 4 1/2 x 4 15/16 in.
+18 7 1/16 x 5 1/4 in.
+15 11 3/8 x 16 in.
+19 11 5/16 x 9 3/8 in.
+20 8 1/16 x 5 13/16 in.
+17 3 3/4 x 2 1/4 in.
+18 9 1/8 x 6 9/16 in.
+19 7 11/16 x 5 7/8 in.
+11 11 x 14 in.
+17 8 5/8 x 7 3/4 in.
+19 7 15/16 x 6 1/8 in.
+19 11 3/4 x 15 7/8 in.
+21 38 3/16 x 51 9/16 in.
+
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink
+100
+51 www.getty.edu/art/collections/images/l/07000601.jpg
+51 www.getty.edu/art/collections/images/l/07002101.jpg
+51 www.getty.edu/art/collections/images/l/10962401.jpg
+51 www.getty.edu/art/collections/images/l/07001101.jpg
+51 www.getty.edu/art/collections/images/l/04453301.jpg
+51 www.getty.edu/art/collections/images/l/01511001.jpg
+51 www.getty.edu/art/collections/images/l/06679601.jpg
+51 www.getty.edu/art/collections/images/l/06615101.jpg
+51 www.getty.edu/art/collections/images/l/13370401.jpg
+51 www.getty.edu/art/collections/images/l/00393701.jpg
+51 www.getty.edu/art/collections/images/l/00141901.jpg
+51 www.getty.edu/art/collections/images/l/05259801.jpg
+51 www.getty.edu/art/collections/images/l/13691401.jpg
+51 www.getty.edu/art/collections/images/l/00798401.jpg
+51 www.getty.edu/art/collections/images/l/00660001.jpg
+51 www.getty.edu/art/collections/images/l/10870201.jpg
+51 www.getty.edu/art/collections/images/l/00030101.jpg
+51 www.getty.edu/art/collections/images/l/26552501.jpg
+51 www.getty.edu/art/collections/images/l/06933201.jpg
+51 www.getty.edu/art/collections/images/l/05199401.jpg
+51 www.getty.edu/art/collections/images/l/13406601.jpg
+51 www.getty.edu/art/collections/images/l/14520401.jpg
+51 www.getty.edu/art/collections/images/l/06459201.jpg
+51 www.getty.edu/art/collections/images/l/00429301.jpg
+51 www.getty.edu/art/collections/images/l/10519501.jpg
+51 www.getty.edu/art/collections/images/l/19788301.jpg
+51 www.getty.edu/art/collections/images/l/00067401.jpg
+51 www.getty.edu/art/collections/images/l/00486101.jpg
+51 www.getty.edu/art/collections/images/l/00479401.jpg
+51 www.getty.edu/art/collections/images/l/30764901.jpg
+51 www.getty.edu/art/collections/images/l/00047401.jpg
+51 www.getty.edu/art/collections/images/l/00056401.jpg
+51 www.getty.edu/art/collections/images/l/04070001.jpg
+51 www.getty.edu/art/collections/images/l/23392601.jpg
+51 www.getty.edu/art/collections/images/l/00045401.jpg
+51 www.getty.edu/art/collections/images/l/01505201.jpg
+51 www.getty.edu/art/collections/images/l/00020501.jpg
+51 www.getty.edu/art/collections/images/l/05328101.jpg
+51 www.getty.edu/art/collections/images/l/06123401.jpg
+51 www.getty.edu/art/collections/images/l/13634801.jpg
+51 www.getty.edu/art/collections/images/l/06146101.jpg
+51 www.getty.edu/art/collections/images/l/00140101.jpg
+51 www.getty.edu/art/collections/images/l/00134801.jpg
+51 www.getty.edu/art/collections/images/l/13416801.jpg
+51 www.getty.edu/art/collections/images/l/00037201.jpg
+51 www.getty.edu/art/collections/images/l/25866701.jpg
+51 www.getty.edu/art/collections/images/l/00064101.jpg
+51 www.getty.edu/art/collections/images/l/06856901.jpg
+51 www.getty.edu/art/collections/images/l/11232101.jpg
+51 www.getty.edu/art/collections/images/l/24922301.jpg
+51 www.getty.edu/art/collections/images/l/01284201.jpg
+51 www.getty.edu/art/collections/images/l/00086001.jpg
+51 www.getty.edu/art/collections/images/l/06267401.jpg
+51 www.getty.edu/art/collections/images/l/04055101.jpg
+51 www.getty.edu/art/collections/images/l/05234001.jpg
+51 www.getty.edu/art/collections/images/l/00072701.jpg
+51 www.getty.edu/art/collections/images/l/10515901.jpg
+51 www.getty.edu/art/collections/images/l/00092201.jpg
+51 www.getty.edu/art/collections/images/l/05255501.jpg
+51 www.getty.edu/art/collections/images/l/00238301.jpg
+51 www.getty.edu/art/collections/images/l/00193601.jpg
+51 www.getty.edu/art/collections/images/l/00630401.jpg
+51 www.getty.edu/art/collections/images/l/00658101.jpg
+51 www.getty.edu/art/collections/images/l/00481101.jpg
+51 www.getty.edu/art/collections/images/l/05252001.jpg
+51 www.getty.edu/art/collections/images/l/00114501.jpg
+51 www.getty.edu/art/collections/images/l/11225201.jpg
+51 www.getty.edu/art/collections/images/l/13510201.jpg
+51 www.getty.edu/art/collections/images/l/00666501.jpg
+51 www.getty.edu/art/collections/images/l/00017501.jpg
+51 www.getty.edu/art/collections/images/l/06406101.jpg
+51 www.getty.edu/art/collections/images/l/04590101.jpg
+51 www.getty.edu/art/collections/images/l/00485601.jpg
+51 www.getty.edu/art/collections/images/l/07124501.jpg
+51 www.getty.edu/art/collections/images/l/00021901.jpg
+51 www.getty.edu/art/collections/images/l/04856001.jpg
+51 www.getty.edu/art/collections/images/l/23402201.jpg
+51 www.getty.edu/art/collections/images/l/26551901.jpg
+51 www.getty.edu/art/collections/images/l/13803901.jpg
+51 www.getty.edu/art/collections/images/l/13615301.jpg
+51 www.getty.edu/art/collections/images/l/00289901.jpg
+51 www.getty.edu/art/collections/images/l/13412101.jpg
+51 www.getty.edu/art/collections/images/l/00057501.jpg
+51 www.getty.edu/art/collections/images/l/00636301.jpg
+51 www.getty.edu/art/collections/images/l/13695101.jpg
+51 www.getty.edu/art/collections/images/l/00421301.jpg
+51 www.getty.edu/art/collections/images/l/00007001.jpg
+51 www.getty.edu/art/collections/images/l/00146201.jpg
+51 www.getty.edu/art/collections/images/l/10520501.jpg
+51 www.getty.edu/art/collections/images/l/13370201.jpg
+51 www.getty.edu/art/collections/images/l/00390801.jpg
+51 www.getty.edu/art/collections/images/l/00427001.jpg
+51 www.getty.edu/art/collections/images/l/26634701.jpg
+51 www.getty.edu/art/collections/images/l/23182901.jpg
+51 www.getty.edu/art/collections/images/l/31788601.jpg
+51 www.getty.edu/art/collections/images/l/00666701.jpg
+51 www.getty.edu/art/collections/images/l/06524501.jpg
+51 www.getty.edu/art/collections/images/l/00012301.jpg
+51 www.getty.edu/art/collections/images/l/04753901.jpg
+51 www.getty.edu/art/collections/images/l/05321001.jpg
+
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson
+100
+7 Italian
+7 Italian
+7 Flemish
+6 French
+6 French
+8 American
+8 American
+6 French
+7 Italian
+7 Flemish
+6 French
+6 French
+7 Flemish
+7 Flemish
+7 Flemish
+7 Flemish
+6 French
+5 Dutch
+8 American
+7 Flemish
+6 German
+7 Italian
+8 Austrian
+6 French
+7 Flemish
+6 French
+6 French
+7 Spanish
+8 American
+8 American
+8 Egyptian
+7 Flemish
+7 Italian
+7 Italian
+8 American
+5 Greek
+8 American
+6 French
+6 French
+6 French
+7 Flemish
+8 American
+21 Flemish and Hungarian
+6 French
+7 Flemish
+5 Dutch
+6 French
+7 Spanish
+8 Scottish
+7 Italian
+7 Italian
+7 Italian
+7 Flemish
+6 French
+7 Flemish
+6 French
+7 Mexican
+7 Italian
+5 Dutch
+5 Dutch
+7 Italian
+8 American
+8 American
+6 French
+8 American
+7 Flemish
+7 Italian
+17 French or Swedish
+6 French
+7 British
+5 Dutch
+8 Scottish
+6 French
+6 French
+8 American
+7 Italian
+6 German
+7 Italian
+7 British
+7 Flemish
+7 Mexican
+6 French
+7 Flemish
+7 Italian
+7 Italian
+6 German
+6 French
+6 French
+8 American
+7 Mexican
+6 French
+6 French
+5 Dutch
+6 French
+7 Flemish
+7 Spanish
+6 French
+8 American
+7 Italian
+7 Flemish
+
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium
+100
+75 Pen and india ink, graywash, heightened with white bodycolor, over graphite
+29 Solarizedgelatin silver print
+56 Temperacolors,gold leaf, gold paint, and ink onparchment
+13 Oil on copper
+47 Tempera colors, gold leaf, and ink on parchment
+16 Cibachrome print
+56 Temperacolors, gold paint,gold leaf, and ink onparchment
+17 Glass stereograph
+51 Temperacolors,gold leaf, and gold paint onparchment
+47 Pen and brown ink with gray wash over red chalk
+6 Bronze
+53 Pen and black ink and gray wash, incised for transfer
+48 Pen and dark brown ink, watercolor, andbodycolor
+13 Daguerreotype
+20 Gelatin silver print
+20 Gelatin silver print
+56 Temperacolors,gold leaf, gold paint, and ink onparchment
+13 Oil on canvas
+8 Graphite
+44 Temperacolors,gold leaf, and ink onparchment
+21 10 1/16 x 6 13/16 in.
+45 Pen and brown ink, brownwash, and black chalk
+39 Salt-fixedcalotypefrom a paper negative
+13 Albumen print
+13 Oil on canvas
+63 Soft-paste porcelain, dark blue(beau bleu)ground color, gilding
+13 Oil on canvas
+17 Biscuit porcelain
+17 Encaustic on wood
+20 Gelatin silver print
+20 Gelatin silver print
+42 Pen and brown ink, brown and blue-graywash
+23 Gravure half-tone print
+76 Pen and brown ink, brownwash, and whiteheighteningover traces of black chalk
+20 Gelatin silver print
+30 Black chalk on blue-gray paper
+13 Oil on canvas
+94 Hard paste porcelain, blue (bleu nouveau) ground color;rouge griottemarble; gilt bronze mounts
+20 Gelatin silver print
+20 Albumen silver print
+13 Daguerreotype
+12 Oil on panel
+59 Tempera colors, gold paint, gold leaf, and ink on parchment
+21 10 1/16 x 6 13/16 in.
+13 Daguerreotype
+10 Terracotta
+21 Polychromedterracotta
+39 Stoneware; silver-gilt mounts and chain
+56 Temperacolors,gold leaf, gold paint, and ink onparchment
+74 Polaroid Polacolor ER print with tape, ink, and paint, mounted to foamcore
+18 Salted paper print
+10 Terracotta
+20 Gelatin silver print
+9 Red chalk
+13 Daguerreotype
+21 10 1/16 x 6 13/16 in.
+103 Temperacolors,gold leaf, and gold paint onparchmentbound between wood boards covered with white pigskin
+21 Gelatin silver prints
+78 Black chalk, pen and brown ink, and brown wash, with white gouache heightening
+24 Graphite and white chalk
+19 18 7/8 x 13 3/4 in.
+23 Brown wash and graphite
+20 Gelatin silver print
+9 Red chalk
+10 Salt print
+20 Gelatin silver print
+46 Temperacolors, gold paint, and ink onparchment
+13 Oil on canvas
+13 Albumen print
+44 Pen and brown ink with traces of black chalk
+60 Pen and brown ink, with brown and graywash, over black chalk
+10 Giltbronze
+6 Marble
+39 Tin-glazedearthenware with silverluster
+8 Graphite
+51 Temperacolors,gold leaf, and gold paint onparchment
+20 Gelatin silver print
+13 Silk and wool
+20 Gelatin silver print
+29 Tempera and gold on parchment
+20 Gelatin silver print
+6 Marble
+41 Tempera colors and gold leaf on parchment
+20 Gelatin silver print
+46 Temperacolors, gold paint, and ink onparchment
+83 Pen and brown ink, brush with brown wash, over black chalk and touches of red chalk
+56 Temperacolors,gold leaf, gold paint, and ink onparchment
+13 Oil on canvas
+35 Wool and silk; modern cotton lining
+56 Temperacolors, gold paint,gold leaf, and ink onparchment
+50 Temperacolors, gold paint, andgold leafonparchment
+6 Silver
+20 Gelatin silver print
+18 9 1/8 x 6 9/16 in.
+18 Dye transfer print
+55 Pen and brown ink and brown wash, traces of black chalk
+46 Temperacolors, gold paint, and ink onparchment
+33 Giltbronze; enameled metal; glass
+36 Salt-fixedphotogenic drawingnegative
+20 Gelatin silver print
+
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title
+100
+11 Saint-Cloud
+13 The Milliners
+33 Ruins of an Imperial Palace, Rome
+45 Mechanical Reading, Writing, and Toilet Table
+141 Tapestry: Jupiter Transformed into Diana to Take Advantage of Callisto with Vertumnus and Pomona, from the Hangings of Franois Boucher Series
+5 Table
+39 Kiosk and Street Fair, Fte du Vaugirard
+18 Wine Cup with Eyes
+27 Head-On View of Seated Lion
+12 Saint Andrew
+20 Lidded Bowl and Dish
+12 Battle Scene
+27 The Vicomtesse de Vaudreuil
+18 Mythological Scene
+19 Decorated Text Page
+27 Long Case Clock (Rgulateur)
+15 Saint Sebastian
+13 Pair of Vases
+14 Arenberg Hours
+15 Subway Portrait
+38 Initial G: Saint George and the Dragon
+5 Dolls
+54 The Good But Not Very Good are Nourished by a Fountain
+36 Tabernacle Door with the Crucifixion
+55 Study for a Ceiling with the Virgin and Christ in Glory
+29 Project for a Wall Decoration
+12 Watering Can
+39 A Female Saint Contemplating a Crucifix
+44 Brothel, Versailles, Petit Place, March 1921
+13 Console Table
+46 Mary Magdalene with a Book and an Ointment Jar
+12 Engraved Gem
+33 Arles:  View from the Wheatfields
+11 Storage Jar
+12 Fire Workers
+12 Bridal Scene
+23 Study of the Good Thief
+50 Dido Excoriates Aeneas, from Book IV of the Aeneid
+35 The Arch of Septimius Severus, Rome
+15 Subway Portrait
+30 Wine Cup with Flirtation Scene
+12 The Terminal
+42 Charles the Bold Presented by Saint George
+16 Cabinet on Stand
+28 Rrose Slavy (Marcel Duchamp)
+25 Portrait of a Young Woman
+41 Chicks Candy Store, Pitt Street, New York
+36 The deRegny Children and Their Nanny
+10 All Saints
+56 Portrait of Leonilla, Princess of Sayn-Wittgenstein-Sayn
+26 Railroad Down the Mountain
+57 Mechanics Institute Exhibition, San Francisco, California
+36 The Martyrdom of Saint Thomas Becket
+27 The Throne of Grace Trinity
+16 Bowl with Medusa
+30 Initial O: Madonna of Humility
+25 Three Studies of a Bowman
+28 Ludovic Lepic at the Theatre
+9 Manhattan
+15 A Day and Night
+9 Secrtaire
+36 Covered Welcome Beaker (Wilkommglas)
+84 Tapestry: The Harvesting of Pineapples from The Story of the Emperor of China Series
+17 The Apostle Simon
+64 Alexanders Illness at the Cydnus River and the Death of Sisinnes
+30 Wall Clock (Pendule  Rptition)
+20 The Virgin and Child
+35 Wine Jug with a Drunken Man Singing
+15 Architects Wife
+38 Forest Landscape with a Distant Castle
+15 Subway Portrait
+23 The Arno with Fishermen
+28 A Centennial of Independence
+25 Group at Junction, Kansas
+26 Self-Portrait with Newsboy
+61 Still Life with Peaches, a Silver Goblet, Grapes, and Walnuts
+4 Tree
+11 Blacksmiths
+47 Islate de Injusticia en la gran Ciudad de Mxico
+16 Circus Man, Nice
+13 Book of Hours
+22 Saint John the Baptist
+25 The Vision of Saint Bruno
+19 Portrait of a Woman
+36 Solar Eclipse from Mount Santa Lucia
+12 Nude Studies
+44 The Murder of King Servius by His Son-in-Law
+53 Portrait of Pope Clement VIII (Ippolito Aldobrandini)
+83 Half-Length Figure of a Magus; verso, A Seated Ruler Half-Length Carrying a Scepter
+13 Saint Dominic
+25 The Education of Achilles
+88 The Sons of Artaxerxes, King of the Persians, Killed for Conspiring Against Their Father
+20 Miss Elizabeth Rigby
+19 Decorated Text Page
+59 The Putrefaction of the Flesh of the Dying Emperor Galerius
+15 Architects Wife
+26 Bench/Comics, Elliot Point
+48 Cuisine (Kitchen): From the Portfolio Electricit
+16 Woman with Claws
+35 Wine Cup with Dionysos and an Actor
+
+383
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber alpha_id_PA 3.587002692951579
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber after_decimal_len_1 7.665160896913459
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber after_decimal_len_2 10.11348353903037
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber after_decimal_len_0 -5.659501739757123
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber after_decimal_len_3 20.063701210685764
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber symbol_. 9.304912725988881
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber symbol_, 15.279886031104144
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber alpha_id_MS 16.261185990587222
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber tenth_place_digit_1 13.923645509622878
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber tenth_place_digit_5 1.8612272746404053
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber tenth_place_digit_4 1.9624393679446206
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber tenth_place_digit_7 3.100317836500162
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber tenth_place_digit_6 4.22599944235979
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber all_capitalized_token 32.25684806424336
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber alpha_id_GA 2.5482247763435026
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber alpha_id_DK 0.9536615896744776
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber alpha_id_FOL 13.237357953706953
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber alpha_id_DE 2.278853718069459
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber unit_place_digit_6 -12.333540403751647
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber unit_place_digit_5 -4.958962101755251
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber unit_place_digit_7 -3.6893292933706014
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber alpha_id_IX 3.1108587291578034
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber unit_place_digit_1 -7.809658967433675
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber unit_place_digit_4 -8.147702206773097
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber before_decimal_len_0 28.928346970056207
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber before_decimal_len_1 -15.555710015057542
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber before_decimal_len_2 13.025215769203813
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber before_decimal_len_3 2.9766410688302853
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber alpha_id_XM 8.865782105165977
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber alpha_id_XO 0.6105687155236857
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber num_len_4 -2.8407058997209345
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber num_len_3 13.09012460786066
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber num_len_8 3.7507739463804555
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber num_len_2 13.025215769203813
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber starts_with_char_D 2.136047261002715
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber starts_with_char_A -3.477010317285555
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber starts_with_char_M 11.07349495876751
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber starts_with_char_G -0.0671299649211814
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber starts_with_char_F 11.418121054217377
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber starts_with_char_S -1.7133216013321708
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber starts_with_char_P 3.3500927868104413
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber starts_with_char_V 7.73246843502804
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber starts_with_char_X 13.093901542248435
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber starting_digit_8 3.2647052297776584
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber starting_digit_3 -7.3381152671717995
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber starting_digit_1 -30.303836588776687
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber starting_digit_9 -3.180942407910289
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber alpha_length_6 -4.063315858662852
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber alpha_length_3 9.407979736889414
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber alpha_length_2 12.585029684837124
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson symbol_. -12.428084597129963
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Pippi 2.385735651352442
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Pierre 2.3677483973434663
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_William 5.098640606673601
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_o -4.8978894215487365
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson all_capitalized_token 4.099753192344789
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_v 0.3597137353519414
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_C 10.760866908098414
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_B 13.999329132471226
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_E 14.20950907591205
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_A 4.859950483846748
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_J 16.49674175494551
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_M 21.777100570857534
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Huysum 2.146187329788258
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_G 7.809004857540186
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_H 11.164061218871725
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_R 11.452828792582709
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_N 0.8348568362789124
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_P 11.154483523944986
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_W 20.048433601788762
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Ray 5.732649811072561
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_James 4.528802346673878
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Simon 3.620747705850931
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Andy 2.3684068097185373
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_length_8 4.777243528057363
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_length_9 5.81709791460725
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_IV 4.528802346673878
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_length_7 9.557604808534762
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_length_6 12.966690833347092
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_length_5 -8.7302524426552
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_length_4 1.9829847675217975
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_length_3 4.956213243649249
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_length_2 -18.050420281730567
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Manufactory 2.3382086179441197
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Edgar 1.2269844099920393
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Gobelins 2.338208617944124
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_van 11.619879252271087
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Brockhurst 3.382953385043153
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Hippolyte 3.5384329849374416
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Jacopo 4.737321810011876
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Eynard 4.295384024402313
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Vrelant 2.3685201269961995
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Master 28.35579757921117
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Psalter 7.5294474193530165
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Man 5.732649811072561
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Gabriel 4.295384024402313
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_of 2.231903732788826
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson capitalized_token 14.310568386459966
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Warhol 2.3684068097185373
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Berlin 3.3419082547206296
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created after_decimal_len_0 28.6933724265306
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created num_len_5 0.39385565929865046
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created num_len_4 30.19115062067632
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created num_len_3 0.8771235063622044
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created symbol_- 10.066603917904144
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created starts_with_char_s -9.62324549552579
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created starting_digit_- 0.39385565929865746
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created alpha_id_s -1.8582627061810981
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created starting_digit_5 2.778101079600187
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created starting_digit_1 25.915271521876765
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created unit_place_digit_6 2.6696839703539497
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created unit_place_digit_5 0.48903980594212365
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created unit_place_digit_8 3.340940193499229
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created unit_place_digit_7 1.989025296601484
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created unit_place_digit_9 2.0750931363836727
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created unit_place_digit_0 8.573419327625919
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created unit_place_digit_1 1.9048868370612484
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created unit_place_digit_2 6.396268311294314
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created unit_place_digit_3 4.151734039221098
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created unit_place_digit_4 4.19133526897928
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created before_decimal_len_4 27.01703485972105
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created before_decimal_len_5 0.39385565929865746
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created alpha_length_1 -11.150205828868003
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created before_decimal_len_3 0.8771235063622072
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_German 0.7059075269475764
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_new 1.413318471641843
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_form 4.395516316758611
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_Brussels 1.4122712735543195
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_guns 2.090297448835159
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_putti 1.4118150538951877
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_emanating 0.7059075269475767
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_one 19.158605684000264
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_length_12 34.23864470873324
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_length_13 16.732975906682004
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_figures 5.806053975980508
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_documentary 0.7059076346297418
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_Never 0.705907539868015
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_the 42.76931262825162
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_sacred 1.491909154152473
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_promotevisitationto 1.491909154202324
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_Fontainebleau 0.7059075271341717
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_length_7 20.50972731192888
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_length_5 -1.832847589317521
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_length_3 -9.000406135007164
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_length_1 5.370629383933788
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_Another 1.4919091540850737
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_he 19.007640487393004
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_go 2.031212462006717
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_was 23.14900304757901
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_vacationing 0.7059075271341717
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_again 1.4128622519826792
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description starts_with_char_b 50.18321019330271
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description starts_with_char_a 12.669205654182077
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_their 12.26527251831521
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description starts_with_char_u 27.223832399963335
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description starts_with_char_r 49.095199677458645
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description starts_with_char_n 38.857403446802145
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description starts_with_char_C 14.651354532572288
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description starts_with_char_J 6.793826424498551
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description starts_with_char_I 25.636802734813635
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description starts_with_char_V 7.4116065296157645
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_sleeping 0.7059075875407775
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_chasing 1.491909154152473
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_All 2.1978166811001025
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_The 29.292790639960927
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_boulevard 0.7059075269475773
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_Dominique 1.4917920481177822
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_that 25.31976525078451
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_established 0.7059075269475773
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_Science 1.491909154152473
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_John 1.4919091540850737
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_figure 6.426389604480572
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_sensitive 0.7059075271341717
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_cheese 0.7059075269475767
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent after_decimal_len_0 -25.82612812715518
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent symbol_[ 0.5785865450348889
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent symbol_] 0.5785865450348889
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent symbol_/ 15.5678975147283
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent symbol_. -2.384043092303742
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent symbol_: 6.537397732319732
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent all_capitalized_token -19.762073248351975
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent unit_place_digit_6 4.06079665359621
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent unit_place_digit_5 5.860646401118105
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent unit_place_digit_8 10.58597147164574
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent unit_place_digit_7 1.0082593379088032
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent unit_place_digit_9 2.7804642500040466
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent unit_place_digit_0 -7.335533498888709
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent unit_place_digit_1 2.6454567456803897
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent unit_place_digit_2 0.7629336588991487
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent unit_place_digit_3 -4.584459962517242
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent unit_place_digit_4 7.1134565288235505
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent before_decimal_len_1 14.55275929237979
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent before_decimal_len_2 -4.71990838285504
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent alpha_id_Leaf 0.57838040643044
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent capitalized_token 0.578380406254365
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent num_len_1 14.55275929237979
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent num_len_2 -4.71990838285504
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starts_with_char_b 0.5785865450348888
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starts_with_char_a 0.5559532246708944
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starts_with_char_i 23.33704748178304
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starts_with_char_f 1.5630993511279232
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starts_with_char_x 19.54164085489567
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starts_with_char_D -1.0399539739280668
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starts_with_char_L -0.8187309278629742
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starts_with_char_H 5.959017325888492
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starts_with_char_W 2.1409773786379307
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starting_digit_8 1.5271153985568209
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starting_digit_7 4.835308043841334
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starting_digit_6 -4.476257930045922
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starting_digit_5 8.531878899378116
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starting_digit_4 8.369393075059788
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starting_digit_3 7.697089200514333
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starting_digit_2 8.422939318274032
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starting_digit_1 -9.467726166563784
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starting_digit_9 4.696312110312891
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent alpha_length_4 0.46220395032083644
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent alpha_length_2 -2.3614097722054725
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent alpha_length_1 18.891354532690503
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent alpha_id_W 2.1409773786379356
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent alpha_id_H 5.959017325889292
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent alpha_id_D 1.1569669514889576
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent alpha_id_in 23.359680802147032
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent alpha_id_ft 1.5630993511279234
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent alpha_id_x 19.54164085489567
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink after_decimal_len_0 18.379908337152084
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink symbol_/ 27.892956619302296
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink symbol_. 6.8095693026182715
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink before_decimal_len_8 27.89302728996622
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink unit_place_digit_1 24.74872869610529
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_length_11 8.721977291382627
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_jpg 27.89302728996622
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink num_len_8 27.575314060537913
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_www 27.89302728996622
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starts_with_char_e 9.953837676637844
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starts_with_char_c 6.4826721957247715
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starts_with_char_a 3.7311558916562837
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starts_with_char_l 4.8968469063638125
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starts_with_char_j 24.37549653950257
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starts_with_char_i 2.944847593175167
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starts_with_char_g 6.822751570303703
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starts_with_char_w 8.381879279257898
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starting_digit_0 21.198700740374324
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starting_digit_2 1.127712329890399
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starting_digit_1 -3.479611209174831
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_length_6 7.268673746116845
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_length_5 5.258075383796958
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_length_3 2.1591526201738116
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_length_1 9.167574191190713
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_getty 27.89302728996622
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_collections 27.89302728996622
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_l 27.89302728996622
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_images 26.3210240353698
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_art 27.10702555507914
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_edu 27.89302728996622
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson alpha_id_Spanish 4.299730263396049
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson alpha_id_Scottish 4.019876745369568
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson starts_with_char_a -0.08644105995745943
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson starts_with_char_o -1.7183982456349787
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson alpha_id_and 1.7247545825389872
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson starts_with_char_D 7.552936362869335
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson starts_with_char_A 0.06041313313975183
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson starts_with_char_G -6.191094810992987
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson starts_with_char_F 18.998287670019497
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson starts_with_char_I 9.810451287305634
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson starts_with_char_H -4.108814243925888
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson starts_with_char_S -1.914589856335335
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson alpha_id_German 9.035336089124822
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson alpha_id_Swedish 1.123049097217215
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson alpha_id_American 13.215136539655228
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson alpha_id_Hungarian 1.73928569914769
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson alpha_id_Flemish 11.845870660987366
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson alpha_id_Italian 11.233544973255315
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson alpha_id_French 16.844403482511837
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson alpha_id_or 1.123049097217215
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson capitalized_token 24.921323656295673
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson alpha_id_Dutch 14.492757029889056
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson alpha_length_8 1.8875949164638475
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson alpha_length_9 -8.55916162126238
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson alpha_length_7 6.122225535860139
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson alpha_length_6 4.055284823808049
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson alpha_length_5 -1.8692941278105883
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson alpha_length_3 -5.776030479442197
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson alpha_length_2 -1.9920584375662527
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_colors 1.2003481537736196
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium symbol_- -2.6459531239166654
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium symbol_, 8.226612862868864
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium num_len_1 9.385115137397305
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium num_len_2 8.152465415306455
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium symbol_; 1.5709869871590525
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_print 14.414625112085519
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_brown 8.031627402789299
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_b 3.7095119911817935
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_m -3.7338904307707215
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_l 0.09491565113097172
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_i 19.711098234496404
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_f -2.415995628422245
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_t -3.0314042498745892
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_s 5.839367960558343
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_p 20.42558675866603
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_w 6.128345481166401
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_enameled 2.1693752535422326
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_S -3.870531691321713
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_T 3.1755243874534194
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_O 5.500082808582854
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_P 7.058157693362894
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_wool 1.5473544705063822
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starting_digit_8 2.052635453035282
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starting_digit_6 7.816048166323107
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starting_digit_1 7.55251204811555
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_transfer 1.5813564133666118
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_length_8 -1.5079298607384064
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium unit_place_digit_1 5.502750557713401
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium unit_place_digit_3 8.906845073387924
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium unit_place_digit_4 1.656854845410145
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_length_12 -1.4543547063755218
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_length_17 3.253026627497734
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_pen 1.2003481535486045
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_length_7 1.8852501106745845
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_length_6 1.1064483621831855
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_length_5 16.83044813977698
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_length_3 14.456892599630859
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium before_decimal_len_1 9.385115137397305
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_length_2 11.532578331715717
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_length_1 3.658752571339658
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_graywash 2.400696307098156
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_onparchment 6.00174077023476
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_black 6.613899214297572
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_and 13.364671961702367
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_x 8.799291180736931
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_of -5.626678834400203
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_chalk 9.23197622395454
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_on 6.699142789865739
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium capitalized_token 24.176115026520392
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Rigby 0.8896048928487077
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Study 0.974590281893521
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title symbol_) 2.176431085914608
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title symbol_, 2.715085743229862
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_View 0.8281363951851552
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_the 5.724482960358135
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Studies 0.41397197523807
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_a 5.237582169101813
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_f 1.43418142690518
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_t 5.395487116680873
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_o 5.095592314053274
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title all_capitalized_token 4.015240000621581
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Christ 0.5606183066554127
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_C 8.471537146411665
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_B 3.6402876397441184
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_E 3.5606244518441024
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_A 3.971859162532383
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_L 3.002226741365356
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_I 3.1092459813850595
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_H 1.1441315337694162
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_S 8.676496129202855
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_T 6.487626652828032
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_P 7.4277102580164724
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_On 0.41397197523800944
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Group 0.5557604018471854
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_with 3.7344367883415437
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Bench 0.8895127876614914
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Initial 1.720739475241989
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_length_9 4.923528414683709
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_His 0.5606449541861326
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Wife 1.352080132418749
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_length_10 2.429296196181408
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_length_11 1.5103863878047599
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_length_7 9.378504048107386
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_length_6 8.657558436617833
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_length_5 12.620033480388521
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_length_4 12.529345474641499
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_length_3 9.20978862819558
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_length_2 8.567257372841716
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_a 2.293404142960164
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_for 0.5606183066126211
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Scene 0.4141203945071197
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_in 0.7922674187388987
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Injusticia 0.4139727516905147
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_The 5.095314656876016
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Ippolito 0.8896136992156707
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Servius 0.5606449541861326
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_of 5.968835838736844
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title capitalized_token 21.586532159189613
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Law 0.5606449541861326

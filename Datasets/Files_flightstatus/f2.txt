@@ -1,0 +1,2970 @@
+8
+
+flight:airline
+368
+15 United Airlines
+15 United Airlines
+15 United Airlines
+15 United Airlines
+15 United Airlines
+15 United Airlines
+15 United Airlines
+15 United Airlines
+15 United Airlines
+15 United Airlines
+15 United Airlines
+15 United Airlines
+15 United Airlines
+15 United Airlines
+15 United Airlines
+15 United Airlines
+15 United Airlines
+15 United Airlines
+15 United Airlines
+15 United Airlines
+15 United Airlines
+15 United Airlines
+15 United Airlines
+15 United Airlines
+15 United Airlines
+15 United Airlines
+15 United Airlines
+15 United Airlines
+15 United Airlines
+15 United Airlines
+15 United Airlines
+15 United Airlines
+15 United Airlines
+15 United Airlines
+15 United Airlines
+15 United Airlines
+15 United Airlines
+18 Northwest Airlines
+17 American Airlines
+15 Alaska Airlines
+18 Northwest Airlines
+15 Alaska Airlines
+15 Alaska Airlines
+15 Alaska Airlines
+15 Alaska Airlines
+15 Alaska Airlines
+15 United Airlines
+15 Alaska Airlines
+15 Alaska Airlines
+18 Northwest Airlines
+15 United Airlines
+15 Alaska Airlines
+17 American Airlines
+15 Alaska Airlines
+15 Alaska Airlines
+15 Alaska Airlines
+15 Alaska Airlines
+18 Northwest Airlines
+15 Alaska Airlines
+15 Alaska Airlines
+15 Alaska Airlines
+15 Alaska Airlines
+18 Northwest Airlines
+17 American Airlines
+18 Northwest Airlines
+15 Alaska Airlines
+15 Alaska Airlines
+15 Alaska Airlines
+15 Alaska Airlines
+15 Alaska Airlines
+15 United Airlines
+15 Alaska Airlines
+15 United Airlines
+18 Northwest Airlines
+15 Alaska Airlines
+18 Northwest Airlines
+17 American Airlines
+18 Northwest Airlines
+18 Northwest Airlines
+15 Alaska Airlines
+15 Alaska Airlines
+15 United Airlines
+15 United Airlines
+15 Alaska Airlines
+18 Northwest Airlines
+15 United Airlines
+15 Alaska Airlines
+15 United Airlines
+15 Alaska Airlines
+15 Alaska Airlines
+15 United Airlines
+15 Alaska Airlines
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+
+flight:flightnumber
+368
+3 839
+2 71
+3 886
+1 5
+4 5217
+2 53
+4 1472
+4 1485
+4 6551
+4 1483
+3 858
+2 43
+3 215
+4 2657
+4 1876
+4 1412
+3 191
+4 1503
+4 5217
+4 1505
+4 1532
+2 11
+2 61
+2 55
+2 59
+2 29
+4 1481
+2 15
+4 7715
+2 19
+2 17
+4 1540
+3 306
+4 1425
+2 25
+3 791
+3 993
+4 1125
+4 3999
+3 558
+4 1119
+3 884
+3 104
+3 146
+3 202
+3 102
+3 198
+3 144
+3 104
+4 1125
+4 1237
+4 2475
+4 4316
+3 580
+3 884
+3 550
+3 822
+4 1123
+3 104
+3 884
+3 316
+3 144
+4 1129
+4 1033
+4 1119
+3 116
+3 140
+3 562
+3 884
+3 498
+3 156
+3 112
+3 156
+4 1980
+4 1290
+4 4149
+3 493
+4 1129
+4 1980
+3 498
+3 453
+3 198
+3 993
+3 596
+4 1121
+3 239
+3 884
+3 239
+3 816
+3 520
+3 729
+3 202
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+
+flight:airport
+368
+27 "New York-Kennedy NY (JFK)"
+27 "New York-Kennedy NY (JFK)"
+26 "Osaka Kansai Japan (KIX)"
+27 "New York-Kennedy NY (JFK)"
+27 "New York-Kennedy NY (JFK)"
+22 "Los Angeles CA (LAX)"
+20 "Las Vegas NV (LAS)"
+20 "Las Vegas NV (LAS)"
+18 "Phoenix AZ (PHX)"
+20 "Las Vegas NV (LAS)"
+30 "Shanghai Pu Dong China (PVG)"
+17 "Denver CO (DEN)"
+26 Washington DC-Dulles (IAD)
+18 "Phoenix AZ (PHX)"
+18 "Phoenix AZ (PHX)"
+20 "Las Vegas NV (LAS)"
+26 Washington DC-Dulles (IAD)
+20 "Las Vegas NV (LAS)"
+27 "New York-Kennedy NY (JFK)"
+20 "Las Vegas NV (LAS)"
+18 "Phoenix AZ (PHX)"
+27 "New York-Kennedy NY (JFK)"
+24 "San Francisco CA (SFO)"
+22 "Los Angeles CA (LAX)"
+24 "San Francisco CA (SFO)"
+27 "New York-Kennedy NY (JFK)"
+20 "Las Vegas NV (LAS)"
+27 "New York-Kennedy NY (JFK)"
+24 "Chicago-Ohare IL (ORD)"
+27 "New York-Kennedy NY (JFK)"
+27 "New York-Kennedy NY (JFK)"
+18 "Phoenix AZ (PHX)"
+18 "Oakland CA (OAK)"
+17 "Denver CO (DEN)"
+27 "New York-Kennedy NY (JFK)"
+25 "Seattle/Tacoma WA (SEA)"
+25 "Seattle/Tacoma WA (SEA)"
+18 "Buffalo NY (BUF)"
+24 "Chicago-Ohare IL (ORD)"
+25 "Seattle/Tacoma WA (SEA)"
+18 "Buffalo NY (BUF)"
+25 "Fairbanks Intl AK (FAI)"
+25 "Fairbanks Intl AK (FAI)"
+17 "Barrow AK (BRW)"
+25 "Seattle/Tacoma WA (SEA)"
+25 "Fairbanks Intl AK (FAI)"
+25 "Seattle/Tacoma WA (SEA)"
+17 "Barrow AK (BRW)"
+25 "Fairbanks Intl AK (FAI)"
+18 "Buffalo NY (BUF)"
+25 "Seattle/Tacoma WA (SEA)"
+19 "Portland OR (PDX)"
+16 "Miami FL (MIA)"
+25 "Seattle/Tacoma WA (SEA)"
+25 "Fairbanks Intl AK (FAI)"
+25 "Seattle/Tacoma WA (SEA)"
+25 "Fairbanks Intl AK (FAI)"
+18 "Buffalo NY (BUF)"
+25 "Fairbanks Intl AK (FAI)"
+25 "Fairbanks Intl AK (FAI)"
+25 "Seattle/Tacoma WA (SEA)"
+17 "Barrow AK (BRW)"
+18 "Buffalo NY (BUF)"
+20 "Nashville TN (BNA)"
+18 "Buffalo NY (BUF)"
+25 "Fairbanks Intl AK (FAI)"
+25 "Fairbanks Intl AK (FAI)"
+25 "Seattle/Tacoma WA (SEA)"
+25 "Fairbanks Intl AK (FAI)"
+25 "Seattle/Tacoma WA (SEA)"
+25 "Seattle/Tacoma WA (SEA)"
+25 "Fairbanks Intl AK (FAI)"
+25 "Seattle/Tacoma WA (SEA)"
+18 "Buffalo NY (BUF)"
+22 "Los Angeles CA (LAX)"
+25 "Seattle/Tacoma WA (SEA)"
+16 "Miami FL (MIA)"
+18 "Buffalo NY (BUF)"
+18 "Buffalo NY (BUF)"
+25 "Seattle/Tacoma WA (SEA)"
+22 "Los Angeles CA (LAX)"
+25 "Seattle/Tacoma WA (SEA)"
+25 "Seattle/Tacoma WA (SEA)"
+25 "Seattle/Tacoma WA (SEA)"
+18 "Buffalo NY (BUF)"
+25 "Seattle/Tacoma WA (SEA)"
+25 "Fairbanks Intl AK (FAI)"
+25 "Seattle/Tacoma WA (SEA)"
+25 "Seattle/Tacoma WA (SEA)"
+25 "Seattle/Tacoma WA (SEA)"
+25 "Seattle/Tacoma WA (SEA)"
+25 "Seattle/Tacoma WA (SEA)"
+22 "Los Angeles CA (LAX)"
+24 "San Francisco CA (SFO)"
+24 "San Francisco CA (SFO)"
+24 "San Francisco CA (SFO)"
+26 Washington DC-Dulles (IAD)
+19 "Honolulu HI (HNL)"
+17 "Denver CO (DEN)"
+22 "Los Angeles CA (LAX)"
+22 "Los Angeles CA (LAX)"
+22 "Los Angeles CA (LAX)"
+24 "San Francisco CA (SFO)"
+19 "Honolulu HI (HNL)"
+22 "Los Angeles CA (LAX)"
+23 "Philadelphia PA (PHL)"
+21 "Pittsburgh PA (PIT)"
+17 "Denver CO (DEN)"
+22 "Los Angeles CA (LAX)"
+24 "San Francisco CA (SFO)"
+26 Washington DC-Dulles (IAD)
+24 "San Francisco CA (SFO)"
+24 "Chicago-Ohare IL (ORD)"
+22 "Los Angeles CA (LAX)"
+19 "Honolulu HI (HNL)"
+19 "Honolulu HI (HNL)"
+19 "Honolulu HI (HNL)"
+22 "Los Angeles CA (LAX)"
+22 "Los Angeles CA (LAX)"
+22 "Los Angeles CA (LAX)"
+21 "Des Moines IA (DSM)"
+22 "Los Angeles CA (LAX)"
+22 "Los Angeles CA (LAX)"
+17 "Denver CO (DEN)"
+22 "Los Angeles CA (LAX)"
+20 "Las Vegas NV (LAS)"
+22 "Los Angeles CA (LAX)"
+24 "San Francisco CA (SFO)"
+24 "San Francisco CA (SFO)"
+18 "Detroit MI (DTW)"
+20 "Nashville TN (BNA)"
+20 "San Diego CA (SAN)"
+18 "Detroit MI (DTW)"
+20 "Anchorage AK (ANC)"
+20 "Anchorage AK (ANC)"
+25 "Fairbanks Intl AK (FAI)"
+24 "San Francisco CA (SFO)"
+20 "Anchorage AK (ANC)"
+24 "San Francisco CA (SFO)"
+25 "Fairbanks Intl AK (FAI)"
+20 "Anchorage AK (ANC)"
+18 "Detroit MI (DTW)"
+24 "San Francisco CA (SFO)"
+24 "San Francisco CA (SFO)"
+20 "Nashville TN (BNA)"
+20 "San Diego CA (SAN)"
+20 "Anchorage AK (ANC)"
+20 "San Diego CA (SAN)"
+20 "Anchorage AK (ANC)"
+18 "Detroit MI (DTW)"
+20 "Anchorage AK (ANC)"
+20 "Anchorage AK (ANC)"
+24 "San Francisco CA (SFO)"
+25 "Fairbanks Intl AK (FAI)"
+18 "Detroit MI (DTW)"
+16 "Miami FL (MIA)"
+18 "Detroit MI (DTW)"
+25 "Seattle/Tacoma WA (SEA)"
+20 "Anchorage AK (ANC)"
+20 "San Diego CA (SAN)"
+20 "Anchorage AK (ANC)"
+24 "San Francisco CA (SFO)"
+24 "San Francisco CA (SFO)"
+20 "Anchorage AK (ANC)"
+24 "San Francisco CA (SFO)"
+18 "Detroit MI (DTW)"
+24 "San Francisco CA (SFO)"
+24 "San Francisco CA (SFO)"
+26 "Dallas/Ft Worth TX (DFW)"
+18 "Detroit MI (DTW)"
+18 "Detroit MI (DTW)"
+24 "San Francisco CA (SFO)"
+19 "Portland OR (PDX)"
+24 "San Francisco CA (SFO)"
+24 "San Francisco CA (SFO)"
+24 "San Francisco CA (SFO)"
+18 "Detroit MI (DTW)"
+24 "San Francisco CA (SFO)"
+20 "Anchorage AK (ANC)"
+24 "San Francisco CA (SFO)"
+24 "San Francisco CA (SFO)"
+20 "San Diego CA (SAN)"
+24 "San Francisco CA (SFO)"
+24 "San Francisco CA (SFO)"
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+
+datetime:time
+368
+6 6:00pm
+6 8:14am
+6 3:31pm
+6 7:04am
+6 6:10am
+6 9:03am
+6 6:40am
+7 10:11am
+6 6:12am
+6 7:55am
+6 1:40pm
+7 11:52am
+6 9:34am
+6 7:00am
+6 6:00am
+6 7:35am
+6 8:42am
+6 8:05am
+6 6:10am
+6 6:15am
+6 7:05am
+6 2:21pm
+7 12:13pm
+7 12:08pm
+6 9:20am
+6 8:55pm
+6 6:28am
+6 7:18am
+7 12:20pm
+9 12:00noon
+6 9:52am
+6 6:00am
+6 6:52am
+6 7:00am
+6 5:24pm
+6 6:34pm
+7 11:55am
+6 1:00pm
+7 11:52am
+6 9:15pm
+6 5:02pm
+6 8:30am
+6 6:00am
+6 7:49pm
+6 8:32am
+7 10:44am
+6 6:11am
+7 10:01am
+6 6:00am
+6 1:00pm
+6 1:43pm
+6 9:30pm
+7 11:52am
+7 11:28am
+6 8:30am
+6 7:25am
+6 2:44pm
+6 3:19pm
+6 6:00am
+6 8:30am
+6 1:16pm
+7 10:01am
+6 9:40am
+6 6:49am
+6 5:02pm
+6 6:30am
+6 8:45pm
+6 7:42pm
+6 8:30am
+6 5:55pm
+6 3:31pm
+6 7:35pm
+6 3:31pm
+6 6:56am
+6 7:35pm
+6 8:40pm
+7 10:05am
+6 9:40am
+6 6:56am
+6 5:55pm
+6 6:15pm
+6 6:11am
+7 11:55am
+6 8:40pm
+6 7:08pm
+6 7:00pm
+6 8:30am
+6 7:00pm
+6 6:10am
+6 9:21am
+7 10:15am
+6 8:32am
+6 6:00pm
+6 8:14am
+6 3:31pm
+6 7:04am
+15 Contact Airline
+6 9:03am
+15 Contact Airline
+15 Contact Airline
+15 Contact Airline
+15 Contact Airline
+6 1:40pm
+7 11:52am
+6 9:34am
+15 Contact Airline
+15 Contact Airline
+15 Contact Airline
+6 8:42am
+15 Contact Airline
+15 Contact Airline
+15 Contact Airline
+15 Contact Airline
+6 2:21pm
+7 12:13pm
+7 12:08pm
+6 9:20am
+13 Not Available
+15 Contact Airline
+6 7:18am
+15 Contact Airline
+9 12:00noon
+6 9:52am
+15 Contact Airline
+6 6:52am
+15 Contact Airline
+6 5:24pm
+13 Not Available
+7 11:55am
+7 12:58pm
+7 11:49am
+13 Not Available
+6 5:25pm
+6 8:33am
+6 5:56am
+13 Not Available
+6 8:45am
+7 10:57am
+6 6:11am
+7 10:16am
+6 5:56am
+7 12:58pm
+6 1:43pm
+13 Not Available
+7 11:52am
+7 11:32am
+6 8:33am
+6 7:49am
+6 2:48pm
+6 3:24pm
+6 5:56am
+6 8:33am
+6 1:29pm
+7 10:16am
+6 9:34am
+6 6:47am
+6 5:25pm
+6 6:17am
+13 Not Available
+13 Not Available
+6 8:33am
+13 Not Available
+6 3:31pm
+7 7:47pm*
+6 3:31pm
+6 6:52am
+13 Not Available
+13 Not Available
+6 9:59am
+6 9:34am
+6 6:52am
+13 Not Available
+7 7:33pm*
+6 6:11am
+7 11:55am
+13 Not Available
+6 7:01pm
+13 Not Available
+6 8:33am
+15 Contact Airline
+6 6:07am
+6 9:15am
+7 10:15am
+6 8:45am
+13 Not Available
+13 Not Available
+13 Not Available
+13 Not Available
+6 7:30am
+13 Not Available
+6 9:24am
+7 11:15am
+6 7:31am
+6 8:57am
+13 Not Available
+13 Not Available
+13 Not Available
+6 2:29pm
+7 12:50pm
+7 10:26am
+13 Not Available
+6 9:38am
+6 7:30am
+6 7:37am
+7 12:22pm
+13 Not Available
+13 Not Available
+13 Not Available
+13 Not Available
+7 11:54pm
+6 7:29am
+13 Not Available
+6 1:36pm
+13 Not Available
+13 Not Available
+6 8:40am
+13 Not Available
+6 7:47am
+13 Not Available
+13 Not Available
+13 Not Available
+6 2:12pm
+6 1:15pm
+7 11:56pm
+6 6:14pm
+6 9:29am
+6 6:58am
+6 9:06pm
+7 10:46am
+7 11:44am
+13 Not Available
+7 11:20am
+6 6:58am
+6 2:12pm
+13 Not Available
+7 11:15pm
+6 1:05pm
+6 2:09pm
+6 9:29am
+7 10:09am
+6 3:43pm
+6 4:27pm
+6 6:58am
+6 9:29am
+6 3:26pm
+7 11:20am
+7 10:52am
+6 9:55am
+6 6:14pm
+7 11:07am
+6 9:36pm
+7 10:27pm
+6 9:29am
+6 8:02pm
+13 Not Available
+6 8:34pm
+13 Not Available
+6 8:09am
+6 8:47pm
+7 10:51pm
+7 12:04pm
+7 10:52am
+6 8:09am
+6 8:02pm
+6 8:26pm
+13 Not Available
+13 Not Available
+7 10:51pm
+6 8:14pm
+6 8:57pm
+6 9:29am
+6 8:57pm
+6 8:17am
+7 12:02pm
+13 Not Available
+7 10:46am
+7 8:25pm*
+7 10:46am
+6 8:54am
+6 9:27am
+15 Contact Airline
+7 11:08am
+15 Contact Airline
+15 Contact Airline
+15 Contact Airline
+15 Contact Airline
+6 9:09am
+7 2:17pm*
+7 11:19am
+15 Contact Airline
+15 Contact Airline
+15 Contact Airline
+7 10:18am
+15 Contact Airline
+15 Contact Airline
+15 Contact Airline
+15 Contact Airline
+7 4:16pm*
+7 1:59pm*
+7 2:26pm*
+7 11:02am
+13 Not Available
+15 Contact Airline
+6 9:18am
+15 Contact Airline
+6 2:03pm
+7 11:45am
+15 Contact Airline
+6 7:54am
+15 Contact Airline
+7 7:25pm*
+7 8:39pm*
+6 1:44pm
+6 2:03pm
+6 1:11pm
+8 11:50pm*
+6 6:29pm
+6 9:36am
+6 7:00am
+13 Not Available
+7 10:45am
+7 12:04pm
+6 7:55am
+7 11:37am
+6 7:00am
+6 2:03pm
+6 3:32pm
+13 Not Available
+6 1:06pm
+6 2:06pm
+6 9:36am
+7 10:34am
+7 3:47pm*
+6 4:29pm
+6 7:00am
+6 9:36am
+6 3:34pm
+7 11:37am
+7 10:44am
+6 9:47am
+6 6:29pm
+7 11:05am
+13 Not Available
+8 10:20pm*
+6 9:36am
+7 7:58pm*
+7 5:23pm*
+7 8:46pm*
+7 5:23pm*
+6 8:03am
+13 Not Available
+8 10:49pm*
+7 12:22pm
+7 10:44am
+6 8:03am
+7 7:58pm*
+7 9:41pm*
+6 7:55am
+6 1:44pm
+8 10:43pm*
+7 8:04pm*
+13 Not Available
+6 9:36am
+15 Contact Airline
+6 8:18am
+7 11:51am
+7 12:04pm
+7 10:45am
+
+datetime:date
+368
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 14-Jul
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+6 13-Jun
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+
+flight:baggageclaim
+368
+1 1
+1 4
+3 CHK
+1 4
+23 Not provided by airline
+3 CHK
+23 Not provided by airline
+23 Not provided by airline
+23 Not provided by airline
+23 Not provided by airline
+3 CHK
+3 CHK
+1 1
+23 Not provided by airline
+23 Not provided by airline
+23 Not provided by airline
+1 1
+23 Not provided by airline
+23 Not provided by airline
+23 Not provided by airline
+23 Not provided by airline
+1 1
+3 CHK
+3 CHK
+3 CHK
+1 1
+23 Not provided by airline
+1 1
+23 Not provided by airline
+1 1
+1 1
+23 Not provided by airline
+1 4
+23 Not provided by airline
+1 1
+3 CHK
+1 2
+23 Not provided by airline
+1 1
+23 Not provided by airline
+23 Not provided by airline
+23 Not provided by airline
+23 Not provided by airline
+23 Not provided by airline
+23 Not provided by airline
+23 Not provided by airline
+3 CHK
+23 Not provided by airline
+23 Not provided by airline
+23 Not provided by airline
+1 3
+23 Not provided by airline
+23 Not provided by airline
+23 Not provided by airline
+23 Not provided by airline
+23 Not provided by airline
+23 Not provided by airline
+23 Not provided by airline
+23 Not provided by airline
+23 Not provided by airline
+23 Not provided by airline
+23 Not provided by airline
+23 Not provided by airline
+2 21
+23 Not provided by airline
+23 Not provided by airline
+23 Not provided by airline
+23 Not provided by airline
+23 Not provided by airline
+23 Not provided by airline
+1 3
+23 Not provided by airline
+1 3
+23 Not provided by airline
+23 Not provided by airline
+23 Not provided by airline
+3 A28
+23 Not provided by airline
+23 Not provided by airline
+23 Not provided by airline
+23 Not provided by airline
+3 CHK
+1 2
+23 Not provided by airline
+23 Not provided by airline
+3 CHK
+23 Not provided by airline
+23 Not provided by airline
+23 Not provided by airline
+23 Not provided by airline
+1 2
+23 Not provided by airline
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+
+flight:gate
+368
+3 75A
+2 87
+2 99
+2 83
+23 Not provided by airline
+1 8
+23 Not provided by airline
+23 Not provided by airline
+23 Not provided by airline
+23 Not provided by airline
+2 96
+1 8
+2 73
+23 Not provided by airline
+23 Not provided by airline
+23 Not provided by airline
+3 75A
+23 Not provided by airline
+23 Not provided by airline
+23 Not provided by airline
+23 Not provided by airline
+2 73
+1 9
+1 6
+1 7
+2 77
+23 Not provided by airline
+3 75B
+23 Not provided by airline
+2 76
+2 77
+23 Not provided by airline
+3 75B
+23 Not provided by airline
+3 75B
+2 71
+3 73A
+3 A19
+3 C12
+23 Not provided by airline
+3 A21
+23 Not provided by airline
+23 Not provided by airline
+23 Not provided by airline
+23 Not provided by airline
+23 Not provided by airline
+2 75
+23 Not provided by airline
+23 Not provided by airline
+3 A19
+2 71
+23 Not provided by airline
+3 C10
+23 Not provided by airline
+23 Not provided by airline
+23 Not provided by airline
+23 Not provided by airline
+3 A67
+23 Not provided by airline
+23 Not provided by airline
+23 Not provided by airline
+23 Not provided by airline
+3 A19
+3 D47
+3 A21
+23 Not provided by airline
+23 Not provided by airline
+23 Not provided by airline
+23 Not provided by airline
+23 Not provided by airline
+2 85
+23 Not provided by airline
+2 85
+3 A29
+23 Not provided by airline
+23 Not provided by airline
+5 A24/A
+3 A19
+3 A29
+23 Not provided by airline
+23 Not provided by airline
+2 75
+3 73A
+23 Not provided by airline
+3 A11
+2 82
+23 Not provided by airline
+23 Not provided by airline
+23 Not provided by airline
+23 Not provided by airline
+2 71
+23 Not provided by airline
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+
+flight:airportcode
+368
+3 JFK
+3 JFK
+3 KIX
+3 JFK
+3 JFK
+3 LAX
+3 LAS
+3 LAS
+3 PHX
+3 LAS
+3 PVG
+3 DEN
+3 IAD
+3 PHX
+3 PHX
+3 LAS
+3 IAD
+3 LAS
+3 JFK
+3 LAS
+3 PHX
+3 JFK
+3 SFO
+3 LAX
+3 SFO
+3 JFK
+3 LAS
+3 JFK
+3 ORD
+3 JFK
+3 JFK
+3 PHX
+3 OAK
+3 DEN
+3 JFK
+3 SEA
+3 SEA
+3 BUF
+3 ORD
+3 SEA
+3 BUF
+3 FAI
+3 FAI
+3 BRW
+3 SEA
+3 FAI
+3 SEA
+3 BRW
+3 FAI
+3 BUF
+3 SEA
+3 PDX
+3 MIA
+3 SEA
+3 FAI
+3 SEA
+3 FAI
+3 BUF
+3 FAI
+3 FAI
+3 SEA
+3 BRW
+3 BUF
+3 BNA
+3 BUF
+3 FAI
+3 FAI
+3 SEA
+3 FAI
+3 SEA
+3 SEA
+3 FAI
+3 SEA
+3 BUF
+3 LAX
+3 SEA
+3 MIA
+3 BUF
+3 BUF
+3 SEA
+3 LAX
+3 SEA
+3 SEA
+3 SEA
+3 BUF
+3 SEA
+3 FAI
+3 SEA
+3 SEA
+3 SEA
+3 SEA
+3 SEA
+3 LAX
+3 SFO
+3 SFO
+3 SFO
+3 IAD
+3 HNL
+3 DEN
+3 LAX
+3 LAX
+3 LAX
+3 SFO
+3 HNL
+3 LAX
+3 PHL
+3 PIT
+3 DEN
+3 LAX
+3 SFO
+3 IAD
+3 SFO
+3 ORD
+3 LAX
+3 HNL
+3 HNL
+3 HNL
+3 LAX
+3 LAX
+3 LAX
+3 DSM
+3 LAX
+3 LAX
+3 DEN
+3 LAX
+3 LAS
+3 LAX
+3 SFO
+3 SFO
+3 DTW
+3 BNA
+3 SAN
+3 DTW
+3 ANC
+3 ANC
+3 FAI
+3 SFO
+3 ANC
+3 SFO
+3 FAI
+3 ANC
+3 DTW
+3 SFO
+3 SFO
+3 BNA
+3 SAN
+3 ANC
+3 SAN
+3 ANC
+3 DTW
+3 ANC
+3 ANC
+3 SFO
+3 FAI
+3 DTW
+3 MIA
+3 DTW
+3 SEA
+3 ANC
+3 SAN
+3 ANC
+3 SFO
+3 SFO
+3 ANC
+3 SFO
+3 DTW
+3 SFO
+3 SFO
+3 DFW
+3 DTW
+3 DTW
+3 SFO
+3 PDX
+3 SFO
+3 SFO
+3 SFO
+3 DTW
+3 SFO
+3 ANC
+3 SFO
+3 SFO
+3 SAN
+3 SFO
+3 SFO
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+

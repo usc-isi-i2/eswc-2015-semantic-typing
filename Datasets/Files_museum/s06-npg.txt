@@ -1,0 +1,1728 @@
+12
+
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson
+200
+25 George Da Maduro Peixotto
+15 Rembrandt Peale
+20 Chester Warner Slack
+18 Charles Peale Polk
+19 Ernest Hamlin Baker
+20 George Rufus Boynton
+16 Robert Edge Pine
+18 Boris Artzybasheff
+10 Henry Ulke
+12 Josef Scharl
+16 Jennie Summerall
+15 Jon R. Friedman
+12 William Barr
+21 Charles Willson Peale
+12 Roy Andersen
+17 Charles Bird King
+15 Jon R. Friedman
+14 Gilbert Stuart
+21 Bernard Albrecht Uhle
+21 Charles Willson Peale
+21 Charles Willson Peale
+13 Jean Mannheim
+11 M. W. Clark
+19 Ernest Hamlin Baker
+9 Bass Otis
+19 Emily Burling Waite
+21 Charles Willson Peale
+13 John Trumbull
+14 Walter Ingalls
+9 Bass Otis
+23 William Garl Browne Jr.
+17 Edward Lind Morse
+19 Archibald Robertson
+21 Charles Willson Peale
+15 Jon R. Friedman
+14 Gilbert Stuart
+13 Max Westfield
+13 Pilides Costa
+20 Robert Gordon Hardie
+20 Jos Campeche y Jordn
+11 Louis Mayer
+21 Charles Willson Peale
+15 Eastman Johnson
+20 George Henry Taggart
+12 Thomas Sully
+26 Samuel Finley Breese Morse
+18 Henri-Joseph Johns
+20 Julian Russell Story
+11 Alvan Clark
+15 Bradley Stevens
+24 Manuel Joachim de Franca
+13 John Trumbull
+24 Everett Raymond Kinstler
+18 William N. Dovener
+26 Abraham Archibald Anderson
+18 William N. Dovener
+10 Henry Ulke
+24 Manuel Joachim de Franca
+20 Samuel Johnson Woolf
+18 William N. Dovener
+21 Charles Willson Peale
+24 Joseph Siffred Duplessis
+27 Charles Frederick Von Breda
+15 Boris Chaliapin
+15 Rembrandt Peale
+25 Hattie Elizabeth Burdette
+14 John Vanderlyn
+14 Gilbert Stuart
+24 Ole Peter Hansen Balling
+15 Boris Chaliapin
+28 Samantha Littlefield Huntley
+19 Edwin Burrage Child
+18 William N. Dovener
+14 Louis Glanzman
+21 Joseph Cummings Chase
+21 Albert Ketcham Murray
+19 Edwin Burrage Child
+10 Emil Fuchs
+14 Gilbert Stuart
+18 Nahum Ball Onthank
+21 Charles Willson Peale
+15 Boris Chaliapin
+21 Charles Willson Peale
+19 Ernest Hamlin Baker
+14 Gilbert Stuart
+11 Ruth Munson
+21 Albert Ketcham Murray
+21 Charles Willson Peale
+15 Thomas Le Clear
+15 Chester Harding
+28 George Peter Alexander Healy
+22 John Christen Johansen
+22 Edmund Charles Tarbell
+15 Rembrandt Peale
+22 Stephen Seymour Thomas
+22 Wilford Seymour Conrow
+25 Annie Ware Sabine Siebert
+11 Joseph Wood
+19 Edward Harrison May
+24 Everett Raymond Kinstler
+18 Thomas Alva Edison
+15 Samuel Ringgold
+23 William Franklin Draper
+25 Charles Doolittle Walcott
+13 John Ericsson
+12 Joseph Henry
+20 Herbert Clark Hoover
+26 Samuel Finley Breese Morse
+21 Warner W. Stockberger
+22 Buckminster Fuller Jr.
+22 Edward Otho Cresap Ord
+26 Francis Preston Blair, Jr.
+16 Thomas Jefferson
+20 Herbert Clark Hoover
+21 William Hemsley Emory
+21 Ulysses Simpson Grant
+19 Henry Agard Wallace
+26 Alan Bartlett Shepard, Jr.
+12 Joseph Henry
+14 James Smithson
+17 George Washington
+16 Thomas Jefferson
+17 George Washington
+17 George Washington
+14 James Smithson
+14 James Bogardus
+23 Samuel Pierpont Langley
+22 Buckminster Fuller Jr.
+13 Simon Newcomb
+17 George Washington
+24 William Tecumseh Sherman
+18 Linus Carl Pauling
+21 Edward Osborne Wilson
+15 David Baltimore
+16 Thomas Jefferson
+19 William Austin Burt
+17 Richard Delafield
+18 John Aaron Rawlins
+25 John McAllister Schofield
+16 Thomas Jefferson
+12 Joseph Henry
+23 Erastus Brigham Bigelow
+12 Rubens Peale
+17 Eben Jenks Loomis
+20 Herbert Clark Hoover
+23 William Henry Gates III
+25 Charles Doolittle Walcott
+17 Albert James Myer
+21 Alexander Graham Bell
+31 Charles Augustus Lindbergh, Jr.
+12 George Crook
+20 Herbert Clark Hoover
+24 Edwin Eugene Aldrin, Jr.
+17 George Washington
+22 Hugh Judson Kilpatrick
+24 Gouverneur Kemble Warren
+12 John Stevens
+16 Thomas Blanchard
+17 Thomas B. Linnard
+16 William W. Bliss
+24 James Birdseye McPherson
+21 William Alison Anders
+12 Thomas Paine
+25 Charles Doolittle Walcott
+23 Robert Andrews Millikan
+17 Richard March Hoe
+18 Oliver Otis Howard
+19 Henry Warner Slocum
+14 Zachary Taylor
+17 Benjamin Franklin
+24 George Washington Carver
+27 Samuel Washington Woodhouse
+19 Joseph Horace Eaton
+24 William Tecumseh Sherman
+18 Lester Hoxie Dewey
+24 Robert Hutchings Goddard
+25 Robert Livingston Stevens
+20 Thomas Casimer Devin
+11 Robert Hare
+21 Solomon White Roberts
+16 Paul Dyer Merica
+15 Albert Einstein
+23 William Temple Hornaday
+16 S. Dillon Ripley
+18 King Camp Gillette
+17 George Washington
+20 Thomas Casimer Devin
+13 Braxton Bragg
+13 Melinda Gates
+20 Joseph Anthony Mower
+19 Isaac Merrit Singer
+17 Alfred Howe Terry
+23 Spencer Fullerton Baird
+14 DeWitt Clinton
+19 Oscar Hammerstein I
+27 William Thomas Green Morton
+19 Loammi Baldwin, Jr.
+16 Thomas Jefferson
+17 George Washington
+20 Cyrus Hall McCormick
+
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel
+100
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+8 Painting
+
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/rights
+14
+16  Jon R. Friedman
+30  1963 Everett Raymond Kinstler
+17 2004, Andrew Tift
+21  Estate of S.J. Woolf
+44  Albert K. Murray Fine Arts Educational Fund
+21 2010 Laurie H. McCall
+19  Boris Artzybasheff
+15  Louis Glanzman
+21 2006 Jennie Summerall
+21  Estate of Alice Neel
+16  Jon R. Friedman
+30  1965 Everett Raymond Kinstler
+19  Grace Huntley Pugh
+44  Albert K. Murray Fine Arts Educational Fund
+
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance
+100
+98 National Portrait Gallery, Smithsonian Institution; owned jointly with Museum of Fine Arts, Boston
+17 Winterthur Museum
+50 National Portrait Gallery, Smithsonian Institution
+87 National Portrait Gallery, Smithsonian Institution; transfer from the National Archives
+73 National Portrait Gallery, Smithsonian Institution; gift of Time magazine
+75 National Portrait Gallery, Smithsonian Institution; gift of Jon R. Friedman
+70 National Portrait Gallery, Smithsonian Institution; gift of the artist
+78 Courtesy of Independence National Historical Park Collection, Philadelphia, PA
+32 The Union League Club of Chicago
+73 National Portrait Gallery, Smithsonian Institution; gift of Time magazine
+84 National Portrait Gallery, Smithsonian Institution; gift of Mrs. Eugene W. Kettering
+73 National Portrait Gallery, Smithsonian Institution; gift of Time magazine
+18 Wadsworth Atheneum
+87 National Portrait Gallery, Smithsonian Institution; transfer from the National Archives
+71 National Portrait Gallery, Smithsonian Institution; gift of Ruth Munson
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+116 National Portrait Gallery, Smithsonian Institution; Frame conserved with funds from the Smithsonian Womens Committee
+73 National Portrait Gallery, Smithsonian Institution; gift of Time magazine
+69 Mercer Collection, Washington and Lee University, Lexington, Virginia
+144 National Portrait Gallery, Smithsonian Institution; acquired as a gift to the nation through the generosity of the Donald W. Reynolds Foundation
+46 Herbert Hoover Presidential Library and Museum
+103 National Portrait Gallery, Smithsonian Institution; gift of the Morris and Gwendolyn Cafritz Foundation
+84 National Portrait Gallery, Smithsonian Institution; gift of Everett Raymond Kinstler
+85 National Portrait Gallery, Smithsonian Institution; bequest of Millicent Todd Bingham
+82 The Museum of Fine Arts, Houston; the Bayou Bend Collection, gift of Miss Ima Hogg
+87 National Portrait Gallery, Smithsonian Institution; transfer from the National Archives
+136 National Portrait Gallery, Smithsonian Institution; transfer from the Smithsonian American Art Museum; gift of Marjorie Lea Hudson, 1961
+83 National Portrait Gallery, Smithsonian Institution; partial gift of Lucia Howe Snow
+109 National Portrait Gallery, Smithsonian Institution; gift of Ernestine Gilbreth Carey and Lillian Carey Barley
+87 National Portrait Gallery, Smithsonian Institution; transfer from the National Archives
+101 National Portrait Gallery, Smithsonian Institution; transfer from the Smithsonian American Art Museum
+21 Colonial Williamsburg
+50 National Portrait Gallery, Smithsonian Institution
+80 National Portrait Gallery, Smithsonian Institution; gift of Simon Newcomb Wilson
+148 National Portrait Gallery, Smithsonian Institution; gift of Mrs. Harry Newton Blue; Frame conserved with funds from the Smithsonian Womens Committee
+50 National Portrait Gallery, Smithsonian Institution
+80 National Portrait Gallery, Smithsonian Institution; gift of Mrs. Andrew Van Pelt
+116 National Portrait Gallery, Smithsonian Institution; Frame conserved with funds from the Smithsonian Womens Committee
+133 National Portrait Gallery, Smithsonian Institution; transfer from the Smithsonian American Art Museum; gift of Julius Bien, Jr., 1920
+133 National Portrait Gallery, Smithsonian Institution; gift of H.H. Walker Lewis in memory of his parents, Mr. and Mrs. Edwin A.S. Lewis
+74 National Portrait Gallery, Smithsonian Institution; gift of McCall Studios
+78 National Portrait Gallery, Smithsonian Institution; gift of an anonymous donor
+46 Herbert Hoover Presidential Library and Museum
+89 National Portrait Gallery, Smithsonian Institution; transfer from the Library of Congress
+198 National Portrait Gallery, Smithsonian Institution; gift of Mrs. Harry Newton Blue in memory of her husband Harry Newton Blue (1893-1925), who served as an officer of the Regular U.S. Army 1917-1925
+27 Museum of Fine Arts, Boston
+157 National Portrait Gallery, Smithsonian Institution; transfer from the National Gallery of Art; gift of the A.W. Mellon Educational and Charitable Trust, 1942
+50 National Portrait Gallery, Smithsonian Institution
+133 National Portrait Gallery, Smithsonian Institution; gift of H.H. Walker Lewis in memory of his parents, Mr. and Mrs. Edwin A.S. Lewis
+101 National Portrait Gallery, Smithsonian Institution; transfer from the Smithsonian American Art Museum
+101 National Portrait Gallery, Smithsonian Institution; transfer from the Smithsonian American Art Museum
+37 Independence National Historical Park
+170 National Portrait Gallery, Smithsonian Institution; gift of Donald Hamilton Workman in memory of his father, James Clark Workman, and his grandfather, James Henry Workman
+50 National Portrait Gallery, Smithsonian Institution
+87 National Portrait Gallery, Smithsonian Institution; transfer from the National Archives
+50 National Portrait Gallery, Smithsonian Institution
+46 Herbert Hoover Presidential Library and Museum
+50 National Portrait Gallery, Smithsonian Institution
+31 Mount Vernon Ladies Association
+73 National Portrait Gallery, Smithsonian Institution; gift of Time magazine
+174 National Portrait Gallery, Smithsonian Institution; transfer from the Smithsonian American Art Museum; gift of the National Art Committee to the Smithsonian Institution, 1923
+163 National Portrait Gallery, Smithsonian Institution; transfer from the Smithsonian American Art Museum; gift of the Espy family to the Smithsonian Institution, 1860
+135 National Portrait Gallery, Smithsonian Institution; transfer from the Smithsonian American Art Museum; gift of Edwin W. Dickinson, 1969
+17 Lafayette College
+78 National Portrait Gallery, Smithsonian Institution; gift of an anonymous donor
+50 National Portrait Gallery, Smithsonian Institution
+73 National Portrait Gallery, Smithsonian Institution; gift of Time magazine
+26 Indianapolis Museum of Art
+104 National Portrait Gallery, Smithsonian Institution; gift of William T. Hornaday Conservation Trust, Inc.
+50 National Portrait Gallery, Smithsonian Institution
+21 Colonial Williamsburg
+27 Union League Club, New York
+137 National Portrait Gallery, Smithsonian Institution; transfer from the Smithsonian American Art Museum; bequest of Viola Walden Myer, 1919
+52 Monticello/Thomas Jefferson Foundation, Incorporated
+145 National Portrait Gallery, Smithsonian Institution; this acquisition was made possible by a generous contribution from the James Smithson Society
+101 National Portrait Gallery, Smithsonian Institution; transfer from the Smithsonian American Art Museum
+27 Hartford Public High School
+87 National Portrait Gallery, Smithsonian Institution; transfer from the National Archives
+150 National Portrait Gallery, Smithsonian Institution; bequest of Charles Francis Adams; Frame conserved with funds from the Smithsonian Womens Committee
+575 National Portrait Gallery, Smithsonian Institution; gift of Mr. and Mrs. William D. Blakemore, Midland, Texas; Mr. and Mrs. Omar Harvey, Dallas, Texas; Mr. and Mrs. R.K. Keitz, Dallas, Texas; Col. and Mrs. Thomas A.P. Krock, Dallas, Texas; Mr. and Mrs. W.R. Lloyd, Jr., Houston, Texas; Dr. and Mrs. J.R. Maxfield, Dallas, Texas; Mr. and Mrs. Wesley Nagorny, Jr., Houston, Texas; Dr. and Mrs. H.B. Renfrow, Dallas, Texas; Mr. and Mrs. J.W. Taylor, Dallas, Texas; Dr. and Mrs. J. Robert Terry, Miami, Florida; Mr. and Mrs. Thomas B. Young, Dallas, Texas; and an anonymous donor
+87 National Portrait Gallery, Smithsonian Institution; transfer from the National Archives
+50 National Portrait Gallery, Smithsonian Institution
+75 National Portrait Gallery, Smithsonian Institution; gift of Jon R. Friedman
+37 Pennsylvania Academy of the Fine Arts
+37 Pennsylvania Academy of the Fine Arts
+157 National Portrait Gallery, Smithsonian Institution; transfer from the National Gallery of Art; gift of the A.W. Mellon Educational and Charitable Trust, 1942
+95 National Portrait Gallery, Smithsonian Institution; partial gift of Mrs. James Burd Peale Green
+27 New-York Historical Society
+135 National Portrait Gallery, Smithsonian Institution; transfer from the Smithsonian American Art Museum; gift of Dr. Edward Kellogg, 1963
+133 National Portrait Gallery, Smithsonian Institution; gift of H.H. Walker Lewis in memory of his parents, Mr. and Mrs. Edwin A.S. Lewis
+78 National Portrait Gallery, Smithsonian Institution; gift of Francisco Arechiga
+77 National Portrait Gallery, Smithsonian Institution; bequest of Stanley P. Sax
+50 National Portrait Gallery, Smithsonian Institution
+101 National Portrait Gallery, Smithsonian Institution; transfer from the Smithsonian American Art Museum
+52 Monticello/Thomas Jefferson Foundation, Incorporated
+31 The Virginia Historical Society
+50 National Portrait Gallery, Smithsonian Institution
+26 Chicago Historical Society
+50 National Portrait Gallery, Smithsonian Institution
+
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created
+100
+4 1852
+4 1881
+4 1857
+4 1875
+4 2009
+4 1921
+4 1847
+12 c. 1930-1940
+4 1910
+5 1887?
+7 c. 1800
+4 1883
+4 1932
+4 1807
+7 c. 1825
+9 1805-1814
+4 2006
+4 1812
+16 mid 19th Century
+7 c. 1791
+4 1910
+4 1893
+18 early 19th Century
+4 1941
+4 1933
+4 1917
+7 c. 1925
+9 1805/1821
+4 1944
+12 c. 1875-1885
+4 1780
+4 1772
+4 1944
+7 c. 1792
+4 1968
+4 1889
+4 1825
+4 1877
+4 1963
+4 1963
+4 1782
+9 1872-1873
+4 1924
+4 1969
+4 1796
+4 1939
+5 1941?
+7 c. 1800
+4 1890
+4 1961
+4 1785
+7 c. 1981
+4 1835
+4 1968
+4 1805
+4 1785
+7 c. 1856
+12 c. 1796-1797
+4 1876
+4 1857
+4 1791
+12 c. 1775-1785
+5 1801?
+4 1968
+7 c. 1796
+4 1865
+9 1812-1815
+9 1791-1792
+4 1849
+7 c. 1920
+4 1890
+5 1787?
+4 1969
+4 2006
+9 1929-1930
+7 c. 1785
+7 c. 1799
+4 1895
+4 1959
+7 c. 1845
+4 1962
+12 c. 1778-1779
+4 1885
+4 1948
+4 2010
+12 c. 1884-1885
+4 1963
+4 2004
+9 1816-1825
+4 1960
+4 1909
+4 1780
+4 1938
+4 1843
+4 1818
+4 1928
+4 1931
+4 1862
+4 1927
+4 1810
+
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description
+41
+1071 Herbert Hoover seemed to be the ultimate problem-solver. As a mining engineer, he had turned marginal operations into thriving enterprises. During World War I, his administration of European food relief was nothing short of brilliant. As secretary of commerce in the 1920s, he transformed a once-sleepy department into a purposeful information clearinghouse. But as the Great Depression took hold during the second year of his presidency, Hoover was hard pressed for a solution. Believing in the power of private initiative, he hesitated to involve the federal government in reviving business. When lengthening bread lines and escalating joblessness finally convinced him of the necessity of such steps, the measures proved inadequate. As a result, Hoover was defeated by a crushing margin in his 1932 reelection bid. This portrait was intended for Time magazines cover. But Hoover delayed his sittings, and by the time it was finished, the magazine was no longer interested. Hoover is thus the only president in Times history never to appear on a cover while in office. 
+1059 On his epitaph, Thomas Jefferson indicated his authorship of the Declaration of Independence and the Virginia Statute for Religious Freedom, and his founding of the University of Virginia. He omitted, however, any mention of being the third president of the United States, perhaps because his policies failed to end encroachments on American rights during the Napoleonic Wars of the early 1800s. Great Britain, with its naval superiority, forbade American ships from supplying Napoleons armies and forced American sailors to serve in its navy (impressment). After failing to change British policy with a Non-Importation Act (1806), Congress passed Jeffersons Embargo Act (1807), prohibiting American ships and goods from leaving port. In the final month of his presidency, Jefferson repealed the embargo and signed the Non-Intercourse Act, which reopened trade with all nations except Great Britain and France. It also authorized his successor, James Madison, to resume trade with whichever of those nations stopped violating American neutral trading rights. 
+877 Appointed Yale Colleges first professor of chemistry and natural history in 1802, Benjamin Silliman (trained in the law) went to Philadelphia, London, and Edinburgh for exposure to the world of science. Over the next fifty years, Silliman became renowned as an educator, influential as the founder and editor of the American Journal of Science and a popular national figure on the lecture circuit, entertaining audiences with drawings and demonstrations and providing assurances that discoveries in science need not threaten biblical teachings. Sillimans portrait was painted in New York, where he was engaged in the fatiguing work of raising money to keep the finest mineral collection in America at Yale. He posed before breakfast-at six oclock in the morning-for one and a half hours, and recorded that John Trumbull, his friend and uncle by marriage, painted very rapidly. 
+866 Inventor of the telegraph Samuel Morse was first a portraitist active in intellectual circles, who helped found the National Academy of Design (1826) in order to elevate and support the arts. But around 1832 he became fascinated with the idea of sending messages via electric wire. With no scientific or mechanical training, Morse devised an elegant machine that sent coded messages by opening and closing an electrical circuit. While the government neglected the telegraph, private businesses seized on the new invention as a great leap forward in communications technology. At a time when railways and water transportation were binding the country together, Morse did the same with a network of instantaneous communication. Speed has always characterized America, and Morses breakthrough was the gigantic first step in creating ever-faster means of communicating. 
+829 Revolutionary War colonel John Stevens, trained in the law and self-educated as an engineer, was a pioneer in steam-engine experimentation. In 1804 his small steamboat, Little Juliana, operated by twin-screw propellers, made a successful trip across the Hudson and back to the New Jersey shore. Barred by the monopoly held by Robert Fulton from operating on the Hudson River, Stevens in 1808 sent his paddle steamer Phoenix-the first completely American-built steam engine-to Philadelphia by sea and opened a steamship line between that city and Trenton. In 1825 Stevens designed the first American-built steam locomotive, operating it, at the rate of over twelve miles per hour, on a circular track on his estate in Hoboken to demonstrate the feasibility of steam (as a replacement for horses) to power railroad transportation. 
+910 Born Milan, Ohio  Painted during Thomas Alva Edisons visit to Paris for the Universal Exposition of 1889, Abraham A. Andersons portrait depicts the wealthy entrepreneur at the height of his career. World-renowned for his inventions-including the phonograph, incandescent lamp, and movie camera-Edison, who received numerous honors in Europe, presided over one of the most popular exhibitions at the exposition. Particularly intriguing to audiences was Edisons phonograph, the recent improvement of which Anderson chose to picture. Although Edison patented the device in 1877, earning himself the title of the Wizard of Menlo Park, eleven years passed before he achieved sufficient clarity of sound to make it commercially viable. Using the word specie as a test, Edison labored until it could be properly transmitted. When that was done, Edison reported, I knew everything else could be done, which was a fact.
+814 De Witt Clinton, masterful politician of New York-in and out of office as mayor of the city and governor of the state-was a man who saw America with the potential for unlimited progress. His great dream was for a canal linking the Great Lakes with the Hudson River. When expected federal financing did not materialize, Clinton set out to put public pressure for funding on the state legislature. A bond issue was approved just in time for Clinton, newly elected as governor, to preside over the groundbreaking ceremonies on July 4, 1817. Eight years later, Clinton, returned to office, directed the great celebration of the Erie Canals completion. Clintons Ditch was a popular and immediate financial success and contributed enormously to the growth and prosperity of New York and the Northwest Territory as well. 
+574 This work replicates an unusual profile portrait of Thomas Jefferson that Gilbert Stuart painted in Washington, D.C., in 1805, at the beginning of Jeffersons second presidential term. The neoclassical composition in the medallion form was suggested by Jefferson, who later wrote that Stuarts portrait (now owned by Harvard University) was deemed the best which has been taken of me. King, a Washington painter, made the copy for Jeffersons family, who preferred this neoclassical profile over Stuarts three-quarter view of Jefferson, which was painted at the same sittings. 
+764 Born Philadelphia, Pennsylvania  Charles Willson Peale named his children after artists and scientists, so at his birth Rubens Peale joined his older brothers Raphaelle and Rembrandt. Unlike them, Rubens did not become an artist but followed the Peale familys other business: operating museums of art and science. Rubens was a good manager, helping his father run the famous Peale Museum in Philadelphia and taking sole charge of it in 1810. Later he would operate Peale Museums in Baltimore and New York.  This portrait by Rembrandt Peale emphasizes Rubenss eyeglasses (he was very near-sighted), as does his more famous 1801 painting, Rubens Peale with a Geranium (National Gallery of Art). Many of the Peales had poor eyesight and were interested in optometry. 
+743 George Washington, appointed commander-in-chief of the Continental army, took command of a ragtag force of some 17,000 men in July 1775. He kept an army together for the next eight-and-a-half years-losing more battles than he won-but effectively ended the war with his victory at Yorktown in October 1781. Mission accomplished, Washington-a hero who could have been king-resigned his military commission before Congress on December 23, 1783, and retired to Mount Vernon. Here, the man all artists yearned to portray posed in his Continental army uniform for English artist Robert Edge Pine and wryly observed, I am so hackneyed to the touches of the Painters pencil, that I am now altogether at their beck, and sit like patience on a Monument.
+854 Career army officer Zachary Taylor vaulted to national prominence as the hero of the Mexican War. Stationed in the Southwest, Taylor had anticipated war, and when conflict broke out with Mexico he was able to quickly cross the Rio Grande in a campaign that culminated in the defeat of General Santa Anna at Buena Vista in 1847. This painting shows Taylor with his staff at Walnut Creek, Texas, just as hostilities broke out. The Polk administration distrusted Taylor, an outspoken Whig, fearing he would use his military career for political ends. But they could not deny the appeal of a victorious general, and Taylor was elected president in 1849 as a symbol of national unity. Sectional differences over slavery were proving intractable, however, and Taylor had a short, unhappy term as president, dying amid negotiations over the Compromise of 1850. 
+849 Benjamin Franklin, in his day the most famous American in the world, returned from his years representing colonial interests in England just in time to be unanimously elected to represent Pennsylvania at the Second Continental Congress. Behind him was a lifetime of achievement as a printer, an unsurpassed author of wit and wisdom, an inventor, and a scientist. Ahead were his roles as a signer of the Declaration of Independence and as a member of the Constitutional Convention of 1787. In between was his triumph as a diplomat in France, where this portrait was ordered by Madame Brillon de Jouy, who loved Franklins droll roguishness which shows that the wisest of men allows his wisdom to be perpetually broken against the rocks of femininity. In 1995 this portrait was selected as the basis for Franklins engraving on the redesigned 100 bill. 
+813 Born Milton, Massachusetts  Although not an accredited architect, Buckminster Fuller was best known for his many experiments in building design and his philosophy of architecture. Adhering to his dymaxion principle, which called for maximum results from a minimum of material and energy, he was an early advocate of prefabrication and modular construction. The most famous of Fullers achievements was the geodesic dome, which artist Boris Artzybasheff wittily depicts here as the structure of Fullers face and skull. Patented in 1947, this spherical structure required no internal support, thus creating an unobstructed interior space. In 1967, one of Fullers domes served as the United States pavilion at the world exposition in Montreal, where it became a symbol of Americas tradition in technical innovation.  
+1039 American artist Gilbert Stuart was commissioned to paint this portrait after the success of his first portrait of Washington in 1795. Martha Washington convinced the president to sit again because, according to artist Rembrandt Peale, she wished a Portrait for herself; he therefore consented on the express condition that when finished it should be hers. Stuart, however, preferred this portrait to his earlier Washington; he purposely left it and that of the first lady unfinished so that he could use this as a model for the numerous copies that the first presidents admirers commissioned. After Stuarts death, the two paintings were purchased for the Boston Athenaeum, which owned them for more than 150 years.  This image served as the basis for the engraving of Washington on the one-dollar bill. John Neal, an early-nineteenth-century writer and art critic, wrote: Though a better likeness of him were shown to us, we should reject it; for, the only idea that we now have of George Washington, is associated with Stuarts Washington.
+718 The Harmon Foundation, a philanthropic organization based in New York City and active from (1922-1967) included this portrait in their exhibition Portraits of Outstanding Americans of Negro Origins which documented noteworthy African Americans contributions to the country. Modeling their goal of social equality, the Harmon sought portraits from an African-American artist, Laura Wheeler Waring and Euro-American artist, Betsy Graves Reyneau.  The two painters  followed the conventional codes of academic portraiture, seeking to convey their sitters extraordinary accomplishments.  This painting, along with a variety of educational materials, toured nation-wide for ten years serving as a visual rebuttal to racism.
+587 Rembrandt Peale, son of American artist Charles Willson Peale, painted George Washington from life in 1795 when he was seventeen. He later made numerous portraits of the president based on his memory of this sitting and on likenesses by other artists. From these he developed an idealized image-known by the Latin name Patriae Pater (Father of His Country)-which served as a model for his many so-called porthole portraits of Washington. In these compositions, the subjects face is seen through an oval stonework frame-an honorific convention in European art dating from the Renaissance.
+872 Born Portland, Oregon  The only recipient of two unshared Nobel Prizes-for chemistry and peace-Linus Pauling both advanced science and addressed its social implications. In the 1930s and 1940s, he applied quantum mechanics to chemistry, inspiring new discoveries about molecular structures and leading to his 1954 Nobel Prize. Paulings resistance to atomic weapons fueled his publication of No More War in 1958 and earned him a second Nobel in 1962. A year later the Nuclear Test-Ban Treaty was implemented.  Alice Neels informal portrait depicts the scientist outside of the laboratory to indicate the breadth of his commitments. Pauling later explained, I could have accomplished a lot more science from 1945 to 1965. I decided . . . I ought to get scientists working for world peace. . . . Scientists have an obligation to help fellow citizens make the right decisions.
+823 In 1857, the inventor of a coal-burning stove, Jordan Mott, commissioned Christian Schussele to paint a group portrait of eighteen American scientists and inventors who had altered the course of contemporary civilization. As with Schusseles celebration of American letters, Washington Irving . . . at Sunnyside, the group portrait did not mark an actual occasion but was designed to honor the achievements of American industry. The artist sketched study portraits of each of his subjects before putting them all into his final, formal composition. Men of Progress is a remarkable document of the growth of the American economy by the 1850s as it celebrates the inventions and processes of manufacturing pioneered by men such as Cyrus McCormick, Charles Goodyear, Samuel Colt, Samuel Morse, Elias Howe, and fourteen others. 
+854 A clockmaker by trade and a self-taught mathematician and astronomer, David Rittenhouse was second only to Benjamin Franklin as the foremost man of science in eighteenth-century America. His surveying instruments were unsurpassed; his astronomical calculations were solicited by almanac publishers near and far; and his orrery (a mathematically precise model of the solar system) was touted as the greatest mechanical wonder of the new world, more complete than anything that could be obtained in Europe. Rittenhouses name, said physician and patriot Dr. Benjamin Rush, gave splendor to the American character. Charles Willson Peale painted his friend (and collaborator in experiments to improve rifles during the Revolution) seated before a large reflecting telescope-perhaps the one bequeathed to him by Benjamin Franklin-pointing to a comet in orbit. 
+825 John Wesley Powells work as an explorer, geologist, and anthropologist in the American West helped to shape national policies on a host of issues, including the status of native peoples and the development of public lands. Although he was celebrated for leading the first American exploring expedition through the Grand Canyon in 1869, his greater contribution came from his scientific reports on western lands and the peoples living there, many of which contradicted long-held beliefs. His advocacy of communal or government control of water for irrigation in the West was derided at the time, yet his studies served as the foundation for twentieth-century water-use policies. As director of both the U.S. Geological Survey and the U.S. Bureau of Ethnology, Powell saw science as a vital force in promoting the common good. 
+816 When Americans chose their first president under the new Constitution of 1788, George Washingtons election was a foregone conclusion. But despite Washingtons prestige, his presidency had its critics. Toward the end of his administration, one newspaper branded him a scourge and misfortune. This portrait shows some of the stress that even our first president felt under the burden of the office. Even under attack, however, Washingtons firm leadership gave credibility to the new federal government and assured its survivability. Young Rembrandt Peale, then seventeen, was so nervous about painting Washington that his artist father, Charles Willson Peale, had to come along to the sittings to soothe his sons jangled nerves. The younger Peale made several replicas of his resulting portrait, including this version.
+961 In 1791, Charles Willson Peale added this portrait of Secretary of State Thomas Jefferson to his museums collection of American heroes. Jefferson appears younger than his fifty years, perhaps evoking the young man the artist remembered as the Virginia delegate to the Continental Congress. Jefferson was well known to Americans in 1791, having also served as governor of Virginia and ambassador to France. Notwithstanding George Washingtons desire for unity in his administration, Jefferson quickly found himself at odds with Secretary of the Treasury Alexander Hamilton, whose power and influence on the president rivaled his own. Jefferson favored a smaller, weaker national government, with more power residing in the states, and closer ties to France; Hamilton argued for a powerful national government allied to Great Britain. From these differences the first American party system-Democratic-Republicans (Jefferson) versus Federalists (Hamilton)-was born.
+600 Born Hanoverton, Ohio   Thomas Corwin Mendenhall, a physicist and professor at Ohio State University, became president of Worcester Polytechnic Institute in 1894. This miniature of him was painted in 1918 by his former Ohio State pupil Annie Ware Sabine Siebert. Wallace Siebert, the artists brother, wrote of her talents: You always seem to get the essence of a man, that which does not change with lapse of time. A remarkable woman of her era, Siebert became the first recipient of a master of arts degree from Ohio State in 1886 and one of the first women to earn an architecture degree from MIT. 
+1463 Left to right: Thomas C. Devin (1822-1878), George A. Custer (1839-1876), Hugh J. Kilpatrick (1836-1881), William H. Emory (1811-1887), Philip H. Sheridan (1831-1888), James B. McPherson (1828-1864), George Crook (1830-1890), Wesley Merritt (1834-1910), George H. Thomas (1816-1870), Gouverneur Kemble Warren (1830-1882), George G. Meade (1815-1872), John G. Parke (1827-1900), William T. Sherman (1820-1891), John A. Logan (1826-1886), Ulysses S. Grant (1822-1885), Ambrose E. Burnside (1824-1881), Joseph Hooker (1814-1879), Winfield Scott Hancock (1824-1886), John A. Rawlins (1831-1869), Edward O. C. Ord (1818-1883), Francis Preston Blair (1821-1875), Alfred H. Terry (1827-1890), Henry W. Slocum (1827-1894), Jefferson C. Davis (1828-1879), Oliver O. Howard (1830-1909), John M. Schofield (1831-1906), Joseph A. Mower (1827-1870)  After the Norwegian artist Ole Peter Hansen Balling had sketched President Lincoln at the White House in the fall of 1864, he obtained permission to paint life portraits of leading Union generals. Balling joined General Grant at City Point, Virginia, during the campaign against Richmond and spent five weeks there sketching officers in the field. Philip H. Sheridan was painted while in the Shenandoah Valley; the portraits of William T. Sherman and George H. Thomas were done in Washington after the end of the war. The image of George A. Custer, second from the left, is thought to be the only life portrait painted of him.
+1258 Bill Gates (born 1955) dropped out of Harvard to write software for the earliest personal computers. His company, Microsoft, developed a computer operating system for wide-scale nontechnical use that spurred on the personal computer revolution begun in the 1980s. Microsoft remains a leader in the industry and made Gates among the worlds wealthiest individuals. Melinda French Gates (born 1964) has degrees in computer science, economics, and business, and was employed by Microsoft before marrying Bill Gates in 1994.             The couple created the Bill & Melinda Gates Foundation with the mission of helping all people live healthy, productive lives. Global priorities include improving health and boosting the productivity of small farms in poor countries; national initiatives include implementing partnerships to make sure students graduate from high school ready for college and helping local libraries provide free computer and Internet services.             The painting is set near the Gates family home on Lake Washington. The collaged screen on the left includes maps, charts, and images referencing the foundations work, with the statement All Lives Have Equal Value. The background shows the lake with the Olympic Mountains in the distance.
+599 Before he came to the United States in 1839, the Swedish-born engineer and inventor John Ericsson revolutionized navigation with his development of the screw propeller. He achieved fame during the Civil War when he designed the ironclad warship Monitor, the federal response to the threat of the Confederate ironclad Virginia (the refitted USS Merrimack). Ericsson, posing with a model of his tin can on a raft, always worked alone and had previously perfected engines for many purposes, including fire engines and a steam locomotive. He later developed the forerunner of the modern naval destroyer.
+956 Born Yorkshire, England  Benjamin Latrobe was the most important architect of the early republic, transforming the discipline from an avocation for amateurs to a profession with standards and practices. Latrobe trained several of Americas next generation of architects, including the designer of this building, Robert Mills. Born in England, Latrobe trained there and in Germany. He but we know little of Latrobes early work because his records were lost at sea when he immigrated to America in 179596. His influential American buildings include the Philadelphia Water Works, New York City Hall, and redesigns of the Capitol and White House after they were burned in the War of 1812. Latrobe and artist Charles Frederick von Breda were at the beginning of their careers in London when this portrait was made. Von Breda created it to recall the lively and successful composition of a larger painting now in the collection of the Maryland Historical Society.
+755 Born New York City  Murray Gell-Manns concept of the eightfold way with regard to particle coherence and predictability has been a vital tool in enlarging knowledge of nuclear particles. For this work on the theory of elementary particles, he received the Nobel Prize in 1969, and his 1994 book The Quark and the Jaguar made these theories accessible to the general reader. Gell-Mann is currently the Robert Andrews Milliken Professor Emeritus at the California Institute of Technology.  Painter Andrew Tift met and photographed Gell-Mann in 2003 at the Santa Fe Institute, where Gell-Mann is a distinguished fellow and trustee. Tift loved his face: He really had the Mad Professor look, a bit like Einstein, a wonderful face that I knew I had to capture.
+919 As the new American republic emerged from its war with the mother country, Thomas Jefferson and John Adams, collaborators in the formulation of the Declaration of Independence (although Jefferson wrote the final document), were brought together as trade negotiators in France, where their mutual respect turned into friendship. In the spring of 1786-when Jefferson was the American minister to France and Adams the American minister to England-Jefferson visited Adams, who suggested that he pose for the young Boston-born artist Mather Brown. An exchange of portraits between the two colleagues ensued. This painting, the earliest known likeness of Jefferson, remained in Adamss family until given to the nation in 1999. The background contains the classical figure of Freedom holding a staff topped by a cap, which had its origins in the conical cloth cap adopted by freed Roman slaves as the symbol of their liberty. 
+918 Born Wapakoneta, Ohio   On July 20, 1969, Neil Armstrong became the first person to walk on the moon, meeting President John F. Kennedys 1961 goal for Americans to reach the moon by the end of the decade. Descending from the Lunar Excursion Module (LEM) to the lunar surface, Armstrong declared, One small step for (a) man, one giant leap for mankind as a camera beamed images back to earth. The lunar landingduring which Armstrong had to override the LEMs autopilot to manually guide the aircraft to a safe landing on the moonrepresents a defining moment in Armstrongs distinguished career, which included service in the Korean War. In honor of his achievement, the nation recognized him with the Presidential Medal of Freedom in 1969; he also received many other national and international accolades. He went on to teach and to work in private industry and helped the nation continue to strengthen its space program.
+671 Before the Reign of Terror began in 1793, Laurent Dabos, an artist from Toulouse undertook (apparently for the purpose of engraving) small full-length portraits of twelve luminaries of the French Revolution-Thomas Paine the only non-Frenchman among them. The bust version here shows Paine about the time he reached France. Well known as the author of Common Sense and Rights of Man, he was greeted by cannon salutes and cries of Vive Thomas Paine.  Outlawed in England, Paine was never able to return to his native land, but his portrait was carried there-possibly by a member of the radical Anglo contingent in Paris-and was discovered some years ago in Northumberland. 
+846 David Baltimore is regarded as one of the worlds most influential biologists. In 1975, at the age of thirty-seven, he won the Nobel Prize for his research on RNA viruses and their abilities to infect and permanently alter healthy cells. His research has increased the scientific understanding of retroviruses such as HIV and the molecular basis of the immune response. Baltimore is regularly consulted by the federal government and health organizations worldwide in the fight against and treatment of AIDS. Describing the joy of discovery, Baltimore explains: You go home, and you think about it when you go to sleep, and you think about it when you wake up . . . and you know there is something new in the world. In this portrait by Jon Friedman, Baltimore appears with a print by Richard Serra, testifying to his long-standing interest in art. 
+928  Territorial expansion generated a spirit of technological adventure and a search for new methods to handle the unique conditions of American life. Cyrus McCormick, a farmer in Virginias Shenandoah Valley, succeeded where his father had failed by constructing the first practical reaping machine. This reaper was a first step in the mechanization of American agriculture, allowing the efficient cultivation of large tracts of farmland by small numbers of farmers. This industrialization of the land allowed the United States to boost agricultural production to unprecedented levels and to feed growing cities and industrial towns. McCormicks design was pirated by competitors, but he overcame his rivals by founding his own factory outside Chicago in 1847. There, he contributed to the pace of industrial growth by using standardized parts and assembly-line production-methods that had been pioneered by Samuel Colt and others. 
+900 An actor turned inventor, Isaac Singer democratized clothing production with the sewing machine he patented in 1851. Although not the first (Elias Howe introduced a design in 1846), Singers machine was more reliable and capable of continuous stitching. Hailed two years after its appearance as one of the most efficient labor-saving devices ever introduced to public notice, Singers machine could sew 900 stitches per minute, more than twenty times as many as a skilled seamstress. Aiming the product at women and putting it within reach of a wide range of buyers, Singer and his business partner Edward Clark established an international commercial empire. Singer commissioned this portrait while living in Paris, after scandals about his private life forced him to relocate to Europe. American artist Edward Harrison May painted him in clothing that reflects his wealth and trademark extravagance. 
+972 Born Queen Annes County, Maryland  A creative and energetic force throughout the Revolutionary era and the early Republic, Charles Willson Peale moved to London in 1767 to study painting with Benjamin West. In 1769 he returned to Maryland, where he made portraits of landowners and their families before settling in Philadelphia in 1776. Peale, a militiaman and political figure, sided with radical factions during and after the Revolution, and painted portraits of national heroes in the fight for independence. His portrait gallery became a feature of his Philadelphia Museum-the nations first significant museum of natural history-which opened to the public in 1786. His energy and abilities made him a sought-after painter of portraits of George Washington, a correspondent of Thomas Jefferson, and the leader of an expedition to exhume the skeleton of a mastodon. Members of his large family followed in his footsteps as artists, scientists, and museum entrepreneurs.
+950 When Vice President Chester Arthur succeeded to the presidency on the death of James Garfield, a newspaper noted that he was not a man who would have entered anybodys mind as a worthy candidate for the office. Indeed, as a major player in a spoils system that reduced the civil service to a vehicle for rewarding party faithful, he struck many as an emblem of all that was wrong in American politics. As president, however, Arthur rose above his past to promote landmark legislation designed to curb the spoils system. He also proved to be a foe of other forms of corruption. When, for example, a pork barrel bill for public improvements reached his desk, he vetoed it.  This head-and-shoulders portrait can only hint at the fashionable figure that Arthur cut. With his muttonchop whiskers trimmed to the perfection point and his suits made of only the finest fabrics, he invariably looked like the very epitome of the well-bred Victorian gentleman. 
+529 Probably born in France   Englishman James Smithson commissioned this forthright portrait from a Belgian artist working in present-day Aachen, possibly as a gift for a family member. Always painfully aware of his uncertain status as an illegitimate child of the Duke of Northumberland, he focused on his scientific publishing in chemistry and mineralogy. In 1826 he penned his most unusual will, providing for the establishment of the Smithsonian Institution, an Establishment for the increase & diffusion of knowledge among men.
+911 Born New York City  David Baltimore is regarded as one of the worlds most influential biologists. In 1975, at the age of thirty-seven, he won the Nobel Prize for his research on RNA viruses and their abilities to infect and permanently alter healthy cells. His research has aided the scientific understanding of retroviruses such as HIV and the molecular basis of the immune response. Baltimore is regularly consulted by the federal government and worldwide health organizations in the fight against and treatment of AIDS. Describing the joy of discovery, Baltimore explains: You go home, and you think about it when you go to sleep, and you think about it when you wake up . . . and you know there is something new in the world. In this portrait by Jon Friedman, Baltimore appears with partial views of two photographs by the Cuban photographer Abelardo Morell, testifying to his long-standing interest in art.
+1701 As the general who led us to victory in the American Revolution and as our first president, George Washington was often painted and sculpted. Everyone, it seemed, wanted the heros portrait. But it is this portrait that stands for all time as the image that best represents what Washington meant to us when we were a new nation and continues to mean to us in the twenty-first century. It is the one picture that we can say ranks in importance with those sacred founding documents, the Declaration of Independence, the Constitution and the Bill of Rights. We see Washington in 1796, the last year of his two-term presidency. Earlier full-length portraits show him in military uniform, but here he is in civilian dress, revealing that in our democracy the elected executive is the true commander-in-chief. Standing in elegant surroundings suggesting the grandeur of European tradition, Washington is nonetheless not draped like a king, which he refused to be; he is a man powerful only by the peoples consent. This was the man who told us what this new kind of leader-an elected president-could be and whose maturity and resolve gave us confidence in our future. The rainbow behind him breaks through a stormy sky. Washington was lucky in his portraitist, and so are we. American-born Gilbert Stuart had eighteen years in Europe to hone his artistry. He was commissioned by Senator and Mrs. William Bingham of Pennsylvania to provide a gift to the Marquis of Lansdowne, an English supporter of American independence. It was copied by Stuart and others as THE image of Washington who sustains our national purpose-the Washington every generation of Americans needs to rediscover.Gilbert Stuart (1755-1828)
+979 Born Birmingham, Alabama  Biologist Edward O. Wilson-two-time winner of the Pulitzer Prize for general nonfiction-has been a leader of the biodiversity movement since the 1980s. Trained as an entomologist specializing in ant biology, Wilson has ranged from New Guinea and Sri Lanka to the Smithsonian Institution for his work. His groundbreaking Sociobiology: The New Synthesis (1975) was a controversial study that examined the biological basis of social behavior in all kinds of organisms, including vertebrates, with links to evolutionary biology. A hallmark of his later work has been an attempt to bridge the gap between science and the culture at large, as in Consilience: The Unity of Life (1998).  Artist Jennie Summerall posed Wilson in a setting reminiscent of the landscape on Lignum Vitae Key in Florida, which he helped preserve. Based on photographic images, the painting references Wilsons earlier studies on ant populations, while depicting him as he looks today.
+879 The most brilliant scientist of the twentieth century, physicist Albert Einstein inspires comparisons to Isaac Newton. By the time he reached thirty, his theory of relativity and work in quantum mechanics had revolutionized physics and profoundly altered our perception of the world. Einstein naturally commanded great prestige in the United States when he sought refuge from the Nazi regime of his native Germany in 1933. His words thus carried enormous weight in 1939 when he wrote a letter alerting President Roosevelt that Germany was moving toward the development of nuclear weaponry. Eventually, that warning gave impetus to the Manhattan Project, the top-secret venture that in 1945 produced the worlds first atomic bomb. While sitting for this likeness in 1944, Einstein mused to his portraitist, After fifty years they will say of me, either he was a great man or a fool
+
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent
+100
+42 76.2cm x 63.4cm (30 x 24 15/16), Accurate 
+41 23cm x 17cm (9 1/16 x 6 11/16), Accurate 
+42 Stretcher: 76.3cm x 63.5cm (30 1/16 x 25) 
+84 Stretcher: 50.8 x 76.2cm (20 x 30) Frame: 70.2 x 95.3 x 5.1cm (27 5/8 x 37 1/2 x 2) 
+42 64.2cm x 53.5cm (25 1/4 x 21 1/16), Sight 
+39 22.5cm x 16.9cm (8 7/8 x 6 5/8), Sight 
+34 41.9cm x 36.8cm (16 1/2 x 14 1/2) 
+94 Sight: 124.5 x 100.3 x 2.5cm (49 x 39 1/2 x 1) Frame: 147.3 x 121.9 x 8.9cm (58 x 48 x 3 1/2) 
+37 59.7cm x 48.3cm (23 1/2 x 19), Sight 
+38 Sight: 75 x 62.4cm (29 1/2 x 24 9/16) 
+90 Stretcher: 147 x 116.8cm (57 7/8 x 46) Frame: 152.1 x 121.9 x 4.4cm (59 7/8 x 48 x 1 3/4) 
+39 Image: 117.5 x 84cm (46 1/4 x 33 1/16) 
+51 112cm x 85cm (44 1/8 x 33 7/16), Accurate No frame 
+43 100.5cm x 75.3cm (39 9/16 x 29 5/8), Sight 
+37 6.4cm x 5.4cm (2 1/2 x 2 1/8), Sight 
+37 111.8cm x 91.5cm (44 x 36), Accurate 
+36 8cm x 6.5cm (3 1/8 x 2 9/16), Sight 
+37 73cm x 59cm (28 3/4 x 23 1/4), Sight 
+89 Sight: 90.2 x 69.9cm (35 1/2 x 27 1/2) Frame: 101.6 x 81.6 x 6.4cm (40 x 32 1/8 x 2 1/2) 
+96 Panel: 127.6 x 117.5cm (50 1/4 x 46 1/4) Frame: 130.7 x 120.5 x 7cm (51 7/16 x 47 7/16 x 2 3/4) 
+37 61cm x 51cm (24 x 20 1/16), Accurate 
+38 61cm x 58cm (24 x 22 13/16), Accurate 
+109 Stretcher: 114.9 x 89.5 x 2.5cm (45 1/4 x 35 1/4 x 1) Frame: 130.2 x 104.8 x 5.7cm (51 1/4 x 41 1/4 x 2 1/4) 
+36 88.9cm x 76.2cm (35 x 30), Accurate 
+39 77cm x 63.5cm (30 5/16 x 25), Accurate 
+76 Sight: 43.8 x 30.5cm (17 1/4 x 12) Frame: 66 x 50.8 x 2.2cm (26 x 20 x 7/8) 
+106 Stretcher: 75.6 x 64.5 x 3.2cm (29 3/4 x 25 3/8 x 1 1/4) Frame: 94.9 x 83.8 x 9.5cm (37 3/8 x 33 x 3 3/4) 
+24 81.3 x 66 cm (32 x 26 ) 
+36 76.2cm x 63.5cm (30 x 25), Accurate 
+44 62.2cm x 52.1cm (24 1/2 x 20 1/2), Accurate 
+40 35.5cm x 28.5cm (14 x 11 1/4), Accurate 
+109 Stretcher: 92.1 x 74.3 x 2.5cm (36 1/4 x 29 1/4 x 1) Frame: 118.7 x 100.3 x 12.1cm (46 3/4 x 39 1/2 x 4 3/4) 
+82 Stretcher: 50.8 x 30.5cm (20 x 12) Frame: 54 x 33.7 x 5.1cm (21 1/4 x 13 1/4 x 2) 
+36 76.2cm x 63.5cm (30 x 25), Accurate 
+41 111.8cm x 92.1cm (44 x 36 1/4), Accurate 
+35 121.9cm x 94cm (48 x 37), Accurate 
+51 Sight: 74.6cm x 62.2cm (29 3/8 x 24 1/2), Accurate 
+32 4.3cm x 3.5cm (1 11/16 x 1 3/8) 
+40 304.8cm x 487.7cm (120 x 192), Accurate 
+42 132.7cm x 101.6cm (52 1/4 x 40), Accurate 
+46 121.3cm x 105.4cm (47 3/4 x 41 1/2), Accurate 
+132 Stretcher (Verified): 123.8 x 92.7 x 2.5cm (48 3/4 x 36 1/2 x 1) Frame (Verified): 154.3 x 122.6 x 11.4cm (60 3/4 x 48 1/4 x 4 1/2) 
+67 Sheet: 76.6 x 58.1cm (30 3/16 x 22 7/8) Mat: 91.4 x 66cm (36 x 26) 
+43 115.1cm x 89.9cm (45 5/16 x 35 3/8), Sight 
+33 68.8 x 59 cm (27 1/16 x 23 1/4 ) 
+107 Object: 74.3 x 92.1 x 0.3cm (29 1/4 x 36 1/4 x 1/8) Frame: 97.2 x 115.3 x 11.4cm (38 1/4 x 45 3/8 x 4 1/2) 
+41 Stretcher: 18.1 x 13.3cm (7 1/8 x 5 1/4) 
+42 76.2cm x 63.4cm (30 x 24 15/16), Accurate 
+42 66.7cm x 54cm (26 1/4 x 21 1/4), Accurate 
+98 Stretcher: 102.9 x 77.5cm (40 1/2 x 30 1/2) Frame: 123.2 x 97.8 x 9.5cm (48 1/2 x 38 1/2 x 3 3/4) 
+44 102cm x 89.5cm (40 3/16 x 35 1/4), Estimate 
+29 27.9cm x 25.1cm (11 x 9 7/8) 
+98 Other (Accurate): 7.6 x 7cm (3 x 2 3/4) Frame (with hanging hook): 13.8 x 11.7cm (5 7/16 x 4 5/8) 
+36 81.3cm x 63.5cm (32 x 25), Accurate 
+40 76.2cm x 51.1cm (30 x 20 1/8), Accurate 
+92 Stretcher: 66.7 x 54.6cm (26 1/4 x 21 1/2) Frame: 82.9 x 70.5 x 5.1cm (32 5/8 x 27 3/4 x 2) 
+37 111.8cm x 91.5cm (44 x 36), Accurate 
+46 43.1cm x 27.6cm (16 15/16 x 10 7/8), Accurate 
+43 91.1cm x 73.2cm (35 7/8 x 28 13/16), Sight 
+30 66.4cm x 53.3cm (26 1/8 x 21) 
+42 76.2cm x 63.4cm (30 x 24 15/16), Accurate 
+40 91.5cm x 75.9cm (36 x 29 7/8), Accurate 
+46 134.5cm x 98.6cm (52 15/16 x 38 13/16), Sight 
+40 81.6cm x 63.5cm (32 1/8 x 25), Accurate 
+32 26.3 x 23.5 cm (10 3/8 x 9 1/4) 
+56 Sheet: 76.3 x 56.4 cm (30 1/16 x 22 3/16) Oversize mat. 
+40 117cm x 91.5cm (46 1/16 x 36), Accurate 
+84 Sight: 62.2 x 50.8cm (24 1/2 x 20) Frame: 79.1 x 69.2 x 7.6cm (31 1/8 x 27 1/4 x 3) 
+108 Stretcher: 120.3 x 95.9 x 2.5cm (47 3/8 x 37 3/4 x 1) Frame: 151.1 x 126 x 10.5cm (59 1/2 x 49 5/8 x 4 1/8) 
+25 91.5 x 76.2 cm (36 x 30) 
+43 112cm x 97.8cm (44 1/8 x 38 1/2), Accurate 
+44 66.3cm x 53.1cm (26 1/8 x 20 7/8), Accurate 
+46 125.9cm x 95.5cm (49 9/16 x 37 5/8), Estimate 
+110 Stretcher: 51.4 x 41.3 x 3.8cm (20 1/4 x 16 1/4 x 1 1/2) Frame: 59.7 x 49.5 x 6.7cm (23 1/2 x 19 1/2 x 2 5/8) 
+92 Sight: 49.5 x 41.3cm (19 1/2 x 16 1/4) Frame: 72.4 x 65.4 x 8.6cm (28 1/2 x 25 3/4 x 3 3/8) 
+74 Stretcher: 34 x 26cm (13 3/8 x 10 1/4) Frame: 50.8 x 43.5cm (20 x 17 1/8) 
+109 Stretcher: 130.8 x 98.7 x 3.2cm (51 1/2 x 38 7/8 x 1 1/4) Frame: 144.8 x 112.4 x 6.7cm (57 x 44 1/4 x 2 5/8) 
+44 75.5cm x 62.8cm (29 3/4 x 24 3/4), Accurate 
+67 Sight: 243.8 x 152.4cm (96 x 60) Frame: 294.6 x 200.7cm (116 x 79) 
+35 127cm x 91.5cm (50 x 36), Accurate 
+49 Frame: 96.5 x 83.2 x 5.7cm (38 x 32 3/4 x 2 1/4) 
+40 122cm x 91.5cm (48 1/16 x 36), Accurate 
+76 58.4 x 92.7cm (23 x 36 1/2) Frame: 100.3 x 134.6 x 12.7cm (39 1/2 x 53 x 5) 
+44 51.4cm x 38.4cm (20 1/4 x 15 1/8), Accurate 
+36 76.2cm x 63.5cm (30 x 25), Accurate 
+40 97.2cm x 86.4cm (38 1/4 x 34), Accurate 
+40 91.5cm x 59.7cm (36 x 23 1/2), Accurate 
+38 139.7cm x 106.7cm (55 x 42), Accurate 
+85 Sight: 90.2 x 64.8cm (35 1/2 x 25 1/2) Frame: 111.8 x 83.8 x 8.9cm (44 x 33 x 3 1/2) 
+95 Board: 27.3 x 22.5 x 0.3cm (10 3/4 x 8 7/8 x 1/8) Frame: 35.6 x 30.5 x 4.8cm (14 x 12 x 1 7/8) 
+34 22.8cm x 17.8cm (9 x 7), Estimate 
+49 233.8cm x 154.4cm (92 1/16 x 60 13/16), Estimate 
+36 86.4cm x 68.6cm (34 x 27), Accurate 
+44 48.5cm x 38.4cm (19 1/8 x 15 1/8), Accurate 
+42 90cm x 70cm (35 7/16 x 27 9/16), Accurate 
+26 76.2cm x 63.5cm (30 x 25) 
+45 90.6cm x 70.6cm (35 11/16 x 27 13/16), Sight 
+40 76.8cm x 63.5cm (30 1/4 x 25), Accurate 
+58 Image: 61 x 50.8cm (24 x 20) Frame: 66 x 55.9cm (26 x 22) 
+29 61cm x 46.2cm (24 x 18 3/16) 
+
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink
+100
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/7100046a.jpg
+67 http://npgportraits.si.edu/eMuseumNPG/media/previews/9900178A_3.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/7000062a.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/7500026a.jpg
+57 http://npgportraits.si.edu/eMuseumNPG/media/previews/.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/6600090a.jpg
+67 http://npgportraits.si.edu/eMuseumNPG/media/previews/6400018A_1.jpg
+67 http://npgportraits.si.edu/eMuseumNPG/media/previews/8500146A_1.jpg
+67 http://npgportraits.si.edu/eMuseumNPG/media/previews/7500016A_1.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/96t0006e.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/6600006a.jpg
+67 http://npgportraits.si.edu/eMuseumNPG/media/previews/md140434_2.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/pr010052.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/7000034a.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/78t0518a.jpg
+67 http://npgportraits.si.edu/eMuseumNPG/media/previews/8200116A_1.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/ia040070.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/ok020467.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/7500004a.jpg
+67 http://npgportraits.si.edu/eMuseumNPG/media/previews/8400032A_1.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/6600100a.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/6510086a.jpg
+67 http://npgportraits.si.edu/eMuseumNPG/media/previews/7010010a_1.jpg
+66 http://npgportraits.si.edu/eMuseumNPG/media/previews/A7000008A.jpg
+66 http://npgportraits.si.edu/eMuseumNPG/media/previews/A8000078A.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/9100008a.jpg
+67 http://npgportraits.si.edu/eMuseumNPG/media/previews/ma320475_2.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/6910030a.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/6510148a.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/va060061.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/6700118a.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/pa220143.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/8500148A.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/6600096a.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/6610066a.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/7200214a.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/pa300381.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/7500024a.jpg
+67 http://npgportraits.si.edu/eMuseumNPG/media/previews/8100192A_1.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/va100071.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/ok020473.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/6800006a.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/9200220a.jpg
+67 http://npgportraits.si.edu/eMuseumNPG/media/previews/6710222A_1.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/9600056a.jpg
+66 http://npgportraits.si.edu/eMuseumNPG/media/previews/pa290499a.jpg
+67 http://npgportraits.si.edu/eMuseumNPG/media/previews/8500088A_1.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/tx010033.jpg
+67 http://npgportraits.si.edu/eMuseumNPG/media/previews/8600424A_1.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/va060062.jpg
+67 http://npgportraits.si.edu/eMuseumNPG/media/previews/8000496A_1.jpg
+66 http://npgportraits.si.edu/eMuseumNPG/media/previews/A7000002B.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/pa220101.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/6610098a.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/va150045.jpg
+66 http://npgportraits.si.edu/eMuseumNPG/media/previews/B0000234C.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/7900298a.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/va060036.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/83l0004a.jpg
+67 http://npgportraits.si.edu/eMuseumNPG/media/previews/va100069_2.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/7800580a.jpg
+67 http://npgportraits.si.edu/eMuseumNPG/media/previews/9600186A_1.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/va290051.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/8500432a.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/6800074a.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/2k75008a.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/6710204a.jpg
+67 http://npgportraits.si.edu/eMuseumNPG/media/previews/78T1686A_2.jpg
+67 http://npgportraits.si.edu/eMuseumNPG/media/previews/ny300001_2.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/78t0628a.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/6500050a.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/78t0790a.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/ia040005.jpg
+67 http://npgportraits.si.edu/eMuseumNPG/media/previews/88T0058A_1.jpg
+67 http://npgportraits.si.edu/eMuseumNPG/media/previews/7700306A_1.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/ny190170.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/7910129a.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/ny270002.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/7910127a.jpg
+67 http://npgportraits.si.edu/eMuseumNPG/media/previews/6800012A_1.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/6610078a.jpg
+67 http://npgportraits.si.edu/eMuseumNPG/media/previews/md190038_2.jpg
+67 http://npgportraits.si.edu/eMuseumNPG/media/previews/ny120016_2.jpg
+66 http://npgportraits.si.edu/eMuseumNPG/media/previews/B1000128A.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/6600092a.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/7900536a.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/9200168a.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/il090060.jpg
+67 http://npgportraits.si.edu/eMuseumNPG/media/previews/7610016A_2.jpg
+67 http://npgportraits.si.edu/eMuseumNPG/media/previews/7200054a_1.jpg
+67 http://npgportraits.si.edu/eMuseumNPG/media/previews/8200232A_1.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/6610092a.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/7200230a.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/9700476a.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/7100108a.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/8000230A.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/7300060a.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/6510044a.jpg
+67 http://npgportraits.si.edu/eMuseumNPG/media/previews/6500106A_1.jpg
+65 http://npgportraits.si.edu/eMuseumNPG/media/previews/9200254a.jpg
+
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium
+100
+13 Oil on canvas
+12 Oil on panel
+13 Oil on canvas
+18 Watercolor on silk
+15 Pastel on paper
+16 Gouache on board
+12 Oil on panel
+12 Oil on paper
+13 Oil on canvas
+13 Oil on canvas
+11 Oil on wood
+13 Oil on canvas
+13 Oil on canvas
+13 Oil on canvas
+13 Oil on canvas
+48 Oil and collage on canvas attached to wood panel
+13 Oil on canvas
+13 Oil on canvas
+13 Oil on canvas
+13 Oil on canvas
+17 Oil on wood panel
+13 Oil on canvas
+13 Oil on canvas
+13 Oil on canvas
+15 Pastel on paper
+13 Oil on canvas
+13 Oil on canvas
+13 Oil on canvas
+13 Oil on canvas
+19 Watercolor on ivory
+13 Oil on canvas
+13 Oil on canvas
+13 Oil on canvas
+13 Oil on canvas
+13 Oil on marble
+12 Oil on panel
+13 Oil on canvas
+15 Pastel on paper
+13 Oil on canvas
+13 Oil on canvas
+13 Oil on canvas
+13 Oil on canvas
+12 Oil on panel
+13 Oil on canvas
+13 Oil on canvas
+13 Oil on canvas
+13 Oil on canvas
+13 Oil on canvas
+32 Tempera, pencil and ink on board
+16 Tempera on board
+13 Oil on canvas
+13 Oil on canvas
+13 Oil on canvas
+30 Acrylic and casein on Masonite
+17 Oil on paperboard
+13 Oil on canvas
+13 Oil on canvas
+13 Oil on canvas
+13 Oil on canvas
+13 Oil on canvas
+13 Oil on canvas
+13 Oil on canvas
+13 Oil on canvas
+11 Oil on wood
+13 Oil on canvas
+13 Oil on canvas
+13 Oil on burlap
+13 Oil on canvas
+13 Oil on canvas
+13 Oil on canvas
+12 Oil on board
+13 Oil on canvas
+13 Oil on canvas
+13 Oil on canvas
+13 Oil on canvas
+13 Oil on canvas
+13 Oil on canvas
+13 Oil on canvas
+13 Oil on canvas
+12 Oil on board
+11 Oil on wood
+13 Oil on canvas
+13 Oil on canvas
+13 Oil on canvas
+13 Oil on canvas
+13 Oil on canvas
+13 Oil on canvas
+13 Oil on canvas
+13 Oil on canvas
+13 Oil on canvas
+13 Oil on canvas
+13 Oil on canvas
+13 Oil on canvas
+13 Oil on canvas
+32 Tempera, pencil and ink on board
+13 Oil on canvas
+13 Oil on canvas
+13 Oil on canvas
+13 Oil on canvas
+19 Watercolor on ivory
+
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/rightsHolder
+100
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+17 Winterthur Museum
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+37 Independence National Historical Park
+18 Wadsworth Atheneum
+50 National Portrait Gallery, Smithsonian Institution
+16 Gilcrease Museum
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+27 Virginia Historical Society
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+28 Museum of Fine Arts, Houston
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+17 Lafayette College
+26 Indianapolis Museum of Art
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+21 Colonial Williamsburg
+27 Washington & Lee University
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+16 Gilcrease Museum
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+39 Monticello, Thomas Jefferson Foundation
+28 Union League Club of Chicago
+37 Independence National Historical Park
+39 Monticello, Thomas Jefferson Foundation
+50 National Portrait Gallery, Smithsonian Institution
+37 Pennsylvania Academy of the Fine Arts
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+37 Independence National Historical Park
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+27 Museum of Fine Arts, Boston
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+27 Maryland Historical Society
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+16 Gilcrease Museum
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+27 Museum of Fine Arts, Boston
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+21 Colonial Williamsburg
+21 Colonial Williamsburg
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+50 National Portrait Gallery, Smithsonian Institution
+
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber
+100
+42 S/NPG.67.136                              
+42 OK020473                                  
+42 NPG.85.6                                  
+42 K6                                        
+42 NPG.97.59                                 
+42 PM1972.13                                 
+42 S/NPG.79.65                               
+42 NPG.92.110                                
+42 NPG.92.84                                 
+42 7.013                                     
+42 NPG.80.115                                
+42 1912.14.3 PAFA                            
+42 S/NPG.66.73                               
+42 62.1.403                                  
+42 CT900004                                  
+42 NPG.87.43                                 
+42 NPG.71.3                                  
+42 NPG.75.14                                 
+42 S/NPG.69.18                               
+42 1951.100                                  
+42 NL 085                                    
+42 30.5                                      
+42 NPG.72.121                                
+42 NPG.71.23                                 
+42 NPG.72.112                                
+42 S/NPG.69.39                               
+42 NY300001                                  
+42 NPG.97.233                                
+42 H-17                                      
+42 978.22                                    
+42 NPG.66.57                                 
+42 NPG.68.37                                 
+42 NPG.70.20                                 
+42 NPG.78.TC362                              
+42 S/NPG.66.70                               
+42 29.788 MFAB                               
+42 NPG.77.159                                
+42 NPG.66.37                                 
+42 1954.60                                   
+42 1923.2 CHM                                
+42 62.3.94                                   
+42 S/NPG.79.68                               
+42 13.301                                    
+42 NPG.67.16                                 
+42 13.131                                    
+42 NPG.97.TC42                               
+42 NPG.65.59                                 
+42 NPG.79.119                                
+42 S/NPG.65.22                               
+42 NPG.85.74                                 
+42 NPG.2007.1                                
+42 NPG.68.24                                 
+42 NY270002                                  
+42 NPG.66.60                                 
+42 NPG.96.TC3                                
+42 63.2                                      
+42 S/NPG.65.55                               
+42 NPG.72.28                                 
+42 NPG.65.77                                 
+42 NPG.88.60                                 
+42 NPG.67.138                                
+42 NPG.92.101                                
+42 NPG.78.TC844                              
+42 NPG.66.6                                  
+42 42.543 MFAB                               
+42 S/NPG.66.62                               
+42 NPG.71.57                                 
+42 34.1178                                   
+42 S/NPG.69.33                               
+42 NPG.66.28                                 
+42 NPG.75.8                                  
+42 NPG.80.16                                 
+42 NPG.75.4                                  
+42 NPG.85.73                                 
+42 OK020467                                  
+42 NPG.75.12                                 
+42 NPG.2011.64                               
+42 NPG.65.60                                 
+42 G1933-502                                 
+42 NPG.65.23                                 
+42 NPG.81.97                                 
+42 NPG.65.53                                 
+42 S/NPG.79.67                               
+42 NPG.75.13                                 
+42 G56-44 1                                  
+42 NPG.98.73                                 
+42 1943.16.2 PAFA                            
+42 NPG.66.54                                 
+42 PR010052                                  
+42 G64.2201                                  
+42 NPG.67.62                                 
+42 NPG.66.3                                  
+42 NPG.96.28                                 
+42 S/NPG.67.126                              
+42 NPG.2008.5                                
+42 NPG.68.6                                  
+42 NPG.82.58                                 
+42 NPG.68.3                                  
+42 NPG.82.97                                 
+42 1848.18                                   
+
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title
+100
+22 Grant and His Generals
+32 George Washington (Vaughan type)
+14 Loammi Baldwin
+25 Charles Doolittle Walcott
+17 George Washington
+20 Herbert Clark Hoover
+16 Thomas Jefferson
+25 Charles Doolittle Walcott
+21 Solomon White Roberts
+16 Thomas Jefferson
+15 Percy L. Julian
+42 George Washington (The Athenaeum Portrait)
+17 George Washington
+17 Erwin Frink Smith
+22 Edwin Augustus Stevens
+62 George Washington in the Uniform of a British Colonial Colonel
+10 John Glenn
+17 George Washington
+44 George Washington (Bust length of 1787 type)
+22 Samuel William Johnson
+38 George Washington (Lansdowne Portrait)
+40 Washington after the Battle of Princeton
+27 Samuel Washington Woodhouse
+16 Henry A. Wallace
+16 S. Dillon Ripley
+10 Thomas Say
+36 George Washington (Munro-Lenox type)
+17 Richard Delafield
+12 Thomas Paine
+35 Charles Lindbergh and Alexis Carrel
+30 John Adolphus Bernard Dahlgren
+10 Astronauts
+23 Robert Andrews Millikan
+16 Thomas Jefferson
+18 Lester Hoxie Dewey
+30 Washington at Verplancks Point
+19 Oscar Hammerstein I
+9 Isaac Lea
+24 Thomas Corwin Mendenhall
+34 George Washington (Athenaeum type)
+12 Rubens Peale
+18 Henry Larcom Abbot
+16 Thomas Jefferson
+27 Jean Louis Rodolphe Agassiz
+18 Samuel F. B. Morse
+19 William Austin Burt
+15 David Baltimore
+17 George Washington
+32 Samuel F. B. Morse Self-Portrait
+13 John Ericsson
+19 Chester Alan Arthur
+20 Herbert Clark Hoover
+18 John Wesley Powell
+17 Sherman Fairchild
+13 Simon Newcomb
+17 Albert James Myer
+17 Alexander Wetmore
+14 James Smithson
+14 Herbert Hoover
+19 Isaac Merrit Singer
+19 John Moses Browning
+17 Benjamin Silliman
+20 Herbert Clark Hoover
+34 George Washington (Athenaeum type)
+17 David Rittenhouse
+25 Charles Doolittle Walcott
+14 James Smithson
+15 Albert Einstein
+16 Edward O. Wilson
+15 Albert Einstein
+21 R. Buckminster Fuller
+15 Samuel Ringgold
+16 Thomas Jefferson
+24 Robert Hutchings Goddard
+14 Herbert Hoover
+11 David Wiley
+18 King Camp Gillette
+17 George Washington
+35 Charles Willson Peale Self-Portrait
+17 George Washington
+16 Paul Dyer Merica
+13 Jose Dufresne
+23 William Franklin Draper
+14 Herbert Hoover
+11 Robert Hare
+24 George Washington Carver
+22 Washington at Yorktown
+16 Thomas Jefferson
+25 Robert Livingston Stevens
+23 Dr. William Healey Dall
+16 Thomas Jefferson
+14 Eberhard Faber
+17 George Washington
+16 Thomas Jefferson
+20 Herbert Clark Hoover
+44 George Washington (Half-length of 1787 type)
+16 Thomas Jefferson
+14 Neil Armstrong
+16 Thomas Jefferson
+16 Thomas Jefferson
+
+534
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_id_Painting 16.205750200052844
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel starts_with_char_P 8.267789919473158
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel capitalized_token -3.0063032763680737
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_length_8 5.431975742817515
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/rights alpha_id_Everett 3.3602553105302295
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/rights alpha_id_R 1.5902888954989824
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/rights alpha_id_K 0.6365950913786501
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/rights after_decimal_len_0 0.8496065435349708
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/rights alpha_id_H 1.7011467590398435
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/rights alpha_id_J 2.14420982440584
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/rights alpha_id_Louis 1.3895491190678981
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/rights alpha_id_Friedman 1.5943466275043099
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/rights num_len_4 1.8147845881066624
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/rights alpha_id_Tift 2.4046284810174803
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/rights alpha_id_Jon 1.5943466275043099
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/rights alpha_id_Boris 2.7673592941610434
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/rights alpha_id_Arts 0.669218003769214
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/rights alpha_id_Pugh 3.8973239055196918
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/rights alpha_id_McCall 1.8449715937251143
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/rights starts_with_char_o 2.502468641718335
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/rights all_capitalized_token 3.448078363470268
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/rights alpha_id_of 2.8024291139532274
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/rights starts_with_char_B 0.2947432417230236
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/rights starts_with_char_E 3.957525822927384
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/rights alpha_id_Grace 3.8973239055196918
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/rights starts_with_char_A 1.5985978983322875
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/rights starts_with_char_K 2.4731659511730752
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/rights starts_with_char_J 3.0257669811419534
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/rights capitalized_token 1.6842778998141401
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/rights starts_with_char_L 1.3786738331064923
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/rights starts_with_char_G 0.6322115291014563
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/rights starts_with_char_H -0.42933881088098397
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/rights starts_with_char_R 1.022112992944243
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/rights starts_with_char_S -0.2755468394635017
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/rights starts_with_char_N -0.7263744806299273
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/rights unit_place_digit_6 0.5210266804680196
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/rights alpha_id_Fine 0.669218003769214
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/rights alpha_id_Andrew 2.2827801718864498
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/rights alpha_length_8 -1.371471253180538
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/rights alpha_length_9 -1.0191543169669235
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/rights alpha_id_Fund 1.1958176339575692
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/rights alpha_id_Albert -0.1987281173269043
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/rights alpha_id_Artzybasheff 3.481939893911085
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/rights alpha_length_11 -2.542334980250621
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/rights alpha_length_12 1.3975426531220705
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/rights alpha_id_Kinstler 3.3602553105302295
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/rights before_decimal_len_4 3.063195761649111
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/rights alpha_length_7 -0.6961498016854697
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/rights alpha_length_6 0.9504177443751295
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/rights alpha_length_5 3.875110635364835
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/rights alpha_length_4 1.244729473916954
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/rights alpha_length_2 0.6787227683346199
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/rights starting_digit_2 5.19624097167733
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/rights alpha_length_1 0.7440447470154214
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance after_decimal_len_0 -2.3864854323115243
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_acquisition 1.1584264607452257
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance symbol_, 1.8732063322997627
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_the 1.2369209708467481
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Robert -0.3422138526539918
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_magazine 1.8759231244535322
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_American 0.6174436942808029
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Time 1.8759231244535322
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_was -3.8560701929361665
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_length_10 4.113135878574996
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_length_11 -2.0179477337490237
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Courtesy 0.78725766974065
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Institution 6.440042454556909
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Portrait 6.428285522357906
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Hoover 2.2850817170280178
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_gift 12.891002404139263
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance capitalized_token -4.001682713265323
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Smithsonian 6.440042454556909
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_a 1.5496993498110594
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_m -0.6755837057837405
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_h -3.608625476723784
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_g 8.923008057745474
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_f 1.0599007741317763
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_t 1.2653000801912835
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_s -5.20447329744575
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_o -0.8754234306086303
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_C 8.212728859071062
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_B -3.1152520675961295
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_E -3.2193687583306603
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_A 1.5631558934429348
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_M 6.795908591101028
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_G -2.4286029387943455
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_S 4.550392870824166
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_N 2.638844818822645
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_P 0.7108402935480113
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Jon -0.45886270018183406
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_length_8 1.2943360583177352
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_length_9 3.357469172606548
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_length_7 2.105864370875685
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_length_6 1.4869939240263563
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_length_4 8.64642341408956
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_length_3 2.2927445697441478
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_length_2 -0.2646957595079861
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_length_1 -1.7234441975576889
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_and -0.9169449861969526
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Museum 5.8535998413180215
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_from 4.341792050258139
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Gallery 6.56110737685558
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Bayou 0.6465379271787459
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_of 6.769007707239146
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created after_decimal_len_0 6.749551529384965
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created num_len_5 0.7854965284556845
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created num_len_4 4.893275029311705
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created symbol_. 0.04424245526914147
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created symbol_? 0.6469103782891598
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created num_len_2 0.825091899269804
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created alpha_id_early 2.309871961228198
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created starts_with_char_e 1.9835641755382714
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created starts_with_char_c 0.471611051565139
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created starts_with_char_t 1.3467823806327328
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created starts_with_char_C 2.0311078939310385
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created starting_digit_- 1.328257656575404
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created alpha_id_c 1.9563076705584008
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created starting_digit_2 -0.919036422368087
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created starting_digit_1 6.444378564376229
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created alpha_id_th 2.309877120045287
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created capitalized_token -6.097924617596439
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created alpha_id_Century 2.309877120045287
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created unit_place_digit_6 0.5128825298161578
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created unit_place_digit_5 0.3754195725764501
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created unit_place_digit_8 -0.4429179485965681
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created unit_place_digit_7 0.4472369791902982
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created unit_place_digit_9 2.6111010926859697
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created unit_place_digit_0 0.05459773741860451
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created unit_place_digit_1 0.050243671732511444
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created unit_place_digit_2 -0.4458372124335246
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created unit_place_digit_3 -2.0128345731227095
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created unit_place_digit_4 -1.6062546326108835
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created alpha_length_7 -1.3328103663785726
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created before_decimal_len_4 5.538328139694814
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created before_decimal_len_5 1.328257656575404
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created alpha_length_5 1.1941830184768873
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created alpha_length_2 -0.37633788685728226
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created before_decimal_len_2 0.5781247317964477
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created alpha_length_1 -1.0683791354362027
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_communication 0.2794533856858075
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_ensued 0.13122888735777394
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_productive 0.26622875910460625
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_could 1.5103882763435121
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_a 6.807941410824989
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_I 0.934123658519579
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_heroes 0.40200654235119165
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description before_decimal_len_1 -0.5274107600178138
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description num_len_4 4.035040654229492
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_length_11 4.113290312613239
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_Elias 0.4184102396999796
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_Britain 0.4614078004226899
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_both 0.3224108475825192
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_beginning 0.3760859860549049
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description after_decimal_len_0 2.6694111107599414
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_length_8 0.7601190677362308
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_length_9 4.538944406082429
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_length_5 1.905647015042073
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_length_4 1.535006016729877
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_length_2 1.305935111905129
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_length_1 3.3192905791719225
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_he 6.110946767280123
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_any 0.2814069834871978
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_of 4.248164120760007
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description starts_with_char_d 8.411986361007909
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description starts_with_char_m 5.5366690898082584
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description starts_with_char_f 7.213332606502991
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description starts_with_char_o 4.240759088422341
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description starts_with_char_w 7.495562314870498
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description starts_with_char_B 4.019089612994675
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description starts_with_char_T 3.706608973550838
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description starts_with_char_P 2.7217306246361046
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_above 0.18318501163317316
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_The 2.5609714193728412
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_scientists 0.8503684945996821
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_establishment 0.2809603358360843
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_viable 0.14685290352503697
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_unsurpassed 0.5360491787340895
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_hone 0.21306027403404876
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description symbol_. 4.694975325365414
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_expansion 0.2765655295346821
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_fatiguing 0.179445633391832
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_study 0.6610868865706319
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_portrait 4.803919148749458
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_despite 0.12689278877810356
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_Sociobiology 0.18013129265157016
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_redesigned 0.2506335950562935
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_which 2.970291102824981
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_This 2.3312664778339425
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_lamp 0.14685290352503697
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent symbol_/ 1.944920166973831
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent symbol_) 3.739151349945171
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent symbol_( 3.739151349945171
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent symbol_, 1.8763798863892212
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent unit_place_digit_6 0.6403288291801109
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent unit_place_digit_5 2.110049467166969
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent unit_place_digit_8 2.007420619755768
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent unit_place_digit_9 -0.019891417424885604
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent unit_place_digit_0 1.2130714265266227
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent unit_place_digit_1 2.3594803830989033
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent unit_place_digit_3 2.1146468127174387
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent unit_place_digit_4 1.346850117453505
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent alpha_id_Frame 0.9725172780424879
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent alpha_id_cm 3.7404466603705284
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starts_with_char_c 3.707698881498502
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starts_with_char_x 3.7404466603705284
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starts_with_char_A 0.3773440780171518
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starts_with_char_F 0.947611802790289
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starts_with_char_S 0.5839897595675606
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starts_with_char_N -0.731807500594877
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starting_digit_8 1.6875271845423891
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starting_digit_7 1.0387580685569704
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starting_digit_6 1.2862246747803767
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starting_digit_4 2.1672274114775156
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starting_digit_3 2.3726688854667493
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starting_digit_2 -0.19358180684773016
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starting_digit_1 1.0404505913712938
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starting_digit_9 1.3051873321149732
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent alpha_id_x 3.7404466603705284
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent after_decimal_len_1 3.1151544377548
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent after_decimal_len_0 -1.3290294553780198
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent alpha_id_Accurate 1.5709869441141273
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent tenth_place_digit_1 -0.25208020784502644
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent tenth_place_digit_3 0.8146049683231142
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent tenth_place_digit_5 1.9416659748873657
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent tenth_place_digit_4 0.9686784630584259
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent tenth_place_digit_7 0.4862167759362679
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent before_decimal_len_1 1.743872141500661
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent before_decimal_len_2 1.2785755324955677
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent capitalized_token 0.7699119623326433
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent num_len_4 -0.0720316280781915
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent num_len_3 0.47900559149565064
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent num_len_1 2.1524965650537218
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent num_len_2 1.9561504560530423
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent alpha_length_8 0.4180728575187893
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent alpha_length_5 -0.47016087993874345
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent alpha_length_3 -1.4811621472616774
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent alpha_length_2 1.6243263622185202
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent alpha_length_1 2.4153605250723804
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent alpha_id_Stretcher 0.7480901618827895
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink symbol__ 0.7827137631121593
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink symbol_/ 1.9959796437281092
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink symbol_. 1.9209372882229008
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink symbol_: 2.05925232747387
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_npgportraits 2.059772860990291
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink all_capitalized_token 0.3728106121870835
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink unit_place_digit_6 0.4878073500114233
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink unit_place_digit_8 0.3705730727815659
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink unit_place_digit_1 0.694439234191157
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink unit_place_digit_2 0.478658766963252
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink unit_place_digit_3 0.033931442371061646
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink unit_place_digit_4 0.30475045626150393
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_length_10 1.8658153900872891
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_length_12 1.7869789276156505
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_jpg 2.059772860990291
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starts_with_char_e 1.9731596587739642
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starts_with_char_a 0.79959220160265
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starts_with_char_m 1.9732339685335085
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starts_with_char_i -0.05638864940280205
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starts_with_char_h 1.9805834975038104
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starts_with_char_s 1.9731599777424493
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starts_with_char_p 1.9506496096845771
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starts_with_char_n 1.9732856139525365
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starting_digit_0 0.32320123680638563
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starting_digit_8 0.40402781650895037
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starting_digit_7 0.2851032070426659
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starting_digit_6 0.5268520508116211
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starting_digit_9 0.16474779214091118
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_previews 2.059772860990291
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_a 0.8200993733729962
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_A 0.5673856398063488
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_media 2.059772860990291
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink after_decimal_len_0 1.9176672491827567
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_eMuseumNPG 2.059772860990291
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink before_decimal_len_4 -0.0025403589073708425
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink before_decimal_len_6 0.4855737133714776
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink before_decimal_len_7 1.4006456871320334
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink before_decimal_len_1 0.7127177222570537
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink num_len_7 1.3914951571966032
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink num_len_1 0.757178206113419
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_http 2.059772860990291
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_tx 0.04119539735570296
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_length_8 1.71527452572986
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_length_5 1.9312330453266007
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_length_4 1.9036111895955121
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_length_3 1.8164193467135552
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_length_2 1.8631376910265816
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_length_1 1.3489421541579862
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_si 2.059772860990291
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_edu 2.059772860990291
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_canvas 11.150819625916755
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_board 1.268883180669032
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium symbol_, -3.0496531309711914
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_Acrylic 0.38815937180652416
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_attached 0.28592022325289906
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_casein 0.38815937180652416
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_c 9.739798752666244
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_b -0.5303442476492634
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_a -0.743733007198835
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_i -0.3293507351842691
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_t -2.243379946906837
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_p 0.556725461307973
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_o 6.96657130189039
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_w -1.2863718187273687
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_A -6.082609370457953
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_M -5.331550250385695
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_T -1.898866437630927
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_O 8.398382843813579
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_P -3.1467936612964205
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_W -2.2577772407813828
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_Watercolor 0.5771005704915608
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_wood 0.5718380788146972
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_pencil 0.923908076126077
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_paperboard 0.2859158724319608
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_collage 0.28592022325289906
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_length_8 -2.469155178938373
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_length_10 -1.9465783242537242
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_length_7 -4.771414083613917
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_length_6 1.6977933147227053
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_length_5 -3.088983119716674
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_length_4 -7.77361736696824
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_length_3 5.593926217090038
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_length_2 5.763808430121208
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_Oil 12.294487222237537
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_ivory 0.5771005704915608
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_and -0.6393467364053831
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_ink 0.9829662913193556
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_Masonite 0.38815937180652416
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_panel 0.5718372022302526
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_paper 0.5736399089837867
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_Tempera 0.9829662913193556
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_to -1.343664867398722
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_Pastel 0.5736399089837867
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_on 13.582484449213926
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium capitalized_token -0.3091767100018776
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/rightsHolder alpha_id_Monticello -0.41091121309446677
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/rightsHolder alpha_id_Smithsonian 1.6331222288385172
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/rightsHolder symbol_, 3.954505710510736
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/rightsHolder alpha_id_Lafayette 1.4993126747644414
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/rightsHolder alpha_id_Colonial 1.3556427064712606
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/rightsHolder alpha_id_Arts 4.280225739811569
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/rightsHolder alpha_id_the -2.1987826317883967
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/rightsHolder alpha_id_Art -0.3692659368324292
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/rightsHolder alpha_id_National 3.2917137970814374
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/rightsHolder starts_with_char_o -0.8985986148609882
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/rightsHolder starts_with_char_C -0.43163046382812154
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/rightsHolder starts_with_char_B 1.3242021093209726
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/rightsHolder starts_with_char_A 1.4668764484764496
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/rightsHolder starts_with_char_M 0.8353139415460257
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/rightsHolder starts_with_char_L -1.006446329153475
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/rightsHolder starts_with_char_G 2.7039677769641206
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/rightsHolder starts_with_char_F 2.4396206031055585
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/rightsHolder starts_with_char_I 3.2709843094358564
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/rightsHolder starts_with_char_H -1.1091365332870153
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/rightsHolder starts_with_char_S 0.7382310151237621
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/rightsHolder starts_with_char_N 2.762576085525116
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/rightsHolder starts_with_char_P -2.0582083059901604
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/rightsHolder starts_with_char_V 0.836208313076827
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/rightsHolder starts_with_char_W -2.2440784206177438
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/rightsHolder alpha_id_Pennsylvania 1.9247090941835294
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/rightsHolder alpha_id_Williamsburg 1.3556427064712606
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/rightsHolder alpha_id_Gilcrease 2.1015808018022213
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/rightsHolder alpha_length_8 -1.6145805519945147
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/rightsHolder alpha_length_9 0.7264282457221658
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/rightsHolder alpha_length_10 1.1224974526856577
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/rightsHolder alpha_length_11 1.2176520060491622
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/rightsHolder alpha_length_12 4.0030244086182565
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/rightsHolder alpha_length_7 2.9088847226712335
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/rightsHolder alpha_length_6 -1.4142903549697177
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/rightsHolder alpha_length_4 -4.106311324629136
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/rightsHolder alpha_length_3 -3.6331363647958277
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/rightsHolder alpha_length_2 -1.4154880426407652
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/rightsHolder alpha_id_Historical 2.259244368615513
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/rightsHolder alpha_id_Institution 1.6331222288385172
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/rightsHolder alpha_id_Portrait 1.6331063243593336
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/rightsHolder alpha_id_Foundation -0.41091121309633627
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/rightsHolder alpha_id_Indianapolis 1.792361158445577
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/rightsHolder alpha_id_Museum 3.760325540312405
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/rightsHolder alpha_id_Boston 2.455381582651198
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/rightsHolder alpha_id_Gallery 1.6331223180973091
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/rightsHolder alpha_id_Park 1.6585914824552463
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/rightsHolder alpha_id_of -0.8985983968183693
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/rightsHolder capitalized_token 4.595287066240599
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/rightsHolder alpha_id_Fine 4.280225739811569
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/rightsHolder alpha_id_Academy 1.9247090907203483
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber after_decimal_len_1 0.8802920752224184
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber after_decimal_len_2 4.248653335038505
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber after_decimal_len_0 2.642924776895292
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber after_decimal_len_3 1.7821609554375002
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber after_decimal_len_4 0.8581318573677694
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber symbol_/ 0.8135984190689892
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber num_len_5 0.7155293169506827
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber num_len_4 0.6133146690061653
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber num_len_3 3.869469020571763
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber symbol_. -0.19185661512354518
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber num_len_7 1.2400589275904392
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber num_len_1 0.6915446368455239
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber num_len_2 0.8770526967677679
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber tenth_place_digit_1 2.487047967652179
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber tenth_place_digit_3 0.7563520823914408
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber tenth_place_digit_2 0.8584465379194177
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber tenth_place_digit_5 0.3049148621627244
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber tenth_place_digit_4 0.20333874489188808
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber tenth_place_digit_7 1.6267627076172104
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber tenth_place_digit_6 1.9317217617725824
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber alpha_id_TC 0.4068818873749488
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber all_capitalized_token 5.997072856665077
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber starts_with_char_S 0.7981834602279965
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber starts_with_char_N 3.5367430911941353
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber starts_with_char_O 0.9309153768256264
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber starts_with_char_P 0.7430855473098709
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber starting_digit_0 1.3008758686006379
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber starting_digit_7 0.6138917279124178
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber starting_digit_4 0.10172034442582714
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber starting_digit_3 0.8665561770499338
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber starting_digit_2 0.21247070158799033
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber starting_digit_1 1.1434691547201186
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber unit_place_digit_7 1.5505728194755386
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber unit_place_digit_1 0.13287387263415215
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber unit_place_digit_2 1.140302722538507
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber unit_place_digit_3 0.885579741184125
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber unit_place_digit_4 0.8582148832221319
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber before_decimal_len_4 0.48355640832519414
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber before_decimal_len_6 1.541847226817348
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber before_decimal_len_0 4.031996812752225
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber alpha_length_3 3.633975921928816
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber alpha_length_2 2.2693909269755586
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber before_decimal_len_1 1.3054363647608462
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber before_decimal_len_2 1.6230797705579414
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber alpha_length_1 1.0254955844038751
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber before_decimal_len_3 0.3078210195925891
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber alpha_id_S 0.7984699111265855
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber alpha_id_K 0.5898221230006585
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber alpha_id_NPG 3.6601291447117172
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber tenth_place_digit_9 0.5117024766160564
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Morse 1.0919288101553069
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_C 1.1994557784463153
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_B 4.8043525961805935
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_E 4.172944764928486
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_D 1.5954879200746048
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_J 2.695343211725558
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_R 5.934702308291541
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_S 0.2860414773560609
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_T -0.9737607023394684
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_P -0.8270036952523034
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_W -0.09890328627535122
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_length_8 -1.4089419793468632
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_length_7 4.2640599352193425
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_length_6 1.0714676620764814
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_length_5 4.573586577675757
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Charles 2.8525373953805686
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Peale 2.744191665454249
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_John 3.6884595009830856
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Edmund 0.3619182702654129
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Ketcham 2.145207554285725
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson capitalized_token 3.5081262772468618
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Augustus 0.3055025569067202
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Doolittle -0.0027712360690322485
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson symbol_. 0.2541569372940111
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Jefferson -0.9503445347989703
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_d 0.14103510204471104
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Bigelow 0.005949925917542195
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Burt 0.01168707700452512
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_William 0.491114850059269
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Westfield 0.5434807210139805
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Lind 0.5318857858624662
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_G 0.02438505469386979
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_F -0.37508575474271943
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Robert -0.3232053144499828
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_H -0.7270258961240985
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Johansen 0.5675579060052315
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_James 0.2335674468448538
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Uhle 0.10423627573538241
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Washington -0.538160693247618
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_length_4 1.2248844796177494
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_length_3 -0.18841401794226242
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Henry 0.534221755936396
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_S -0.04807108577115555
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Duplessis 0.15877945818862044
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Erastus 0.005949925917542195
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Herbert -0.7107654027255486
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Walcott -0.0027712360690322485
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Gates 0.15796828221587794
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Livingston -0.16263303610525556
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_David -0.3853169022050126
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title symbol_) 1.027025384935704
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title symbol_( 1.027025384935704
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Half 0.29527039567666674
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Jefferson 0.8029809384340609
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Einstein 0.21215369269514306
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Burt -0.009278502620078066
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_t 0.8849035863568179
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Agassiz 0.2960113070819026
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_William 0.3153748815062915
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_o 0.5915289149073502
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_C -0.26015721913380263
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_E 0.7343761575826893
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_D 0.8025019487912542
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_A 1.501364056247139
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_J 1.9045389886422406
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_G 1.121880793857816
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_I 0.7980423217759673
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_H 0.7590914799310333
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_R 1.0867625815439301
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_S 1.6923765156833197
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_T 0.6342367813556911
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_P 0.41585031240867054
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_V 0.1976495998062148
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_W 2.024753809418339
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_Y 0.1544191160135952
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Carrel 0.28601892030482656
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Sherman 0.29541366414944503
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Verplancks 0.2037443643810783
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Washington 1.3888452977643353
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Stevens 0.4783094546405904
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Rodolphe 0.2960113070819026
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_length_8 1.9185364474834778
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_length_9 1.731329053760145
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title before_decimal_len_4 0.5914968910470055
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_length_7 1.645147613217127
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_length_6 3.07209720250428
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_length_5 2.9713384086954164
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_length_4 2.6411808023456063
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_I 0.29435869732110165
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Charles 0.5734325172170934
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Samuel 0.2791369008794869
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Franklin 0.13854736497218725
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Herbert 0.2890051578977633
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_at 0.3581678952611704
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_George 0.8769739500030602
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_type 0.884909269328492
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Johnson 0.13459812849384278
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Hoover 0.2890051578977633
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title capitalized_token 6.633721608147664
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Thomas 0.6822927494931743

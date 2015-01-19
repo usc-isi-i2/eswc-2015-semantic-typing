@@ -1,0 +1,12052 @@
+9
+
+flight:airline
+1336
+8 American
+14 American Eagle
+6 Alaska
+6 Alaska
+6 Alaska
+6 Alaska
+6 Alaska
+6 Alaska
+6 Alaska
+6 Alaska
+6 Alaska
+6 Alaska
+6 Alaska
+6 Alaska
+6 Alaska
+6 Alaska
+6 Alaska
+6 Alaska
+6 Alaska
+6 Alaska
+6 Alaska
+6 Alaska
+22 Alaska Central Express
+15 Empire Airlines
+15 Empire Airlines
+23 Frontier Flying Service
+23 Frontier Flying Service
+18 Northern Air Cargo
+18 Northern Air Cargo
+6 Alaska
+6 Alaska
+6 Alaska
+6 Alaska
+6 Alaska
+6 Alaska
+6 Alaska
+6 Alaska
+6 Alaska
+6 United
+6 United
+6 United
+6 United
+6 United
+6 United
+6 United
+6 United
+6 United
+6 Alaska
+6 Alaska
+6 United
+6 United
+6 United
+6 Alaska
+6 Alaska
+6 United
+6 United
+6 Alaska
+6 Alaska
+6 United
+15 Skyway Airlines
+15 Skyway Airlines
+15 Skyway Airlines
+9 Northwest
+9 Northwest
+9 Northwest
+9 Northwest
+9 Northwest
+9 Northwest
+9 Northwest
+9 Northwest
+9 Northwest
+9 Northwest
+12 Champion Air
+12 America West
+12 America West
+12 America West
+9 Northwest
+12 America West
+12 Champion Air
+9 Northwest
+9 Northwest
+9 Northwest
+9 Northwest
+15 Spirit Airlines
+14 American Eagle
+14 American Eagle
+14 American Eagle
+14 American Eagle
+14 American Eagle
+14 American Eagle
+11 Continental
+39 Continental Express/ExpressJet Airlines
+39 Continental Express/ExpressJet Airlines
+39 Continental Express/ExpressJet Airlines
+11 Continental
+39 Continental Express/ExpressJet Airlines
+39 Continental Express/ExpressJet Airlines
+8 American
+8 American
+8 American
+8 American
+8 American
+14 American Eagle
+14 American Eagle
+8 American
+8 American
+14 American Eagle
+14 American Eagle
+15 Mesaba Aviation
+9 Northwest
+9 Northwest
+9 Northwest
+9 Northwest
+9 Northwest
+9 Northwest
+9 Northwest
+11 Sun Country
+11 Sun Country
+11 Sun Country
+9 Southwest
+9 Southwest
+15 Jetblue Airways
+15 Jetblue Airways
+15 Jetblue Airways
+9 Southwest
+9 Southwest
+9 Southwest
+19 Chautauqua Airlines
+19 Chautauqua Airlines
+19 Chautauqua Airlines
+19 Chautauqua Airlines
+17 Piedmont Airlines
+19 Chautauqua Airlines
+17 Piedmont Airlines
+17 Piedmont Airlines
+8 American
+9 Southwest
+9 Southwest
+9 Southwest
+9 Southwest
+8 American
+8 American
+9 Southwest
+9 Southwest
+9 Southwest
+9 Southwest
+9 Southwest
+9 Southwest
+9 Southwest
+9 Southwest
+9 Southwest
+9 Southwest
+9 Southwest
+12 America West
+15 Delta Air Lines
+15 Delta Air Lines
+27 Atlantic Southeast Airlines
+27 Atlantic Southeast Airlines
+15 Delta Air Lines
+15 Delta Air Lines
+27 Atlantic Southeast Airlines
+27 Atlantic Southeast Airlines
+6 Alaska
+6 Alaska
+6 Alaska
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+15 Mesaba Aviation
+14 American Eagle
+14 American Eagle
+14 American Eagle
+14 American Eagle
+9 Northwest
+9 Northwest
+9 Northwest
+9 Northwest
+9 Northwest
+9 Northwest
+11 Sun Country
+11 Sun Country
+11 Sun Country
+9 Northwest
+15 Skyway Airlines
+15 Skyway Airlines
+15 Skyway Airlines
+15 Skyway Airlines
+15 Skyway Airlines
+15 Skyway Airlines
+11 Comair Inc.
+11 Comair Inc.
+15 Delta Air Lines
+15 Delta Air Lines
+11 Comair Inc.
+11 Comair Inc.
+9 Northwest
+9 Northwest
+9 Northwest
+9 Northwest
+9 Northwest
+9 Northwest
+9 Northwest
+9 Northwest
+9 Northwest
+9 Northwest
+9 Northwest
+9 Northwest
+9 Northwest
+13 Air Wisconsin
+13 Air Wisconsin
+13 Air Wisconsin
+14 American Eagle
+14 American Eagle
+14 American Eagle
+14 American Eagle
+14 American Eagle
+14 American Eagle
+14 American Eagle
+8 Sky West
+14 American Eagle
+14 American Eagle
+8 Sky West
+6 United
+6 United
+6 Alaska
+6 Alaska
+6 Alaska
+6 Alaska
+6 Alaska
+6 Alaska
+6 Alaska
+6 Alaska
+6 Alaska
+6 United
+6 United
+6 Alaska
+6 Alaska
+6 Alaska
+6 United
+6 United
+6 United
+6 United
+6 United
+6 United
+6 United
+6 United
+6 United
+6 United
+6 United
+6 United
+6 United
+12 America West
+12 America West
+12 America West
+12 America West
+9 Southwest
+9 Southwest
+9 Southwest
+9 Southwest
+9 Southwest
+9 Southwest
+12 America West
+9 Southwest
+9 Southwest
+9 Southwest
+9 Southwest
+9 Southwest
+9 Southwest
+9 Southwest
+9 Southwest
+9 Southwest
+9 Southwest
+9 Southwest
+9 Southwest
+9 Southwest
+9 Southwest
+9 Southwest
+9 Southwest
+9 Southwest
+9 Southwest
+9 Southwest
+9 Southwest
+9 Southwest
+9 Southwest
+8 Frontier
+6 United
+6 United
+6 United
+6 United
+6 United
+6 United
+11 Comair Inc.
+15 Delta Air Lines
+19 Chautauqua Airlines
+15 Delta Air Lines
+27 Atlantic Southeast Airlines
+27 Atlantic Southeast Airlines
+19 Chautauqua Airlines
+11 Comair Inc.
+15 Delta Air Lines
+15 Delta Air Lines
+21 Trans States Airlines
+15 Delta Air Lines
+15 Delta Air Lines
+21 Trans States Airlines
+21 Trans States Airlines
+21 Trans States Airlines
+8 Frontier
+6 United
+8 Frontier
+6 United
+6 United
+6 United
+6 United
+6 United
+6 United
+19 Chautauqua Airlines
+13 Mesa Airlines
+13 Mesa Airlines
+13 Mesa Airlines
+13 Mesa Airlines
+13 Mesa Airlines
+15 Mesaba Aviation
+15 Mesaba Aviation
+9 Northwest
+9 Northwest
+9 Northwest
+9 Northwest
+9 Northwest
+13 Mesa Airlines
+13 Mesa Airlines
+9 Northwest
+9 Northwest
+9 Northwest
+9 Northwest
+9 Northwest
+10 Us Airways
+10 Us Airways
+10 Us Airways
+10 Us Airways
+10 Us Airways
+10 Us Airways
+10 Us Airways
+10 Us Airways
+6 United
+6 United
+6 United
+8 Frontier
+6 United
+6 United
+6 United
+16 Express Airlines
+9 Northwest
+9 Northwest
+9 Northwest
+10 Us Airways
+10 Us Airways
+9 Northwest
+9 Northwest
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+14 American Eagle
+14 American Eagle
+14 American Eagle
+14 American Eagle
+39 Continental Express/ExpressJet Airlines
+39 Continental Express/ExpressJet Airlines
+15 Jetblue Airways
+15 Jetblue Airways
+15 Jetblue Airways
+8 American
+8 American
+8 American
+11 Continental
+11 Continental
+11 Continental
+8 American
+11 Continental
+11 Continental
+11 Continental
+11 Continental
+11 Continental
+11 Continental
+11 Continental
+6 United
+11 Continental
+11 Continental
+19 Chautauqua Airlines
+19 Chautauqua Airlines
+19 Chautauqua Airlines
+19 Chautauqua Airlines
+19 Chautauqua Airlines
+9 Southwest
+9 Southwest
+9 Southwest
+9 Southwest
+9 Southwest
+6 Alaska
+6 Alaska
+6 Alaska
+6 Alaska
+6 Alaska
+6 Alaska
+15 Delta Air Lines
+11 Comair Inc.
+11 Comair Inc.
+11 Dhl Airways
+11 Dhl Airways
+15 Delta Air Lines
+6 Alaska
+6 Alaska
+6 Alaska
+6 Alaska
+6 Alaska
+6 Alaska
+6 Alaska
+6 Alaska
+6 Alaska
+6 Alaska
+6 Alaska
+6 Alaska
+6 Alaska
+6 Alaska
+6 Alaska
+6 Alaska
+6 Alaska
+6 Alaska
+23 Frontier Flying Service
+22 Alaska Central Express
+15 Empire Airlines
+15 Empire Airlines
+23 Frontier Flying Service
+18 Northern Air Cargo
+18 Northern Air Cargo
+9 Northwest
+9 Northwest
+8 American
+9 Northwest
+9 Northwest
+8 American
+8 American
+8 American
+14 American Eagle
+14 American Eagle
+14 American Eagle
+9 Southwest
+15 Airtran Airways
+9 Southwest
+9 Southwest
+9 Southwest
+15 Airtran Airways
+15 Airtran Airways
+15 Airtran Airways
+9 Southwest
+9 Southwest
+9 Southwest
+10 Us Airways
+10 Us Airways
+10 Us Airways
+10 Us Airways
+10 Us Airways
+10 Us Airways
+10 Us Airways
+10 Us Airways
+10 Us Airways
+10 Us Airways
+10 Us Airways
+10 Us Airways
+10 Us Airways
+10 Us Airways
+6 United
+6 United
+6 United
+8 American
+8 American
+8 American
+8 American
+12 Hawaiian Air
+22 Omni Air International
+12 Hawaiian Air
+12 Hawaiian Air
+18 American Trans Air
+18 American Trans Air
+10 Us Airways
+10 Us Airways
+10 Us Airways
+10 Us Airways
+10 Us Airways
+10 Us Airways
+10 Us Airways
+10 Us Airways
+10 Us Airways
+10 Us Airways
+10 Us Airways
+10 Us Airways
+22 Executive Jet Aviation
+9 Northwest
+9 Northwest
+22 Executive Jet Aviation
+15 Delta Air Lines
+15 Delta Air Lines
+9 Northwest
+9 Northwest
+9 Northwest
+11 Sun Country
+9 Northwest
+9 Northwest
+6 United
+6 United
+9 Southwest
+9 Southwest
+9 Southwest
+6 United
+39 Continental Express/ExpressJet Airlines
+14 American Eagle
+14 American Eagle
+14 American Eagle
+11 Continental
+14 American Eagle
+14 American Eagle
+14 American Eagle
+14 American Eagle
+14 American Eagle
+11 Continental
+14 American Eagle
+14 American Eagle
+11 Continental
+11 Continental
+14 American Eagle
+14 American Eagle
+11 Continental
+11 Continental
+11 Continental
+11 Continental
+11 Continental
+11 Continental
+11 Continental
+11 Continental
+11 Continental
+9 Southwest
+9 Southwest
+39 Continental Express/ExpressJet Airlines
+13 Mesa Airlines
+13 Mesa Airlines
+11 Continental
+11 Continental
+39 Continental Express/ExpressJet Airlines
+39 Continental Express/ExpressJet Airlines
+39 Continental Express/ExpressJet Airlines
+39 Continental Express/ExpressJet Airlines
+13 Mesa Airlines
+13 Mesa Airlines
+13 Mesa Airlines
+13 Mesa Airlines
+13 Mesa Airlines
+13 Mesa Airlines
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+15 Federal Express
+8 American
+8 American
+15 Mesaba Aviation
+15 Mesaba Aviation
+8 American
+8 American
+8 American
+9 Northwest
+9 Northwest
+9 Northwest
+9 Northwest
+9 Northwest
+9 Northwest
+9 Northwest
+9 Northwest
+9 Northwest
+6 United
+6 United
+9 Northwest
+9 Northwest
+6 United
+6 United
+6 United
+6 United
+6 United
+6 United
+6 United
+6 United
+6 United
+6 United
+6 United
+6 United
+6 United
+6 United
+6 United
+6 United
+6 United
+6 United
+11 Comair Inc.
+11 Comair Inc.
+11 Comair Inc.
+11 Comair Inc.
+15 Delta Air Lines
+11 Comair Inc.
+11 Comair Inc.
+15 Delta Air Lines
+15 Delta Air Lines
+15 Delta Air Lines
+11 Dhl Airways
+14 American Eagle
+14 American Eagle
+14 American Eagle
+14 American Eagle
+14 American Eagle
+14 American Eagle
+14 American Eagle
+14 American Eagle
+14 American Eagle
+11 Comair Inc.
+14 American Eagle
+14 American Eagle
+14 American Eagle
+14 American Eagle
+14 American Eagle
+22 Executive Jet Aviation
+11 Comair Inc.
+11 Comair Inc.
+11 Comair Inc.
+22 Executive Jet Aviation
+27 Atlantic Southeast Airlines
+19 Chautauqua Airlines
+27 Atlantic Southeast Airlines
+11 Comair Inc.
+15 Delta Air Lines
+19 Chautauqua Airlines
+15 Delta Air Lines
+21 Trans States Airlines
+15 Delta Air Lines
+21 Trans States Airlines
+21 Trans States Airlines
+21 Trans States Airlines
+19 Chautauqua Airlines
+15 Delta Air Lines
+21 Trans States Airlines
+15 Delta Air Lines
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+
+flight:flightnumber
+1336
+4 1033
+3 335
+3 562
+3 550
+3 520
+3 590
+3 558
+3 580
+3 140
+3 146
+3 884
+3 884
+3 104
+3 104
+3 104
+3 102
+3 102
+3 144
+3 144
+3 822
+3 112
+3 112
+2 12
+3 663
+3 663
+3 592
+3 598
+2 20
+2 20
+3 146
+4 9005
+3 884
+3 498
+3 202
+3 202
+3 596
+3 884
+3 884
+3 198
+3 198
+3 729
+3 239
+3 239
+4 9918
+4 8135
+3 791
+3 993
+3 116
+3 116
+4 1237
+3 156
+3 156
+3 498
+3 316
+3 785
+3 791
+3 816
+3 884
+3 993
+4 2054
+4 2343
+4 1514
+4 1123
+4 1980
+4 1980
+4 1125
+4 1125
+4 1129
+4 1129
+4 1119
+4 1119
+4 1121
+3 103
+2 96
+2 96
+2 98
+4 1200
+2 98
+3 101
+4 1194
+4 1194
+4 1196
+4 1192
+3 788
+3 317
+3 904
+3 217
+3 217
+3 400
+3 400
+3 552
+4 2477
+4 2477
+4 3202
+3 652
+4 3072
+4 3074
+3 657
+3 657
+4 1630
+4 1630
+3 592
+3 457
+3 457
+4 1726
+4 1726
+3 729
+3 729
+4 3650
+3 402
+3 402
+3 406
+4 1509
+4 1509
+3 414
+3 408
+3 502
+3 504
+3 504
+4 1617
+4 1617
+3 482
+3 488
+3 486
+4 1720
+4 1720
+4 1720
+4 3290
+4 3039
+4 3222
+4 3222
+4 4310
+4 3057
+4 4341
+4 4041
+4 1098
+4 1368
+4 1368
+3 775
+3 775
+3 452
+3 452
+4 2655
+4 2655
+4 2655
+4 2323
+4 2323
+4 2323
+4 2323
+4 2175
+4 2175
+4 2175
+4 2175
+3 558
+4 1590
+4 1590
+3 437
+3 437
+3 194
+3 172
+3 785
+3 785
+2 25
+2 25
+2 15
+3 657
+3 657
+4 1726
+4 1726
+4 1630
+4 1630
+3 592
+4 3650
+3 729
+3 729
+3 457
+3 457
+3 402
+3 402
+4 1509
+4 1509
+3 408
+3 414
+3 502
+3 504
+3 504
+3 406
+4 2162
+4 2181
+4 1908
+4 1906
+4 2162
+4 2181
+4 1586
+4 1979
+4 1223
+4 1223
+4 1855
+4 1980
+3 784
+3 784
+3 156
+3 156
+3 724
+3 724
+3 846
+3 846
+4 1268
+4 1268
+4 1268
+3 588
+3 588
+3 558
+3 948
+3 944
+3 243
+3 243
+3 466
+3 466
+3 244
+3 227
+3 227
+4 6954
+3 115
+3 115
+4 6826
+3 456
+3 456
+3 498
+3 498
+3 816
+3 596
+3 316
+3 202
+3 202
+3 116
+3 116
+3 791
+3 791
+3 884
+3 884
+3 884
+3 198
+3 198
+3 239
+3 239
+4 9918
+4 8135
+3 993
+3 993
+3 785
+4 1237
+3 156
+3 156
+3 729
+3 196
+3 196
+3 702
+3 702
+4 2231
+4 2231
+4 2231
+4 2135
+4 2135
+4 2135
+2 86
+2 94
+3 713
+3 741
+3 369
+3 369
+3 280
+3 280
+3 278
+3 278
+3 278
+4 2623
+4 2623
+4 2623
+3 821
+3 821
+3 821
+4 2563
+4 2563
+4 2563
+3 486
+3 486
+3 670
+3 738
+4 1434
+4 1430
+4 1430
+4 1432
+4 1432
+4 1432
+3 669
+3 287
+4 5283
+3 287
+3 249
+3 249
+4 5281
+3 653
+3 839
+3 839
+4 5500
+3 836
+3 836
+4 5490
+4 5652
+4 5650
+3 505
+3 591
+3 511
+3 731
+3 255
+3 255
+3 579
+3 579
+3 479
+4 3016
+4 2742
+4 2850
+4 2915
+4 2850
+4 2915
+4 3570
+4 3570
+4 1778
+4 1776
+4 1776
+4 1780
+4 1780
+4 2981
+4 2981
+4 1772
+4 1772
+4 1788
+4 1788
+4 1782
+3 271
+3 271
+3 164
+3 164
+3 348
+3 348
+4 1122
+4 1122
+4 1432
+4 1432
+4 1432
+3 738
+4 1430
+4 1430
+4 1434
+4 3796
+4 1673
+4 1669
+4 1669
+3 910
+3 910
+4 1671
+4 1671
+4 1456
+3 384
+3 384
+4 1126
+4 1126
+4 1134
+3 872
+3 407
+3 407
+3 286
+3 286
+4 2275
+4 2275
+3 289
+3 295
+3 293
+2 43
+3 297
+3 297
+4 1502
+4 1002
+4 1402
+3 119
+2 17
+2 17
+2 17
+2 17
+2 17
+2 17
+4 1602
+2 81
+2 65
+2 65
+4 6284
+4 6285
+4 6286
+4 6286
+4 6287
+3 491
+3 491
+3 491
+3 491
+3 491
+3 558
+3 562
+3 580
+3 590
+3 520
+3 550
+3 170
+3 947
+3 673
+3 552
+3 522
+3 822
+3 140
+4 9005
+3 146
+3 146
+3 104
+3 104
+3 104
+3 102
+3 102
+3 884
+3 884
+3 884
+3 144
+3 144
+3 149
+3 822
+3 112
+3 112
+3 592
+2 12
+3 663
+3 663
+3 598
+2 20
+2 20
+3 995
+3 995
+4 1345
+3 997
+3 997
+4 2187
+4 2187
+4 1033
+3 983
+3 983
+3 335
+4 1928
+3 770
+4 2772
+3 317
+3 317
+3 765
+3 765
+3 797
+4 2174
+4 2174
+4 2698
+3 523
+3 523
+4 1097
+3 639
+3 987
+3 185
+3 185
+3 222
+3 222
+3 197
+3 197
+3 565
+4 1471
+4 1471
+3 733
+3 915
+3 915
+4 1647
+4 1647
+4 1647
+4 1647
+1 8
+3 103
+2 18
+2 18
+4 4406
+4 4406
+3 443
+3 443
+4 1485
+4 1121
+3 329
+3 310
+4 1121
+3 329
+3 310
+2 95
+2 95
+3 309
+3 224
+3 362
+3 362
+3 224
+4 9815
+4 9815
+3 368
+3 360
+3 356
+3 398
+3 364
+3 354
+3 306
+3 306
+4 1136
+4 1136
+2 72
+3 308
+4 2274
+3 912
+3 375
+3 375
+3 840
+3 514
+3 514
+3 501
+3 501
+3 503
+3 844
+3 513
+3 513
+3 850
+3 846
+3 509
+3 509
+3 842
+3 862
+3 856
+3 836
+2 21
+2 21
+3 858
+1 8
+1 8
+4 1765
+4 1765
+4 2514
+4 2828
+4 2828
+4 1599
+4 1599
+4 2986
+4 3237
+4 3222
+4 3222
+4 2664
+4 2664
+4 2746
+4 2817
+4 2791
+4 2724
+3 382
+3 382
+3 370
+3 370
+4 1292
+4 1292
+4 1929
+4 1929
+3 427
+3 427
+4 1021
+4 1137
+4 1137
+4 3638
+4 3434
+3 772
+3 772
+4 1846
+3 128
+3 122
+4 1042
+4 1042
+3 302
+3 302
+3 138
+3 132
+3 136
+3 429
+3 429
+3 140
+3 140
+3 674
+3 674
+3 288
+3 288
+3 690
+3 690
+4 1242
+3 730
+3 730
+3 398
+3 398
+4 1182
+3 395
+3 395
+4 1146
+4 1179
+4 1179
+4 1179
+3 655
+3 655
+4 9754
+3 414
+3 851
+3 654
+3 654
+3 935
+4 1652
+4 1652
+3 512
+3 533
+3 567
+3 567
+3 570
+3 570
+3 543
+3 579
+3 562
+3 562
+3 487
+3 533
+3 543
+3 579
+3 512
+3 512
+3 396
+4 1444
+3 569
+3 497
+3 396
+3 249
+4 5282
+3 249
+3 671
+4 1184
+4 5280
+4 1184
+4 5663
+3 373
+4 5665
+4 5501
+4 5665
+4 5284
+3 373
+4 5489
+3 699
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+
+flight:airport
+1336
+20 "Nashville TN (BNA)"
+20 "Nashville TN (BNA)"
+18 "Seattle WA (SEA)"
+18 "Seattle WA (SEA)"
+18 "Seattle WA (SEA)"
+18 "Seattle WA (SEA)"
+18 "Seattle WA (SEA)"
+18 "Seattle WA (SEA)"
+20 "Fairbanks AK (FAI)"
+17 "Barrow AK (BRW)"
+20 "Anchorage AK (ANC)"
+20 "Fairbanks AK (FAI)"
+19 "Portland OR (PDX)"
+20 "Anchorage AK (ANC)"
+20 "Fairbanks AK (FAI)"
+20 "Anchorage AK (ANC)"
+20 "Fairbanks AK (FAI)"
+20 "Fairbanks AK (FAI)"
+17 "Barrow AK (BRW)"
+20 "Fairbanks AK (FAI)"
+20 "Anchorage AK (ANC)"
+20 "Fairbanks AK (FAI)"
+20 "Fairbanks AK (FAI)"
+20 "Fairbanks AK (FAI)"
+20 "Fairbanks AK (FAI)"
+20 "Fairbanks AK (FAI)"
+20 "Fairbanks AK (FAI)"
+15 "Nome AK (OME)"
+15 "Nome AK (OME)"
+20 "Fairbanks AK (FAI)"
+20 "Fairbanks AK (FAI)"
+18 "Seattle WA (SEA)"
+24 "San Francisco CA (SFO)"
+24 "San Francisco CA (SFO)"
+18 "Seattle WA (SEA)"
+18 "Seattle WA (SEA)"
+20 "Anchorage AK (ANC)"
+20 "Fairbanks AK (FAI)"
+24 "San Francisco CA (SFO)"
+18 "Seattle WA (SEA)"
+18 "Seattle WA (SEA)"
+24 "San Francisco CA (SFO)"
+18 "Seattle WA (SEA)"
+18 "Seattle WA (SEA)"
+18 "Seattle WA (SEA)"
+18 "Seattle WA (SEA)"
+18 "Seattle WA (SEA)"
+18 "Seattle WA (SEA)"
+20 "Fairbanks AK (FAI)"
+18 "Seattle WA (SEA)"
+18 "Seattle WA (SEA)"
+18 "Seattle WA (SEA)"
+18 "Seattle WA (SEA)"
+18 "Seattle WA (SEA)"
+18 "Seattle WA (SEA)"
+18 "Seattle WA (SEA)"
+18 "Seattle WA (SEA)"
+18 "Seattle WA (SEA)"
+24 "San Francisco CA (SFO)"
+19 "Columbus OH (CMH)"
+19 "Columbus OH (CMH)"
+19 "Columbus OH (CMH)"
+18 "Buffalo NY (BUF)"
+18 "Detroit MI (DTW)"
+18 "Buffalo NY (BUF)"
+18 "Detroit MI (DTW)"
+18 "Buffalo NY (BUF)"
+18 "Detroit MI (DTW)"
+18 "Buffalo NY (BUF)"
+18 "Detroit MI (DTW)"
+18 "Buffalo NY (BUF)"
+18 "Buffalo NY (BUF)"
+20 "Las Vegas NV (LAS)"
+20 "Las Vegas NV (LAS)"
+20 "Las Vegas NV (LAS)"
+20 "Las Vegas NV (LAS)"
+20 "Las Vegas NV (LAS)"
+20 "Las Vegas NV (LAS)"
+20 "Las Vegas NV (LAS)"
+18 "Detroit MI (DTW)"
+20 "Las Vegas NV (LAS)"
+20 "Las Vegas NV (LAS)"
+20 "Las Vegas NV (LAS)"
+20 "Las Vegas NV (LAS)"
+18 "Chicago IL (ORD)"
+18 "Chicago IL (ORD)"
+18 "Chicago IL (ORD)"
+18 "Chicago IL (ORD)"
+18 "Chicago IL (ORD)"
+18 "Chicago IL (ORD)"
+19 "Columbus OH (CMH)"
+17 "Newark NJ (EWR)"
+17 "Newark NJ (EWR)"
+19 "Columbus OH (CMH)"
+19 "Columbus OH (CMH)"
+19 "Columbus OH (CMH)"
+19 "Columbus OH (CMH)"
+17 "Dallas TX (DFW)"
+22 "New Orleans LA (MSY)"
+17 "Dallas TX (DFW)"
+32 "San Jose del Cabo Mexico (SJD)"
+17 "Dallas TX (DFW)"
+18 "Chicago IL (ORD)"
+18 "Chicago IL (ORD)"
+17 "Dallas TX (DFW)"
+26 "Fort Lauderdale FL (FLL)"
+17 "Dallas TX (DFW)"
+17 "Dallas TX (DFW)"
+17 "Dallas TX (DFW)"
+22 "Minneapolis MN (MSP)"
+17 "Dallas TX (DFW)"
+17 "Dallas TX (DFW)"
+22 "Minneapolis MN (MSP)"
+17 "Dallas TX (DFW)"
+17 "Dallas TX (DFW)"
+17 "Dallas TX (DFW)"
+17 "Dallas TX (DFW)"
+17 "Dallas TX (DFW)"
+17 "Dallas TX (DFW)"
+18 "Phoenix AZ (PHX)"
+18 "Oakland CA (OAK)"
+21 "Long Beach CA (LGB)"
+21 "Long Beach CA (LGB)"
+21 "Long Beach CA (LGB)"
+20 "Las Vegas NV (LAS)"
+18 "Ontario CA (ONT)"
+18 "Oakland CA (OAK)"
+19 "New York NY (LGA)"
+19 "New York NY (LGA)"
+19 "New York NY (LGA)"
+19 "New York NY (LGA)"
+19 "New York NY (LGA)"
+19 "New York NY (LGA)"
+19 "New York NY (LGA)"
+19 "New York NY (LGA)"
+22 "Saint Louis MO (STL)"
+22 "Saint Louis MO (STL)"
+22 "Kansas City MO (MCI)"
+22 "Saint Louis MO (STL)"
+18 "Chicago IL (MDW)"
+22 "Saint Louis MO (STL)"
+20 "San Diego CA (SAN)"
+22 "Saint Louis MO (STL)"
+25 "Salt Lake City UT (SLC)"
+18 "Oakland CA (OAK)"
+22 "Saint Louis MO (STL)"
+18 "Chicago IL (MDW)"
+20 "Baltimore MD (BWI)"
+0 
+22 "Saint Louis MO (STL)"
+16 "Omaha NE (OMA)"
+20 "Las Vegas NV (LAS)"
+19 "San Jose CA (SJC)"
+18 "Phoenix AZ (PHX)"
+18 "Atlanta GA (ATL)"
+18 "Atlanta GA (ATL)"
+19 "New York NY (JFK)"
+19 "New York NY (JFK)"
+18 "Atlanta GA (ATL)"
+18 "Atlanta GA (ATL)"
+19 "New York NY (JFK)"
+19 "New York NY (JFK)"
+17 "Boston MA (BOS)"
+17 "Boston MA (BOS)"
+17 "Boston MA (BOS)"
+17 "Dallas TX (DFW)"
+22 "New Orleans LA (MSY)"
+17 "Dallas TX (DFW)"
+26 "Fort Lauderdale FL (FLL)"
+17 "Dallas TX (DFW)"
+32 "San Jose del Cabo Mexico (SJD)"
+17 "Dallas TX (DFW)"
+17 "Dallas TX (DFW)"
+17 "Dallas TX (DFW)"
+17 "Dallas TX (DFW)"
+18 "Chicago IL (ORD)"
+18 "Chicago IL (ORD)"
+22 "Minneapolis MN (MSP)"
+17 "Dallas TX (DFW)"
+22 "Minneapolis MN (MSP)"
+17 "Dallas TX (DFW)"
+17 "Dallas TX (DFW)"
+17 "Dallas TX (DFW)"
+17 "Dallas TX (DFW)"
+17 "Dallas TX (DFW)"
+17 "Dallas TX (DFW)"
+17 "Dallas TX (DFW)"
+20 "Milwaukee WI (MKE)"
+20 "Milwaukee WI (MKE)"
+21 "Des Moines IA (DSM)"
+21 "Des Moines IA (DSM)"
+20 "Milwaukee WI (MKE)"
+20 "Milwaukee WI (MKE)"
+20 "Milwaukee WI (MKE)"
+20 "Milwaukee WI (MKE)"
+21 "Cincinnati OH (CVG)"
+21 "Cincinnati OH (CVG)"
+20 "Milwaukee WI (MKE)"
+20 "Milwaukee WI (MKE)"
+22 "Minneapolis MN (MSP)"
+20 "Las Vegas NV (LAS)"
+22 "Minneapolis MN (MSP)"
+18 "Seattle WA (SEA)"
+22 "Minneapolis MN (MSP)"
+21 "Rapid City SD (RAP)"
+22 "Minneapolis MN (MSP)"
+20 "Anchorage AK (ANC)"
+18 "Bozeman MT (BZN)"
+22 "Minneapolis MN (MSP)"
+18 "Bozeman MT (BZN)"
+22 "Minneapolis MN (MSP)"
+19 "Portland OR (PDX)"
+21 "Des Moines IA (DSM)"
+21 "Des Moines IA (DSM)"
+21 "Des Moines IA (DSM)"
+17 "Dallas TX (DFW)"
+17 "Dallas TX (DFW)"
+21 "Des Moines IA (DSM)"
+21 "Des Moines IA (DSM)"
+21 "Des Moines IA (DSM)"
+17 "Dallas TX (DFW)"
+17 "Dallas TX (DFW)"
+21 "Des Moines IA (DSM)"
+21 "Des Moines IA (DSM)"
+21 "Des Moines IA (DSM)"
+21 "Des Moines IA (DSM)"
+18 "Chicago IL (ORD)"
+21 "Des Moines IA (DSM)"
+24 "San Francisco CA (SFO)"
+18 "Seattle WA (SEA)"
+18 "Seattle WA (SEA)"
+18 "Seattle WA (SEA)"
+18 "Seattle WA (SEA)"
+24 "San Francisco CA (SFO)"
+18 "Seattle WA (SEA)"
+18 "Seattle WA (SEA)"
+20 "Fairbanks AK (FAI)"
+18 "Seattle WA (SEA)"
+18 "Seattle WA (SEA)"
+18 "Seattle WA (SEA)"
+20 "Anchorage AK (ANC)"
+20 "Fairbanks AK (FAI)"
+24 "San Francisco CA (SFO)"
+18 "Seattle WA (SEA)"
+24 "San Francisco CA (SFO)"
+18 "Seattle WA (SEA)"
+18 "Seattle WA (SEA)"
+18 "Seattle WA (SEA)"
+24 "San Francisco CA (SFO)"
+18 "Seattle WA (SEA)"
+18 "Seattle WA (SEA)"
+18 "Seattle WA (SEA)"
+18 "Seattle WA (SEA)"
+18 "Seattle WA (SEA)"
+18 "Seattle WA (SEA)"
+18 "Phoenix AZ (PHX)"
+18 "Phoenix AZ (PHX)"
+18 "Phoenix AZ (PHX)"
+18 "Phoenix AZ (PHX)"
+18 "Phoenix AZ (PHX)"
+20 "Baltimore MD (BWI)"
+16 "Islip NY (ISP)"
+18 "Phoenix AZ (PHX)"
+20 "Baltimore MD (BWI)"
+16 "Islip NY (ISP)"
+20 "Baltimore MD (BWI)"
+20 "Baltimore MD (BWI)"
+20 "Baltimore MD (BWI)"
+20 "Baltimore MD (BWI)"
+20 "Baltimore MD (BWI)"
+19 "Hartford CT (BDL)"
+20 "Baltimore MD (BWI)"
+19 "Hartford CT (BDL)"
+18 "Norfolk VA (ORF)"
+20 "Baltimore MD (BWI)"
+19 "Hartford CT (BDL)"
+22 "Albuquerque NM (ABQ)"
+20 "Baltimore MD (BWI)"
+19 "Hartford CT (BDL)"
+18 "Chicago IL (MDW)"
+20 "Baltimore MD (BWI)"
+19 "Hartford CT (BDL)"
+23 "Jacksonville FL (JAX)"
+20 "Baltimore MD (BWI)"
+19 "Hartford CT (BDL)"
+20 "Baltimore MD (BWI)"
+19 "Hartford CT (BDL)"
+19 "Hartford CT (BDL)"
+17 "Denver CO (DEN)"
+17 "Denver CO (DEN)"
+17 "Denver CO (DEN)"
+18 "Ontario CA (ONT)"
+17 "Denver CO (DEN)"
+20 "Las Vegas NV (LAS)"
+24 "San Francisco CA (SFO)"
+18 "Atlanta GA (ATL)"
+18 "Atlanta GA (ATL)"
+18 "Atlanta GA (ATL)"
+18 "Atlanta GA (ATL)"
+22 "Saint Louis MO (STL)"
+22 "Saint Louis MO (STL)"
+18 "Atlanta GA (ATL)"
+18 "Atlanta GA (ATL)"
+18 "Atlanta GA (ATL)"
+18 "Atlanta GA (ATL)"
+18 "Atlanta GA (ATL)"
+18 "Atlanta GA (ATL)"
+18 "Atlanta GA (ATL)"
+18 "Atlanta GA (ATL)"
+18 "Atlanta GA (ATL)"
+18 "Atlanta GA (ATL)"
+19 "New York NY (LGA)"
+19 "New York NY (LGA)"
+19 "New York NY (LGA)"
+19 "New York NY (LGA)"
+17 "Denver CO (DEN)"
+19 "New York NY (LGA)"
+17 "Denver CO (DEN)"
+19 "New York NY (LGA)"
+19 "New York NY (LGA)"
+18 "Detroit MI (DTW)"
+18 "Detroit MI (DTW)"
+23 "Philadelphia PA (PHL)"
+23 "Philadelphia PA (PHL)"
+23 "Philadelphia PA (PHL)"
+23 "Philadelphia PA (PHL)"
+18 "Detroit MI (DTW)"
+18 "Detroit MI (DTW)"
+18 "Detroit MI (DTW)"
+18 "Detroit MI (DTW)"
+20 "Lexington KY (LEX)"
+24 "Traverse City MI (TVC)"
+18 "Detroit MI (DTW)"
+23 "Philadelphia PA (PHL)"
+23 "Philadelphia PA (PHL)"
+18 "Detroit MI (DTW)"
+16 "Flint MI (FNT)"
+18 "Detroit MI (DTW)"
+18 "Chicago IL (ORD)"
+18 "Detroit MI (DTW)"
+20 "Charlotte NC (CLT)"
+20 "Charlotte NC (CLT)"
+22 "New Orleans LA (MSY)"
+22 "New Orleans LA (MSY)"
+20 "Charlotte NC (CLT)"
+20 "Charlotte NC (CLT)"
+20 "Charlotte NC (CLT)"
+20 "Charlotte NC (CLT)"
+17 "Denver CO (DEN)"
+20 "Las Vegas NV (LAS)"
+24 "San Francisco CA (SFO)"
+17 "Denver CO (DEN)"
+17 "Denver CO (DEN)"
+18 "Ontario CA (ONT)"
+17 "Denver CO (DEN)"
+20 "Charlotte NC (CLT)"
+20 "Charlotte NC (CLT)"
+22 "Minneapolis MN (MSP)"
+20 "Charlotte NC (CLT)"
+20 "Charlotte NC (CLT)"
+20 "Charlotte NC (CLT)"
+22 "Minneapolis MN (MSP)"
+20 "Charlotte NC (CLT)"
+21 "Long Beach CA (LGB)"
+17 "Dallas TX (DFW)"
+21 "Long Beach CA (LGB)"
+17 "Dallas TX (DFW)"
+21 "Long Beach CA (LGB)"
+21 "Long Beach CA (LGB)"
+21 "Long Beach CA (LGB)"
+17 "Dallas TX (DFW)"
+17 "Dallas TX (DFW)"
+21 "Shreveport LA (SHV)"
+21 "Shreveport LA (SHV)"
+20 "Cleveland OH (CLE)"
+20 "Cleveland OH (CLE)"
+19 "New York NY (JFK)"
+19 "New York NY (JFK)"
+19 "New York NY (JFK)"
+17 "Newark NJ (EWR)"
+17 "Newark NJ (EWR)"
+22 "Los Angeles CA (LAX)"
+17 "Newark NJ (EWR)"
+17 "Newark NJ (EWR)"
+17 "Newark NJ (EWR)"
+17 "Newark NJ (EWR)"
+17 "Newark NJ (EWR)"
+39 "Glasgow Scotland Great Britain (EGPF)"
+39 "Glasgow Scotland Great Britain (EGPF)"
+17 "Newark NJ (EWR)"
+39 "Glasgow Scotland Great Britain (EGPF)"
+39 "Glasgow Scotland Great Britain (EGPF)"
+17 "Newark NJ (EWR)"
+17 "Newark NJ (EWR)"
+17 "Newark NJ (EWR)"
+24 "Lisbon Portugal (LPPT)"
+18 "Orlando FL (MCO)"
+18 "Orlando FL (MCO)"
+18 "Orlando FL (MCO)"
+18 "Orlando FL (MCO)"
+18 "Orlando FL (MCO)"
+18 "Chicago IL (MDW)"
+19 "Columbus OH (CMH)"
+18 "Orlando FL (MCO)"
+26 "Fort Lauderdale FL (FLL)"
+20 "San Diego CA (SAN)"
+18 "Seattle WA (SEA)"
+18 "Seattle WA (SEA)"
+18 "Seattle WA (SEA)"
+18 "Seattle WA (SEA)"
+18 "Seattle WA (SEA)"
+18 "Seattle WA (SEA)"
+21 "Cincinnati OH (CVG)"
+21 "Cincinnati OH (CVG)"
+21 "Cincinnati OH (CVG)"
+21 "Cincinnati OH (CVG)"
+21 "Cincinnati OH (CVG)"
+21 "Cincinnati OH (CVG)"
+20 "Fairbanks AK (FAI)"
+20 "Fairbanks AK (FAI)"
+20 "Fairbanks AK (FAI)"
+17 "Barrow AK (BRW)"
+19 "Portland OR (PDX)"
+20 "Anchorage AK (ANC)"
+20 "Fairbanks AK (FAI)"
+20 "Anchorage AK (ANC)"
+20 "Fairbanks AK (FAI)"
+18 "Seattle WA (SEA)"
+20 "Anchorage AK (ANC)"
+20 "Fairbanks AK (FAI)"
+20 "Fairbanks AK (FAI)"
+17 "Barrow AK (BRW)"
+20 "Fairbanks AK (FAI)"
+20 "Fairbanks AK (FAI)"
+20 "Anchorage AK (ANC)"
+20 "Fairbanks AK (FAI)"
+20 "Fairbanks AK (FAI)"
+20 "Fairbanks AK (FAI)"
+20 "Fairbanks AK (FAI)"
+20 "Fairbanks AK (FAI)"
+20 "Fairbanks AK (FAI)"
+15 "Nome AK (OME)"
+15 "Nome AK (OME)"
+18 "Detroit MI (DTW)"
+20 "Milwaukee WI (MKE)"
+18 "Detroit MI (DTW)"
+18 "Detroit MI (DTW)"
+19 "Columbus OH (CMH)"
+16 "Miami FL (MIA)"
+18 "Detroit MI (DTW)"
+20 "Nashville TN (BNA)"
+20 "Nashville TN (BNA)"
+20 "Nashville TN (BNA)"
+20 "Nashville TN (BNA)"
+23 "Philadelphia PA (PHL)"
+23 "Philadelphia PA (PHL)"
+23 "Philadelphia PA (PHL)"
+23 "Philadelphia PA (PHL)"
+19 "Hartford CT (BDL)"
+23 "Philadelphia PA (PHL)"
+23 "Philadelphia PA (PHL)"
+23 "Philadelphia PA (PHL)"
+23 "Philadelphia PA (PHL)"
+21 "Pittsburgh PA (PIT)"
+23 "Philadelphia PA (PHL)"
+23 "Philadelphia PA (PHL)"
+23 "Philadelphia PA (PHL)"
+23 "Philadelphia PA (PHL)"
+23 "Philadelphia PA (PHL)"
+23 "Philadelphia PA (PHL)"
+23 "Philadelphia PA (PHL)"
+23 "Philadelphia PA (PHL)"
+17 "Albany NY (ALB)"
+17 "Albany NY (ALB)"
+23 "Philadelphia PA (PHL)"
+23 "Philadelphia PA (PHL)"
+23 "Philadelphia PA (PHL)"
+23 "Philadelphia PA (PHL)"
+23 "Philadelphia PA (PHL)"
+21 "Washington DC (IAD)"
+21 "Washington DC (IAD)"
+21 "Paris France (LFPG)"
+16 "Miami FL (MIA)"
+21 "Washington DC (IAD)"
+16 "Miami FL (MIA)"
+21 "Washington DC (IAD)"
+19 "Honolulu HI (HNL)"
+19 "Honolulu HI (HNL)"
+19 "Honolulu HI (HNL)"
+19 "Honolulu HI (HNL)"
+20 "Las Vegas NV (LAS)"
+20 "Las Vegas NV (LAS)"
+20 "Charlotte NC (CLT)"
+20 "Charlotte NC (CLT)"
+20 "Charlotte NC (CLT)"
+20 "Charlotte NC (CLT)"
+20 "Charlotte NC (CLT)"
+20 "Charlotte NC (CLT)"
+20 "Charlotte NC (CLT)"
+20 "Charlotte NC (CLT)"
+20 "Charlotte NC (CLT)"
+37 "London England Great Britain (EGKK)"
+37 "London England Great Britain (EGKK)"
+20 "Charlotte NC (CLT)"
+24 "San Francisco CA (SFO)"
+22 "Minneapolis MN (MSP)"
+24 "San Francisco CA (SFO)"
+24 "San Francisco CA (SFO)"
+22 "Minneapolis MN (MSP)"
+22 "Minneapolis MN (MSP)"
+24 "San Francisco CA (SFO)"
+24 "San Francisco CA (SFO)"
+24 "San Francisco CA (SFO)"
+24 "San Francisco CA (SFO)"
+24 "San Francisco CA (SFO)"
+24 "San Francisco CA (SFO)"
+22 "Los Angeles CA (LAX)"
+18 "Oakland CA (OAK)"
+20 "Baltimore MD (BWI)"
+22 "Los Angeles CA (LAX)"
+22 "Los Angeles CA (LAX)"
+22 "Los Angeles CA (LAX)"
+20 "Cleveland OH (CLE)"
+20 "Cleveland OH (CLE)"
+20 "Cleveland OH (CLE)"
+20 "Cleveland OH (CLE)"
+17 "Newark NJ (EWR)"
+17 "Newark NJ (EWR)"
+17 "Newark NJ (EWR)"
+17 "Dallas TX (DFW)"
+17 "Dallas TX (DFW)"
+17 "Newark NJ (EWR)"
+17 "Newark NJ (EWR)"
+17 "Newark NJ (EWR)"
+17 "Newark NJ (EWR)"
+17 "Newark NJ (EWR)"
+17 "Newark NJ (EWR)"
+17 "Dallas TX (DFW)"
+17 "Dallas TX (DFW)"
+17 "Newark NJ (EWR)"
+17 "Newark NJ (EWR)"
+17 "Newark NJ (EWR)"
+17 "Newark NJ (EWR)"
+17 "Newark NJ (EWR)"
+41 "Manchester England Great Britain (EGCC)"
+17 "Newark NJ (EWR)"
+17 "Newark NJ (EWR)"
+20 "Tokyo Japan (RJAA)"
+20 "Baltimore MD (BWI)"
+22 "New Orleans LA (MSY)"
+20 "Cleveland OH (CLE)"
+23 "Philadelphia PA (PHL)"
+23 "Philadelphia PA (PHL)"
+20 "Cleveland OH (CLE)"
+18 "Phoenix AZ (PHX)"
+20 "Cleveland OH (CLE)"
+20 "Cleveland OH (CLE)"
+22 "San Antonio TX (SAT)"
+22 "San Antonio TX (SAT)"
+23 "Philadelphia PA (PHL)"
+23 "Philadelphia PA (PHL)"
+20 "Cleveland OH (CLE)"
+20 "Cleveland OH (CLE)"
+20 "Cleveland OH (CLE)"
+20 "Cleveland OH (CLE)"
+18 "Chicago IL (ORD)"
+22 "Minneapolis MN (MSP)"
+18 "Chicago IL (ORD)"
+22 "Minneapolis MN (MSP)"
+18 "Chicago IL (ORD)"
+22 "Minneapolis MN (MSP)"
+18 "Chicago IL (ORD)"
+22 "Minneapolis MN (MSP)"
+18 "Chicago IL (ORD)"
+22 "Minneapolis MN (MSP)"
+22 "Minneapolis MN (MSP)"
+22 "Minneapolis MN (MSP)"
+18 "Chicago IL (ORD)"
+22 "Minneapolis MN (MSP)"
+22 "Minneapolis MN (MSP)"
+18 "Chicago IL (ORD)"
+22 "Minneapolis MN (MSP)"
+22 "Minneapolis MN (MSP)"
+22 "Minneapolis MN (MSP)"
+22 "Minneapolis MN (MSP)"
+22 "Minneapolis MN (MSP)"
+19 "Billings MT (BIL)"
+22 "Minneapolis MN (MSP)"
+22 "Los Angeles CA (LAX)"
+22 "Minneapolis MN (MSP)"
+22 "Minneapolis MN (MSP)"
+22 "Minneapolis MN (MSP)"
+18 "Chicago IL (ORD)"
+22 "Minneapolis MN (MSP)"
+22 "Minneapolis MN (MSP)"
+19 "Bismarck ND (BIS)"
+18 "Chicago IL (ORD)"
+22 "Minneapolis MN (MSP)"
+18 "Chicago IL (ORD)"
+22 "Minneapolis MN (MSP)"
+18 "Chicago IL (ORD)"
+22 "Minneapolis MN (MSP)"
+22 "Minneapolis MN (MSP)"
+18 "Chicago IL (ORD)"
+22 "Minneapolis MN (MSP)"
+18 "Chicago IL (ORD)"
+22 "Minneapolis MN (MSP)"
+22 "Minneapolis MN (MSP)"
+18 "Chicago IL (ORD)"
+22 "Minneapolis MN (MSP)"
+22 "Minneapolis MN (MSP)"
+18 "Chicago IL (ORD)"
+22 "Minneapolis MN (MSP)"
+18 "Chicago IL (ORD)"
+18 "Orlando FL (MCO)"
+18 "Orlando FL (MCO)"
+21 "Cincinnati OH (CVG)"
+21 "Cincinnati OH (CVG)"
+21 "Cincinnati OH (CVG)"
+18 "Orlando FL (MCO)"
+18 "Orlando FL (MCO)"
+21 "Cincinnati OH (CVG)"
+21 "Cincinnati OH (CVG)"
+21 "Cincinnati OH (CVG)"
+21 "Cincinnati OH (CVG)"
+0 
+40 "Puerto Plata Dominican Republic (MDPP)"
+40 "Puerto Plata Dominican Republic (MDPP)"
+23 "Cedar Rapids IA (CID)"
+23 "Cedar Rapids IA (CID)"
+40 "Puerto Plata Dominican Republic (MDPP)"
+0 
+31 "San Juan PR Puerto Rico (SJU)"
+31 "San Juan PR Puerto Rico (SJU)"
+0 
+0 
+40 "Puerto Plata Dominican Republic (MDPP)"
+0 
+0 
+0 
+17 "Boston MA (BOS)"
+0 
+0 
+0 
+17 "Boston MA (BOS)"
+22 "Saint Louis MO (STL)"
+22 "Saint Louis MO (STL)"
+22 "Saint Louis MO (STL)"
+22 "Saint Louis MO (STL)"
+18 "Atlanta GA (ATL)"
+22 "Saint Louis MO (STL)"
+18 "Atlanta GA (ATL)"
+22 "Saint Louis MO (STL)"
+18 "Atlanta GA (ATL)"
+22 "Saint Louis MO (STL)"
+22 "Saint Louis MO (STL)"
+22 "Saint Louis MO (STL)"
+22 "Saint Louis MO (STL)"
+18 "Atlanta GA (ATL)"
+22 "Saint Louis MO (STL)"
+22 "Saint Louis MO (STL)"
+16 "Miami FL (MIA)"
+16 "Miami FL (MIA)"
+20 "San Diego CA (SAN)"
+20 "San Diego CA (SAN)"
+20 "San Diego CA (SAN)"
+20 "San Diego CA (SAN)"
+20 "San Diego CA (SAN)"
+20 "San Diego CA (SAN)"
+20 "Anchorage AK (ANC)"
+15 "Nome AK (OME)"
+20 "Anchorage AK (ANC)"
+20 "Fairbanks AK (FAI)"
+20 "Anchorage AK (ANC)"
+18 "Seattle WA (SEA)"
+20 "Anchorage AK (ANC)"
+22 "Los Angeles CA (LAX)"
+19 "Portland OR (PDX)"
+20 "Anchorage AK (ANC)"
+27 "Vancouver BC Canada (YVR)"
+20 "Anchorage AK (ANC)"
+20 "Anchorage AK (ANC)"
+20 "Fairbanks AK (FAI)"
+20 "Anchorage AK (ANC)"
+18 "Seattle WA (SEA)"
+20 "Anchorage AK (ANC)"
+20 "Anchorage AK (ANC)"
+20 "Anchorage AK (ANC)"
+20 "Anchorage AK (ANC)"
+20 "Anchorage AK (ANC)"
+20 "Anchorage AK (ANC)"
+19 "Kotzebue AK (OTZ)"
+19 "Kotzebue AK (OTZ)"
+20 "Anchorage AK (ANC)"
+15 "Nome AK (OME)"
+20 "Anchorage AK (ANC)"
+20 "Anchorage AK (ANC)"
+24 "San Francisco CA (SFO)"
+20 "Anchorage AK (ANC)"
+23 "Palm Springs CA (PSP)"
+30 "Puerto Vallarta Mexico (PVR)"
+24 "San Francisco CA (SFO)"
+24 "San Francisco CA (SFO)"
+18 "Seattle WA (SEA)"
+20 "Anchorage AK (ANC)"
+21 "Washington DC (IAD)"
+24 "San Francisco CA (SFO)"
+24 "San Francisco CA (SFO)"
+20 "San Diego CA (SAN)"
+24 "San Francisco CA (SFO)"
+24 "San Francisco CA (SFO)"
+24 "San Francisco CA (SFO)"
+24 "San Francisco CA (SFO)"
+24 "San Francisco CA (SFO)"
+24 "San Francisco CA (SFO)"
+18 "Seattle WA (SEA)"
+24 "San Francisco CA (SFO)"
+24 "San Francisco CA (SFO)"
+24 "San Francisco CA (SFO)"
+24 "San Francisco CA (SFO)"
+24 "San Francisco CA (SFO)"
+24 "San Francisco CA (SFO)"
+24 "San Francisco CA (SFO)"
+24 "San Francisco CA (SFO)"
+24 "San Francisco CA (SFO)"
+22 "Los Angeles CA (LAX)"
+20 "Milwaukee WI (MKE)"
+20 "Milwaukee WI (MKE)"
+20 "Milwaukee WI (MKE)"
+18 "Detroit MI (DTW)"
+23 "Myrtle Beach SC (MYR)"
+18 "Detroit MI (DTW)"
+20 "Milwaukee WI (MKE)"
+18 "Detroit MI (DTW)"
+22 "Saint Louis MO (STL)"
+18 "Detroit MI (DTW)"
+21 "Louisville KY (SDF)"
+18 "Detroit MI (DTW)"
+18 "Detroit MI (DTW)"
+18 "Detroit MI (DTW)"
+18 "Detroit MI (DTW)"
+18 "Detroit MI (DTW)"
+18 "Detroit MI (DTW)"
+18 "Detroit MI (DTW)"
+18 "Detroit MI (DTW)"
+18 "Detroit MI (DTW)"
+19 "New York NY (LGA)"
+18 "Detroit MI (DTW)"
+18 "Detroit MI (DTW)"
+18 "Detroit MI (DTW)"
+18 "Detroit MI (DTW)"
+20 "Champaign IL (CMI)"
+20 "Champaign IL (CMI)"
+20 "Champaign IL (CMI)"
+20 "Champaign IL (CMI)"
+20 "Champaign IL (CMI)"
+20 "Champaign IL (CMI)"
+17 "Newark NJ (EWR)"
+19 "Syracuse NY (SYR)"
+19 "Syracuse NY (SYR)"
+17 "Newark NJ (EWR)"
+17 "Newark NJ (EWR)"
+17 "Newark NJ (EWR)"
+17 "Newark NJ (EWR)"
+22 "Minneapolis MN (MSP)"
+17 "Dallas TX (DFW)"
+22 "Minneapolis MN (MSP)"
+17 "Dallas TX (DFW)"
+22 "Minneapolis MN (MSP)"
+27 "Colorado Springs CO (COS)"
+27 "Colorado Springs CO (COS)"
+22 "Minneapolis MN (MSP)"
+17 "Dallas TX (DFW)"
+22 "Minneapolis MN (MSP)"
+22 "Minneapolis MN (MSP)"
+22 "Minneapolis MN (MSP)"
+22 "Grand Forks ND (GFK)"
+22 "Minneapolis MN (MSP)"
+22 "Minneapolis MN (MSP)"
+15 "Reno NV (RNO)"
+22 "Minneapolis MN (MSP)"
+22 "Minneapolis MN (MSP)"
+22 "Minneapolis MN (MSP)"
+22 "Minneapolis MN (MSP)"
+22 "Minneapolis MN (MSP)"
+22 "Minneapolis MN (MSP)"
+18 "Buffalo NY (BUF)"
+18 "Phoenix AZ (PHX)"
+17 "Boston MA (BOS)"
+17 "Boston MA (BOS)"
+17 "Boston MA (BOS)"
+18 "Buffalo NY (BUF)"
+20 "Las Vegas NV (LAS)"
+18 "Ontario CA (ONT)"
+18 "Buffalo NY (BUF)"
+18 "Buffalo NY (BUF)"
+18 "Buffalo NY (BUF)"
+18 "Buffalo NY (BUF)"
+18 "Buffalo NY (BUF)"
+18 "Buffalo NY (BUF)"
+18 "Buffalo NY (BUF)"
+18 "Buffalo NY (BUF)"
+18 "Orlando FL (MCO)"
+18 "Orlando FL (MCO)"
+22 "Saint Louis MO (STL)"
+18 "Orlando FL (MCO)"
+22 "Saint Louis MO (STL)"
+18 "Orlando FL (MCO)"
+22 "Saint Louis MO (STL)"
+18 "Orlando FL (MCO)"
+22 "Saint Louis MO (STL)"
+25 "Salt Lake City UT (SLC)"
+18 "Orlando FL (MCO)"
+22 "Saint Louis MO (STL)"
+18 "Chicago IL (MDW)"
+20 "Baltimore MD (BWI)"
+18 "Orlando FL (MCO)"
+22 "Saint Louis MO (STL)"
+16 "Omaha NE (OMA)"
+20 "Las Vegas NV (LAS)"
+16 "Miami FL (MIA)"
+18 "Atlanta GA (ATL)"
+18 "Atlanta GA (ATL)"
+19 "New York NY (JFK)"
+19 "New York NY (JFK)"
+18 "Atlanta GA (ATL)"
+18 "Atlanta GA (ATL)"
+18 "Seattle WA (SEA)"
+18 "Seattle WA (SEA)"
+18 "Seattle WA (SEA)"
+22 "Minneapolis MN (MSP)"
+17 "Dallas TX (DFW)"
+22 "Minneapolis MN (MSP)"
+17 "Dallas TX (DFW)"
+22 "Minneapolis MN (MSP)"
+17 "Dallas TX (DFW)"
+22 "Minneapolis MN (MSP)"
+22 "Minneapolis MN (MSP)"
+22 "Minneapolis MN (MSP)"
+22 "Minneapolis MN (MSP)"
+27 "Colorado Springs CO (COS)"
+27 "Colorado Springs CO (COS)"
+22 "Grand Forks ND (GFK)"
+22 "Minneapolis MN (MSP)"
+15 "Reno NV (RNO)"
+22 "Minneapolis MN (MSP)"
+22 "Minneapolis MN (MSP)"
+22 "Minneapolis MN (MSP)"
+22 "Minneapolis MN (MSP)"
+22 "Minneapolis MN (MSP)"
+22 "Minneapolis MN (MSP)"
+22 "Minneapolis MN (MSP)"
+19 "Columbus OH (CMH)"
+20 "Cleveland OH (CLE)"
+20 "Milwaukee WI (MKE)"
+20 "Milwaukee WI (MKE)"
+19 "Columbus OH (CMH)"
+20 "Cleveland OH (CLE)"
+21 "Cincinnati OH (CVG)"
+21 "Cincinnati OH (CVG)"
+23 "Jacksonville FL (JAX)"
+23 "Jacksonville FL (JAX)"
+21 "Cincinnati OH (CVG)"
+21 "Cincinnati OH (CVG)"
+17 "Boston MA (BOS)"
+22 "Minneapolis MN (MSP)"
+17 "Boston MA (BOS)"
+22 "Minneapolis MN (MSP)"
+17 "Boston MA (BOS)"
+22 "Minneapolis MN (MSP)"
+17 "Boston MA (BOS)"
+22 "Minneapolis MN (MSP)"
+22 "Minneapolis MN (MSP)"
+17 "Boston MA (BOS)"
+22 "Minneapolis MN (MSP)"
+17 "Boston MA (BOS)"
+22 "Minneapolis MN (MSP)"
+18 "Chicago IL (ORD)"
+18 "Chicago IL (ORD)"
+18 "Chicago IL (ORD)"
+21 "Shreveport LA (SHV)"
+21 "Shreveport LA (SHV)"
+18 "Chicago IL (ORD)"
+18 "Chicago IL (ORD)"
+18 "Chicago IL (ORD)"
+17 "Lawton OK (LAW)"
+17 "Lawton OK (LAW)"
+18 "Chicago IL (ORD)"
+18 "Chicago IL (ORD)"
+18 "Chicago IL (ORD)"
+18 "Chicago IL (ORD)"
+19 "Richmond VA (RIC)"
+18 "Chicago IL (ORD)"
+23 "Palm Springs CA (PSP)"
+24 "San Francisco CA (SFO)"
+24 "San Francisco CA (SFO)"
+24 "San Francisco CA (SFO)"
+24 "San Francisco CA (SFO)"
+30 "Puerto Vallarta Mexico (PVR)"
+24 "San Francisco CA (SFO)"
+24 "San Francisco CA (SFO)"
+18 "Seattle WA (SEA)"
+24 "San Francisco CA (SFO)"
+24 "San Francisco CA (SFO)"
+24 "San Francisco CA (SFO)"
+18 "Seattle WA (SEA)"
+20 "Anchorage AK (ANC)"
+21 "Washington DC (IAD)"
+24 "San Francisco CA (SFO)"
+20 "San Diego CA (SAN)"
+24 "San Francisco CA (SFO)"
+24 "San Francisco CA (SFO)"
+24 "San Francisco CA (SFO)"
+22 "Los Angeles CA (LAX)"
+24 "San Francisco CA (SFO)"
+24 "San Francisco CA (SFO)"
+24 "San Francisco CA (SFO)"
+24 "San Francisco CA (SFO)"
+24 "San Francisco CA (SFO)"
+24 "San Francisco CA (SFO)"
+20 "San Diego CA (SAN)"
+20 "San Diego CA (SAN)"
+22 "Los Angeles CA (LAX)"
+22 "Los Angeles CA (LAX)"
+19 "San Jose CA (SJC)"
+18 "Phoenix AZ (PHX)"
+20 "Baltimore MD (BWI)"
+20 "San Diego CA (SAN)"
+18 "Phoenix AZ (PHX)"
+20 "Baltimore MD (BWI)"
+18 "Phoenix AZ (PHX)"
+18 "Phoenix AZ (PHX)"
+18 "Phoenix AZ (PHX)"
+18 "Phoenix AZ (PHX)"
+16 "Tampa FL (TPA)"
+20 "Baltimore MD (BWI)"
+20 "San Diego CA (SAN)"
+20 "Baltimore MD (BWI)"
+23 "Jacksonville FL (JAX)"
+18 "Norfolk VA (ORF)"
+20 "Baltimore MD (BWI)"
+20 "San Diego CA (SAN)"
+22 "Albuquerque NM (ABQ)"
+20 "Baltimore MD (BWI)"
+18 "Phoenix AZ (PHX)"
+18 "Chicago IL (MDW)"
+20 "Baltimore MD (BWI)"
+26 "Fort Lauderdale FL (FLL)"
+23 "Jacksonville FL (JAX)"
+20 "Baltimore MD (BWI)"
+18 "Orlando FL (MCO)"
+20 "Baltimore MD (BWI)"
+20 "Baltimore MD (BWI)"
+22 "New Orleans LA (MSY)"
+22 "New Orleans LA (MSY)"
+22 "New Orleans LA (MSY)"
+17 "Denver CO (DEN)"
+22 "New Orleans LA (MSY)"
+17 "Denver CO (DEN)"
+20 "Las Vegas NV (LAS)"
+22 "Saint Louis MO (STL)"
+22 "Saint Louis MO (STL)"
+22 "Saint Louis MO (STL)"
+22 "Saint Louis MO (STL)"
+18 "Atlanta GA (ATL)"
+18 "Atlanta GA (ATL)"
+22 "Saint Louis MO (STL)"
+22 "Saint Louis MO (STL)"
+22 "Saint Louis MO (STL)"
+22 "Saint Louis MO (STL)"
+22 "Saint Louis MO (STL)"
+22 "Saint Louis MO (STL)"
+22 "Saint Louis MO (STL)"
+22 "Saint Louis MO (STL)"
+22 "Saint Louis MO (STL)"
+22 "Saint Louis MO (STL)"
+17 "Denver CO (DEN)"
+17 "Denver CO (DEN)"
+17 "Denver CO (DEN)"
+17 "Denver CO (DEN)"
+22 "Los Angeles CA (LAX)"
+17 "Denver CO (DEN)"
+18 "Seattle WA (SEA)"
+17 "Denver CO (DEN)"
+17 "Denver CO (DEN)"
+23 "Philadelphia PA (PHL)"
+23 "Philadelphia PA (PHL)"
+26 "Montreal QC Canada (YUL)"
+21 "Greenville SC (GSP)"
+26 "Montreal QC Canada (YUL)"
+21 "Greenville SC (GSP)"
+23 "Philadelphia PA (PHL)"
+23 "Philadelphia PA (PHL)"
+23 "Philadelphia PA (PHL)"
+23 "Philadelphia PA (PHL)"
+18 "Detroit MI (DTW)"
+18 "Detroit MI (DTW)"
+23 "Philadelphia PA (PHL)"
+19 "Columbia SC (CAE)"
+19 "Columbia SC (CAE)"
+23 "Philadelphia PA (PHL)"
+18 "Detroit MI (DTW)"
+23 "Philadelphia PA (PHL)"
+18 "Detroit MI (DTW)"
+23 "Philadelphia PA (PHL)"
+23 "Philadelphia PA (PHL)"
+23 "Philadelphia PA (PHL)"
+23 "Myrtle Beach SC (MYR)"
+23 "Myrtle Beach SC (MYR)"
+20 "Charlotte NC (CLT)"
+20 "Charlotte NC (CLT)"
+19 "New York NY (LGA)"
+19 "New York NY (LGA)"
+20 "Allentown PA (ABE)"
+20 "Allentown PA (ABE)"
+22 "New Orleans LA (MSY)"
+17 "Denver CO (DEN)"
+20 "Las Vegas NV (LAS)"
+22 "New Orleans LA (MSY)"
+22 "New Orleans LA (MSY)"
+17 "Denver CO (DEN)"
+22 "New Orleans LA (MSY)"
+22 "Minneapolis MN (MSP)"
+22 "Minneapolis MN (MSP)"
+22 "Minneapolis MN (MSP)"
+22 "Minneapolis MN (MSP)"
+20 "La Crosse WI (LSE)"
+22 "Minneapolis MN (MSP)"
+22 "Minneapolis MN (MSP)"
+22 "Minneapolis MN (MSP)"
+21 "Rapid City SD (RAP)"
+22 "Minneapolis MN (MSP)"
+17 "Dallas TX (DFW)"
+18 "Houston TX (IAH)"
+17 "Dallas TX (DFW)"
+22 "San Antonio TX (SAT)"
+17 "Dallas TX (DFW)"
+17 "Dallas TX (DFW)"
+17 "Dallas TX (DFW)"
+18 "Lubbock TX (LBB)"
+18 "Lubbock TX (LBB)"
+17 "Dallas TX (DFW)"
+17 "Dallas TX (DFW)"
+21 "Providence RI (PVD)"
+21 "Providence RI (PVD)"
+18 "Burbank CA (BUR)"
+18 "Burbank CA (BUR)"
+18 "Burbank CA (BUR)"
+22 "Los Angeles CA (LAX)"
+22 "Los Angeles CA (LAX)"
+19 "Honolulu HI (HNL)"
+22 "Los Angeles CA (LAX)"
+22 "Los Angeles CA (LAX)"
+22 "Los Angeles CA (LAX)"
+22 "Los Angeles CA (LAX)"
+22 "Los Angeles CA (LAX)"
+17 "Newark NJ (EWR)"
+17 "Newark NJ (EWR)"
+22 "Los Angeles CA (LAX)"
+17 "Newark NJ (EWR)"
+17 "Newark NJ (EWR)"
+22 "Los Angeles CA (LAX)"
+22 "Los Angeles CA (LAX)"
+22 "Los Angeles CA (LAX)"
+17 "Newark NJ (EWR)"
+19 "Columbus OH (CMH)"
+19 "Columbus OH (CMH)"
+19 "Columbus OH (CMH)"
+19 "Columbus OH (CMH)"
+19 "Columbus OH (CMH)"
+20 "San Diego CA (SAN)"
+18 "Chicago IL (MDW)"
+19 "Columbus OH (CMH)"
+18 "Orlando FL (MCO)"
+19 "San Jose CA (SJC)"
+20 "San Diego CA (SAN)"
+20 "San Diego CA (SAN)"
+20 "San Diego CA (SAN)"
+20 "San Diego CA (SAN)"
+20 "San Diego CA (SAN)"
+20 "San Diego CA (SAN)"
+19 "New York NY (JFK)"
+19 "New York NY (JFK)"
+19 "New York NY (JFK)"
+19 "New York NY (JFK)"
+19 "New York NY (JFK)"
+19 "New York NY (JFK)"
+15 "Nome AK (OME)"
+15 "Nome AK (OME)"
+20 "Anchorage AK (ANC)"
+20 "Anchorage AK (ANC)"
+20 "Anchorage AK (ANC)"
+20 "Anchorage AK (ANC)"
+20 "Anchorage AK (ANC)"
+20 "Anchorage AK (ANC)"
+20 "Anchorage AK (ANC)"
+20 "Fairbanks AK (FAI)"
+22 "Los Angeles CA (LAX)"
+19 "Portland OR (PDX)"
+20 "Anchorage AK (ANC)"
+27 "Vancouver BC Canada (YVR)"
+20 "Anchorage AK (ANC)"
+24 "San Francisco CA (SFO)"
+18 "Seattle WA (SEA)"
+20 "Anchorage AK (ANC)"
+20 "Anchorage AK (ANC)"
+20 "Fairbanks AK (FAI)"
+20 "Anchorage AK (ANC)"
+20 "Anchorage AK (ANC)"
+18 "Seattle WA (SEA)"
+20 "Anchorage AK (ANC)"
+20 "Anchorage AK (ANC)"
+20 "Anchorage AK (ANC)"
+20 "Anchorage AK (ANC)"
+20 "Anchorage AK (ANC)"
+20 "Anchorage AK (ANC)"
+19 "Kotzebue AK (OTZ)"
+19 "Kotzebue AK (OTZ)"
+16 "Miami FL (MIA)"
+18 "Detroit MI (DTW)"
+16 "Miami FL (MIA)"
+16 "Miami FL (MIA)"
+18 "Detroit MI (DTW)"
+21 "Cancun Mexico (CUN)"
+16 "Miami FL (MIA)"
+16 "Miami FL (MIA)"
+16 "Miami FL (MIA)"
+16 "Miami FL (MIA)"
+16 "Miami FL (MIA)"
+18 "Orlando FL (MCO)"
+18 "Orlando FL (MCO)"
+18 "Orlando FL (MCO)"
+18 "Orlando FL (MCO)"
+23 "Philadelphia PA (PHL)"
+18 "Orlando FL (MCO)"
+18 "Orlando FL (MCO)"
+18 "Orlando FL (MCO)"
+18 "Orlando FL (MCO)"
+23 "Philadelphia PA (PHL)"
+18 "Orlando FL (MCO)"
+18 "Orlando FL (MCO)"
+18 "Orlando FL (MCO)"
+18 "Orlando FL (MCO)"
+18 "Orlando FL (MCO)"
+18 "Orlando FL (MCO)"
+18 "Orlando FL (MCO)"
+18 "Orlando FL (MCO)"
+23 "Philadelphia PA (PHL)"
+23 "Philadelphia PA (PHL)"
+18 "Orlando FL (MCO)"
+18 "Orlando FL (MCO)"
+18 "Orlando FL (MCO)"
+18 "Orlando FL (MCO)"
+18 "Orlando FL (MCO)"
+16 "Miami FL (MIA)"
+16 "Miami FL (MIA)"
+21 "Washington DC (IAD)"
+4 NULL
+16 "Miami FL (MIA)"
+4 NULL
+16 "Miami FL (MIA)"
+20 "Las Vegas NV (LAS)"
+20 "Las Vegas NV (LAS)"
+20 "Las Vegas NV (LAS)"
+20 "Las Vegas NV (LAS)"
+23 "Indianapolis IN (IND)"
+23 "Indianapolis IN (IND)"
+18 "Orlando FL (MCO)"
+18 "Orlando FL (MCO)"
+18 "Orlando FL (MCO)"
+18 "Orlando FL (MCO)"
+18 "Orlando FL (MCO)"
+18 "Orlando FL (MCO)"
+18 "Orlando FL (MCO)"
+18 "Orlando FL (MCO)"
+18 "Orlando FL (MCO)"
+20 "Charlotte NC (CLT)"
+20 "Charlotte NC (CLT)"
+18 "Orlando FL (MCO)"
+22 "Minneapolis MN (MSP)"
+21 "Washington DC (DCA)"
+22 "Minneapolis MN (MSP)"
+22 "Minneapolis MN (MSP)"
+25 "Salt Lake City UT (SLC)"
+25 "Salt Lake City UT (SLC)"
+22 "Minneapolis MN (MSP)"
+22 "Minneapolis MN (MSP)"
+22 "Minneapolis MN (MSP)"
+22 "Minneapolis MN (MSP)"
+22 "Minneapolis MN (MSP)"
+22 "Minneapolis MN (MSP)"
+20 "Baltimore MD (BWI)"
+22 "Los Angeles CA (LAX)"
+16 "Islip NY (ISP)"
+20 "Baltimore MD (BWI)"
+20 "Baltimore MD (BWI)"
+20 "Baltimore MD (BWI)"
+16 "Miami FL (MIA)"
+16 "Miami FL (MIA)"
+16 "Miami FL (MIA)"
+16 "Miami FL (MIA)"
+17 "Boston MA (BOS)"
+17 "Boston MA (BOS)"
+17 "Boston MA (BOS)"
+21 "Huntsville AL (HSV)"
+21 "Huntsville AL (HSV)"
+17 "Boston MA (BOS)"
+17 "Boston MA (BOS)"
+17 "Boston MA (BOS)"
+17 "Boston MA (BOS)"
+17 "Boston MA (BOS)"
+17 "Boston MA (BOS)"
+18 "Jackson MS (JAN)"
+18 "Jackson MS (JAN)"
+17 "Boston MA (BOS)"
+17 "Boston MA (BOS)"
+17 "Boston MA (BOS)"
+17 "Boston MA (BOS)"
+17 "Boston MA (BOS)"
+17 "Newark NJ (EWR)"
+17 "Boston MA (BOS)"
+17 "Boston MA (BOS)"
+17 "Newark NJ (EWR)"
+19 "Hartford CT (BDL)"
+20 "Baltimore MD (BWI)"
+23 "Philadelphia PA (PHL)"
+20 "Allentown PA (ABE)"
+20 "Allentown PA (ABE)"
+23 "Philadelphia PA (PHL)"
+20 "Cleveland OH (CLE)"
+23 "Philadelphia PA (PHL)"
+23 "Philadelphia PA (PHL)"
+20 "Cleveland OH (CLE)"
+20 "Cleveland OH (CLE)"
+21 "Burlington VT (BTV)"
+21 "Burlington VT (BTV)"
+23 "Philadelphia PA (PHL)"
+23 "Philadelphia PA (PHL)"
+23 "Philadelphia PA (PHL)"
+23 "Philadelphia PA (PHL)"
+19 "New York NY (LGA)"
+18 "Chicago IL (ORD)"
+19 "New York NY (LGA)"
+18 "Chicago IL (ORD)"
+17 "Newark NJ (EWR)"
+18 "Chicago IL (ORD)"
+22 "New Orleans LA (MSY)"
+18 "Chicago IL (ORD)"
+18 "El Paso TX (ELP)"
+18 "Chicago IL (ORD)"
+18 "Chicago IL (ORD)"
+18 "Chicago IL (ORD)"
+20 "San Diego CA (SAN)"
+18 "Chicago IL (ORD)"
+18 "Chicago IL (ORD)"
+17 "Boston MA (BOS)"
+18 "Chicago IL (ORD)"
+18 "Chicago IL (ORD)"
+18 "Chicago IL (ORD)"
+18 "Chicago IL (ORD)"
+18 "Chicago IL (ORD)"
+22 "Minneapolis MN (MSP)"
+18 "Chicago IL (ORD)"
+22 "Minneapolis MN (MSP)"
+18 "Chicago IL (ORD)"
+18 "Chicago IL (ORD)"
+18 "Chicago IL (ORD)"
+18 "Houston TX (IAH)"
+18 "Chicago IL (ORD)"
+18 "Chicago IL (ORD)"
+22 "Minneapolis MN (MSP)"
+19 "New York NY (LGA)"
+18 "Chicago IL (ORD)"
+18 "Atlanta GA (ATL)"
+18 "Chicago IL (ORD)"
+19 "New York NY (LGA)"
+18 "Chicago IL (ORD)"
+18 "Chicago IL (ORD)"
+20 "Baltimore MD (BWI)"
+18 "Chicago IL (ORD)"
+19 "Hartford CT (BDL)"
+18 "Chicago IL (ORD)"
+18 "Chicago IL (ORD)"
+20 "Anchorage AK (ANC)"
+18 "Chicago IL (ORD)"
+18 "Chicago IL (ORD)"
+18 "Spokane WA (GEG)"
+18 "Chicago IL (ORD)"
+18 "Spokane WA (GEG)"
+21 "Cincinnati OH (CVG)"
+21 "Cincinnati OH (CVG)"
+18 "Orlando FL (MCO)"
+18 "Orlando FL (MCO)"
+18 "Orlando FL (MCO)"
+21 "Cincinnati OH (CVG)"
+21 "Cincinnati OH (CVG)"
+18 "Orlando FL (MCO)"
+18 "Orlando FL (MCO)"
+18 "Orlando FL (MCO)"
+18 "Orlando FL (MCO)"
+17 "Boston MA (BOS)"
+31 "San Juan PR Puerto Rico (SJU)"
+31 "San Juan PR Puerto Rico (SJU)"
+17 "Dallas TX (DFW)"
+17 "Dallas TX (DFW)"
+31 "San Juan PR Puerto Rico (SJU)"
+17 "Boston MA (BOS)"
+41 "Santo Domingo Dominican Republic (MDSD)"
+41 "Santo Domingo Dominican Republic (MDSD)"
+17 "Boston MA (BOS)"
+17 "Boston MA (BOS)"
+31 "San Juan PR Puerto Rico (SJU)"
+17 "Boston MA (BOS)"
+17 "Boston MA (BOS)"
+17 "Boston MA (BOS)"
+21 "Morristown NJ (MMU)"
+17 "Boston MA (BOS)"
+17 "Boston MA (BOS)"
+17 "Boston MA (BOS)"
+21 "Morristown NJ (MMU)"
+18 "Atlanta GA (ATL)"
+18 "Atlanta GA (ATL)"
+18 "Atlanta GA (ATL)"
+18 "Atlanta GA (ATL)"
+21 "Washington DC (DCA)"
+18 "Atlanta GA (ATL)"
+21 "Washington DC (DCA)"
+18 "Atlanta GA (ATL)"
+21 "Washington DC (IAD)"
+18 "Atlanta GA (ATL)"
+18 "Atlanta GA (ATL)"
+18 "Atlanta GA (ATL)"
+18 "Atlanta GA (ATL)"
+21 "Washington DC (IAD)"
+18 "Atlanta GA (ATL)"
+18 "Atlanta GA (ATL)"
+
+datetime:date
+1336
+9 6/13/2005
+9 6/13/2005
+9 6/12/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/12/2005
+9 6/13/2005
+9 6/12/2005
+9 6/12/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/14/2005
+9 6/14/2005
+9 6/12/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/12/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/12/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/12/2005
+9 6/13/2005
+9 6/13/2005
+9 6/12/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/12/2005
+9 6/13/2005
+9 6/12/2005
+9 6/12/2005
+9 6/13/2005
+9 6/12/2005
+9 6/13/2005
+9 6/13/2005
+9 6/12/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/12/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/14/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/14/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/12/2005
+9 6/13/2005
+9 6/12/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/12/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/12/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/12/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/12/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/12/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/14/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/14/2005
+9 6/14/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/12/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/14/2005
+9 6/14/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/12/2005
+9 6/12/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/12/2005
+9 6/12/2005
+9 6/12/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/12/2005
+9 6/13/2005
+9 6/14/2005
+9 6/14/2005
+9 6/13/2005
+9 6/12/2005
+9 6/13/2005
+9 6/12/2005
+9 6/12/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/14/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/14/2005
+9 6/14/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/12/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/14/2005
+9 6/14/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/14/2005
+9 6/13/2005
+9 6/14/2005
+9 6/13/2005
+9 6/12/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/14/2005
+9 6/14/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/12/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/12/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/14/2005
+9 6/14/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/12/2005
+9 6/13/2005
+9 6/13/2005
+9 6/14/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/12/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/14/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+9 6/13/2005
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+
+datetime:time
+1336
+7 7:01 AM
+7 2:06 PM
+7 9:20 PM
+7 8:07 AM
+7 9:33 AM
+7 6:53 AM
+7 9:39 PM
+8 11:50 AM
+7 9:27 PM
+7 9:09 PM
+8 10:26 AM
+7 8:45 AM
+7 1:42 PM
+7 8:08 AM
+7 6:13 AM
+8 12:50 PM
+8 11:07 AM
+8 12:03 PM
+8 10:25 AM
+7 2:59 PM
+7 9:42 PM
+7 7:48 PM
+8 10:15 PM
+8 12:59 PM
+8 12:59 PM
+7 6:24 AM
+8 11:02 AM
+7 8:05 AM
+7 8:05 AM
+8 10:49 PM
+7 4:52 AM
+7 3:40 PM
+8 10:37 PM
+8 11:51 AM
+7 8:56 AM
+7 9:01 PM
+8 10:26 AM
+7 8:45 AM
+7 9:10 AM
+7 6:11 AM
+8 10:15 AM
+8 10:17 PM
+7 9:14 PM
+7 7:15 AM
+7 7:26 AM
+7 6:44 PM
+8 11:55 AM
+8 12:19 PM
+7 6:35 AM
+7 1:44 PM
+7 3:36 PM
+7 3:36 PM
+7 8:06 PM
+7 1:48 PM
+7 5:45 PM
+7 7:47 PM
+7 6:25 AM
+7 3:40 PM
+7 2:54 PM
+7 8:25 AM
+7 5:50 PM
+7 2:32 PM
+7 3:35 PM
+7 9:23 AM
+7 7:11 AM
+7 4:32 PM
+7 1:07 PM
+8 12:24 PM
+7 9:42 AM
+7 7:40 PM
+7 5:42 PM
+7 7:20 PM
+8 12:25 PM
+7 1:58 PM
+7 1:58 PM
+8 11:23 PM
+7 1:13 AM
+8 11:23 PM
+7 6:59 PM
+7 7:20 AM
+8 10:47 PM
+8 10:58 AM
+7 2:53 PM
+8 10:51 PM
+7 2:11 PM
+7 4:41 PM
+7 6:44 PM
+7 6:44 PM
+8 10:08 AM
+8 10:08 AM
+7 5:35 PM
+7 1:46 PM
+7 1:46 PM
+7 9:12 AM
+7 7:14 AM
+7 1:43 PM
+7 8:08 PM
+7 9:15 AM
+7 6:48 AM
+7 1:36 PM
+7 7:31 AM
+7 5:32 PM
+7 1:07 PM
+7 1:07 PM
+8 11:27 AM
+7 8:46 AM
+7 4:26 PM
+7 4:26 PM
+7 3:18 PM
+8 11:55 AM
+7 8:11 AM
+7 1:19 PM
+7 9:43 AM
+7 6:20 AM
+8 11:09 AM
+7 5:04 PM
+7 2:52 PM
+7 5:55 PM
+7 5:55 PM
+7 9:15 AM
+7 6:57 AM
+7 7:10 AM
+7 9:11 PM
+8 11:06 AM
+7 4:29 PM
+7 3:14 PM
+7 1:41 PM
+7 3:33 PM
+7 8:17 AM
+8 12:35 PM
+8 12:35 PM
+8 11:48 AM
+8 10:53 AM
+7 7:16 AM
+7 4:59 PM
+7 7:23 AM
+7 8:03 AM
+7 6:37 AM
+8 10:18 AM
+7 8:54 AM
+8 12:59 PM
+7 6:42 AM
+7 2:22 PM
+8 10:07 AM
+7 7:07 AM
+7 4:00 PM
+7 2:33 PM
+7 1:14 PM
+8 11:44 AM
+7 5:21 PM
+7 3:47 PM
+8 10:40 AM
+7 8:54 AM
+8 12:16 PM
+7 9:37 AM
+7 9:37 AM
+7 4:13 PM
+7 4:13 PM
+7 2:10 PM
+7 3:58 PM
+8 11:23 AM
+8 11:23 AM
+7 8:43 AM
+7 8:47 AM
+7 6:28 PM
+7 9:15 AM
+7 6:48 AM
+8 11:27 AM
+7 8:46 AM
+7 1:36 PM
+7 7:31 AM
+7 5:32 PM
+7 3:18 PM
+7 4:26 PM
+7 4:26 PM
+7 1:07 PM
+7 1:07 PM
+8 11:55 AM
+7 8:11 AM
+7 9:43 AM
+7 6:20 AM
+7 5:04 PM
+8 11:09 AM
+7 2:52 PM
+7 5:55 PM
+7 5:55 PM
+7 1:19 PM
+7 3:22 PM
+7 8:25 AM
+7 7:50 PM
+7 4:51 PM
+7 3:22 PM
+7 8:25 AM
+7 3:43 PM
+8 12:29 PM
+7 9:30 AM
+7 9:30 AM
+7 9:45 AM
+7 5:18 PM
+7 4:10 PM
+7 9:31 AM
+7 1:43 PM
+7 7:18 AM
+7 5:02 PM
+7 1:06 PM
+7 7:04 PM
+7 8:59 AM
+7 6:25 AM
+8 11:31 AM
+7 6:13 AM
+7 7:34 AM
+7 1:12 AM
+8 10:37 AM
+7 2:25 PM
+7 6:23 AM
+8 12:16 PM
+8 12:16 PM
+7 2:13 PM
+7 2:13 PM
+7 3:11 PM
+7 4:46 PM
+7 4:46 PM
+7 8:13 AM
+7 4:52 PM
+7 4:52 PM
+7 6:54 PM
+7 6:02 PM
+7 3:44 PM
+8 10:37 PM
+7 8:06 PM
+7 6:25 AM
+7 9:01 PM
+7 1:48 PM
+8 11:51 AM
+7 8:56 AM
+8 12:19 PM
+7 6:35 AM
+7 6:44 PM
+7 7:47 PM
+7 3:40 PM
+8 10:26 AM
+7 8:45 AM
+7 9:10 AM
+7 6:11 AM
+8 10:17 PM
+7 9:14 PM
+7 7:15 AM
+7 7:26 AM
+7 2:54 PM
+8 11:55 AM
+7 5:45 PM
+7 1:44 PM
+7 3:36 PM
+7 3:36 PM
+8 10:15 AM
+7 1:38 PM
+7 1:38 PM
+8 10:33 AM
+8 10:33 AM
+7 3:59 PM
+7 1:53 PM
+8 12:15 PM
+8 11:15 AM
+7 8:29 AM
+7 6:54 AM
+7 6:05 PM
+7 9:37 PM
+7 6:20 PM
+7 7:30 AM
+8 11:41 AM
+8 10:10 AM
+8 10:06 AM
+7 8:35 AM
+7 7:34 PM
+7 6:00 PM
+7 4:25 PM
+7 4:44 PM
+7 2:18 PM
+8 12:38 PM
+7 4:50 PM
+7 3:25 PM
+7 1:50 PM
+8 11:02 AM
+7 8:46 AM
+7 6:55 AM
+7 7:52 PM
+7 7:16 PM
+7 7:16 PM
+8 10:57 AM
+7 8:23 PM
+8 10:31 AM
+7 6:22 AM
+8 12:39 PM
+7 8:54 AM
+7 6:48 AM
+8 11:34 PM
+7 1:16 PM
+7 6:55 PM
+7 1:16 PM
+7 9:31 AM
+7 9:31 AM
+7 4:07 PM
+8 12:25 PM
+7 4:17 PM
+7 4:17 PM
+8 11:32 AM
+7 5:47 PM
+7 5:47 PM
+7 9:51 AM
+7 5:21 PM
+7 1:52 PM
+7 9:09 AM
+7 8:20 AM
+7 5:55 PM
+7 6:09 AM
+7 2:42 PM
+8 11:23 AM
+7 5:30 PM
+7 2:16 PM
+7 5:47 PM
+7 3:17 PM
+7 8:39 AM
+7 2:57 PM
+7 9:35 AM
+7 2:57 PM
+7 9:35 AM
+7 5:19 PM
+7 5:19 PM
+7 7:27 AM
+8 12:25 PM
+8 10:01 AM
+7 8:21 AM
+8 11:32 AM
+7 7:05 PM
+7 7:05 PM
+7 9:00 AM
+7 6:54 AM
+7 5:13 PM
+7 2:15 PM
+7 7:33 PM
+8 11:07 AM
+8 11:07 AM
+7 6:09 AM
+7 6:09 AM
+7 2:18 PM
+7 2:18 PM
+7 7:31 PM
+7 7:31 PM
+8 12:39 PM
+7 8:54 AM
+7 6:48 AM
+8 10:57 AM
+8 10:31 AM
+7 6:22 AM
+7 8:23 PM
+8 11:49 AM
+7 5:50 PM
+8 11:41 AM
+7 8:37 AM
+7 4:34 PM
+7 4:34 PM
+7 5:18 PM
+7 2:39 PM
+8 12:38 PM
+7 1:02 PM
+7 7:05 AM
+7 4:21 PM
+8 10:23 AM
+7 3:05 PM
+7 8:09 AM
+8 11:54 AM
+8 11:54 AM
+7 5:56 PM
+7 5:56 PM
+7 3:45 PM
+7 3:45 PM
+7 7:09 AM
+7 4:57 PM
+7 6:45 PM
+7 9:24 AM
+8 12:12 PM
+7 6:38 PM
+7 7:52 PM
+7 7:26 AM
+7 9:04 AM
+7 6:04 PM
+7 1:06 PM
+7 9:09 AM
+7 9:46 AM
+7 1:06 PM
+7 9:09 AM
+7 9:46 AM
+7 6:14 PM
+7 7:09 AM
+7 3:34 PM
+8 10:40 AM
+7 6:51 PM
+7 7:00 AM
+7 1:53 PM
+7 1:53 PM
+7 3:46 PM
+7 6:14 PM
+7 5:34 PM
+7 3:01 PM
+7 1:38 PM
+7 8:55 PM
+7 9:39 PM
+7 9:20 PM
+8 11:50 AM
+7 6:53 AM
+7 9:33 AM
+7 8:07 AM
+7 4:20 PM
+8 11:12 PM
+7 9:49 AM
+7 5:05 AM
+7 6:17 AM
+7 3:13 PM
+7 9:27 PM
+7 4:52 AM
+8 10:49 PM
+7 9:09 PM
+7 1:42 PM
+7 8:08 AM
+7 6:13 AM
+8 12:50 PM
+8 11:07 AM
+7 3:40 PM
+8 10:26 AM
+7 8:45 AM
+8 12:03 PM
+8 10:25 AM
+7 2:23 PM
+7 2:59 PM
+7 9:42 PM
+7 7:48 PM
+7 6:24 AM
+8 10:15 PM
+8 12:59 PM
+8 12:59 PM
+8 11:02 AM
+7 8:05 AM
+7 8:05 AM
+7 9:16 AM
+7 6:17 AM
+8 12:27 PM
+7 3:58 PM
+7 1:42 PM
+8 12:02 PM
+7 7:49 AM
+7 7:01 AM
+7 6:56 PM
+7 6:56 PM
+7 2:06 PM
+7 7:04 AM
+7 7:09 AM
+7 5:36 PM
+7 3:37 PM
+7 1:49 PM
+7 9:43 AM
+7 9:43 AM
+7 1:36 PM
+7 6:49 PM
+7 5:05 PM
+8 11:15 AM
+7 9:29 AM
+7 9:29 AM
+8 11:36 PM
+7 6:55 AM
+7 8:16 AM
+8 12:15 PM
+8 12:15 PM
+8 12:17 PM
+8 12:17 PM
+7 5:48 PM
+7 5:48 PM
+7 6:30 PM
+7 8:18 PM
+7 8:18 PM
+7 9:37 AM
+7 6:15 PM
+7 1:09 PM
+8 10:05 AM
+8 10:41 AM
+8 10:05 AM
+8 10:41 AM
+8 10:08 PM
+7 1:13 PM
+7 2:37 PM
+7 2:37 PM
+7 9:25 AM
+7 9:25 AM
+8 10:02 AM
+8 10:02 AM
+7 2:26 PM
+7 7:58 AM
+8 11:13 AM
+8 12:53 PM
+7 7:58 AM
+8 11:13 AM
+8 12:53 PM
+8 10:55 AM
+8 10:55 AM
+7 5:46 PM
+7 1:53 PM
+7 7:41 AM
+8 12:49 AM
+7 1:53 PM
+7 4:44 PM
+7 4:44 PM
+7 6:45 AM
+8 12:41 PM
+8 10:15 AM
+8 11:59 PM
+7 8:44 AM
+7 4:00 PM
+7 9:09 AM
+7 6:38 AM
+7 5:21 PM
+7 8:43 AM
+8 12:18 PM
+8 11:42 PM
+7 8:45 AM
+7 7:22 AM
+7 2:52 PM
+7 2:52 PM
+7 6:44 AM
+8 12:17 PM
+8 12:17 PM
+8 10:49 AM
+8 10:49 AM
+7 9:25 AM
+7 8:51 AM
+7 7:41 PM
+7 7:41 PM
+8 12:11 PM
+7 9:46 AM
+7 5:00 PM
+7 5:00 PM
+7 8:08 AM
+7 7:06 PM
+7 2:46 PM
+7 4:38 PM
+7 1:39 PM
+7 9:43 AM
+7 6:27 PM
+7 6:02 PM
+7 4:37 PM
+8 11:11 AM
+7 7:20 AM
+7 7:55 AM
+7 9:23 AM
+7 9:23 AM
+7 6:05 PM
+7 8:05 AM
+7 7:26 PM
+7 6:26 PM
+8 10:39 AM
+8 10:39 AM
+8 12:46 PM
+8 12:46 PM
+7 2:12 PM
+7 4:55 PM
+7 7:27 PM
+7 5:31 PM
+8 10:12 AM
+7 8:32 AM
+7 1:30 PM
+8 11:19 AM
+7 8:10 AM
+7 6:06 AM
+7 9:22 AM
+7 7:15 AM
+7 1:13 PM
+7 9:23 AM
+8 10:32 PM
+7 5:23 PM
+7 8:32 PM
+7 9:14 AM
+7 5:26 PM
+7 5:33 PM
+7 4:46 PM
+7 2:00 PM
+8 11:46 AM
+7 7:09 AM
+8 10:37 AM
+7 6:34 AM
+7 2:39 PM
+7 7:00 AM
+7 3:14 PM
+7 4:01 PM
+7 5:23 PM
+7 8:17 AM
+7 6:06 AM
+7 7:49 PM
+7 4:36 PM
+7 9:08 AM
+7 7:07 AM
+7 2:13 PM
+8 11:26 AM
+7 4:14 PM
+7 2:55 PM
+7 9:48 AM
+7 6:22 PM
+7 3:58 PM
+8 11:08 AM
+7 8:37 AM
+7 4:52 PM
+7 4:02 PM
+7 2:06 PM
+7 7:57 PM
+7 8:05 PM
+7 5:47 PM
+7 8:22 PM
+8 11:59 AM
+8 11:59 AM
+7 1:49 PM
+7 2:52 PM
+8 12:59 PM
+8 10:50 AM
+8 10:50 AM
+7 4:45 PM
+7 9:10 AM
+7 9:10 AM
+7 4:38 AM
+8 11:40 AM
+8 12:54 PM
+8 12:54 PM
+7 6:47 AM
+7 6:47 AM
+7 6:37 PM
+7 4:51 PM
+7 5:00 PM
+7 5:00 PM
+7 6:37 AM
+8 11:40 AM
+7 6:37 PM
+7 4:51 PM
+7 6:39 PM
+7 6:39 PM
+7 5:57 PM
+7 9:56 AM
+7 6:58 PM
+7 3:22 PM
+7 5:57 PM
+7 9:31 AM
+7 3:51 PM
+7 9:31 AM
+7 5:34 AM
+8 10:52 AM
+7 1:00 PM
+8 10:52 AM
+8 10:49 AM
+7 6:32 PM
+7 1:53 PM
+7 8:19 AM
+7 1:53 PM
+7 5:38 PM
+7 6:32 PM
+7 6:13 AM
+7 5:36 PM
+7 9:46 AM
+7 5:01 PM
+8 11:28 PM
+8 10:20 AM
+8 11:42 AM
+7 9:06 AM
+8 11:47 PM
+7 1:59 PM
+8 10:17 PM
+7 1:20 AM
+8 10:36 PM
+8 10:29 PM
+7 9:50 AM
+7 2:43 PM
+7 9:32 AM
+7 3:34 PM
+8 12:40 PM
+7 7:01 AM
+7 5:42 PM
+8 12:00 PM
+8 12:52 PM
+8 11:40 AM
+7 3:47 PM
+7 2:04 AM
+7 8:36 PM
+8 11:15 PM
+8 11:04 AM
+8 11:04 AM
+7 7:34 AM
+8 12:15 PM
+8 12:59 AM
+8 12:59 AM
+8 10:36 PM
+7 1:20 AM
+8 11:39 PM
+7 5:41 AM
+7 5:28 PM
+7 9:50 AM
+8 11:34 PM
+7 4:06 PM
+8 10:30 AM
+8 10:37 PM
+7 2:43 PM
+7 9:32 AM
+7 4:48 PM
+7 7:46 AM
+8 11:56 AM
+8 11:30 PM
+8 10:47 PM
+7 8:49 AM
+7 9:05 AM
+7 8:33 PM
+7 1:31 PM
+7 1:54 PM
+8 10:58 AM
+7 3:21 PM
+7 5:24 PM
+7 5:24 PM
+7 9:39 PM
+7 3:24 PM
+7 7:34 PM
+7 9:42 PM
+7 8:05 AM
+7 5:28 PM
+7 3:42 PM
+7 8:22 AM
+7 5:47 PM
+7 2:57 PM
+7 4:13 PM
+8 10:54 AM
+7 7:51 AM
+7 4:19 PM
+7 1:46 PM
+8 12:40 PM
+8 10:21 AM
+7 8:32 PM
+7 6:18 PM
+7 8:06 PM
+7 6:43 PM
+8 12:55 PM
+8 12:55 PM
+7 9:34 PM
+7 7:34 AM
+7 9:34 PM
+7 1:12 AM
+7 8:27 AM
+7 5:15 AM
+7 5:20 PM
+7 9:18 PM
+7 5:17 AM
+7 2:40 PM
+7 5:12 PM
+8 10:48 AM
+8 10:48 AM
+7 7:34 AM
+7 7:34 AM
+7 6:51 PM
+8 12:44 PM
+8 12:44 PM
+8 10:21 AM
+7 8:14 AM
+7 2:53 PM
+7 9:24 PM
+8 11:05 AM
+7 7:50 AM
+7 3:39 PM
+8 11:49 AM
+7 7:24 PM
+7 8:43 AM
+7 8:43 AM
+7 1:12 PM
+8 10:09 AM
+7 1:00 PM
+7 1:00 PM
+7 5:25 PM
+8 12:44 PM
+8 10:03 AM
+7 3:16 PM
+8 10:42 AM
+7 8:14 AM
+8 12:53 PM
+7 7:14 PM
+7 4:53 PM
+7 4:03 PM
+7 4:03 PM
+7 3:46 PM
+7 8:17 AM
+7 3:04 PM
+7 5:14 AM
+7 7:04 PM
+8 11:12 PM
+7 3:58 PM
+7 2:38 PM
+7 4:20 PM
+7 9:07 AM
+8 11:39 AM
+8 11:39 AM
+7 1:03 PM
+8 11:40 AM
+7 8:31 AM
+7 6:16 PM
+8 10:23 AM
+8 11:03 AM
+7 7:13 AM
+7 1:17 PM
+7 9:43 AM
+7 4:03 PM
+8 11:34 AM
+7 5:31 PM
+7 1:22 PM
+7 9:26 AM
+7 7:13 PM
+7 3:15 PM
+7 1:46 PM
+8 12:23 PM
+7 8:23 PM
+7 4:37 PM
+7 2:57 PM
+8 10:00 AM
+7 7:16 PM
+7 2:47 PM
+7 2:47 PM
+7 3:57 PM
+7 5:49 PM
+8 10:17 AM
+8 10:17 AM
+8 11:06 AM
+8 11:04 AM
+7 8:50 PM
+8 11:05 AM
+7 7:50 AM
+7 1:12 PM
+8 10:09 AM
+7 3:39 PM
+8 11:49 AM
+7 7:24 PM
+7 5:25 PM
+7 1:00 PM
+7 1:00 PM
+7 8:43 AM
+7 8:43 AM
+8 12:44 PM
+8 10:03 AM
+8 10:42 AM
+7 8:14 AM
+7 7:14 PM
+8 12:53 PM
+7 4:53 PM
+7 4:03 PM
+7 4:03 PM
+7 3:16 PM
+7 2:40 PM
+7 6:57 AM
+7 9:00 PM
+7 6:01 PM
+7 2:40 PM
+7 6:57 AM
+7 5:39 PM
+7 2:21 PM
+7 7:58 AM
+7 7:58 AM
+8 11:37 AM
+7 7:22 PM
+7 7:51 PM
+7 2:29 PM
+7 5:11 PM
+8 12:20 PM
+7 8:31 PM
+7 3:14 PM
+8 10:23 PM
+7 5:26 PM
+7 9:35 AM
+7 2:51 PM
+7 9:11 AM
+8 10:52 AM
+7 6:04 AM
+8 11:26 AM
+7 3:23 PM
+7 7:16 AM
+8 12:46 PM
+8 12:46 PM
+7 9:23 AM
+7 9:23 AM
+7 4:00 PM
+8 11:19 AM
+8 11:19 AM
+7 9:05 AM
+8 10:21 PM
+8 10:21 PM
+7 7:49 PM
+7 8:32 PM
+7 4:32 PM
+8 11:34 PM
+7 9:39 PM
+7 8:05 AM
+8 10:37 PM
+7 3:24 PM
+7 4:06 PM
+8 10:30 AM
+7 1:54 PM
+8 10:58 AM
+7 8:33 PM
+7 9:42 PM
+7 5:28 PM
+7 2:43 PM
+7 9:32 AM
+7 4:48 PM
+7 7:46 AM
+8 11:30 PM
+8 10:47 PM
+7 8:49 AM
+7 9:05 AM
+7 3:42 PM
+7 1:31 PM
+7 7:34 PM
+7 3:21 PM
+7 5:24 PM
+7 5:24 PM
+8 11:56 AM
+8 11:48 AM
+8 11:48 AM
+7 8:56 AM
+7 8:56 AM
+7 5:31 PM
+7 3:10 PM
+7 1:01 PM
+8 12:01 PM
+7 9:41 AM
+7 7:35 AM
+7 7:32 PM
+8 10:53 PM
+7 7:38 PM
+7 8:43 AM
+7 1:28 PM
+8 10:51 AM
+8 12:04 PM
+7 9:14 AM
+7 8:49 PM
+7 6:36 PM
+7 5:05 PM
+7 5:08 PM
+7 3:56 PM
+7 1:18 PM
+7 6:04 PM
+7 4:00 PM
+7 2:31 PM
+8 11:58 AM
+8 10:28 AM
+7 7:46 AM
+7 9:36 PM
+7 7:59 PM
+7 7:58 PM
+7 2:15 PM
+8 11:34 PM
+7 1:42 PM
+7 9:17 AM
+7 3:45 PM
+8 11:23 AM
+7 7:50 AM
+8 11:46 PM
+8 11:30 AM
+7 7:47 PM
+8 11:30 AM
+7 8:35 AM
+7 8:35 AM
+7 4:15 PM
+8 12:46 PM
+7 2:51 PM
+7 2:51 PM
+8 11:45 AM
+7 4:14 PM
+7 4:14 PM
+8 10:03 AM
+7 5:33 PM
+7 2:09 PM
+8 10:44 AM
+7 9:50 AM
+7 7:32 PM
+7 7:47 AM
+7 3:35 PM
+7 1:00 PM
+7 7:01 PM
+7 3:55 PM
+7 7:21 PM
+7 4:36 PM
+7 9:56 AM
+7 1:47 PM
+7 8:10 AM
+7 1:47 PM
+7 8:10 AM
+7 2:21 PM
+7 2:21 PM
+7 8:45 AM
+7 1:37 PM
+8 10:49 AM
+7 9:03 AM
+8 12:45 PM
+7 6:23 PM
+7 6:23 PM
+8 10:17 AM
+7 7:05 AM
+7 6:24 PM
+7 3:59 PM
+7 8:49 PM
+7 7:20 PM
+7 7:20 PM
+7 9:41 AM
+7 9:41 AM
+7 8:21 AM
+7 8:21 AM
+8 12:57 PM
+8 12:57 PM
+7 5:58 PM
+7 5:58 PM
+7 3:45 PM
+8 11:23 AM
+7 7:50 AM
+7 2:15 PM
+7 1:42 PM
+7 9:17 AM
+8 11:34 PM
+7 1:10 PM
+7 7:00 PM
+7 2:12 PM
+7 2:12 PM
+8 12:01 PM
+7 9:52 AM
+7 2:52 PM
+7 2:52 PM
+7 5:30 PM
+7 3:48 PM
+7 5:07 PM
+7 1:36 PM
+8 11:35 AM
+7 4:58 PM
+7 3:01 PM
+7 7:48 PM
+8 12:39 PM
+7 1:47 AM
+7 1:47 AM
+7 1:53 PM
+7 1:53 PM
+7 2:29 PM
+7 2:29 PM
+7 9:23 AM
+7 7:17 PM
+7 9:08 PM
+8 11:38 AM
+7 2:31 PM
+7 8:45 PM
+8 10:08 PM
+7 9:40 AM
+8 11:07 AM
+7 8:14 PM
+7 3:14 PM
+8 12:26 PM
+8 11:05 AM
+7 3:14 PM
+8 12:26 PM
+8 11:05 AM
+7 8:26 PM
+7 9:20 AM
+7 5:41 PM
+8 12:31 PM
+7 8:44 PM
+7 8:42 AM
+7 1:10 PM
+7 1:10 PM
+7 5:35 PM
+7 7:59 PM
+7 5:26 PM
+7 4:40 PM
+7 2:07 PM
+7 9:58 PM
+8 11:47 PM
+8 11:28 PM
+7 1:59 PM
+7 9:06 AM
+8 11:42 AM
+8 10:20 AM
+7 5:36 PM
+8 12:50 AM
+8 11:09 AM
+7 6:35 AM
+7 7:47 AM
+7 4:28 PM
+7 1:20 AM
+7 1:20 AM
+7 9:50 AM
+7 9:50 AM
+8 10:17 PM
+8 10:36 PM
+8 10:36 PM
+7 5:41 AM
+8 11:39 PM
+8 10:29 PM
+7 3:36 PM
+8 12:40 PM
+7 7:01 AM
+7 5:52 PM
+8 12:00 PM
+7 5:28 PM
+7 2:43 PM
+7 9:32 AM
+8 12:52 PM
+8 11:40 AM
+7 3:05 PM
+7 3:47 PM
+7 2:04 AM
+7 8:36 PM
+7 7:34 AM
+8 11:15 PM
+8 11:04 AM
+8 11:04 AM
+8 12:15 PM
+8 12:59 AM
+8 12:59 AM
+8 11:47 AM
+7 7:51 AM
+7 3:04 PM
+7 6:24 PM
+7 2:09 PM
+8 11:15 AM
+8 10:19 AM
+7 9:46 AM
+7 2:39 PM
+7 2:39 PM
+7 5:01 PM
+7 9:04 AM
+7 9:05 AM
+7 7:39 PM
+7 5:33 PM
+7 2:39 PM
+7 8:39 AM
+7 8:39 AM
+7 3:32 PM
+7 8:38 PM
+7 6:20 PM
+7 1:13 PM
+7 7:59 AM
+7 7:59 AM
+7 1:26 AM
+7 8:47 AM
+8 10:18 AM
+8 10:53 AM
+8 10:53 AM
+8 12:48 PM
+8 12:48 PM
+7 2:35 PM
+7 2:35 PM
+7 8:28 PM
+7 6:47 PM
+7 6:47 PM
+8 11:58 AM
+7 8:34 PM
+7 2:33 PM
+8 10:05 AM
+8 12:47 PM
+8 10:05 AM
+8 12:47 PM
+7 6:10 AM
+7 9:14 PM
+8 10:46 PM
+8 10:46 PM
+7 7:36 AM
+7 7:36 AM
+7 8:18 AM
+7 8:18 AM
+7 3:31 PM
+7 9:10 AM
+8 10:02 AM
+8 11:10 AM
+7 9:10 AM
+8 10:02 AM
+8 11:10 AM
+7 1:40 PM
+7 1:40 PM
+7 6:54 PM
+7 8:45 AM
+8 10:32 AM
+7 6:14 AM
+7 8:45 AM
+7 3:41 PM
+7 3:41 PM
+8 12:12 PM
+7 5:47 PM
+7 3:22 PM
+7 5:10 AM
+7 1:58 PM
+7 9:08 PM
+7 4:41 PM
+7 7:37 AM
+7 6:10 PM
+7 4:07 PM
+7 8:10 PM
+7 6:59 AM
+8 11:18 AM
+7 9:49 AM
+7 3:49 PM
+7 3:49 PM
+7 7:26 AM
+7 6:31 AM
+7 6:31 AM
+7 7:08 AM
+7 7:08 AM
+8 10:08 AM
+7 9:34 AM
+7 4:21 PM
+7 4:21 PM
+8 12:53 PM
+8 10:28 AM
+7 5:00 PM
+7 5:00 PM
+7 8:50 AM
+7 7:45 PM
+7 3:29 PM
+7 5:12 PM
+7 2:24 PM
+8 11:15 AM
+7 7:06 PM
+7 6:39 PM
+7 3:41 PM
+8 11:53 AM
+8 10:23 AM
+7 8:58 AM
+7 8:28 AM
+7 8:28 AM
+7 6:55 PM
+7 2:19 PM
+7 8:40 PM
+7 7:22 PM
+8 10:15 AM
+8 10:15 AM
+8 11:38 AM
+8 11:38 AM
+7 3:07 PM
+7 6:03 PM
+7 8:35 PM
+7 6:32 PM
+8 12:46 PM
+7 9:25 AM
+7 4:00 PM
+8 12:20 PM
+8 10:37 AM
+7 7:03 AM
+8 11:18 AM
+7 8:08 AM
+7 3:01 PM
+8 10:17 AM
+8 11:24 PM
+7 6:24 PM
+8 10:13 PM
+8 10:11 AM
+7 6:20 PM
+7 8:30 PM
+7 5:36 PM
+7 2:54 PM
+8 12:49 PM
+7 8:05 AM
+8 11:33 AM
+7 9:17 AM
+7 3:43 PM
+8 12:22 PM
+7 4:10 PM
+7 4:57 PM
+7 6:22 PM
+8 10:31 AM
+7 7:02 AM
+7 8:32 PM
+7 5:36 PM
+8 11:44 AM
+7 8:03 AM
+7 4:52 PM
+8 12:30 PM
+7 6:55 PM
+7 3:51 PM
+8 10:41 AM
+7 9:11 PM
+7 4:55 PM
+7 1:42 PM
+7 9:32 AM
+7 5:43 PM
+7 6:22 PM
+7 3:00 PM
+7 8:51 PM
+7 9:31 PM
+7 6:46 PM
+7 9:40 PM
+8 11:11 AM
+8 11:11 AM
+7 3:38 PM
+7 4:44 PM
+7 2:44 PM
+8 10:05 AM
+8 10:05 AM
+7 6:43 PM
+7 7:33 AM
+7 7:33 AM
+7 6:26 AM
+7 8:13 AM
+8 10:22 AM
+8 10:22 AM
+7 7:49 AM
+7 7:49 AM
+8 11:05 AM
+7 4:49 PM
+8 11:46 AM
+8 11:46 AM
+7 8:12 AM
+7 8:13 AM
+8 11:05 AM
+7 4:49 PM
+7 2:03 PM
+7 2:03 PM
+7 7:24 AM
+8 11:28 AM
+7 8:27 PM
+7 4:46 PM
+7 7:24 AM
+7 8:35 AM
+7 6:08 PM
+7 8:35 AM
+7 7:44 AM
+7 9:25 AM
+7 3:17 PM
+7 9:25 AM
+7 1:09 PM
+7 4:59 PM
+7 4:18 PM
+8 10:36 AM
+7 4:18 PM
+7 8:01 PM
+7 4:59 PM
+7 8:35 AM
+7 7:58 PM
+
+flight:remainingtime
+1336
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:07
+4 0:00
+4 0:00
+4 2:14
+4 0:00
+4 0:00
+4 0:00
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 NULL
+4 NULL
+4 0:00
+4 0:00
+4 NULL
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 NULL
+4 0:00
+4 0:00
+4 0:00
+4 NULL
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 NULL
+4 NULL
+4 0:00
+4 0:00
+4 NULL
+4 0:00
+4 0:00
+4 NULL
+4 0:15
+4 0:00
+4 0:18
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 NULL
+4 0:00
+4 NULL
+4 0:14
+4 2:08
+4 2:08
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 2:49
+4 0:00
+4 0:00
+4 NULL
+15 00:27 (planned)
+15 00:27 (planned)
+4 0:00
+4 0:00
+4 NULL
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 NULL
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 NULL
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 1:04
+4 1:04
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 NULL
+4 0:00
+15 02:01 (planned)
+15 02:01 (planned)
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:34
+4 NULL
+4 0:28
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:43
+4 0:00
+4 0:00
+4 0:00
+4 1:53
+4 0:00
+4 0:00
+4 0:00
+4 0:46
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 NULL
+4 0:00
+4 NULL
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 NULL
+4 0:00
+4 1:03
+4 1:03
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 NULL
+4 0:00
+4 0:00
+17 01:50 (scheduled)
+17 01:50 (scheduled)
+4 0:00
+4 0:00
+4 0:00
+4 NULL
+4 NULL
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:51
+4 1:20
+4 0:00
+4 0:00
+4 0:00
+4 2:00
+4 0:00
+4 NULL
+4 0:00
+4 NULL
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:15
+4 0:15
+4 NULL
+4 NULL
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 NULL
+4 0:00
+4 NULL
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 NULL
+4 0:00
+4 0:00
+4 0:00
+4 0:12
+4 0:00
+4 NULL
+4 0:00
+4 NULL
+4 NULL
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 NULL
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 NULL
+4 0:00
+4 4:07
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 NULL
+4 NULL
+4 0:00
+4 NULL
+4 0:00
+4 0:00
+4 2:33
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 NULL
+4 NULL
+4 NULL
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 NULL
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:25
+4 0:25
+4 0:00
+4 0:02
+4 0:00
+4 0:00
+4 0:00
+4 NULL
+4 0:00
+4 0:03
+4 0:00
+4 NULL
+4 0:00
+4 2:49
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:03
+4 0:03
+4 0:00
+4 0:00
+4 0:00
+4 NULL
+4 0:00
+15 01:29 (planned)
+15 01:29 (planned)
+4 0:00
+4 0:00
+4 NULL
+4 0:00
+4 NULL
+4 0:00
+4 0:00
+17 01:32 (scheduled)
+17 01:32 (scheduled)
+4 0:00
+4 0:00
+17 01:13 (scheduled)
+17 01:13 (scheduled)
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 1:28
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:57
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 2:15
+4 0:00
+4 0:00
+4 0:00
+17 00:50 (scheduled)
+17 00:50 (scheduled)
+17 01:26 (scheduled)
+17 01:26 (scheduled)
+4 0:00
+4 3:45
+4 NULL
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 4:42
+4 0:00
+4 6:18
+4 0:00
+4 0:00
+4 6:18
+4 0:00
+4 4:53
+4 0:00
+4 2:08
+4 0:00
+4 NULL
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 NULL
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 NULL
+4 NULL
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:02
+4 0:00
+4 0:00
+4 2:18
+4 0:00
+4 NULL
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:31
+4 NULL
+4 NULL
+4 NULL
+4 0:00
+4 NULL
+4 0:00
+4 0:00
+4 0:00
+4 NULL
+4 NULL
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+15 01:57 (planned)
+15 01:57 (planned)
+4 0:00
+4 0:00
+4 0:00
+4 NULL
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 NULL
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+17 00:53 (scheduled)
+17 00:53 (scheduled)
+4 1:08
+4 1:08
+4 NULL
+4 NULL
+4 NULL
+4 0:00
+4 NULL
+4 0:00
+4 NULL
+4 0:00
+4 NULL
+4 0:00
+4 0:00
+4 NULL
+17 05:11 (scheduled)
+17 05:11 (scheduled)
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+17 08:24 (scheduled)
+17 08:24 (scheduled)
+4 0:20
+4 1:31
+4 0:00
+4 0:00
+4 1:31
+4 1:18
+4 1:18
+4 0:00
+4 0:14
+4 0:00
+4 0:00
+4 0:00
+4 NULL
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 1:35
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+17 00:49 (scheduled)
+17 00:49 (scheduled)
+4 0:00
+4 0:00
+4 0:25
+4 0:25
+4 0:00
+4 NULL
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:31
+4 0:05
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:21
+4 0:00
+4 NULL
+4 0:47
+17 02:37 (scheduled)
+17 02:37 (scheduled)
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 NULL
+4 NULL
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 NULL
+4 NULL
+4 0:00
+4 0:00
+4 0:45
+4 NULL
+4 0:01
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 NULL
+4 0:00
+4 0:00
+4 NULL
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 NULL
+4 0:00
+4 0:00
+4 NULL
+4 0:00
+4 0:00
+4 0:00
+4 0:07
+4 3:47
+4 0:00
+4 NULL
+4 NULL
+4 NULL
+4 0:00
+4 1:52
+4 1:52
+4 0:00
+4 0:00
+4 0:00
+4 1:52
+4 1:52
+4 0:07
+4 0:00
+4 0:00
+4 NULL
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+15 00:39 (planned)
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+15 00:39 (planned)
+4 0:00
+17 01:34 (scheduled)
+17 01:34 (scheduled)
+4 0:10
+4 0:00
+4 NULL
+4 0:00
+4 0:10
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+4 0:00
+17 01:28 (scheduled)
+4 0:00
+4 0:00
+4 0:00
+4 NULL
+17 01:28 (scheduled)
+4 0:00
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+
+flight:aircraft
+1336
+14 Boeing 737-800
+4 E135
+14 Boeing 737-400
+14 Boeing 737-400
+4 MD82
+14 Boeing 737-700
+4 MD83
+4 MD83
+18 Boeing 737 Stage 3
+18 Boeing 737 Stage 3
+14 Boeing 737-400
+14 Boeing 737-400
+14 Boeing 737-400
+14 Boeing 737-400
+14 Boeing 737-400
+14 Boeing 737-400
+14 Boeing 737-400
+18 Boeing 737 Stage 3
+18 Boeing 737 Stage 3
+14 Boeing 737-400
+16 Current Altitude
+16 Current Altitude
+16 Current Altitude
+47 Fokker F27 Friendship/Fairchild Industries F-27
+47 Fokker F27 Friendship/Fairchild Industries F-27
+10 Beech 1900
+10 Beech 1900
+16 Current Altitude
+16 Current Altitude
+18 Boeing 737 Stage 3
+4 MD82
+14 Boeing 737-400
+14 Boeing 737-400
+14 Boeing 737-400
+14 Boeing 737-400
+14 Boeing 737-400
+14 Boeing 737-400
+14 Boeing 737-400
+11 Airbus A319
+11 Airbus A319
+14 Boeing 737-300
+16 Current Altitude
+11 Airbus A320
+14 Boeing 757-200
+14 Boeing 737-300
+14 Boeing 737-300
+14 Boeing 737-500
+14 Boeing 737-400
+14 Boeing 737-400
+14 Boeing 737-300
+11 Airbus A319
+11 Airbus A319
+14 Boeing 737-400
+4 MD83
+14 Boeing 737-300
+14 Boeing 737-300
+14 Boeing 737-400
+14 Boeing 737-400
+14 Boeing 737-500
+4 J328
+4 J328
+16 Beech 19000 feet
+4 DC95
+4 DC93
+4 DC95
+4 DC93
+4 DC95
+4 DC95
+4 DC93
+4 DC93
+4 DC93
+4 DC93
+14 Boeing 727-200
+11 Airbus A319
+11 Airbus A319
+11 Airbus A320
+14 Boeing 757-200
+11 Airbus A320
+14 Boeing 727-200
+14 Boeing 757-200
+14 Boeing 757-200
+14 Boeing 757-200
+14 Boeing 757-200
+11 Airbus A319
+4 E135
+15 Embraer EMB-145
+15 Embraer EMB-145
+15 Embraer EMB-145
+15 Embraer EMB-145
+15 Embraer EMB-145
+14 Boeing 737-500
+15 Embraer EMB-145
+15 Embraer EMB-145
+15 Embraer EMB-145
+14 Boeing 737-500
+15 Embraer EMB-145
+4 E45X
+4 MD82
+4 MD82
+4 MD82
+4 MD82
+4 MD82
+18 Bombardier CRJ 700
+18 Bombardier CRJ 700
+14 Boeing 737-800
+14 Boeing 737-800
+15 Embraer EMB-145
+15 Embraer EMB-145
+13 AVRO/BAe RJ85
+4 DC93
+4 DC93
+4 DC93
+11 Airbus A319
+11 Airbus A319
+4 DC93
+11 Airbus A320
+14 Boeing 737-800
+14 Boeing 737-800
+14 Boeing 737-800
+14 Boeing 737-700
+14 Boeing 737-700
+11 Airbus A320
+11 Airbus A320
+11 Airbus A320
+14 Boeing 737-700
+14 Boeing 737-700
+14 Boeing 737-700
+15 Embraer EMB-145
+15 Embraer EMB-145
+15 Embraer EMB-145
+15 Embraer EMB-145
+29 Dehavilland Dash 8 + DHC8-100
+15 Embraer EMB-145
+29 Dehavilland Dash 8 + DHC8-100
+29 Dehavilland Dash 8 + DHC8-100
+4 MD82
+14 Boeing 737-300
+14 Boeing 737-300
+14 Boeing 737-700
+14 Boeing 737-700
+4 MD83
+4 MD83
+14 Boeing 737-300
+14 Boeing 737-300
+14 Boeing 737-300
+14 Boeing 737-300
+14 Boeing 737-300
+14 Boeing 737-300
+14 Boeing 737-300
+14 Boeing 737-300
+14 Boeing 737-300
+14 Boeing 737-300
+14 Boeing 737-300
+11 Airbus A319
+16 Current Altitude
+16 Current Altitude
+18 Bombardier CRJ 200
+18 Bombardier CRJ 200
+14 Boeing 767-300
+14 Boeing 767-300
+18 Bombardier CRJ 200
+18 Bombardier CRJ 200
+16 Current Altitude
+4 B739
+4 B739
+4 MD82
+4 MD82
+14 Boeing 737-800
+14 Boeing 737-800
+4 MD82
+4 MD82
+4 MD82
+13 AVRO/BAe RJ85
+15 Embraer EMB-145
+15 Embraer EMB-145
+18 Bombardier CRJ 700
+18 Bombardier CRJ 700
+4 DC93
+4 DC93
+11 Airbus A319
+11 Airbus A319
+11 Airbus A320
+4 DC93
+14 Boeing 737-800
+14 Boeing 737-800
+14 Boeing 737-800
+4 DC93
+4 J328
+4 J328
+16 Current Altitude
+10 Beech 1900
+4 J328
+4 J328
+18 Bombardier CRJ 700
+18 Bombardier CRJ 100
+14 Boeing 737-200
+14 Boeing 737-200
+18 Bombardier CRJ 700
+18 Bombardier CRJ 100
+14 Boeing 757-200
+14 Boeing 757-200
+14 Boeing 757-200
+14 Boeing 757-200
+11 Airbus A319
+11 Airbus A319
+14 Boeing 757-300
+14 Boeing 757-300
+16 Current Altitude
+11 Airbus A319
+11 Airbus A319
+14 Boeing 757-200
+14 Boeing 757-200
+18 Bombardier CRJ 200
+4 B463
+4 B462
+11 SAAB SF-340
+11 SAAB SF-340
+4 E135
+4 E135
+18 Bombardier CRJ 700
+11 SAAB SF-340
+11 SAAB SF-340
+18 Bombardier CRJ 700
+18 Bombardier CRJ 700
+18 Bombardier CRJ 700
+16 Current Altitude
+14 Boeing 737-300
+14 Boeing 737-300
+14 Boeing 737-400
+14 Boeing 737-400
+14 Boeing 737-400
+14 Boeing 737-400
+4 MD83
+14 Boeing 737-400
+14 Boeing 737-400
+14 Boeing 737-400
+14 Boeing 737-400
+14 Boeing 737-300
+14 Boeing 737-300
+14 Boeing 737-400
+14 Boeing 737-400
+14 Boeing 737-400
+11 Airbus A319
+11 Airbus A319
+16 Current Altitude
+11 Airbus A320
+14 Boeing 757-200
+14 Boeing 737-300
+14 Boeing 737-500
+14 Boeing 737-500
+14 Boeing 737-300
+14 Boeing 737-300
+11 Airbus A319
+11 Airbus A319
+14 Boeing 737-300
+14 Boeing 757-200
+14 Boeing 757-200
+11 Airbus A319
+11 Airbus A319
+14 Boeing 737-700
+14 Boeing 737-700
+14 Boeing 737-700
+14 Boeing 737-300
+14 Boeing 737-700
+14 Boeing 737-700
+11 Airbus A320
+14 Boeing 737-700
+14 Boeing 737-700
+14 Boeing 737-700
+14 Boeing 737-300
+14 Boeing 737-300
+14 Boeing 737-700
+14 Boeing 737-700
+14 Boeing 737-300
+14 Boeing 737-300
+14 Boeing 737-300
+14 Boeing 737-700
+14 Boeing 737-700
+14 Boeing 737-700
+14 Boeing 737-700
+14 Boeing 737-700
+14 Boeing 737-700
+14 Boeing 737-300
+14 Boeing 737-300
+14 Boeing 737-700
+14 Boeing 737-300
+14 Boeing 737-300
+14 Boeing 737-700
+11 Airbus A318
+11 Airbus A320
+11 Airbus A320
+11 Airbus A320
+11 Airbus A320
+11 Airbus A320
+11 Airbus A320
+18 Bombardier CRJ 700
+30 McDonnell Douglas MD-80 Series
+15 Embraer EMB-145
+30 McDonnell Douglas MD-80 Series
+18 Bombardier CRJ 200
+18 Bombardier CRJ 200
+15 Embraer EMB-145
+18 Bombardier CRJ 200
+30 McDonnell Douglas MD-80 Series
+30 McDonnell Douglas MD-80 Series
+15 Embraer EMB-145
+30 McDonnell Douglas MD-80 Series
+30 McDonnell Douglas MD-80 Series
+15 Embraer EMB-145
+15 Embraer EMB-145
+15 Embraer EMB-145
+11 Airbus A319
+14 Boeing 757-200
+11 Airbus A319
+11 Airbus A320
+14 Boeing 757-200
+14 Boeing 757-200
+14 Boeing 757-200
+14 Boeing 757-200
+14 Boeing 757-200
+15 Embraer EMB-145
+18 Bombardier CRJ 200
+18 Bombardier CRJ 200
+15 Embraer EMB-145
+18 Bombardier CRJ 200
+15 Embraer EMB-145
+13 AVRO/BAe RJ85
+13 AVRO/BAe RJ85
+11 Airbus A319
+4 DC93
+4 DC93
+16 Current Altitude
+4 DC95
+15 Embraer EMB-145
+15 Embraer EMB-145
+4 DC93
+4 DC93
+4 DC93
+4 DC93
+4 DC93
+11 Airbus A319
+11 Airbus A319
+16 Current Altitude
+16 Current Altitude
+11 Airbus A320
+11 Airbus A320
+11 Airbus A319
+11 Airbus A319
+11 Airbus A320
+11 Airbus A320
+11 Airbus A320
+11 Airbus A318
+11 Airbus A320
+11 Airbus A320
+11 Airbus A320
+18 Bombardier CRJ 200
+4 DC93
+4 DC93
+4 DC93
+11 Airbus A320
+11 Airbus A320
+4 DC93
+4 DC93
+4 MD82
+4 MD82
+4 MD82
+4 MD82
+4 MD82
+4 MD82
+4 MD82
+15 Embraer EMB-145
+15 Embraer EMB-145
+11 SAAB SF-340
+11 SAAB SF-340
+16 Current Altitude
+16 Current Altitude
+11 Airbus A320
+11 Airbus A320
+11 Airbus A320
+14 Boeing 757-200
+14 Boeing 757-200
+14 Boeing 757-200
+14 Boeing 737-700
+14 Boeing 737-800
+14 Boeing 757-300
+14 Boeing 757-200
+14 Boeing 757-200
+14 Boeing 757-200
+14 Boeing 757-200
+14 Boeing 757-200
+14 Boeing 757-200
+14 Boeing 757-200
+14 Boeing 757-200
+14 Boeing 757-200
+14 Boeing 757-200
+14 Boeing 757-200
+4 E135
+15 Embraer EMB-145
+15 Embraer EMB-145
+15 Embraer EMB-145
+15 Embraer EMB-145
+14 Boeing 737-700
+14 Boeing 737-700
+14 Boeing 737-700
+14 Boeing 737-700
+14 Boeing 737-700
+4 MD83
+14 Boeing 737-400
+4 MD83
+14 Boeing 737-700
+4 MD82
+14 Boeing 737-400
+14 Boeing 767-300
+18 Bombardier CRJ 100
+18 Bombardier CRJ 100
+16 Current Altitude
+16 Current Altitude
+14 Boeing 757-200
+18 Boeing 737 Stage 3
+4 MD82
+18 Boeing 737 Stage 3
+18 Boeing 737 Stage 3
+14 Boeing 737-400
+14 Boeing 737-400
+14 Boeing 737-400
+14 Boeing 737-400
+14 Boeing 737-400
+14 Boeing 737-400
+14 Boeing 737-400
+14 Boeing 737-400
+18 Boeing 737 Stage 3
+18 Boeing 737 Stage 3
+14 Boeing 737-400
+14 Boeing 737-400
+16 Current Altitude
+16 Current Altitude
+10 Beech 1900
+16 Current Altitude
+47 Fokker F27 Friendship/Fairchild Industries F-27
+47 Fokker F27 Friendship/Fairchild Industries F-27
+10 Beech 1900
+16 Current Altitude
+16 Current Altitude
+11 Airbus A319
+11 Airbus A319
+14 Boeing 737-800
+11 Airbus A319
+11 Airbus A319
+14 Boeing 737-800
+14 Boeing 737-800
+14 Boeing 737-800
+4 E135
+4 E135
+4 E135
+14 Boeing 737-300
+14 Boeing 737-700
+14 Boeing 737-700
+14 Boeing 737-700
+14 Boeing 737-700
+14 Boeing 717-200
+14 Boeing 717-200
+14 Boeing 737-700
+14 Boeing 737-700
+14 Boeing 737-700
+14 Boeing 737-300
+11 Airbus A321
+11 Airbus A321
+14 Boeing 757-200
+14 Boeing 757-200
+14 Boeing 757-200
+11 Airbus A321
+11 Airbus A321
+16 Current Altitude
+16 Current Altitude
+11 Airbus A320
+11 Airbus A320
+14 Boeing 757-200
+16 Current Altitude
+16 Current Altitude
+14 Boeing 737-300
+14 Boeing 737-300
+14 Boeing 777-200
+16 Current Altitude
+14 Boeing 757-200
+16 Current Altitude
+14 Boeing 757-200
+14 Boeing 767-300
+36 McDonnell Douglas DC-10 (all series)
+14 Boeing 767-300
+14 Boeing 767-300
+14 Boeing 757-200
+14 Boeing 757-200
+14 Boeing 757-200
+14 Boeing 757-200
+14 Boeing 757-200
+16 Current Altitude
+14 Boeing 757-200
+14 Boeing 757-200
+16 Current Altitude
+14 Boeing 757-200
+14 Boeing 757-200
+16 Current Altitude
+16 Current Altitude
+14 Boeing 757-200
+20 Dassault Falcon 2000
+14 Boeing 757-200
+14 Boeing 757-200
+20 Dassault Falcon 2000
+14 Boeing 737-800
+14 Boeing 737-800
+11 Airbus A320
+14 Boeing 757-200
+11 Airbus A320
+14 Boeing 737-800
+14 Boeing 757-200
+14 Boeing 757-200
+14 Boeing 757-200
+14 Boeing 757-200
+14 Boeing 737-700
+14 Boeing 737-700
+14 Boeing 737-700
+14 Boeing 757-200
+4 E45X
+4 E135
+4 E135
+4 E135
+14 Boeing 737-500
+4 E135
+4 E135
+4 E135
+4 E135
+4 E135
+14 Boeing 737-300
+4 E135
+4 E135
+14 Boeing 737-500
+14 Boeing 737-500
+15 Embraer EMB-145
+15 Embraer EMB-145
+14 Boeing 737-500
+14 Boeing 737-500
+14 Boeing 737-500
+14 Boeing 737-500
+14 Boeing 737-500
+14 Boeing 767-200
+14 Boeing 737-500
+14 Boeing 737-500
+14 Boeing 777-200
+14 Boeing 737-700
+14 Boeing 737-700
+4 E135
+18 Bombardier CRJ 200
+18 Bombardier CRJ 200
+14 Boeing 737-800
+14 Boeing 737-800
+15 Embraer EMB-145
+4 E135
+16 Current Altitude
+16 Current Altitude
+18 Bombardier CRJ 200
+18 Bombardier CRJ 200
+18 Bombardier CRJ 200
+18 Bombardier CRJ 100
+18 Bombardier CRJ 200
+18 Bombardier CRJ 200
+4 MD82
+4 MD82
+4 MD82
+4 MD82
+4 MD82
+4 MD82
+4 MD82
+4 MD82
+4 MD82
+4 MD82
+17 Airbus A300B4-600
+4 MD83
+4 MD82
+13 AVRO/BAe RJ85
+13 AVRO/BAe RJ85
+16 Current Altitude
+4 MD82
+4 MD83
+4 DC93
+11 Airbus A319
+4 DC93
+4 DC93
+14 Boeing 757-200
+14 Boeing 757-200
+4 DC93
+4 DC93
+4 DC93
+14 Boeing 737-500
+14 Boeing 737-500
+4 DC95
+4 DC93
+14 Boeing 737-500
+14 Boeing 737-500
+14 Boeing 737-500
+14 Boeing 737-300
+14 Boeing 737-500
+14 Boeing 737-500
+14 Boeing 737-500
+14 Boeing 757-200
+14 Boeing 757-200
+14 Boeing 737-300
+14 Boeing 737-500
+14 Boeing 737-300
+14 Boeing 757-200
+14 Boeing 757-200
+14 Boeing 737-300
+14 Boeing 737-500
+14 Boeing 737-500
+14 Boeing 737-500
+16 Current Altitude
+16 Current Altitude
+18 Bombardier CRJ 200
+18 Bombardier CRJ 100
+30 McDonnell Douglas MD-80 Series
+16 Current Altitude
+16 Current Altitude
+30 McDonnell Douglas MD-80 Series
+30 McDonnell Douglas MD-80 Series
+30 McDonnell Douglas MD-80 Series
+16 Current Altitude
+4 E135
+6 ATR-72
+6 ATR-72
+15 Embraer EMB-145
+15 Embraer EMB-145
+6 ATR-72
+4 E135
+6 ATR-72
+6 ATR-72
+18 Bombardier CRJ 100
+4 E135
+6 ATR-72
+4 E135
+4 E135
+4 E135
+17 Cessna Citation 5
+18 Bombardier CRJ 200
+18 Bombardier CRJ 200
+18 Bombardier CRJ 100
+17 Cessna Citation 5
+18 Bombardier CRJ 200
+15 Embraer EMB-145
+18 Bombardier CRJ 200
+18 Bombardier CRJ 700
+30 McDonnell Douglas MD-80 Series
+15 Embraer EMB-145
+30 McDonnell Douglas MD-80 Series
+15 Embraer EMB-145
+30 McDonnell Douglas MD-80 Series
+16 Current Altitude
+15 Embraer EMB-145
+16 Current Altitude
+15 Embraer EMB-145
+30 McDonnell Douglas MD-80 Series
+15 Embraer EMB-145
+30 McDonnell Douglas MD-80 Series
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+
+flight:altitude
+1336
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+12 "33000 feet"
+6 0 feet
+6 0 feet
+12 "31000 feet"
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+11 "7200 feet"
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+12 "30500 feet"
+6 0 feet
+12 "28000 feet"
+7 Arrived
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+12 "21000 feet"
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+12 "37000 feet"
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+11 "2700 feet"
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+12 "35000 feet"
+6 0 feet
+12 "22900 feet"
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+12 "31000 feet"
+6 0 feet
+6 0 feet
+6 0 feet
+11 "9300 feet"
+6 0 feet
+6 0 feet
+6 0 feet
+12 "39000 feet"
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+11 "1900 feet"
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+12 "12400 feet"
+12 "29000 feet"
+6 0 feet
+6 0 feet
+6 0 feet
+12 "38600 feet"
+6 0 feet
+6 0 feet
+11 "4700 feet"
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+12 "28400 feet"
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+12 "11600 feet"
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+12 "40000 feet"
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+12 "15100 feet"
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+11 "9800 feet"
+6 0 feet
+6 0 feet
+6 0 feet
+12 "36000 feet"
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+12 "31700 feet"
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+12 "17500 feet"
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+12 "33700 feet"
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+12 "34000 feet"
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+12 "32900 feet"
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+12 "23000 feet"
+6 0 feet
+12 "36000 feet"
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+12 "11000 feet"
+6 0 feet
+6 0 feet
+12 "31000 feet"
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+12 "20800 feet"
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+12 "29900 feet"
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+12 "28700 feet"
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+12 "39000 feet"
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+11 "6000 feet"
+12 "11000 feet"
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+12 "21500 feet"
+6 0 feet
+6 0 feet
+11 "7300 feet"
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+11 "6600 feet"
+6 0 feet
+11 "8800 feet"
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+11 "6600 feet"
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+12 "19700 feet"
+12 "36000 feet"
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+12 "16100 feet"
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+6 0 feet
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+
+flight:status
+1335
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+9 In Flight
+7 Arrived
+7 Arrived
+9 In Flight
+7 Arrived
+7 Arrived
+7 Arrived
+7 Planned
+9 Scheduled
+9 Scheduled
+9 Scheduled
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+9 Scheduled
+9 Scheduled
+7 Arrived
+7 Arrived
+9 Scheduled
+6 Landed
+6 Landed
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+9 Scheduled
+7 Arrived
+7 Arrived
+7 Arrived
+7 Planned
+7 Arrived
+7 Arrived
+7 Arrived
+6 Landed
+9 Scheduled
+9 Scheduled
+7 Arrived
+9 In Flight
+9 Scheduled
+7 Arrived
+7 Arrived
+9 Scheduled
+9 In Flight
+7 Arrived
+9 In Flight
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Planned
+6 Landed
+9 Scheduled
+9 In Flight
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+9 In Flight
+7 Arrived
+7 Arrived
+9 Scheduled
+6 Landed
+6 Landed
+7 Arrived
+7 Arrived
+9 Scheduled
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+9 Scheduled
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+9 Scheduled
+7 Arrived
+7 Arrived
+6 Landed
+7 Arrived
+7 Arrived
+7 Arrived
+9 In Flight
+7 Arrived
+6 Landed
+6 Landed
+7 Arrived
+6 Landed
+6 Landed
+9 Scheduled
+6 Landed
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+9 In Flight
+7 Planned
+9 In Flight
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+9 In Flight
+7 Arrived
+7 Arrived
+7 Arrived
+9 In Flight
+7 Arrived
+7 Arrived
+7 Arrived
+9 In Flight
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+27 Atlantic Southeast Airlines
+27 Atlantic Southeast Airlines
+9 Scheduled
+7 Arrived
+9 Scheduled
+7 Arrived
+7 Arrived
+6 Landed
+7 Arrived
+7 Arrived
+7 Arrived
+9 Scheduled
+9 In Flight
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+6 Landed
+7 Arrived
+6 Landed
+9 Scheduled
+6 Landed
+6 Landed
+7 Arrived
+7 Arrived
+6 Landed
+7 Arrived
+7 Arrived
+9 Scheduled
+9 Scheduled
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+9 In Flight
+9 In Flight
+7 Arrived
+7 Arrived
+7 Arrived
+9 In Flight
+6 Landed
+7 Planned
+9 In Flight
+9 Scheduled
+7 Arrived
+6 Landed
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+9 Scheduled
+9 Scheduled
+7 Arrived
+6 Landed
+7 Arrived
+7 Arrived
+7 Arrived
+6 Landed
+6 Landed
+7 Arrived
+7 Arrived
+7 Arrived
+7 Planned
+7 Arrived
+9 Scheduled
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+9 Scheduled
+7 Arrived
+7 Arrived
+7 Arrived
+9 In Flight
+7 Arrived
+9 Scheduled
+6 Landed
+9 Scheduled
+9 Scheduled
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Planned
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+9 Scheduled
+7 Arrived
+9 In Flight
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+9 Scheduled
+9 Scheduled
+7 Arrived
+7 Planned
+7 Arrived
+7 Arrived
+9 In Flight
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Planned
+9 Scheduled
+9 Scheduled
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Planned
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+9 In Flight
+7 Arrived
+7 Arrived
+7 Arrived
+9 Scheduled
+7 Arrived
+9 In Flight
+7 Arrived
+9 Scheduled
+7 Arrived
+9 In Flight
+19 Chautauqua Airlines
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+9 Scheduled
+7 Arrived
+6 Landed
+6 Landed
+7 Arrived
+7 Arrived
+9 Scheduled
+7 Arrived
+9 Scheduled
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+6 Landed
+9 In Flight
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+9 In Flight
+6 Landed
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+9 In Flight
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+9 In Flight
+9 Scheduled
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+9 In Flight
+7 Arrived
+23 Airline</b></font></td>
+7 Arrived
+7 Arrived
+23 Airline</b></font></td>
+7 Arrived
+9 In Flight
+7 Arrived
+9 In Flight
+7 Arrived
+7 Planned
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Planned
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+9 Scheduled
+9 Scheduled
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+9 In Flight
+7 Arrived
+7 Arrived
+9 In Flight
+7 Arrived
+9 Scheduled
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+9 In Flight
+7 Planned
+9 Scheduled
+9 Scheduled
+7 Arrived
+9 Scheduled
+7 Arrived
+7 Arrived
+7 Arrived
+9 Scheduled
+9 Scheduled
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+6 Landed
+7 Arrived
+7 Arrived
+6 Landed
+6 Landed
+7 Arrived
+7 Arrived
+7 Arrived
+9 Scheduled
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Planned
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+9 Scheduled
+9 Scheduled
+9 Scheduled
+7 Arrived
+9 Scheduled
+7 Arrived
+9 Scheduled
+7 Arrived
+9 Scheduled
+7 Arrived
+7 Arrived
+7 Planned
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+9 In Flight
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+9 In Flight
+6 Landed
+7 Arrived
+7 Arrived
+7 Planned
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+9 In Flight
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+9 Scheduled
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+9 In Flight
+9 In Flight
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+9 In Flight
+7 Arrived
+9 Scheduled
+9 In Flight
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Planned
+9 Scheduled
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Planned
+9 Scheduled
+7 Arrived
+7 Arrived
+9 In Flight
+9 Scheduled
+9 In Flight
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+6 Landed
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+9 Scheduled
+7 Arrived
+7 Arrived
+7 Planned
+9 In Flight
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+9 Scheduled
+7 Arrived
+7 Arrived
+9 Scheduled
+7 Arrived
+7 Arrived
+7 Arrived
+9 In Flight
+9 In Flight
+7 Arrived
+9 Scheduled
+9 Scheduled
+9 Scheduled
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+9 In Flight
+7 Arrived
+7 Arrived
+9 Scheduled
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+6 Landed
+6 Landed
+7 Arrived
+7 Arrived
+7 Planned
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+7 Arrived
+9 Scheduled
+7 Arrived
+7 Arrived
+9 Scheduled
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+4 NULL
+

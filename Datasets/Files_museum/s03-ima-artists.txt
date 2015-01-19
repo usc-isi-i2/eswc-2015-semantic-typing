@@ -1,0 +1,266 @@
+2
+
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson
+100
+10 Cox, Jacob
+21 William Merritt Chase
+15 Duveneck, Frank
+14 Melchers, Gari
+10 Cox, Jacob
+21 O&039;Keeffe, Georgia
+18 Robert W. Davidson
+14 Edmund Brucker
+21 William Merritt Chase
+13 Ritman, Louis
+27 Burchfield, Charles Ephraim
+23 Wyant, Alexander Helwig
+21 William Merritt Chase
+18 Payne, Edgar Alwin
+14 Konti, Isidore
+11 Kroll, Leon
+19 Forsyth, William J.
+14 Peckham, Lewis
+15 Delaney, Joseph
+16 Lachaise, Gaston
+16 James F. Gookins
+23 Hilliard, William Henry
+10 Cox, Jacob
+19 Richards, Samuel G.
+24 Paxton, William McGregor
+17 Ball, L. Clarence
+11 T.C. Steele
+15 Emery D. Horsky
+14 John J. Hegler
+15 David K. Rubins
+16 Du Bois, Guy Pne
+21 Archipenko, Alexander
+11 T.C. Steele
+13 Ritman, Louis
+13 Cecil F. Head
+12 Chase, Henry
+19 Remington, Frederic
+18 Ingraham, Ellen M.
+21 Love, John Washington
+16 Forrest F. Stark
+14 Beaux, Cecilia
+21 William Merritt Chase
+15 Stuart, Gilbert
+21 Miller, Richard Emile
+15 Marsh, Reginald
+11 Hugh M. Poe
+19 Richards, Samuel G.
+14 Groll, Theodor
+18 Hays, Barton Stone
+15 Donald Mattison
+14 Lucioni, Luigi
+16 Fechin, Nicholai
+15 Howell, Felicie
+22 Metcalf, Willard LeRoy
+21 William Merritt Chase
+15 Pezzati, Pietro
+29 MacMonnies, Frederick William
+14 Scudder, Janet
+19 John Bradley Storrs
+13 Carlsen, Emil
+23 Saint-Gaudens, Augustus
+16 Hartley, Marsden
+20 Shulz, Adolph Robert
+13 Robert Fulton
+23 Burnham, Thomas Mickell
+22 Savage, Eugene Francis
+15 Pittman, Hobson
+12 Reid, Robert
+23 Thomas, Stephen Seymour
+19 Durand, Asher Brown
+15 David K. Rubins
+12 Bates, Dewey
+16 Louise D. Hibben
+21 Wyeth, Newell Convers
+27 Morse, Samuel Finley Breese
+23 Beard, William Holbrook
+18 Potter, William J.
+14 Hassam, Childe
+18 Willard D. Paddock
+18 Weir, Julian Alden
+23 Blakelock, Ralph Albert
+11 T.C. Steele
+15 David K. Rubins
+14 Bishop, Isabel
+19 Bell, Edward August
+24 Mulhaupt, Frederick John
+13 Sully, Thomas
+15 Mess, George Jo
+17 Adams, John Ottis
+13 Daniel Garber
+20 Taggart, Lucy Martha
+19 John Singer Sargent
+24 Paxton, William McGregor
+23 Pearce, Charles Sprague
+21 Dove, Arthur Garfield
+12 Ford, Lauren
+24 Thayer, Abbott Handerson
+23 Meteyard, Thomas Buford
+18 Heller, Helen West
+17 Stillson, Blanche
+
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson
+100
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+6 German
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 american
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+7 British
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+
+57
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Keeffe 0.5055659461285522
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Jacob 1.0111318922571044
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Louis 1.0111318922571044
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Beaux 0.5055659461285522
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson symbol_, 21.979678873350867
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson symbol_; 0.5055659461285522
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Scudder 0.5055659461285522
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_William 3.5389632522021914
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson all_capitalized_token 7.103827475068026
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_C 7.102063032096645
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_B 5.585365804436448
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_D 1.5166978383856566
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_K 2.022263784514211
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_J 5.561225411409126
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_M 5.69286682214352
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_F 3.5389616228998655
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_I 1.0128963352284848
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_H 4.0445291983307445
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_R 4.174403947967965
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_S 5.561225407414074
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_T 3.538962215718383
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_W 5.055661090587858
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Durand 0.5055659461285522
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Washington 0.5055659461285613
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Love 0.5055659461285613
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Beard 0.5055659640294793
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson unit_place_digit_9 0.5055659461285522
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_length_8 -19.56128906868485
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Buford 0.5055665389470699
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Bishop 0.5055659461285522
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_length_7 11.628018390259028
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_length_6 9.949383014899428
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_length_5 14.793074527656858
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_length_1 7.103827475068026
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_J 1.0111318922571044
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_F 1.5166978383856566
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Mickell 0.5055659461285522
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Sprague 0.5055659461285522
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Rubins 1.0111318922571044
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Hegler 0.5055659461285522
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Hassam 0.5055659461285522
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Singer 0.5055659461285522
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Stuart 0.5055659461285522
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_John 2.5278297346378125
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_MacMonnies 0.5055659461285522
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Hilliard 0.5055675575299513
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Ottis 0.5055659501235946
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson capitalized_token 1.0895385815840755
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_David 1.0111318922571044
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Thomas 2.0222643773327262
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson starts_with_char_A 20.138077485647663
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson starts_with_char_G 0.6675024466247016
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson alpha_id_German 2.6897662311389103
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson alpha_id_American 24.77273136029906
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson capitalized_token -1.0895385815840755
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson alpha_length_8 19.56128906868485
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson alpha_length_6 -9.949383014899428

@@ -1,0 +1,1604 @@
+11
+
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber
+100
+9 2005.1.24
+11 AF19933.7.8
+10 2000.14.24
+12 IL1.2000.x78
+12 AF19877.79.1
+13 AFL19944.14.4
+11 2003.5.A122
+7 2001.11
+15 AF199312.69.F26
+12 AF19981.2.A1
+13 AF199411.48.2
+16 AF199312.70.A114
+11 unk3.2001.4
+10 2001.15.21
+6 2004.8
+12 AF19874.67.1
+12 AF19981.2.D4
+9 2001.15.1
+14 AF198510.29.11
+9 2004.3.2a
+9 2000.7.E2
+6 TL08.7
+6 2000.2
+6 2007.1
+13 AF19872.32.25
+16 AF199411.43.F27A
+15 AF199411.43.F7A
+10 AF19947.34
+8 2006.6.2
+13 AF198212.6.10
+6 2004.7
+9 2004.2.20
+13 AF199112.46.1
+10 2000.14.17
+8 2007.4.1
+8 2002.1.4
+10 AF19858.46
+13 AF199912.40.4
+16 SPAF19995.13.11b
+7 2008.10
+12 2000.7.D1-20
+14 AF199710.29.8b
+16 AF199411.43.A117
+6 2001.4
+12 AF19933.7.38
+12 AF19883.27.3
+7 2008.11
+10 AF19993.11
+12 AF19884.37.3
+8 2004.4.1
+10 2002.7.N12
+8 2007.2.2
+13 AF199112.46.4
+9 2004.2.15
+12 AF19981.2.B3
+8 2005.2.5
+9 2000.10.5
+9 2005.1.31
+6 2008.7
+9 2007.11.4
+10 AF1982.8.7
+7 2008.13
+6 2005.9
+9 2000.9.D8
+6 2007.9
+12 AF19883.29.5
+12 AF19883.27.4
+14 SPAF19995.13.3
+9 2007.14.2
+6 2001.4
+14 AF198510.29.12
+14 AF199411.43.K3
+14 AF199512.22.G3
+12 AF19981.2.C3
+9 2007.16.2
+16 AF199611.14.1036
+12 AF198810.113
+8 2005.7.1
+11 2006.5.PUB7
+16 SPAF19995.13.11f
+7 2007.12
+11 AF19901.3.1
+12 AF198212.6.7
+8 2005.2.2
+9 2007.11.1
+11 AF199112.54
+9 2001.12.4
+10 2002.7.G78
+12 AF19981.2.C5
+9 2006.10.1
+7 2007.10
+11 AF19972.8.1
+8 2004.2.8
+10 AF19928.54
+9 2003.3.32
+6 2007.5
+6 2005.3
+12 AF19883.27.1
+13 AF199310.61.1
+9 2004.2.16
+
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description
+100
+116 Central female figure surrounded by images of a butterfly, leaves, moon and playing card stitched onto handkerchief.
+10 lithograph
+71 Wooden closet structure with iron skillets hung with wire coat hangers.
+176 Edition 30/75, accompanying image for Bookmarks in the Pages of Life: Six Short Stories by Zora Neale Hurston, 2000. Depicts suited man and field hands with drum in foreground.
+54 Cast bronze of elderly man with a book, robe, and cane
+76 Full-face straight on stylized portrait of African American male in uniform.
+35 Young gentleman in hat and overcoat
+32 fabric GPA crest with steel pins
+16 Kigango, EWZK 07
+73 Stereo card showing African American women on a flatboat with rice-straw.
+127 Youthful Hazel Scott head shot looking over proper left shoulder wearing lace-patterned dress with pearl necklace and earrings.
+40 Miles Davis shown performing in profile.
+195 Linoleum cut portraying Louis Satchmo Armstrong (1901 - 1971) with his trumpet. Louis Armstrong, more than anyone, else was responsible for legitimizing and popularizing jazz for a wide audience.
+209 Two jazz musicians shown with their instruments (saxophone and trumpet) surrounded by vibrant colors in almost a Cubist rendering. Image used to promote the 1991 Mountreux Atlanta International Music Festival.
+78 Two photos; one with three women on pier, the other of a seated woman outdoors
+267 A Black man smoking is reproduced three times at the lower center of the piece while the artist plays with the expression role model and roll model. A chicken and a time to jump ship? are placed on the left bottom corner. Phrases throughout the red and yellow canvas.
+65 Whitened mask with raffia , surmounted by stylized antelope form.
+128 Postcard of the Dunbar Hotel in Los Angeles; 115 Rooms--75 Rooms with Bath. Rates 1.00 Per Day and Up. Weekly Rates 5.00 and Up.
+225 Small engraving of Fort Williams which was one of the many infamous slave forts that were built along Africa west coast in the 17th and 18th centuries. Extracted from Prevosts LHistoire Generale des Voyages (vol. IV, no. 11).
+87 U.S. Army commission signed by the President of the United States and Secretary of War.
+9 serigraph
+81 Garment stained with organic materials with several tassels sewn to the exterior.
+67 Triptych portrait of African American womans face; first from left.
+66 Stereo card showing six African Americans picking cotton in Texas.
+285 Ibo mask of male face covered in animal skin with reddish pigmentation. Male and female figures with moving arms on top. Also a mirror fixed to back of mask on proper right side. side (others probably originally attached but now missing). Polychromed: blue, white, black and red paint.
+66 Black, white and gray Artist Proof lithograph of abstract figures.
+44 Image from the historic March on Washington.
+307 Staff figure, wood, Wurkun people, Nigeria, West Africa. Figure surmounts iron stake, kept in a hut at center of village, and set in ground to protect crops. Incised geometric patterning of forehead, articulated teeth, deeply carved abdomen and belly button-like delineation and protrusion from top of head.
+55 mixed media assemblage; reference to domestic violence.
+112 Commemorative 3 button with image of Martin Luther King, Jr. and words: Nonviolence Precious Lord, Take My Hand.
+85 hand-woven Afro-Caribbean doll that depicts a black female in native Caribbean attire
+33 sculpture in form of large flute.
+59 California Driver Licence issued to Thomas Bradley in 1995.
+106 Portrait of Rachel (1908-1927) and her mother, Kate L. Brown in the woods with a stream in the foreground.
+161 (86) snapshots on location from the film/television/theater career of character actor, Ken Renard. Also included is a contact sheet of Lillian Hellman portraits.
+144 Large scale work of white bird (crane ?) and shadow of fox-like animal behind it. Spots of bright primary colors, blue, yellow and red, in work.
+174 Standing male shrine figure wears wrist bracelets and anklets. Crested helmet shows extensive age. Probably once completely covered in white powdery pigment, now traces left.
+33 movie poster, movie by Matty Rich
+221 Souvenir specimen from the Moon Flight Apollo 8 presented to Tom Bradley. Framed fragments of the ablative heat shield, gold and aluminum mylar which protected the spacecraft from radiant heat by reflecting the suns rays.
+83 Woman seated on chair shelling crawfish with turtle depicted in lower right corner.
+109 Army National Guardsman and students from David Starr Jordan High School in the Watts section of Los Angeles.
+126 Students, residents and Army National Gurardsmen on David Starr Jordan High School campus in the Watts section of Los Angeles.
+63 Serigraph print depicting Haitian General Toussaint LOuverture.
+52 Dorsal head, both female, indigo decoration on head.
+80 Akuaba figure, fertility figure, beautiful assortment of small bead decorations.
+95 assemblage in ammunition box of female figure constructed with a hoe used to create her pelvis.
+65 Portrait of blues composer and musician William Christopher Handy
+40 Final print proof, BAT bon a tirer proof
+61 quilt, applique technique with painted areas (textile paints)
+293 Seventy-six page limited edition book containing (6) short stories: Bone of Contention, Magnolia Flower, High John De Conqueror, The Conscience of the Court, Mother Catherine and Now You Cookin with Gas. Each of the six stories is accompanied by an original illustration executed in serigraph.
+331 Divination tapper, Ifa priest taps against divination board at beginning of ceremony, calling on Orisha, god of human destiny. Slender pointed end, balanced on kneeling female figure, holdoing implement in front of her in supplicant pose to deity of personal destiny. Archaic style, excellent patina, erosion on right side of face.
+131 Sheet music; published by permission of Victor Kremer Co. Chicago Music Section, Chicago Sunday Examiner, May 26, 1907-Pages 17-20.
+150 Young brunette boy wears red pants, horizontal red/white stripped shirt, large white collar with red ribbon and black slippers. Jointed arms and legs.
+64 an installation of ceramic artwork incorporating water fountains
+102 Gelede headdress, wood, Yoruba people, Nigeria, West Africa. Red and black polychrome; corn-row hairdo
+21 lithographed billhead
+41 bronze sculpture of classical female nude
+144 (23) volumes of the Official Quaterly publication of the College Language Association. Published by Morgan State College in Baltimore, Maryland.
+153 Speech delivered by Representative William Slade of Vermont to the U.S. House of Representatives on January 18 and 20, 1840. Printed by Gales and Seaton.
+32 Two young women dressed in white
+166 Young brunette girl wears red dress with white chiffon, incorporating red heart, white chiffon bonnet, lace-tipped bloomers and black slippers. Jointed arms and legs.
+13 clay painting
+21 framed pencil drawing
+66 Bronze sculpture of jazz trumpeter Dizzy Gillespie on marble base.
+96 One pound coffee tin depicting African American woman with kerchief serving coffee on a platter.
+56 Business card for Rev. H. Devereaux with photo on verso.
+46 Drawing of Woman holding child on hip, framed.
+270 Program listing performances; First Set: Sonny Stitt Quartet; Second Set: Lambert, Hendricks and Ross; Third Set: Lenny Bruce; Fourth Set: Terry Gibbs Quartet; Finale: Billy Eckstine. Cover and back illustrations by noted American painter David Stone Martin (1913-1992).
+186 Young blonde girl wears mauve-colored dress with flowers and pink ribbon attached below PR hand, silver slippers and mauve-colored bonnet with flowers in her hair. Jointed arms and legs.
+47 three-pointed crown of chief, one point missing
+177 Figure representing fattened initiate; body painted pink with traditional body paint of black curvilinear lines; four cone-like braids; articulated arms; wearing three hip rings
+28 assemblage in ammunition box
+283 Shadow box stage-like set, in miniature, with large central assemblage hanging above lower scene with black/white floor. Ladders and red curtains at back, curtain pulleys at rear. Layered scale-like shapes of glued paper, with wood, fabric, egg, lace, jewels, paint, cord, and metal.
+84 Woman in front of parking meter on 103rd Street in the Watts section of Los Angeles.
+55 Possible Church group with banners in front of building
+322 Framed book  1993 published in conjunction with Kim Abeles: Encyclopedia Persona, A Fifteen-Year Survey at the Santa Monica Museum of Art; curated by Karen Moss. The encyclopedia includes an entry on Rosa Parks and To Sit As Ladder (In Honor of Rosa Parks), which is a sculpture by Abeles that was donated to CAAM in 1992.
+72 Blackened surface, sharply articulated features, evidence of attachments
+54 Akuaba fertility figure, good profile, repairs to neck
+153 Young man seated on a stool in front of a backdrop depicting a country wooded scene; his jacket is draped over a prop and his PR arm rests on the jacket.
+163 Red painted wood sculpture of standing male officer holding rifle in front of him. Traces of white and brown paint throughout figure with geometric design on base.
+28 White vase with black cracks
+209 Two jazz musicians shown with their instruments (saxophone and trumpet) surrounded by vibrant colors in almost a Cubist rendering. Image used to promote the 1991 Mountreux Atlanta International Music Festival.
+65 Abstract color patches with three individuals on right-hand side.
+105 Black and white photograph of (L to R) Pat Hendricks, Tyne Daly, Ella Fitzgerald and Georg Stanford Brown
+90 Colorful organic floral shapes dominate the painting, representing the artists femininity.
+131 Tree occupying center of composition lit by moonlight from behind. Shrubbery surrounding the foreground in a vibrant color palette.
+57 Bell shaped vase; Blue and white almost checkered design.
+119 Quilt with no batting or backing material; colorful geometric shapes made with scraps of material, some diamond shapes.
+253 Sixteen (16) page souvenir program from a performance of the Katherine Dunham Dance Revue Bamboche at the Fifty-Fourth Street Theatre in New York City. The production opened October 22nd, 1962 and ran for a limited engagement of only eight performances.
+73 Pair of pink beaded shoes match to pink beaded stage gown (AF19995.13.1a)
+50 Two young women seated cross legged in an orchard.
+82 Business card advertising King Hotel with 115 newly decorated rooms, 75 with bath.
+74 Caricature of the donor, Vertenis Shephard, a family friend of Ken Renard.
+32 Young Lollie standing on a chair
+44 Image from the historic March on Washington.
+228 Sheet music written by Gene Jefferson and Leo Friedman; photo of Morris Manley in upper-right corner, drawing of African American male face with exaggerated eyes and lips wearing large bow tie and top hat (repeated three times).
+69 Interior home scene of woman teaching a young girl to play the piano.
+127 Glazed fish facing right,gold and brown coloring, crackle pattern on face and tail. Possibly Southern Californian bass species.
+174 Hand-separated printers proof serigraph signed by Faith Ringgold. Depicts dancing couples at the Savoire in Harlem. Celebrates the jazz of Dizzy Gillespie and Charlie Parker.
+33 Stylized portrait of bearded man.
+
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson
+100
+31 United States Army Negro Chorus
+15 Charles Dickson
+10 Betye Saar
+10 Doyle Lane
+17 Ibibio of Nigeria
+10 Rose-Smith
+21 Walter Henry Williams
+20 Charles W. Slaughter
+27 Zora Neale Hurston [author]
+11 Lezley Saar
+17 LeRoy W. Jeffries
+24 Meta Vaux Warrick Fuller
+12 Ernie Barnes
+24 Yoruba people of Nigeria
+14 Romare Bearden
+14 Herbert Gentry
+7 unknown
+7 unknown
+7 unknown
+19 Grafton Tyler Brown
+23 Elson-Alexander Studios
+10 Betye Saar
+31 David Stone Martin, illustrator
+23 Herman Kofi Bailey, Jr.
+19 Grafton Tyler Brown
+41 attributed to Cameroon Grasslands peoples
+17 William E. Pajaud
+41 First African Methodist Espiscopal Church
+20 Prentice Herman Polk
+42 United States President Theodore Roosevelt
+15 Viredo Espinosa
+11 Sam Gilliam
+22 Fort Des Moines Studio
+7 unknown
+7 unknown
+19 Grafton Tyler Brown
+40 Grand Music Corporation Music Publishers
+24 Betye Saar [illustrator]
+10 Doyle Lane
+17 Chamba of Nigeria
+14 Harry H. Adams
+18 Bruno of Hollywood
+16 Elisabeth Sunday
+13 Doris Brandon
+12 Pope Studios
+25 Francois Turenne des Pres
+27 Walter H. Leimert Co., Inc.
+19 Howard Lee Morehead
+24 John F. Huber, Publisher
+19 Howard Lee Morehead
+10 Doyle Lane
+28 Dunetz and Lovett Publishers
+10 Betye Saar
+14 Gertrude Alden
+20 Daniel LaRue Johnson
+9 not known
+20 Dogon people of Mali
+23 John Thomas Riddle, Jr.
+3 VAG
+12 Noah Purifoy
+14 Orion Pictures
+29 Strohmeyer & Wyman Publishers
+21 Frank E. Cummings III
+23 Columbia Concerts, Inc.
+21 Keystone View Company
+18 Miguel Covarrubias
+13 Milton Bowens
+11 Alison Saar
+45 Waterson-Berlin & Snyder Co. Music Publishers
+28 West slide and Photo Service
+29 Golf Professional Association
+12 Sierra Leone
+14 Dewey Crumpler
+21 H. V. Waddell Company
+12 Post Studios
+20 Prentice Herman Polk
+13 David Hammons
+21 Charles Wilbert White
+13 Doris Brandon
+13 Doris Brandon
+14 Romare Bearden
+13 Doris Brandon
+25 Marie E. Johnson Calloway
+14 Harry H. Adams
+21 Wayland M. Minot, Jr.
+13 Doris Brandon
+43 United States President William Howard Taft
+25 Francois Turenne des Pres
+23 John Thomas Riddle, Jr.
+23 John Thomas Riddle, Jr.
+32 Senufo people of the Cte dIvoire
+20 Rhapsody Films, Inc.
+19 Robert H. Colescott
+23 John Thomas Riddle, Jr.
+24 William Ludwell Sheppard
+12 Antoni Tpies
+16 G. Schirmer, Inc
+14 Marion Sampler
+15 Viredo Espinosa
+11 Sandra Rowe
+
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent
+100
+24 5 H x 17.25 W x 0.3125 D
+17 9.875 H x 6.375 W
+10 8 x 10 x 2
+24 20.5 H x 8.75 W x 6.75 D
+8 21.5 x 7
+7 various
+11 60 H x 48 W
+27 5.75 H x 16.75 W x 0.3125 D
+15 9 H x 6 W x 0.5
+16 20 H x 6 W x 3 D
+13 14 x 7.25 x 9
+12 Diameter: 12
+11 26 x 19 x 2
+23 6 H x 4.25 W x  0.375 D
+6 24 x 6
+20 26 H x 24 W x 12.5 D
+16 21.5 x 29 x 0.75
+14 14.75 H x 11 W
+13 16.5 H x 21 W
+7 20 x 26
+25 8.25 H x 6.75 W x 3.375 D
+19 6 H x 5.75 diameter
+5 3 x 9
+10 16 H x 7 W
+10 8 H x 10 W
+16 40.5 H x 50.25 W
+18 14 H x 7 W x 2.5 D
+20 4.25 H  x 3 diameter
+21 19.5 H x 26 W x 1.5 D
+5 3 x 3
+8 8 x 5 x 
+27 6.75 H x 14.75 W x 0.3125 D
+6 10 x 8
+7 49 x 25
+5 2 x 3
+13 12.5 H x 15 W
+10 8 H x 10 W
+17 H 8 x W 21 x D 35
+11 14 H x 11 W
+10 8 H x 10 W
+14 234 cubic feet
+5 7 x 5
+10 12 x 8 x 6
+7 30 x 45
+12 72 H x 105 W
+6 38 x 7
+11 30 H x 22 W
+36 various pieces  (total 198 x 11 x 7)
+19 21.5 H x 27 W x 1 D
+9 3.5 x 5.5
+11 14 H x 11 W
+18 96 H x 24 W x 24 D
+7 14 x 11
+15 9.25 H x 13.5 W
+13 7.5 H x 9.5 W
+7 48 x 35
+10 24 x 7 x 3
+15 8.25 H x 13.5 W
+13 16.5 H x 21 W
+22 28 H  x 36.5 W x 1.5 D
+7 16 x 16
+12 14 x 10 x 14
+7 29 x 20
+19 11 H x 6.5 diameter
+6 10 x 3
+10 10 H x 8 W
+14 14.75 H x 11 W
+44 overall: 14 x 6.25 x 2.25; base: 2.25 x 6.25
+13 11 H x 7.75 W
+21 28 H  x 22 W x 0.75 D
+5 4 x 9
+5 6 x 9
+6 19 x 6
+11 10 x 4 x 11
+20 8 H x 3 6 W x 9 11 D
+11 18.5 x 28.5
+7 21 x 27
+11 28 H x 18 W
+16 8 H x 16 W x 1 D
+10 12 H x 9 W
+12 8.5 H x 16 W
+16 38.5 H x 28.25 W
+10 11 H x 8 W
+11 20H  x 20 W
+5 6 x 4
+7 11 x 14
+11 14 H x 11 W
+5 4 x 6
+7 24 x 30
+12 7.75 x 6 x 4
+6 8 x 10
+13 31 x 11 x 8.5
+11 35 x 45 x 3
+16 6 H x 5 diameter
+16 15.75 H x 10.5 W
+14 4.5 H x 35.5 W
+13 33.5 H x 35 W
+13 3.5 H x 3.5 W
+16 13 7/8 H x 9.5 W
+5 6 x 8
+
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink
+100
+106 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CGrafton+T%2E+Brown%5CGuerrero%2Ejpg
+109 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CElla+Fitzgerald%5C19995%2E13%2E4%2Ejpg
+90 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CJACOBY%5C1034%2EBMP
+88 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CLegainstrmt%2Ejpg
+104 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CDoyle+Lane%5CUntitled27%5F4%2Ejpg
+96 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CSaar%5CWalking+Girl%2Ejpg
+91 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CViredo%5CBanga%2Ejpg
+104 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CMaren%5FHassinger%5CLeaning%2Ebmp
+105 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CDocuments%5CInfantryDay+copy%2Ejpg
+93 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CRiddle%5CPandora%2Ejpg
+89 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CJeffries%5C3%2Ejpg
+109 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CCampbell+Family%5CCheiftan+Robes%2Ejpg
+89 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CJeffries%5C5%2Ejpg
+93 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CBannister%5CCows%2Ejpg
+89 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CKOSTMAN%5CA6%2EBMP
+116 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CMatthew%5FThomas%5CThreeWorldViewsAsOne%2Ejpg
+92 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CBearden%5CPRIII%2Ejpg
+99 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CDocuments%5CCreep+Jack%2Ebmp
+90 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CJACOBY%5C1035%2EBMP
+90 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CJACOBY%5CF27B%2EBMP
+111 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CCharles%5FWhite%5CWhite%5FUntitled%2Ejpg
+105 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CGrafton+T%2E+Brown%5CSF+1849%2Ejpg
+91 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5CTrioImages%5CMagubane%5CX76%2Ejpg
+90 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CJeffries%5C19%2Ejpg
+111 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CKim+Abeles%5Crosaparks+chair1+copy%2Ejpg
+105 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CPorter%2DWesley%5CGuere+mask%2Ejpg
+104 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CPajaud%5CPajaud%5FCallsTime%2Ejpg
+83 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CIcarus%2Ejpg
+104 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CElla+Fitzgerald%5CHendricks%2Ejpg
+112 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CStereo+cards%5CPlantation+Life+copy%2Ejpg
+109 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CElla+Fitzgerald%5C19995%2E13%2E2%2Ejpg
+95 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CDoyle+Lane%5CFish5%2Ejpg
+89 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CKOSTMAN%5CC7%2EBMP
+88 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CJACOBY%5CD8%2EJPG
+80 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CMae%2Ejpg
+102 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CBrandon%5CWatts+Riot%5F22%2Ejpg
+92 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CBill+Greene%5C6%2Ejpg
+107 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CMatthew%5FThomas%5CMovingPoint%2Ejpg
+118 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CBlack%5FAmericana%5CDonohue%5FStrangeTale%2Ejpg
+89 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CJACOBY%5CD13%2EJPG
+89 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CKOSTMAN%5CD1%2EBMP
+89 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CJACOBY%5CN12%2EJPG
+104 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CLavialle+Campbell%5CIndwell%2Ejpg
+97 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CMoody%5CPraise+House%2Ejpg
+87 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CAFTERH%7E1%2EBMP
+115 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CGrafton+T%2E+Brown%5CSan+Felix+Station%2Ejpg
+103 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CMilitary%5C1919%5FCalendar%2Ejpg
+89 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CMLK%5Fbutton%2Ejpg
+90 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CJACOBY%5C1057%2Ebmp
+101 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CPajaud%5CPajaud%5FFamily%2Ejpg
+90 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CJACOBY%5C1058%2EBMP
+110 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CElla+Fitzgerald%5C19995%2E13%2E1b%2Ejpg
+91 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CSykes%5C96%5F4%2EJpg
+116 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CCharles%5FGaines%5CGaines%5FNightCrimes%2Ejpg
+100 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CStereo+cards%5CRiceRaft%2Ejpg
+104 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CGrafton+T%2E+Brown%5CHusing%2Ejpg
+92 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CBill+Greene%5C4%2Ejpg
+90 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CPolk%5CJoeyMo%2Ebmp
+124 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CQuilts%5CGardner%5Fquilt%5CGardner%5Fquilt+copy%2Ejpg
+102 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CPajaud%5CPajaud%5FHustler%2Ejpg
+103 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CFICitems%5CSedwick%5FParks%2Ejpg
+107 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CBannister%5CLandscape+dockside%2Ejpg
+133 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CDocuments%5CLeimertPark%5CLA%5FSmallHomesExposition+copy%2Ejpg
+100 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CDASFOT%7E1%5CFIDDLE%7E1%2EBMP
+98 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5COutterbridge%5COlivia%2Ejpg
+98 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CSilverman%5CKuba+mask%2Ejpg
+89 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CKOSTMAN%5CD5%2EBMP
+83 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CStroll%2Ejpg
+90 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CJACOBY%5CMA99%2EJPG
+84 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CTintype%2Ejpg
+137 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CSheet%5Fmusic%5CGarcia%5Fsheetmusic%5CBeginning%5FLight+copy%2Ejpg
+104 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CPolk%5CPolk%5FUntitled+copy%2Ejpg
+106 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CSilverman%5CIbo+132%2E5+front%2Ejpg
+108 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CDocuments%5CGarcia%5FFtWilliams%2Ejpg
+100 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CGRAFTO%7E1%2EBRO%5CBELL%2EJPG
+92 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CBill+Greene%5C7%2Ejpg
+89 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CJACOBY%5CF26%2EBMP
+99 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CMilesDavis%5FSlaughter%2Ejpg
+116 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5COutterbridge%5CLift+Every+Voice%5CLift2%2Ejpg
+89 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CJACOBY%5CG82%2Ejpg
+108 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CBlack%5FAmericana%5CBull+Durham%2Ejpg
+89 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CKOSTMAN%5CE4%2EBMP
+90 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CJACOBY%5C1009%2EJPG
+116 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CJacob+Lawrence%5CConfrontation%5FBridge%2Ejpg
+105 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CDocuments%5CMajorAllensworth%2Ejpg
+101 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CPolk%5CPolk%5FWashington%2Ejpg
+87 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CWatermelon%2Ebmp
+89 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CJACOBY%5CF22%2EJPG
+97 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CKofi+Bailey%5CNkruma%2Ejpg
+95 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CDoyle+Lane%5CFish1%2Ejpg
+90 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CJACOBY%5CA114%2EBMP
+100 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CKofi+Bailey%5CUntitled6%2Ejpg
+90 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CPecan+Pickers%2Ejpg
+95 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CDolls%5CFlowerGirl%2Ejpg
+111 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CElla+Fitzgerald%5C19995%2E13%2E11d%2Ejpg
+108 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CSilverman%5CMale+shrine+25%2E15%2Ejpg
+115 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CHarper%27s+Weekly%5CtheEarthquake+copy%2Ejpg
+89 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CSaar%5CBanjo%2Ejpg
+124 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CMilitary%5CdePaur%5CDePaur%5Fpublicityshot+copy%2Ejpg
+112 http://trio.caamuseum.org/image.asp?media%5C%5Ccaamapp1%5Ctrioimages%5CInterpretive%5CAse%5FDominiqueMoody%2Edoc
+
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance
+100
+34 Gift of Dr. and Mrs. Leon O. Banks
+24 Gift of Edward T. Garcia
+26 Courtesy of Peter Magubane
+51 Gift of Ida Walls Lee in memory of Vermont Jeffries
+56 Gift of Thomas N. Whitehead in memory of Ora G. Williams
+24 Gift of Edward T. Garcia
+33 Gift of Gary and Tracy Mezzatesta
+44 Gift of Gail M. Long of Hesperia, California
+67 Gift of Dr. Michel N. Jacoby, in memory of Barbara and Laura Jacoby
+15 Museum purchase
+42 Gift of MacDonald and Charlotte Jean Jones
+26 Bequest of Alfred C. Darby
+25 Gift of Vertenis Shephard
+51 California Afro-American Museum Foundation purchase
+15 Museum purchase
+34 Gift of Dr. and Mrs. Leon O. Banks
+24 Gift of the Arts Council
+20 Gift of Lonnie Bunch
+64 Gift of Mrs. Joe Turner in memory of her husband, Big Joe Turner
+23 Gift of Elliott Pinkney
+23 Gift of Anonymous donor
+37 Gift of Estate of Marjorie P. Johnson
+21 Gift of Joan D. Payne
+49 Gift of The Ella Fitzgerald Charitable Foundation
+101 CAAM Foundation Purchase, with funds provided by the City of Los Angeles, Cultural Affairs Department
+65 Gift of Dr. Bennett Jacoby, in memory of Barbara and Laura Jacoby
+51 California Afro-American Museum Foundation purchase
+18 Gift of the artist
+17 Gift of P.H. Polk
+32 Gift of the Director Arts Circle
+23 Gift of S. and W. White
+26 Bequest of Alfred C. Darby
+37 Gift of Dr. and Mrs. Melvin Silverman
+24 Gift of Edward T. Garcia
+34 Gift of Viredo and Alicia Espinosa
+25 Gift of Ms. Mercedes Moon
+26 Gift of Mr. Stuart Lauters
+17 Gift of P.H. Polk
+42 Gift of Ethel Arnold Bradley and daughters
+51 California Afro-American Museum Foundation purchase
+64 Gift of Florence Kricheff in loving memory of Alexander Kricheff
+41 Gift of Helen Blair, friend of the artist
+59 Courtesy of the University of Wisconsin Sports News Service
+31 Gift of Tony and Gloria Mendoza
+25 Gift of Ms. Mercedes Moon
+97 Commissioned by Seagrams Gin as part of its national program Perspectives in African American Art
+18 Gift of Paul Kiler
+73 Gift of Friends, The Foundation of the California African American Museum
+73 Gift of Friends, The Foundation of the California African American Museum
+43 Courtesy of South African Consulate General
+37 Gift of Sam Jaffee and Mildred Jaffee
+42 Gift of Ethel Arnold Bradley and daughters
+55 Gift of Michele Elizabeth Lee and Leon Allenton Dockery
+101 CAAM Foundation Purchase, with funds provided by the City of Los Angeles, Cultural Affairs Department
+44 Gift of The Links, Inc., Los Angeles Chapter
+51 Gift of Ida Walls Lee in memory of Vermont Jeffries
+42 Gift of Ethel Arnold Bradley and daughters
+27 Gift of Senator Bill Greene
+41 Gift of the Los Angeles Police Department
+67 Gift of Dr. Michel N. Jacoby, in memory of Barbara and Laura Jacoby
+27 Gift of Senator Bill Greene
+51 California Afro-American Museum Foundation purchase
+15 Museum purchase
+22 Gift of C.W. Slaughter
+73 Gift of Friends, The Foundation of the California African American Museum
+15 Museum purchase
+51 Gift of Ida Walls Lee in memory of Vermont Jeffries
+34 Gift of Jessica and Nancy McKinney
+18 Gift of Kim Abeles
+65 Gift of Dr. Bennett Jacoby, in memory of Barbara and Laura Jacoby
+65 Gift of Dr. Bennett Jacoby, in memory of Barbara and Laura Jacoby
+39 Gift of National Collateral Corporation
+24 Gift of the Arts Council
+48 Gift of Doris Brandon in memory of Candance Wren
+48 Gift of Doris Brandon in memory of Candance Wren
+65 Gift of Dr. Bennett Jacoby, in memory of Barbara and Laura Jacoby
+23 Gift of S. and W. White
+17 Gift of P.H. Polk
+27 Gift of Meredith Livingston
+57 Gift of Sharon Denise Smith and the Rose-Smith Collection
+17 Gift of T.K. Wang
+37 Gift of Howard Morehead, Photographer
+34 Gift of Dorothy and David Levinson
+27 Gift of Senator Bill Greene
+27 Gift of Meredith Livingston
+23 Gift of Thelma Driskell
+101 CAAM Foundation Purchase, with funds provided by the City of Los Angeles, Cultural Affairs Department
+51 California Afro-American Museum Foundation purchase
+22 Gift of Michael Rogers
+51 California Afro-American Museum Foundation purchase
+25 Gift of Vertenis Shephard
+51 Gift of Ida Walls Lee in memory of Vermont Jeffries
+15 Museum purchase
+25 Gift of Vertenis Shephard
+67 Gift of Dr. Michel N. Jacoby, in memory of Barbara and Laura Jacoby
+28 Gift of Myron and Dawn Glenn
+34 Gift of Regina and Ursula Holloman
+34 Gift of Dr. and Mrs. Leon O. Banks
+29 Gift of Warner Bros. Pictures
+15 Museum purchase
+
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium
+100
+36 Dyed man-made fabric, wire and beads
+20 Gelatin silver print
+50 vinyl LP record, paper album sleeve, plastic cover
+11 rotogravure
+13 printed paper
+13 Oil on canvas
+21 mixed media and glass
+5 Paper
+22 paper, lithography ink
+21 bronze on marble base
+4 Wood
+12 Oil on paper
+20 Gelatin silver print
+10 Photograph
+15 Enamel on metal
+19 Lithograph on paper
+4 Wood
+22 paper, lithography ink
+67 bisque, paint, mohair wig, metal pin, nylon tulle, satin and cotton
+20 Gelatin silver print
+10 Photograph
+22 Textile/cloth, beading
+34 Mixed media construction on canvas
+21 Textile/cloth; beaded
+20 Textile/cloth, beads
+17 Chromogenic print
+20 Ink on paper program
+11 rotogravure
+50 vinyl LP record, paper album sleeve, plastic cover
+9 Serigraph
+9 serigraph
+10 Lithograph
+48 Dyed cotton fabric, leather packets and fetishes
+9 serigraph
+11 Mixed media
+7 various
+16 Color photograph
+16 Pencil on paper.
+22 Haitian oils on canvas
+11 Stereograph
+4 Wood
+16 Wood and pigment
+10 Photograph
+40 Carved and painted wood with dyed raffia
+17 Chromogenic print
+66 bisque, paint, mohair wig, felt, metal pin, felt, satin and cotton
+23 Stereograph photography
+21 Mixed media sculpture
+28 Mixed media collage on paper
+15 Brass and steel
+20 Gelatin silver print
+16 Pencil on paper.
+35 Mixed media assemblage construction
+16 Pencil on paper.
+18 Glazed earthenware
+20 ferrotype photograph
+20 Gelatin silver print
+37 Serigraph on Fabriano Rosaspina paper
+16 Pencil on paper.
+9 Serigraph
+10 Photograph
+56 Wood, plastic, Masonite, brass, Plexiglas, acrylic paint
+23 welded bronze sculpture
+13 Oil on canvas
+10 photograph
+13 Oil on canvas
+10 photograph
+20 Gelatin silver print
+13 Ink on vellum
+11 Mixed media
+17 Chromogenic print
+75 wood, paper, paint, fabric, glass, feathers, fibers, beads, plastic objects
+9 Serigraph
+29 Photo-mechanical reproduction
+7 Linocut
+17 Ceramic and glaze
+10 Photograph
+23 Carved and stained wood
+20 Gelatin silver print
+16 color photograph
+21 Wood, traces of chalk
+21 bronze on marble base
+60 Black and white photograph dry mounted on illustration board
+10 Lithograph
+12 Ink on paper
+20 Gelatin silver print
+20 Gelatin silver print
+20 wood with polychromy
+12 ink on paper
+7 Linocut
+15 Vinyl and paper
+12 Oil on paper
+24 Bronze with black patina
+81 A reconstructed 1930s chair with enamels, photographs, quotes and a radiator base
+23 Photograph and Negative
+10 photograph
+22 paper, lithography ink
+47 Offset lithograph with brass top & bottom edges
+29 Photo-mechanical reproduction
+55 Mixed media assemblage: paint, books, board, piano keys
+
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title
+100
+114 Father John LeFarge, S.J. (center) who has sinced passed. One of the founders of the Catholic Interracial Council.
+104 A History of The Mexican War, or Facts For the People, Showing the Relations of the U.S. Govt to Slavery
+30 Springtime in Memphis at Night
+19 REVIEW/54--Outhouse
+36 Hoe, Spirit versus Technology Series
+8 Homework
+11 Crazy quilt
+39 Ken Renard Collection Stage Photography
+74 Willow Glen Rancho, Residence of T.W. Moore, Pescadero, San Mateo Co. Cal.
+22 Doctor Charlotte Brown
+20 Italianate Landscape
+33 (Piano Lesson) Homage to Mary Lou
+34 Landscape, Meadow, House on a Hill
+22 Prevalence of Ritual 4
+20 Leimert Park Village
+8 Carnival
+22 Icarus, Lucifer Flight
+40 Minkisi Figure/Kalunga Heads, series VII
+12 American Pie
+58 The Christmas Dinner Gone Dar now I done tole you so fust,
+37 Nkruma, First Prime Minister of Ghana
+7 Indwell
+16 Spirits Watching
+19 To Sleep With Anger
+46 Miss Bronze California Beauty Pageant for 1963
+15 Boyz n the Hood
+81 United States Army Commission of Allen Allensworth to Chaplain with rank of Major
+10 Lone Woman
+114 Bookmarks in the Pages of Life: Six short stories by Zora Neale Hurston with six original serigraphs by Betye Saar
+19 Landscape, Dockside
+18 Emerging First Man
+47 Best and Belcher Mining Co. [stock certificate]
+50 Mitchell Collection of Black Dolls and Memorabilia
+68 LAs BEST After School Enrichment Program Founder of the Decade award
+26 Bust of Frederick Douglass
+16 Sexteto Habanero
+15 Untitled (vase)
+19 San Francisco, 1849
+20 Encyclopedia Persona
+22 Skillets in the Closet
+15 Untitled (vase)
+44 Dillar a Dollar: Storybook Series (girl) 112
+67 Dartmouth College Concert Series presents: de Paurs Infantry Chorus
+28 The Door (Admissions Office)
+18 The Beastie Parade
+15 Untitled (Fish)
+39 P.O.W., Spirit versus Technology Series
+16 Main St. Mission
+8 The Solo
+32 Untitled (Study for a Sculpture)
+14 Coon Coon Coon
+12 Groovin High
+35 Irving Ganz Presents Jazz  la Carte
+19 To Have and To Hold
+23 Now You Cookin with Gas
+9 U.S. Made
+34 Collection of historic photographs
+54 Dunbar Hotel  4225 So. Central Ave., Los Angeles, Cal.
+28 River, Stay Way From My Door
+21 Ken Renard Collection
+12 Mask, helmet
+43 Mail Order, Spirit versus Technology Series
+15 Profit and Loss
+26 Landscape, Cows and Figure
+30 The Sound of One Hand Clapping
+15 Untitled (Fish)
+79 Wells Fargo Mining Co. Virginia District, Storey County, NV [stock certificate]
+40 LIFE Magazine The Cry That Will Be Heard
+34 Collection of historic photographs
+13 Lidie et Tina
+11 Right There
+9 For Rosey
+48 The Fifteenth Amendment, celebrated May 19, 1870
+42 99th Pursuit Squadron First Annual Banquet
+48 Los Angeles Annual Small Homes Expositions, 1930
+10 Fort Lewis
+8 Overview
+20 Still Life ( Mexico)
+20 Untitled (Tree Lift)
+16 Mother Catherine
+8 Untitled
+45 Bunch O Blackberries (Cake Walk and Two-Step)
+114 Bookmarks in the Pages of Life: Six short stories by Zora Neale Hurston with six original serigraphs by Betye Saar
+34 S/he in the Middle of Some Changes
+44 Life in a Day of Black LA: The Way We See It
+46 Company L 24th Infantry - Ft. Benning, Georgia
+254 The Right of Petition; The Power of Congress to Abolish Slavery and the Slave Trade in The District of Columbia; the Implied Faith of the North and the South to Each Other in Forming the Constitution; and the Principles, Purposes, and Prospects of Abolit
+15 Untitled (bird)
+43  Negroes Driven South By The Rebel Officers
+52 Made in Mississippi, Spirit versus Technology Series
+34 Collection of historic photographs
+61 When he Plays Jazz, hes Got--Hot Lips (A Blues Fox Trot Song)
+21 Divination Board, Ifa
+13 Little Walter
+31 Caricature of Vertenis Shephard
+9 Pool Hall
+45 Bird and Diz, Spirit versus Technology Series
+26 Oxen, Cart and Two figures
+34 Collection of historic photographs
+8 Untitled
+
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel
+100
+7 HISTORY
+10 VISUAL ART
+7 HISTORY
+7 HISTORY
+10 VISUAL ART
+7 HISTORY
+10 VISUAL ART
+10 VISUAL ART
+7 HISTORY
+10 VISUAL ART
+7 HISTORY
+7 HISTORY
+7 HISTORY
+10 VISUAL ART
+10 VISUAL ART
+7 HISTORY
+10 VISUAL ART
+7 HISTORY
+7 HISTORY
+10 VISUAL ART
+10 VISUAL ART
+10 VISUAL ART
+16 LIBRARY/ARCHIVES
+10 VISUAL ART
+10 VISUAL ART
+10 VISUAL ART
+10 VISUAL ART
+10 VISUAL ART
+10 VISUAL ART
+7 HISTORY
+10 VISUAL ART
+10 VISUAL ART
+16 LIBRARY/ARCHIVES
+10 VISUAL ART
+7 HISTORY
+10 VISUAL ART
+10 VISUAL ART
+10 VISUAL ART
+7 HISTORY
+10 VISUAL ART
+7 HISTORY
+16 LIBRARY/ARCHIVES
+7 HISTORY
+10 VISUAL ART
+7 HISTORY
+10 VISUAL ART
+10 VISUAL ART
+7 HISTORY
+7 HISTORY
+10 VISUAL ART
+10 VISUAL ART
+10 VISUAL ART
+10 VISUAL ART
+10 VISUAL ART
+7 HISTORY
+10 VISUAL ART
+7 HISTORY
+7 HISTORY
+10 VISUAL ART
+10 VISUAL ART
+7 HISTORY
+10 VISUAL ART
+10 VISUAL ART
+10 VISUAL ART
+10 VISUAL ART
+10 VISUAL ART
+7 HISTORY
+10 VISUAL ART
+10 VISUAL ART
+10 VISUAL ART
+10 VISUAL ART
+16 LIBRARY/ARCHIVES
+10 VISUAL ART
+7 HISTORY
+7 HISTORY
+10 VISUAL ART
+16 LIBRARY/ARCHIVES
+7 HISTORY
+10 VISUAL ART
+10 VISUAL ART
+7 HISTORY
+10 VISUAL ART
+10 VISUAL ART
+7 HISTORY
+7 HISTORY
+10 VISUAL ART
+10 VISUAL ART
+10 VISUAL ART
+7 HISTORY
+7 HISTORY
+7 HISTORY
+7 HISTORY
+7 HISTORY
+7 HISTORY
+10 VISUAL ART
+7 HISTORY
+7 HISTORY
+16 LIBRARY/ARCHIVES
+10 VISUAL ART
+10 VISUAL ART
+
+http://xmlns.com/foaf/0.1/Document|http://isi.edu/integration/karma/dev#classLink
+100
+421 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Ibo+People+of+Nigeria&whereclausewhere+maker%3D%27Ibo+People+of+Nigeria%27+OR+cleanmaker%3D%27Ibo+People+of+Nigeria%27+OR+maker1%3D%27Ibo+People+of+Nigeria%27+OR+maker2%3D%27Ibo+People+of+Nigeria%27+OR+maker3%3D%27Ibo+People+of+Nigeria%27+OR+maker4%3D%27Ibo+People+of+Nigeria%27+OR+maker5%3D%27Ibo+People+of+Nigeria%27&current_record4
+405 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Mildred+E%2E+Blount&whereclausewhere+maker%3D%27Mildred+E%2E+Blount%27+OR+cleanmaker%3D%27Mildred+E%2E+Blount%27+OR+maker1%3D%27Mildred+E%2E+Blount%27+OR+maker2%3D%27Mildred+E%2E+Blount%27+OR+maker3%3D%27Mildred+E%2E+Blount%27+OR+maker4%3D%27Mildred+E%2E+Blount%27+OR+maker5%3D%27Mildred+E%2E+Blount%27&current_record2
+469 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+John+Thomas+Riddle%2C+Jr%2E&whereclausewhere+maker%3D%27John+Thomas+Riddle%2C+Jr%2E%27+OR+cleanmaker%3D%27John+Thomas+Riddle%2C+Jr%2E%27+OR+maker1%3D%27John+Thomas+Riddle%2C+Jr%2E%27+OR+maker2%3D%27John+Thomas+Riddle%2C+Jr%2E%27+OR+maker3%3D%27John+Thomas+Riddle%2C+Jr%2E%27+OR+maker4%3D%27John+Thomas+Riddle%2C+Jr%2E%27+OR+maker5%3D%27John+Thomas+Riddle%2C+Jr%2E%27&current_record1
+325 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Ed+Dwight&whereclausewhere+maker%3D%27Ed+Dwight%27+OR+cleanmaker%3D%27Ed+Dwight%27+OR+maker1%3D%27Ed+Dwight%27+OR+maker2%3D%27Ed+Dwight%27+OR+maker3%3D%27Ed+Dwight%27+OR+maker4%3D%27Ed+Dwight%27+OR+maker5%3D%27Ed+Dwight%27&current_record4
+333 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Betye+Saar&whereclausewhere+maker%3D%27Betye+Saar%27+OR+cleanmaker%3D%27Betye+Saar%27+OR+maker1%3D%27Betye+Saar%27+OR+maker2%3D%27Betye+Saar%27+OR+maker3%3D%27Betye+Saar%27+OR+maker4%3D%27Betye+Saar%27+OR+maker5%3D%27Betye+Saar%27&current_record4
+325 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Don+Loper&whereclausewhere+maker%3D%27Don+Loper%27+OR+cleanmaker%3D%27Don+Loper%27+OR+maker1%3D%27Don+Loper%27+OR+maker2%3D%27Don+Loper%27+OR+maker3%3D%27Don+Loper%27+OR+maker4%3D%27Don+Loper%27+OR+maker5%3D%27Don+Loper%27&current_record5
+701 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+National+Aeronautics+and+Space+Administration+%28NASA%29&whereclausewhere+maker%3D%27National+Aeronautics+and+Space+Administration+%28NASA%29%27+OR+cleanmaker%3D%27National+Aeronautics+and+Space+Administration+%28NASA%29%27+OR+maker1%3D%27National+Aeronautics+and+Space+Administration+%28NASA%29%27+OR+maker2%3D%27National+Aeronautics+and+Space+Administration+%28NASA%29%27+OR+maker3%3D%27National+Aeronautics+and+Space+Administration+%28NASA%29%27+OR+maker4%3D%27National+Aeronautics+and+Space+Administration+%28NASA%29%27+OR+maker5%3D%27National+Aeronautics+and+Space+Administration+%28NASA%29%27&current_record1
+453 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Edward+Mitchell+Bannister&whereclausewhere+maker%3D%27Edward+Mitchell+Bannister%27+OR+cleanmaker%3D%27Edward+Mitchell+Bannister%27+OR+maker1%3D%27Edward+Mitchell+Bannister%27+OR+maker2%3D%27Edward+Mitchell+Bannister%27+OR+maker3%3D%27Edward+Mitchell+Bannister%27+OR+maker4%3D%27Edward+Mitchell+Bannister%27+OR+maker5%3D%27Edward+Mitchell+Bannister%27&current_record7
+421 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Mali%2C+Bamana+people&whereclausewhere+maker%3D%27Mali%2C+Bamana+people%27+OR+cleanmaker%3D%27Mali%2C+Bamana+people%27+OR+maker1%3D%27Mali%2C+Bamana+people%27+OR+maker2%3D%27Mali%2C+Bamana+people%27+OR+maker3%3D%27Mali%2C+Bamana+people%27+OR+maker4%3D%27Mali%2C+Bamana+people%27+OR+maker5%3D%27Mali%2C+Bamana+people%27&current_record1
+445 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Chamba+people+of+Nigeria&whereclausewhere+maker%3D%27Chamba+people+of+Nigeria%27+OR+cleanmaker%3D%27Chamba+people+of+Nigeria%27+OR+maker1%3D%27Chamba+people+of+Nigeria%27+OR+maker2%3D%27Chamba+people+of+Nigeria%27+OR+maker3%3D%27Chamba+people+of+Nigeria%27+OR+maker4%3D%27Chamba+people+of+Nigeria%27+OR+maker5%3D%27Chamba+people+of+Nigeria%27&current_record2
+389 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Charles+Robertson&whereclausewhere+maker%3D%27Charles+Robertson%27+OR+cleanmaker%3D%27Charles+Robertson%27+OR+maker1%3D%27Charles+Robertson%27+OR+maker2%3D%27Charles+Robertson%27+OR+maker3%3D%27Charles+Robertson%27+OR+maker4%3D%27Charles+Robertson%27+OR+maker5%3D%27Charles+Robertson%27&current_record1
+501 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Rawlings+Sporting+Goods+Company&whereclausewhere+maker%3D%27Rawlings+Sporting+Goods+Company%27+OR+cleanmaker%3D%27Rawlings+Sporting+Goods+Company%27+OR+maker1%3D%27Rawlings+Sporting+Goods+Company%27+OR+maker2%3D%27Rawlings+Sporting+Goods+Company%27+OR+maker3%3D%27Rawlings+Sporting+Goods+Company%27+OR+maker4%3D%27Rawlings+Sporting+Goods+Company%27+OR+maker5%3D%27Rawlings+Sporting+Goods+Company%27&current_record1
+413 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Prentice+Herman+Polk&whereclausewhere+maker%3D%27Prentice+Herman+Polk%27+OR+cleanmaker%3D%27Prentice+Herman+Polk%27+OR+maker1%3D%27Prentice+Herman+Polk%27+OR+maker2%3D%27Prentice+Herman+Polk%27+OR+maker3%3D%27Prentice+Herman+Polk%27+OR+maker4%3D%27Prentice+Herman+Polk%27+OR+maker5%3D%27Prentice+Herman+Polk%27&current_record3
+365 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Jacob+Lawrence&whereclausewhere+maker%3D%27Jacob+Lawrence%27+OR+cleanmaker%3D%27Jacob+Lawrence%27+OR+maker1%3D%27Jacob+Lawrence%27+OR+maker2%3D%27Jacob+Lawrence%27+OR+maker3%3D%27Jacob+Lawrence%27+OR+maker4%3D%27Jacob+Lawrence%27+OR+maker5%3D%27Jacob+Lawrence%27&current_record7
+357 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Milton+Bowens&whereclausewhere+maker%3D%27Milton+Bowens%27+OR+cleanmaker%3D%27Milton+Bowens%27+OR+maker1%3D%27Milton+Bowens%27+OR+maker2%3D%27Milton+Bowens%27+OR+maker3%3D%27Milton+Bowens%27+OR+maker4%3D%27Milton+Bowens%27+OR+maker5%3D%27Milton+Bowens%27&current_record2
+405 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+LeRoy+W%2E+Jeffries&whereclausewhere+maker%3D%27LeRoy+W%2E+Jeffries%27+OR+cleanmaker%3D%27LeRoy+W%2E+Jeffries%27+OR+maker1%3D%27LeRoy+W%2E+Jeffries%27+OR+maker2%3D%27LeRoy+W%2E+Jeffries%27+OR+maker3%3D%27LeRoy+W%2E+Jeffries%27+OR+maker4%3D%27LeRoy+W%2E+Jeffries%27+OR+maker5%3D%27LeRoy+W%2E+Jeffries%27&current_record9
+429 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Samuel+Goldwyn+Company&whereclausewhere+maker%3D%27Samuel+Goldwyn+Company%27+OR+cleanmaker%3D%27Samuel+Goldwyn+Company%27+OR+maker1%3D%27Samuel+Goldwyn+Company%27+OR+maker2%3D%27Samuel+Goldwyn+Company%27+OR+maker3%3D%27Samuel+Goldwyn+Company%27+OR+maker4%3D%27Samuel+Goldwyn+Company%27+OR+maker5%3D%27Samuel+Goldwyn+Company%27&current_record1
+357 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Doris+Brandon&whereclausewhere+maker%3D%27Doris+Brandon%27+OR+cleanmaker%3D%27Doris+Brandon%27+OR+maker1%3D%27Doris+Brandon%27+OR+maker2%3D%27Doris+Brandon%27+OR+maker3%3D%27Doris+Brandon%27+OR+maker4%3D%27Doris+Brandon%27+OR+maker5%3D%27Doris+Brandon%27&current_record4
+429 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Sargent+Claude+Johnson&whereclausewhere+maker%3D%27Sargent+Claude+Johnson%27+OR+cleanmaker%3D%27Sargent+Claude+Johnson%27+OR+maker1%3D%27Sargent+Claude+Johnson%27+OR+maker2%3D%27Sargent+Claude+Johnson%27+OR+maker3%3D%27Sargent+Claude+Johnson%27+OR+maker4%3D%27Sargent+Claude+Johnson%27+OR+maker5%3D%27Sargent+Claude+Johnson%27&current_record1
+461 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Arranged+by+Edward+Boatner&whereclausewhere+maker%3D%27Arranged+by+Edward+Boatner%27+OR+cleanmaker%3D%27Arranged+by+Edward+Boatner%27+OR+maker1%3D%27Arranged+by+Edward+Boatner%27+OR+maker2%3D%27Arranged+by+Edward+Boatner%27+OR+maker3%3D%27Arranged+by+Edward+Boatner%27+OR+maker4%3D%27Arranged+by+Edward+Boatner%27+OR+maker5%3D%27Arranged+by+Edward+Boatner%27&current_record1
+333 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Kim+Abeles&whereclausewhere+maker%3D%27Kim+Abeles%27+OR+cleanmaker%3D%27Kim+Abeles%27+OR+maker1%3D%27Kim+Abeles%27+OR+maker2%3D%27Kim+Abeles%27+OR+maker3%3D%27Kim+Abeles%27+OR+maker4%3D%27Kim+Abeles%27+OR+maker5%3D%27Kim+Abeles%27&current_record2
+365 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Romare+Bearden&whereclausewhere+maker%3D%27Romare+Bearden%27+OR+cleanmaker%3D%27Romare+Bearden%27+OR+maker1%3D%27Romare+Bearden%27+OR+maker2%3D%27Romare+Bearden%27+OR+maker3%3D%27Romare+Bearden%27+OR+maker4%3D%27Romare+Bearden%27+OR+maker5%3D%27Romare+Bearden%27&current_record4
+493 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Nigeria%2C+Benin%2C+Edo+People&whereclausewhere+maker%3D%27Nigeria%2C+Benin%2C+Edo+People%27+OR+cleanmaker%3D%27Nigeria%2C+Benin%2C+Edo+People%27+OR+maker1%3D%27Nigeria%2C+Benin%2C+Edo+People%27+OR+maker2%3D%27Nigeria%2C+Benin%2C+Edo+People%27+OR+maker3%3D%27Nigeria%2C+Benin%2C+Edo+People%27+OR+maker4%3D%27Nigeria%2C+Benin%2C+Edo+People%27+OR+maker5%3D%27Nigeria%2C+Benin%2C+Edo+People%27&current_record2
+437 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Bobo+of+the+Ivory+Coast&whereclausewhere+maker%3D%27Bobo+of+the+Ivory+Coast%27+OR+cleanmaker%3D%27Bobo+of+the+Ivory+Coast%27+OR+maker1%3D%27Bobo+of+the+Ivory+Coast%27+OR+maker2%3D%27Bobo+of+the+Ivory+Coast%27+OR+maker3%3D%27Bobo+of+the+Ivory+Coast%27+OR+maker4%3D%27Bobo+of+the+Ivory+Coast%27+OR+maker5%3D%27Bobo+of+the+Ivory+Coast%27&current_record1
+389 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+James+Van+der+Zee&whereclausewhere+maker%3D%27James+Van+der+Zee%27+OR+cleanmaker%3D%27James+Van+der+Zee%27+OR+maker1%3D%27James+Van+der+Zee%27+OR+maker2%3D%27James+Van+der+Zee%27+OR+maker3%3D%27James+Van+der+Zee%27+OR+maker4%3D%27James+Van+der+Zee%27+OR+maker5%3D%27James+Van+der+Zee%27&current_record1
+349 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Sierra+Leone&whereclausewhere+maker%3D%27Sierra+Leone%27+OR+cleanmaker%3D%27Sierra+Leone%27+OR+maker1%3D%27Sierra+Leone%27+OR+maker2%3D%27Sierra+Leone%27+OR+maker3%3D%27Sierra+Leone%27+OR+maker4%3D%27Sierra+Leone%27+OR+maker5%3D%27Sierra+Leone%27&current_record1
+349 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Post+Studios&whereclausewhere+maker%3D%27Post+Studios%27+OR+cleanmaker%3D%27Post+Studios%27+OR+maker1%3D%27Post+Studios%27+OR+maker2%3D%27Post+Studios%27+OR+maker3%3D%27Post+Studios%27+OR+maker4%3D%27Post+Studios%27+OR+maker5%3D%27Post+Studios%27&current_record1
+389 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Columbia+Pictures&whereclausewhere+maker%3D%27Columbia+Pictures%27+OR+cleanmaker%3D%27Columbia+Pictures%27+OR+maker1%3D%27Columbia+Pictures%27+OR+maker2%3D%27Columbia+Pictures%27+OR+maker3%3D%27Columbia+Pictures%27+OR+maker4%3D%27Columbia+Pictures%27+OR+maker5%3D%27Columbia+Pictures%27&current_record1
+389 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+S%2ET%2E+Blessing&whereclausewhere+maker%3D%27S%2ET%2E+Blessing%27+OR+cleanmaker%3D%27S%2ET%2E+Blessing%27+OR+maker1%3D%27S%2ET%2E+Blessing%27+OR+maker2%3D%27S%2ET%2E+Blessing%27+OR+maker3%3D%27S%2ET%2E+Blessing%27+OR+maker4%3D%27S%2ET%2E+Blessing%27+OR+maker5%3D%27S%2ET%2E+Blessing%27&current_record1
+1013 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+assembled+by+William+Spiller%2C+Sr%2E%2FGeorge+M%2E+Cutler%2C+Jr%2E%5Bcommercial+photographs%5D&whereclausewhere+maker%3D%27assembled+by+William+Spiller%2C+Sr%2E%2FGeorge+M%2E+Cutler%2C+Jr%2E%5Bcommercial+photographs%5D%27+OR+cleanmaker%3D%27assembled+by+William+Spiller%2C+Sr%2E%2FGeorge+M%2E+Cutler%2C+Jr%2E%5Bcommercial+photographs%5D%27+OR+maker1%3D%27assembled+by+William+Spiller%2C+Sr%2E%2FGeorge+M%2E+Cutler%2C+Jr%2E%5Bcommercial+photographs%5D%27+OR+maker2%3D%27assembled+by+William+Spiller%2C+Sr%2E%2FGeorge+M%2E+Cutler%2C+Jr%2E%5Bcommercial+photographs%5D%27+OR+maker3%3D%27assembled+by+William+Spiller%2C+Sr%2E%2FGeorge+M%2E+Cutler%2C+Jr%2E%5Bcommercial+photographs%5D%27+OR+maker4%3D%27assembled+by+William+Spiller%2C+Sr%2E%2FGeorge+M%2E+Cutler%2C+Jr%2E%5Bcommercial+photographs%5D%27+OR+maker5%3D%27assembled+by+William+Spiller%2C+Sr%2E%2FGeorge+M%2E+Cutler%2C+Jr%2E%5Bcommercial+photographs%5D%27&current_record1
+365 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Romare+Bearden&whereclausewhere+maker%3D%27Romare+Bearden%27+OR+cleanmaker%3D%27Romare+Bearden%27+OR+maker1%3D%27Romare+Bearden%27+OR+maker2%3D%27Romare+Bearden%27+OR+maker3%3D%27Romare+Bearden%27+OR+maker4%3D%27Romare+Bearden%27+OR+maker5%3D%27Romare+Bearden%27&current_record2
+445 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Yoruba+people+of+Nigeria&whereclausewhere+maker%3D%27Yoruba+people+of+Nigeria%27+OR+cleanmaker%3D%27Yoruba+people+of+Nigeria%27+OR+maker1%3D%27Yoruba+people+of+Nigeria%27+OR+maker2%3D%27Yoruba+people+of+Nigeria%27+OR+maker3%3D%27Yoruba+people+of+Nigeria%27+OR+maker4%3D%27Yoruba+people+of+Nigeria%27+OR+maker5%3D%27Yoruba+people+of+Nigeria%27&current_record3
+405 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+William+E%2E+Pajaud&whereclausewhere+maker%3D%27William+E%2E+Pajaud%27+OR+cleanmaker%3D%27William+E%2E+Pajaud%27+OR+maker1%3D%27William+E%2E+Pajaud%27+OR+maker2%3D%27William+E%2E+Pajaud%27+OR+maker3%3D%27William+E%2E+Pajaud%27+OR+maker4%3D%27William+E%2E+Pajaud%27+OR+maker5%3D%27William+E%2E+Pajaud%27&current_record7
+406 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Grafton+Tyler+Brown&whereclausewhere+maker%3D%27Grafton+Tyler+Brown%27+OR+cleanmaker%3D%27Grafton+Tyler+Brown%27+OR+maker1%3D%27Grafton+Tyler+Brown%27+OR+maker2%3D%27Grafton+Tyler+Brown%27+OR+maker3%3D%27Grafton+Tyler+Brown%27+OR+maker4%3D%27Grafton+Tyler+Brown%27+OR+maker5%3D%27Grafton+Tyler+Brown%27&current_record18
+397 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Bruno+of+Hollywood&whereclausewhere+maker%3D%27Bruno+of+Hollywood%27+OR+cleanmaker%3D%27Bruno+of+Hollywood%27+OR+maker1%3D%27Bruno+of+Hollywood%27+OR+maker2%3D%27Bruno+of+Hollywood%27+OR+maker3%3D%27Bruno+of+Hollywood%27+OR+maker4%3D%27Bruno+of+Hollywood%27+OR+maker5%3D%27Bruno+of+Hollywood%27&current_record1
+406 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Grafton+Tyler+Brown&whereclausewhere+maker%3D%27Grafton+Tyler+Brown%27+OR+cleanmaker%3D%27Grafton+Tyler+Brown%27+OR+maker1%3D%27Grafton+Tyler+Brown%27+OR+maker2%3D%27Grafton+Tyler+Brown%27+OR+maker3%3D%27Grafton+Tyler+Brown%27+OR+maker4%3D%27Grafton+Tyler+Brown%27+OR+maker5%3D%27Grafton+Tyler+Brown%27&current_record13
+525 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+David+Stone+Martin%2C++illustrator&whereclausewhere+maker%3D%27David+Stone+Martin%2C++illustrator%27+OR+cleanmaker%3D%27David+Stone+Martin%2C++illustrator%27+OR+maker1%3D%27David+Stone+Martin%2C++illustrator%27+OR+maker2%3D%27David+Stone+Martin%2C++illustrator%27+OR+maker3%3D%27David+Stone+Martin%2C++illustrator%27+OR+maker4%3D%27David+Stone+Martin%2C++illustrator%27+OR+maker5%3D%27David+Stone+Martin%2C++illustrator%27&current_record1
+477 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Betye+Saar+%5Billustrator%5D&whereclausewhere+maker%3D%27Betye+Saar+%5Billustrator%5D%27+OR+cleanmaker%3D%27Betye+Saar+%5Billustrator%5D%27+OR+maker1%3D%27Betye+Saar+%5Billustrator%5D%27+OR+maker2%3D%27Betye+Saar+%5Billustrator%5D%27+OR+maker3%3D%27Betye+Saar+%5Billustrator%5D%27+OR+maker4%3D%27Betye+Saar+%5Billustrator%5D%27+OR+maker5%3D%27Betye+Saar+%5Billustrator%5D%27&current_record1
+365 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+H%2ER%2E+Irwin&whereclausewhere+maker%3D%27H%2ER%2E+Irwin%27+OR+cleanmaker%3D%27H%2ER%2E+Irwin%27+OR+maker1%3D%27H%2ER%2E+Irwin%27+OR+maker2%3D%27H%2ER%2E+Irwin%27+OR+maker3%3D%27H%2ER%2E+Irwin%27+OR+maker4%3D%27H%2ER%2E+Irwin%27+OR+maker5%3D%27H%2ER%2E+Irwin%27&current_record1
+453 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Francois+Turenne+des+Pres&whereclausewhere+maker%3D%27Francois+Turenne+des+Pres%27+OR+cleanmaker%3D%27Francois+Turenne+des+Pres%27+OR+maker1%3D%27Francois+Turenne+des+Pres%27+OR+maker2%3D%27Francois+Turenne+des+Pres%27+OR+maker3%3D%27Francois+Turenne+des+Pres%27+OR+maker4%3D%27Francois+Turenne+des+Pres%27+OR+maker5%3D%27Francois+Turenne+des+Pres%27&current_record5
+405 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Howard+Lee+Morehead&whereclausewhere+maker%3D%27Howard+Lee+Morehead%27+OR+cleanmaker%3D%27Howard+Lee+Morehead%27+OR+maker1%3D%27Howard+Lee+Morehead%27+OR+maker2%3D%27Howard+Lee+Morehead%27+OR+maker3%3D%27Howard+Lee+Morehead%27+OR+maker4%3D%27Howard+Lee+Morehead%27+OR+maker5%3D%27Howard+Lee+Morehead%27&current_record1
+341 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Ray+Jenkins&whereclausewhere+maker%3D%27Ray+Jenkins%27+OR+cleanmaker%3D%27Ray+Jenkins%27+OR+maker1%3D%27Ray+Jenkins%27+OR+maker2%3D%27Ray+Jenkins%27+OR+maker3%3D%27Ray+Jenkins%27+OR+maker4%3D%27Ray+Jenkins%27+OR+maker5%3D%27Ray+Jenkins%27&current_record1
+893 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Henry+Firk+%5BArtist%2FMaker%5D%2C+Grafton+Tyler+Brown+%5BPrinter%2FPublisher%5D&whereclausewhere+maker%3D%27Henry+Firk+%5BArtist%2FMaker%5D%2C+Grafton+Tyler+Brown+%5BPrinter%2FPublisher%5D%27+OR+cleanmaker%3D%27Henry+Firk+%5BArtist%2FMaker%5D%2C+Grafton+Tyler+Brown+%5BPrinter%2FPublisher%5D%27+OR+maker1%3D%27Henry+Firk+%5BArtist%2FMaker%5D%2C+Grafton+Tyler+Brown+%5BPrinter%2FPublisher%5D%27+OR+maker2%3D%27Henry+Firk+%5BArtist%2FMaker%5D%2C+Grafton+Tyler+Brown+%5BPrinter%2FPublisher%5D%27+OR+maker3%3D%27Henry+Firk+%5BArtist%2FMaker%5D%2C+Grafton+Tyler+Brown+%5BPrinter%2FPublisher%5D%27+OR+maker4%3D%27Henry+Firk+%5BArtist%2FMaker%5D%2C+Grafton+Tyler+Brown+%5BPrinter%2FPublisher%5D%27+OR+maker5%3D%27Henry+Firk+%5BArtist%2FMaker%5D%2C+Grafton+Tyler+Brown+%5BPrinter%2FPublisher%5D%27&current_record1
+493 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Nigeria%2C+Benin%2C+Edo+People&whereclausewhere+maker%3D%27Nigeria%2C+Benin%2C+Edo+People%27+OR+cleanmaker%3D%27Nigeria%2C+Benin%2C+Edo+People%27+OR+maker1%3D%27Nigeria%2C+Benin%2C+Edo+People%27+OR+maker2%3D%27Nigeria%2C+Benin%2C+Edo+People%27+OR+maker3%3D%27Nigeria%2C+Benin%2C+Edo+People%27+OR+maker4%3D%27Nigeria%2C+Benin%2C+Edo+People%27+OR+maker5%3D%27Nigeria%2C+Benin%2C+Edo+People%27&current_record1
+541 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Western+Lithograph+Co%2E+Los+Angeles&whereclausewhere+maker%3D%27Western+Lithograph+Co%2E+Los+Angeles%27+OR+cleanmaker%3D%27Western+Lithograph+Co%2E+Los+Angeles%27+OR+maker1%3D%27Western+Lithograph+Co%2E+Los+Angeles%27+OR+maker2%3D%27Western+Lithograph+Co%2E+Los+Angeles%27+OR+maker3%3D%27Western+Lithograph+Co%2E+Los+Angeles%27+OR+maker4%3D%27Western+Lithograph+Co%2E+Los+Angeles%27+OR+maker5%3D%27Western+Lithograph+Co%2E+Los+Angeles%27&current_record1
+365 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Herbert+Gentry&whereclausewhere+maker%3D%27Herbert+Gentry%27+OR+cleanmaker%3D%27Herbert+Gentry%27+OR+maker1%3D%27Herbert+Gentry%27+OR+maker2%3D%27Herbert+Gentry%27+OR+maker3%3D%27Herbert+Gentry%27+OR+maker4%3D%27Herbert+Gentry%27+OR+maker5%3D%27Herbert+Gentry%27&current_record1
+365 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Jacob+Lawrence&whereclausewhere+maker%3D%27Jacob+Lawrence%27+OR+cleanmaker%3D%27Jacob+Lawrence%27+OR+maker1%3D%27Jacob+Lawrence%27+OR+maker2%3D%27Jacob+Lawrence%27+OR+maker3%3D%27Jacob+Lawrence%27+OR+maker4%3D%27Jacob+Lawrence%27+OR+maker5%3D%27Jacob+Lawrence%27&current_record3
+365 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Jacob+Lawrence&whereclausewhere+maker%3D%27Jacob+Lawrence%27+OR+cleanmaker%3D%27Jacob+Lawrence%27+OR+maker1%3D%27Jacob+Lawrence%27+OR+maker2%3D%27Jacob+Lawrence%27+OR+maker3%3D%27Jacob+Lawrence%27+OR+maker4%3D%27Jacob+Lawrence%27+OR+maker5%3D%27Jacob+Lawrence%27&current_record1
+373 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Robert+Thompson&whereclausewhere+maker%3D%27Robert+Thompson%27+OR+cleanmaker%3D%27Robert+Thompson%27+OR+maker1%3D%27Robert+Thompson%27+OR+maker2%3D%27Robert+Thompson%27+OR+maker3%3D%27Robert+Thompson%27+OR+maker4%3D%27Robert+Thompson%27+OR+maker5%3D%27Robert+Thompson%27&current_record2
+429 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Samuel+Goldwyn+Company&whereclausewhere+maker%3D%27Samuel+Goldwyn+Company%27+OR+cleanmaker%3D%27Samuel+Goldwyn+Company%27+OR+maker1%3D%27Samuel+Goldwyn+Company%27+OR+maker2%3D%27Samuel+Goldwyn+Company%27+OR+maker3%3D%27Samuel+Goldwyn+Company%27+OR+maker4%3D%27Samuel+Goldwyn+Company%27+OR+maker5%3D%27Samuel+Goldwyn+Company%27&current_record2
+365 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Matthew+Thomas&whereclausewhere+maker%3D%27Matthew+Thomas%27+OR+cleanmaker%3D%27Matthew+Thomas%27+OR+maker1%3D%27Matthew+Thomas%27+OR+maker2%3D%27Matthew+Thomas%27+OR+maker3%3D%27Matthew+Thomas%27+OR+maker4%3D%27Matthew+Thomas%27+OR+maker5%3D%27Matthew+Thomas%27&current_record3
+357 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Marvin+Harden&whereclausewhere+maker%3D%27Marvin+Harden%27+OR+cleanmaker%3D%27Marvin+Harden%27+OR+maker1%3D%27Marvin+Harden%27+OR+maker2%3D%27Marvin+Harden%27+OR+maker3%3D%27Marvin+Harden%27+OR+maker4%3D%27Marvin+Harden%27+OR+maker5%3D%27Marvin+Harden%27&current_record1
+429 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Mama+people+of+Nigeria&whereclausewhere+maker%3D%27Mama+people+of+Nigeria%27+OR+cleanmaker%3D%27Mama+people+of+Nigeria%27+OR+maker1%3D%27Mama+people+of+Nigeria%27+OR+maker2%3D%27Mama+people+of+Nigeria%27+OR+maker3%3D%27Mama+people+of+Nigeria%27+OR+maker4%3D%27Mama+people+of+Nigeria%27+OR+maker5%3D%27Mama+people+of+Nigeria%27&current_record1
+805 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+William+B%2E+Reily+%26+Company+%28W%2EB%2ER%2E+%26+Co%2E%2C+Inc%2E%29&whereclausewhere+maker%3D%27William+B%2E+Reily+%26+Company+%28W%2EB%2ER%2E+%26+Co%2E%2C+Inc%2E%29%27+OR+cleanmaker%3D%27William+B%2E+Reily+%26+Company+%28W%2EB%2ER%2E+%26+Co%2E%2C+Inc%2E%29%27+OR+maker1%3D%27William+B%2E+Reily+%26+Company+%28W%2EB%2ER%2E+%26+Co%2E%2C+Inc%2E%29%27+OR+maker2%3D%27William+B%2E+Reily+%26+Company+%28W%2EB%2ER%2E+%26+Co%2E%2C+Inc%2E%29%27+OR+maker3%3D%27William+B%2E+Reily+%26+Company+%28W%2EB%2ER%2E+%26+Co%2E%2C+Inc%2E%29%27+OR+maker4%3D%27William+B%2E+Reily+%26+Company+%28W%2EB%2ER%2E+%26+Co%2E%2C+Inc%2E%29%27+OR+maker5%3D%27William+B%2E+Reily+%26+Company+%28W%2EB%2ER%2E+%26+Co%2E%2C+Inc%2E%29%27&current_record1
+325 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Ed+Dwight&whereclausewhere+maker%3D%27Ed+Dwight%27+OR+cleanmaker%3D%27Ed+Dwight%27+OR+maker1%3D%27Ed+Dwight%27+OR+maker2%3D%27Ed+Dwight%27+OR+maker3%3D%27Ed+Dwight%27+OR+maker4%3D%27Ed+Dwight%27+OR+maker5%3D%27Ed+Dwight%27&current_record3
+373 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Ella+Fitzgerald&whereclausewhere+maker%3D%27Ella+Fitzgerald%27+OR+cleanmaker%3D%27Ella+Fitzgerald%27+OR+maker1%3D%27Ella+Fitzgerald%27+OR+maker2%3D%27Ella+Fitzgerald%27+OR+maker3%3D%27Ella+Fitzgerald%27+OR+maker4%3D%27Ella+Fitzgerald%27+OR+maker5%3D%27Ella+Fitzgerald%27&current_record2
+437 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Ogoni+People+of+Nigeria&whereclausewhere+maker%3D%27Ogoni+People+of+Nigeria%27+OR+cleanmaker%3D%27Ogoni+People+of+Nigeria%27+OR+maker1%3D%27Ogoni+People+of+Nigeria%27+OR+maker2%3D%27Ogoni+People+of+Nigeria%27+OR+maker3%3D%27Ogoni+People+of+Nigeria%27+OR+maker4%3D%27Ogoni+People+of+Nigeria%27+OR+maker5%3D%27Ogoni+People+of+Nigeria%27&current_record4
+334 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Doyle+Lane&whereclausewhere+maker%3D%27Doyle+Lane%27+OR+cleanmaker%3D%27Doyle+Lane%27+OR+maker1%3D%27Doyle+Lane%27+OR+maker2%3D%27Doyle+Lane%27+OR+maker3%3D%27Doyle+Lane%27+OR+maker4%3D%27Doyle+Lane%27+OR+maker5%3D%27Doyle+Lane%27&current_record14
+421 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Edward+Lucien+Toppins&whereclausewhere+maker%3D%27Edward+Lucien+Toppins%27+OR+cleanmaker%3D%27Edward+Lucien+Toppins%27+OR+maker1%3D%27Edward+Lucien+Toppins%27+OR+maker2%3D%27Edward+Lucien+Toppins%27+OR+maker3%3D%27Edward+Lucien+Toppins%27+OR+maker4%3D%27Edward+Lucien+Toppins%27+OR+maker5%3D%27Edward+Lucien+Toppins%27&current_record1
+334 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Doyle+Lane&whereclausewhere+maker%3D%27Doyle+Lane%27+OR+cleanmaker%3D%27Doyle+Lane%27+OR+maker1%3D%27Doyle+Lane%27+OR+maker2%3D%27Doyle+Lane%27+OR+maker3%3D%27Doyle+Lane%27+OR+maker4%3D%27Doyle+Lane%27+OR+maker5%3D%27Doyle+Lane%27&current_record13
+405 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+LeRoy+W%2E+Jeffries&whereclausewhere+maker%3D%27LeRoy+W%2E+Jeffries%27+OR+cleanmaker%3D%27LeRoy+W%2E+Jeffries%27+OR+maker1%3D%27LeRoy+W%2E+Jeffries%27+OR+maker2%3D%27LeRoy+W%2E+Jeffries%27+OR+maker3%3D%27LeRoy+W%2E+Jeffries%27+OR+maker4%3D%27LeRoy+W%2E+Jeffries%27+OR+maker5%3D%27LeRoy+W%2E+Jeffries%27&current_record5
+421 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Robert+H%2E+Colescott&whereclausewhere+maker%3D%27Robert+H%2E+Colescott%27+OR+cleanmaker%3D%27Robert+H%2E+Colescott%27+OR+maker1%3D%27Robert+H%2E+Colescott%27+OR+maker2%3D%27Robert+H%2E+Colescott%27+OR+maker3%3D%27Robert+H%2E+Colescott%27+OR+maker4%3D%27Robert+H%2E+Colescott%27+OR+maker5%3D%27Robert+H%2E+Colescott%27&current_record2
+669 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Mossi+people+of+the+C%F4te+d%92Ivoire%2FBurkina+Faso&whereclausewhere+maker%3D%27Mossi+people+of+the+C%F4te+d%92Ivoire%2FBurkina+Faso%27+OR+cleanmaker%3D%27Mossi+people+of+the+C%F4te+d%92Ivoire%2FBurkina+Faso%27+OR+maker1%3D%27Mossi+people+of+the+C%F4te+d%92Ivoire%2FBurkina+Faso%27+OR+maker2%3D%27Mossi+people+of+the+C%F4te+d%92Ivoire%2FBurkina+Faso%27+OR+maker3%3D%27Mossi+people+of+the+C%F4te+d%92Ivoire%2FBurkina+Faso%27+OR+maker4%3D%27Mossi+people+of+the+C%F4te+d%92Ivoire%2FBurkina+Faso%27+OR+maker5%3D%27Mossi+people+of+the+C%F4te+d%92Ivoire%2FBurkina+Faso%27&current_record1
+373 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Kenya%2C+Griama&whereclausewhere+maker%3D%27Kenya%2C+Griama%27+OR+cleanmaker%3D%27Kenya%2C+Griama%27+OR+maker1%3D%27Kenya%2C+Griama%27+OR+maker2%3D%27Kenya%2C+Griama%27+OR+maker3%3D%27Kenya%2C+Griama%27+OR+maker4%3D%27Kenya%2C+Griama%27+OR+maker5%3D%27Kenya%2C+Griama%27&current_record1
+453 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Columbia+Pictures+Corp%2E&whereclausewhere+maker%3D%27Columbia+Pictures+Corp%2E%27+OR+cleanmaker%3D%27Columbia+Pictures+Corp%2E%27+OR+maker1%3D%27Columbia+Pictures+Corp%2E%27+OR+maker2%3D%27Columbia+Pictures+Corp%2E%27+OR+maker3%3D%27Columbia+Pictures+Corp%2E%27+OR+maker4%3D%27Columbia+Pictures+Corp%2E%27+OR+maker5%3D%27Columbia+Pictures+Corp%2E%27&current_record1
+334 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Betye+Saar&whereclausewhere+maker%3D%27Betye+Saar%27+OR+cleanmaker%3D%27Betye+Saar%27+OR+maker1%3D%27Betye+Saar%27+OR+maker2%3D%27Betye+Saar%27+OR+maker3%3D%27Betye+Saar%27+OR+maker4%3D%27Betye+Saar%27+OR+maker5%3D%27Betye+Saar%27&current_record12
+637 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+attributed+to+Senufo+people+of+C%F4te+d%92Ivoire&whereclausewhere+maker%3D%27attributed+to+Senufo+people+of+C%F4te+d%92Ivoire%27+OR+cleanmaker%3D%27attributed+to+Senufo+people+of+C%F4te+d%92Ivoire%27+OR+maker1%3D%27attributed+to+Senufo+people+of+C%F4te+d%92Ivoire%27+OR+maker2%3D%27attributed+to+Senufo+people+of+C%F4te+d%92Ivoire%27+OR+maker3%3D%27attributed+to+Senufo+people+of+C%F4te+d%92Ivoire%27+OR+maker4%3D%27attributed+to+Senufo+people+of+C%F4te+d%92Ivoire%27+OR+maker5%3D%27attributed+to+Senufo+people+of+C%F4te+d%92Ivoire%27&current_record1
+406 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+LeRoy+W%2E+Jeffries&whereclausewhere+maker%3D%27LeRoy+W%2E+Jeffries%27+OR+cleanmaker%3D%27LeRoy+W%2E+Jeffries%27+OR+maker1%3D%27LeRoy+W%2E+Jeffries%27+OR+maker2%3D%27LeRoy+W%2E+Jeffries%27+OR+maker3%3D%27LeRoy+W%2E+Jeffries%27+OR+maker4%3D%27LeRoy+W%2E+Jeffries%27+OR+maker5%3D%27LeRoy+W%2E+Jeffries%27&current_record20
+421 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Charles+Wilbert+White&whereclausewhere+maker%3D%27Charles+Wilbert+White%27+OR+cleanmaker%3D%27Charles+Wilbert+White%27+OR+maker1%3D%27Charles+Wilbert+White%27+OR+maker2%3D%27Charles+Wilbert+White%27+OR+maker3%3D%27Charles+Wilbert+White%27+OR+maker4%3D%27Charles+Wilbert+White%27+OR+maker5%3D%27Charles+Wilbert+White%27&current_record2
+470 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+John+Thomas+Riddle%2C+Jr%2E&whereclausewhere+maker%3D%27John+Thomas+Riddle%2C+Jr%2E%27+OR+cleanmaker%3D%27John+Thomas+Riddle%2C+Jr%2E%27+OR+maker1%3D%27John+Thomas+Riddle%2C+Jr%2E%27+OR+maker2%3D%27John+Thomas+Riddle%2C+Jr%2E%27+OR+maker3%3D%27John+Thomas+Riddle%2C+Jr%2E%27+OR+maker4%3D%27John+Thomas+Riddle%2C+Jr%2E%27+OR+maker5%3D%27John+Thomas+Riddle%2C+Jr%2E%27&current_record12
+357 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+David+Hammons&whereclausewhere+maker%3D%27David+Hammons%27+OR+cleanmaker%3D%27David+Hammons%27+OR+maker1%3D%27David+Hammons%27+OR+maker2%3D%27David+Hammons%27+OR+maker3%3D%27David+Hammons%27+OR+maker4%3D%27David+Hammons%27+OR+maker5%3D%27David+Hammons%27&current_record1
+437 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+M%2EA%2E+Donohue+%26+Co&whereclausewhere+maker%3D%27M%2EA%2E+Donohue+%26+Co%27+OR+cleanmaker%3D%27M%2EA%2E+Donohue+%26+Co%27+OR+maker1%3D%27M%2EA%2E+Donohue+%26+Co%27+OR+maker2%3D%27M%2EA%2E+Donohue+%26+Co%27+OR+maker3%3D%27M%2EA%2E+Donohue+%26+Co%27+OR+maker4%3D%27M%2EA%2E+Donohue+%26+Co%27+OR+maker5%3D%27M%2EA%2E+Donohue+%26+Co%27&current_record1
+357 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Thomas+Astley&whereclausewhere+maker%3D%27Thomas+Astley%27+OR+cleanmaker%3D%27Thomas+Astley%27+OR+maker1%3D%27Thomas+Astley%27+OR+maker2%3D%27Thomas+Astley%27+OR+maker3%3D%27Thomas+Astley%27+OR+maker4%3D%27Thomas+Astley%27+OR+maker5%3D%27Thomas+Astley%27&current_record1
+357 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Doris+Brandon&whereclausewhere+maker%3D%27Doris+Brandon%27+OR+cleanmaker%3D%27Doris+Brandon%27+OR+maker1%3D%27Doris+Brandon%27+OR+maker2%3D%27Doris+Brandon%27+OR+maker3%3D%27Doris+Brandon%27+OR+maker4%3D%27Doris+Brandon%27+OR+maker5%3D%27Doris+Brandon%27&current_record8
+405 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+LeRoy+W%2E+Jeffries&whereclausewhere+maker%3D%27LeRoy+W%2E+Jeffries%27+OR+cleanmaker%3D%27LeRoy+W%2E+Jeffries%27+OR+maker1%3D%27LeRoy+W%2E+Jeffries%27+OR+maker2%3D%27LeRoy+W%2E+Jeffries%27+OR+maker3%3D%27LeRoy+W%2E+Jeffries%27+OR+maker4%3D%27LeRoy+W%2E+Jeffries%27+OR+maker5%3D%27LeRoy+W%2E+Jeffries%27&current_record7
+373 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Dominique+Moody&whereclausewhere+maker%3D%27Dominique+Moody%27+OR+cleanmaker%3D%27Dominique+Moody%27+OR+maker1%3D%27Dominique+Moody%27+OR+maker2%3D%27Dominique+Moody%27+OR+maker3%3D%27Dominique+Moody%27+OR+maker4%3D%27Dominique+Moody%27+OR+maker5%3D%27Dominique+Moody%27&current_record3
+445 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Yoruba+people+of+Nigeria&whereclausewhere+maker%3D%27Yoruba+people+of+Nigeria%27+OR+cleanmaker%3D%27Yoruba+people+of+Nigeria%27+OR+maker1%3D%27Yoruba+people+of+Nigeria%27+OR+maker2%3D%27Yoruba+people+of+Nigeria%27+OR+maker3%3D%27Yoruba+people+of+Nigeria%27+OR+maker4%3D%27Yoruba+people+of+Nigeria%27+OR+maker5%3D%27Yoruba+people+of+Nigeria%27&current_record7
+597 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Passport+Agency%2C+National+Passport+Center&whereclausewhere+maker%3D%27Passport+Agency%2C+National+Passport+Center%27+OR+cleanmaker%3D%27Passport+Agency%2C+National+Passport+Center%27+OR+maker1%3D%27Passport+Agency%2C+National+Passport+Center%27+OR+maker2%3D%27Passport+Agency%2C+National+Passport+Center%27+OR+maker3%3D%27Passport+Agency%2C+National+Passport+Center%27+OR+maker4%3D%27Passport+Agency%2C+National+Passport+Center%27+OR+maker5%3D%27Passport+Agency%2C+National+Passport+Center%27&current_record1
+341 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Lezley+Saar&whereclausewhere+maker%3D%27Lezley+Saar%27+OR+cleanmaker%3D%27Lezley+Saar%27+OR+maker1%3D%27Lezley+Saar%27+OR+maker2%3D%27Lezley+Saar%27+OR+maker3%3D%27Lezley+Saar%27+OR+maker4%3D%27Lezley+Saar%27+OR+maker5%3D%27Lezley+Saar%27&current_record1
+357 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Punu+of+Gabon&whereclausewhere+maker%3D%27Punu+of+Gabon%27+OR+cleanmaker%3D%27Punu+of+Gabon%27+OR+maker1%3D%27Punu+of+Gabon%27+OR+maker2%3D%27Punu+of+Gabon%27+OR+maker3%3D%27Punu+of+Gabon%27+OR+maker4%3D%27Punu+of+Gabon%27+OR+maker5%3D%27Punu+of+Gabon%27&current_record1
+453 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Edward+Mitchell+Bannister&whereclausewhere+maker%3D%27Edward+Mitchell+Bannister%27+OR+cleanmaker%3D%27Edward+Mitchell+Bannister%27+OR+maker1%3D%27Edward+Mitchell+Bannister%27+OR+maker2%3D%27Edward+Mitchell+Bannister%27+OR+maker3%3D%27Edward+Mitchell+Bannister%27+OR+maker4%3D%27Edward+Mitchell+Bannister%27+OR+maker5%3D%27Edward+Mitchell+Bannister%27&current_record1
+581 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+attributed+to+Cameroon+Grasslands+peoples&whereclausewhere+maker%3D%27attributed+to+Cameroon+Grasslands+peoples%27+OR+cleanmaker%3D%27attributed+to+Cameroon+Grasslands+peoples%27+OR+maker1%3D%27attributed+to+Cameroon+Grasslands+peoples%27+OR+maker2%3D%27attributed+to+Cameroon+Grasslands+peoples%27+OR+maker3%3D%27attributed+to+Cameroon+Grasslands+peoples%27+OR+maker4%3D%27attributed+to+Cameroon+Grasslands+peoples%27+OR+maker5%3D%27attributed+to+Cameroon+Grasslands+peoples%27&current_record1
+365 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Marion+Sampler&whereclausewhere+maker%3D%27Marion+Sampler%27+OR+cleanmaker%3D%27Marion+Sampler%27+OR+maker1%3D%27Marion+Sampler%27+OR+maker2%3D%27Marion+Sampler%27+OR+maker3%3D%27Marion+Sampler%27+OR+maker4%3D%27Marion+Sampler%27+OR+maker5%3D%27Marion+Sampler%27&current_record4
+365 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Kru+of+Liberia&whereclausewhere+maker%3D%27Kru+of+Liberia%27+OR+cleanmaker%3D%27Kru+of+Liberia%27+OR+maker1%3D%27Kru+of+Liberia%27+OR+maker2%3D%27Kru+of+Liberia%27+OR+maker3%3D%27Kru+of+Liberia%27+OR+maker4%3D%27Kru+of+Liberia%27+OR+maker5%3D%27Kru+of+Liberia%27&current_record1
+365 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Phoebe+Beasley&whereclausewhere+maker%3D%27Phoebe+Beasley%27+OR+cleanmaker%3D%27Phoebe+Beasley%27+OR+maker1%3D%27Phoebe+Beasley%27+OR+maker2%3D%27Phoebe+Beasley%27+OR+maker3%3D%27Phoebe+Beasley%27+OR+maker4%3D%27Phoebe+Beasley%27+OR+maker5%3D%27Phoebe+Beasley%27&current_record1
+357 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Milton+Bowens&whereclausewhere+maker%3D%27Milton+Bowens%27+OR+cleanmaker%3D%27Milton+Bowens%27+OR+maker1%3D%27Milton+Bowens%27+OR+maker2%3D%27Milton+Bowens%27+OR+maker3%3D%27Milton+Bowens%27+OR+maker4%3D%27Milton+Bowens%27+OR+maker5%3D%27Milton+Bowens%27&current_record1
+309 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+unknown&whereclausewhere+maker%3D%27unknown%27+OR+cleanmaker%3D%27unknown%27+OR+maker1%3D%27unknown%27+OR+maker2%3D%27unknown%27+OR+maker3%3D%27unknown%27+OR+maker4%3D%27unknown%27+OR+maker5%3D%27unknown%27&current_record7
+669 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Margaret+Walker+and+illustrated+by+Elizabeth+Catlett&whereclausewhere+maker%3D%27Margaret+Walker+and+illustrated+by+Elizabeth+Catlett%27+OR+cleanmaker%3D%27Margaret+Walker+and+illustrated+by+Elizabeth+Catlett%27+OR+maker1%3D%27Margaret+Walker+and+illustrated+by+Elizabeth+Catlett%27+OR+maker2%3D%27Margaret+Walker+and+illustrated+by+Elizabeth+Catlett%27+OR+maker3%3D%27Margaret+Walker+and+illustrated+by+Elizabeth+Catlett%27+OR+maker4%3D%27Margaret+Walker+and+illustrated+by+Elizabeth+Catlett%27+OR+maker5%3D%27Margaret+Walker+and+illustrated+by+Elizabeth+Catlett%27&current_record1
+406 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Grafton+Tyler+Brown&whereclausewhere+maker%3D%27Grafton+Tyler+Brown%27+OR+cleanmaker%3D%27Grafton+Tyler+Brown%27+OR+maker1%3D%27Grafton+Tyler+Brown%27+OR+maker2%3D%27Grafton+Tyler+Brown%27+OR+maker3%3D%27Grafton+Tyler+Brown%27+OR+maker4%3D%27Grafton+Tyler+Brown%27+OR+maker5%3D%27Grafton+Tyler+Brown%27&current_record12
+349 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Tony+Gleaton&whereclausewhere+maker%3D%27Tony+Gleaton%27+OR+cleanmaker%3D%27Tony+Gleaton%27+OR+maker1%3D%27Tony+Gleaton%27+OR+maker2%3D%27Tony+Gleaton%27+OR+maker3%3D%27Tony+Gleaton%27+OR+maker4%3D%27Tony+Gleaton%27+OR+maker5%3D%27Tony+Gleaton%27&current_record2
+357 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Doris+Brandon&whereclausewhere+maker%3D%27Doris+Brandon%27+OR+cleanmaker%3D%27Doris+Brandon%27+OR+maker1%3D%27Doris+Brandon%27+OR+maker2%3D%27Doris+Brandon%27+OR+maker3%3D%27Doris+Brandon%27+OR+maker4%3D%27Doris+Brandon%27+OR+maker5%3D%27Doris+Brandon%27&current_record7
+309 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+various&whereclausewhere+maker%3D%27various%27+OR+cleanmaker%3D%27various%27+OR+maker1%3D%27various%27+OR+maker2%3D%27various%27+OR+maker3%3D%27various%27+OR+maker4%3D%27various%27+OR+maker5%3D%27various%27&current_record4
+405 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Alonzo+Joseph+Davis&whereclausewhere+maker%3D%27Alonzo+Joseph+Davis%27+OR+cleanmaker%3D%27Alonzo+Joseph+Davis%27+OR+maker1%3D%27Alonzo+Joseph+Davis%27+OR+maker2%3D%27Alonzo+Joseph+Davis%27+OR+maker3%3D%27Alonzo+Joseph+Davis%27+OR+maker4%3D%27Alonzo+Joseph+Davis%27+OR+maker5%3D%27Alonzo+Joseph+Davis%27&current_record2
+389 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+John+E%2E+Rozelle&whereclausewhere+maker%3D%27John+E%2E+Rozelle%27+OR+cleanmaker%3D%27John+E%2E+Rozelle%27+OR+maker1%3D%27John+E%2E+Rozelle%27+OR+maker2%3D%27John+E%2E+Rozelle%27+OR+maker3%3D%27John+E%2E+Rozelle%27+OR+maker4%3D%27John+E%2E+Rozelle%27+OR+maker5%3D%27John+E%2E+Rozelle%27&current_record1
+341 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Epicure+Tea&whereclausewhere+maker%3D%27Epicure+Tea%27+OR+cleanmaker%3D%27Epicure+Tea%27+OR+maker1%3D%27Epicure+Tea%27+OR+maker2%3D%27Epicure+Tea%27+OR+maker3%3D%27Epicure+Tea%27+OR+maker4%3D%27Epicure+Tea%27+OR+maker5%3D%27Epicure+Tea%27&current_record1
+429 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Bambara+people+of+Mali&whereclausewhere+maker%3D%27Bambara+people+of+Mali%27+OR+cleanmaker%3D%27Bambara+people+of+Mali%27+OR+maker1%3D%27Bambara+people+of+Mali%27+OR+maker2%3D%27Bambara+people+of+Mali%27+OR+maker3%3D%27Bambara+people+of+Mali%27+OR+maker4%3D%27Bambara+people+of+Mali%27+OR+maker5%3D%27Bambara+people+of+Mali%27&current_record1
+405 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Grafton+Tyler+Brown&whereclausewhere+maker%3D%27Grafton+Tyler+Brown%27+OR+cleanmaker%3D%27Grafton+Tyler+Brown%27+OR+maker1%3D%27Grafton+Tyler+Brown%27+OR+maker2%3D%27Grafton+Tyler+Brown%27+OR+maker3%3D%27Grafton+Tyler+Brown%27+OR+maker4%3D%27Grafton+Tyler+Brown%27+OR+maker5%3D%27Grafton+Tyler+Brown%27&current_record1
+461 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Bert+Kalmar+and+Harry+Ruby&whereclausewhere+maker%3D%27Bert+Kalmar+and+Harry+Ruby%27+OR+cleanmaker%3D%27Bert+Kalmar+and+Harry+Ruby%27+OR+maker1%3D%27Bert+Kalmar+and+Harry+Ruby%27+OR+maker2%3D%27Bert+Kalmar+and+Harry+Ruby%27+OR+maker3%3D%27Bert+Kalmar+and+Harry+Ruby%27+OR+maker4%3D%27Bert+Kalmar+and+Harry+Ruby%27+OR+maker5%3D%27Bert+Kalmar+and+Harry+Ruby%27&current_record1
+446 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Yoruba+people+of+Nigeria&whereclausewhere+maker%3D%27Yoruba+people+of+Nigeria%27+OR+cleanmaker%3D%27Yoruba+people+of+Nigeria%27+OR+maker1%3D%27Yoruba+people+of+Nigeria%27+OR+maker2%3D%27Yoruba+people+of+Nigeria%27+OR+maker3%3D%27Yoruba+people+of+Nigeria%27+OR+maker4%3D%27Yoruba+people+of+Nigeria%27+OR+maker5%3D%27Yoruba+people+of+Nigeria%27&current_record10
+642 http://trio.caamuseum.org/itemdetail.asp?searchdescRecords+where+the+Artist%2FMaker+is+Blackwell%27s+Durham+Tobacco+Company%2C+Inc%2E&whereclausewhere+maker%3D%27Blackwell%27%27s+Durham+Tobacco+Company%2C+Inc%2E%27+OR+cleanmaker%3D%27Blackwell%27%27s+Durham+Tobacco+Company%2C+Inc%2E%27+OR+maker1%3D%27Blackwell%27%27s+Durham+Tobacco+Company%2C+Inc%2E%27+OR+maker2%3D%27Blackwell%27%27s+Durham+Tobacco+Company%2C+Inc%2E%27+OR+maker3%3D%27Blackwell%27%27s+Durham+Tobacco+Company%2C+Inc%2E%27+OR+maker4%3D%27Blackwell%27%27s+Durham+Tobacco+Company%2C+Inc%2E%27+OR+maker5%3D%27Blackwell%27%27s+Durham+Tobacco+Company%2C+Inc%2E%27&current_record1
+
+http://metadata.net/harmony/abc#Place|http://www.w3.org/2000/01/rdf-schema#label
+53
+12 Arizona, USA
+41 Mississippi and District of Columbia, USA
+15 California, USA
+15 California, USA
+15 California, USA
+15 California, USA
+17 Rhode Island, USA
+15 California, USA
+15 California, USA
+15 California, USA
+28 New York and California, USA
+13 New York, USA
+41 New York and Pennsylvania, USA and Sweden
+15 California, USA
+26 New York and Illinois, USA
+13 Colorado, USA
+17 Rhode Island, USA
+28 California and New York, USA
+6 Mexico
+15 California, USA
+15 California, USA
+17 Rhode Island, USA
+14 Louisiana, USA
+29 California and Tennessee, USA
+15 California, USA
+34 New York and Washington State, USA
+15 California, USA
+34 New York and Washington State, USA
+15 California, USA
+9 Ohio, USA
+15 California, USA
+12 Alabama, USA
+15 California, USA
+15 California, USA
+15 California, USA
+17 Rhode Island, USA
+15 California, USA
+15 California, USA
+15 California, USA
+17 Rhode Island, USA
+15 California, USA
+14 California,USA
+17 New York, NY, USA
+15 California, USA
+22 San Francisco, CA, USA
+15 California, USA
+30 New York and Pennsylvania, USA
+15 California, USA
+15 California, USA
+15 California, USA
+15 California, USA
+15 California, USA
+17 Rhode Island, USA
+
+515
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber after_decimal_len_1 23.947333085286054
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber after_decimal_len_2 14.792168113853855
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber after_decimal_len_0 -0.9250444353654003
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber after_decimal_len_4 -0.41610172850601423
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber num_len_6 11.885252058466115
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber num_len_3 4.15354647553422
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber symbol_. 4.731776377612557
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber num_len_9 8.17037505089078
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber num_len_8 5.972623489112191
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber num_len_7 11.209348999020913
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber num_len_1 5.335039544189553
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber num_len_2 -6.330616354434724
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber tenth_place_digit_1 10.015034186086169
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber tenth_place_digit_3 0.5108091215068034
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber tenth_place_digit_2 10.363691781398838
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber tenth_place_digit_5 -1.1283369413914466
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber tenth_place_digit_4 5.246711880332358
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber tenth_place_digit_7 4.714600714604542
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber all_capitalized_token 15.372190948622462
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber starts_with_char_C -1.5980010570126835
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber starts_with_char_B -2.318489884356494
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber starts_with_char_D -4.209176864793672
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber starts_with_char_A 15.713617993335557
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber starts_with_char_G -1.8693348909861214
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber starts_with_char_S -4.807111941667111
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber starting_digit_3 -0.5377160361182228
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber starting_digit_2 10.198267900790022
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber starting_digit_1 9.959282034170773
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber unit_place_digit_6 -2.9246283506106936
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber unit_place_digit_5 0.9926731473975586
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber unit_place_digit_8 3.315144844371912
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber unit_place_digit_0 -0.07859522162093116
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber unit_place_digit_1 4.5266225128367585
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber unit_place_digit_2 2.9455444698797733
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber unit_place_digit_3 3.401192422232136
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber unit_place_digit_4 -0.828338989614229
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber before_decimal_len_4 14.097973760424297
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber before_decimal_len_5 13.139577547865974
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber before_decimal_len_6 8.619561391023938
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber alpha_length_4 -12.891901823282549
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber before_decimal_len_0 12.712214590462315
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber before_decimal_len_1 2.7500915336717426
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber alpha_length_2 6.108572459151912
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber alpha_length_1 -7.915996147538239
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber before_decimal_len_2 -11.427103547655278
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber before_decimal_len_3 1.6819752804305592
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber alpha_id_A 5.099000250203848
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber alpha_id_AF 19.37977098676248
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber tenth_place_digit_9 3.779084318938208
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber tenth_place_digit_8 0.8983099867425958
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description symbol_. 38.65083037431955
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_music 0.4541758856097766
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_length_11 9.444144613804559
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_length_14 4.149197305152894
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_vase 12.968644270626827
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_style 1.5670657977174316
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_hat 3.367511636692044
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description starts_with_char_c 31.14253262267235
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_Possible 5.023546617838038
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description starts_with_char_m 8.775698723840447
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description starts_with_char_i 16.08653017169802
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description starts_with_char_h 12.749209112345222
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description starts_with_char_f 28.023728979666146
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description starts_with_char_t 21.951217050678803
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description starts_with_char_r 11.027967381889063
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description starts_with_char_p 9.29283369108248
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description starts_with_char_w 26.790573665309815
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description starts_with_char_C -12.578568940827326
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description starts_with_char_B -3.14440044134067
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description starts_with_char_D 2.9360355138744545
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description starts_with_char_L 5.273085081913998
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_a 32.36735621238526
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_S 2.642282185872708
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_R 4.499414546985951
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_implement 1.5670657977174316
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_fabric -2.114541300291356
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_promote 3.1405182853918037
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_colors 3.1405182853918037
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description after_decimal_len_0 10.173234515132954
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_wood -3.423388448492909
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_face 2.0212416833272076
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_Katherine 1.5702591518929823
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_Driver 2.6377667733654837
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_dressed 1.724369673209608
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_Friedman 0.4541758856097766
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_women 3.4573522848286107
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_Leo 0.4541758856097766
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description capitalized_token 8.675693466083288
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description num_len_4 5.734229945175666
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description num_len_1 -13.34199499861542
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_length_9 9.316079414840106
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_incorporating 2.0194095963631904
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_length_7 8.76826373844458
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_length_4 2.4369039557079835
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_length_3 0.1356668197261509
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_in 22.41889476526267
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_portraits 1.5702880458460182
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_and 30.09102679488174
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_right 3.591490602561229
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_to 16.438314804537065
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson symbol_. 15.099116097406988
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Pres 8.26390407312565
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson symbol_, -11.081180814493619
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson symbol_& 12.1291011224326
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Walter 1.2831710169572355
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_p -12.991749453245493
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_C 4.363011226242747
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_B 23.153936550230856
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Riddle 11.489496888329455
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_E 6.689965319966047
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_D 12.385670347643527
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_A -9.16691353335564
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Lane 3.951118902643299
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_J 19.16924696035787
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_M 12.132456017173336
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_L -8.211600708774302
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_H 18.44530543371369
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_R 13.568378286097964
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_T 2.7254776563415404
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_W 4.4062720344100885
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Betye 11.47030194060414
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Brown 6.690475041625957
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Bowens 3.229023878673481
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Co 11.106421211513492
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Smith 3.825174493958301
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Herman 11.473650082021793
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Jr 16.11397512494486
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Jeffries 0.9928697227391131
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Leimert 4.384054945095107
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Bruno 10.543025015562302
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_length_8 1.8742255495332207
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_length_9 5.7328130642397594
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_length_10 -8.563153506644255
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_length_7 11.494062691647514
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_length_6 9.119020931280266
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_length_5 18.47818591778676
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_length_2 -14.944963869044036
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_length_1 6.271312284225413
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_M 2.8264563528973676
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_H 14.307373668004937
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Polk 6.650233111080547
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_States 3.8339880127794976
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Covarrubias 4.258930846085695
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_West 10.675076380884882
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_of -37.844972969621224
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson capitalized_token 24.093929666733015
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Adams 3.44207707904666
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Thomas 9.423512192588678
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_des 8.26390407312565
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Stone 3.827855505140945
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent after_decimal_len_1 -2.613683231057381
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent after_decimal_len_2 0.6853032959817243
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent after_decimal_len_0 6.04193375707075
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent after_decimal_len_4 0.8652567218769065
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent tenth_place_digit_2 -1.485698154855321
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent tenth_place_digit_5 4.855332423691194
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent tenth_place_digit_7 -0.14582483303952895
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent all_capitalized_token -5.158649223303165
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent unit_place_digit_6 4.855285586915538
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent unit_place_digit_5 3.0537310091388017
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent unit_place_digit_8 2.3422499865450037
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent unit_place_digit_7 1.8664440186828408
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent unit_place_digit_9 3.470100372069111
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent unit_place_digit_0 2.963784343588609
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent unit_place_digit_1 -0.1401651511326923
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent unit_place_digit_2 0.09253956329101073
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent unit_place_digit_3 1.4335122359811194
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent unit_place_digit_4 4.421579367706217
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent before_decimal_len_1 6.625509740032085
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent before_decimal_len_2 11.288027266094279
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent alpha_id_various 4.517201741907824
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent num_len_5 3.4701540512187954
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent num_len_4 3.7580938768089003
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent num_len_3 0.9933725261905756
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent num_len_1 3.591405600459439
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent num_len_2 10.60586415508936
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starts_with_char_p 0.4337692528926062
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starts_with_char_x 22.848043916225826
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starts_with_char_v 4.517121608729537
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starts_with_char_D 2.530047418855583
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starts_with_char_H 10.513408408738588
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starts_with_char_W 10.01279769620117
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starting_digit_0 -0.9413934762769112
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starting_digit_8 2.4880950992301036
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starting_digit_7 2.620069143363856
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starting_digit_6 4.771399396870451
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starting_digit_4 2.210789626920393
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starting_digit_3 3.1266458015669913
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starting_digit_2 2.1468714645926976
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starting_digit_1 0.5451057179368776
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starting_digit_9 3.036331153075853
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent alpha_length_8 0.32232909731572884
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent alpha_length_7 2.21984867664902
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent alpha_length_6 -1.200685325832753
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent alpha_length_5 -0.8509005531188661
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent alpha_length_1 9.295771308012364
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent alpha_id_W 11.114589184751761
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent alpha_id_H 11.339353480759737
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent alpha_id_D 2.5300474191829725
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent alpha_id_x 22.848043916225826
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink symbol_/ 15.457228931285528
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink symbol_. -20.095357621772173
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink symbol_+ 7.340254346403159
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink symbol_: 15.605484450445198
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink symbol_% 16.726588608956433
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink all_capitalized_token 6.307532690120823
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink unit_place_digit_5 14.011169988019336
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink unit_place_digit_1 13.691176564291819
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink unit_place_digit_2 14.813177613812073
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_length_10 -18.135858281631332
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_length_11 12.519940876191045
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_length_12 -2.984414243470315
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_FCalendar 0.4264024909341931
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_caamuseum 16.726588608956433
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_trio 16.726588608956433
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_CMajorAllensworth 0.4264024909341931
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_CJACOBY 2.9873347740474356
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starts_with_char_a -11.620508142723507
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starts_with_char_m 6.483413645422234
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starts_with_char_i -5.003688592131642
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starts_with_char_h 3.1242049066045547
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starts_with_char_t -6.82161852510997
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starts_with_char_o -13.891910944729807
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starts_with_char_C 5.450918072183247
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starts_with_char_E 15.60417551163378
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_FAmericana 0.42640254742441813
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starting_digit_5 15.132256628386578
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starting_digit_2 10.745911348906091
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_Ejpg 17.560559113092964
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_Robes 0.4264024909341931
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_b 0.4264024909341931
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_C 20.257928787069545
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_media 21.82722150567625
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink after_decimal_len_0 1.3038745065550428
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_Ccaamapp 21.827221505676253
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink before_decimal_len_1 9.151567128923944
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink capitalized_token -25.744378881643073
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_image 20.706117347165012
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink num_len_4 -3.898923480252047
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink num_len_1 9.151568264607933
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_http 16.726588608956433
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_length_8 -10.879423592767774
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_length_9 -6.424503450594767
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_length_7 -21.96683519293588
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_length_6 -26.058023405024134
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_length_4 -14.051792748614998
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_length_3 -16.8740105983723
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_Fitzgerald 0.4736360327623647
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_chair 0.1921802276973277
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_org 16.726588608956433
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance symbol_, -6.751473926473086
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Director 1.8182017632348026
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Arnold 4.948369671972717
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Senator 2.1128623955742887
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Art 2.4741850883014034
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance all_capitalized_token -16.722912569418497
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Perspectives 2.4741850883014034
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_American 17.451670791460664
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Mrs 4.178812958081893
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Dr 9.38632114847732
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Courtesy 4.717277078588347
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_The 4.974638419652235
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Bros 0.9984599112473453
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Regina 1.0129073506552728
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Alexander 0.998459911123987
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance capitalized_token -9.099640401665217
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Thomas -1.288658050444459
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_a 6.379901057004078
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_n -0.035307095312799706
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_o 22.782643564643372
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_C 9.850345786979592
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_D 7.920516866118348
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_A 6.65939926204377
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_M 21.611416947220455
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_L 17.070846019981403
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_G 34.59969587139464
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_F 14.231878196695403
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_S -14.768505945018662
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_T -4.795608046905133
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_P -5.727412103808633
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Los 17.008659594959237
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Gift 62.5734959517058
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_length_8 11.61252871002918
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_length_7 5.987909535751063
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_length_6 -22.23223896853127
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_length_5 -21.265692288214108
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_length_4 29.4646550322656
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_length_3 -10.504716102269297
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_length_2 5.962027800264618
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_length_1 8.438435261869637
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Walls 7.422555264247479
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Polk -1.51010218136537
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_in 12.547379945593308
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_and 11.913259671248948
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Museum 39.29358093073339
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Seagrams 2.4741850883014034
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_memory 16.102708454068303
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Ethel 4.948369671972717
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_of 36.124129423428634
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_David -1.40664836895367
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_canvas 6.863114243940927
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_board 1.105221392713452
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium symbol_. -13.006989520667835
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_e 5.598499256602233
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_c 5.919840642968804
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_b 8.058289519375533
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_a 4.668683565694872
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_m 16.090029321998525
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_l 0.543754943422209
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_t -3.0777336172126617
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_s 9.92259298488667
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_p 13.656609504769733
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_o -2.538305708782896
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium all_capitalized_token -8.137514819653232
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_v 5.113566022611046
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_w 12.50962000635935
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_B -9.933905755369434
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_M -12.359924087385084
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_L -3.3930521383529406
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_G -1.0465105506111243
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_S -2.3644799349449204
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_O 6.380033659028392
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_Mixed 9.802301928552788
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_Haitian 1.6644816234568942
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_objects 2.7119518134034433
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_Gelatin 3.3156641788315033
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_length_10 9.024426494137805
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_length_11 2.7832750986555705
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_length_12 -0.42661173541744074
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_length_7 5.297926813946294
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_length_6 -0.6497261978460314
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_length_5 10.395551470174574
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_length_4 2.6513200915342
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_length_3 5.253923635709219
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_Photo -2.1223212013775257
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_photograph 2.221386006553882
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_black -3.4397592995561803
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_media 9.802301928552788
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_beading 3.5531890859868533
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_wig 8.103400071028927
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_cotton 7.869285608572677
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_metal 8.103400071028927
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_paper 16.44992303770988
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_keys 1.105221392713452
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_bisque 8.103400071028927
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_Vinyl 1.8904821711737092
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_on 11.707102255666301
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium capitalized_token 22.084865592675992
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_assemblage 1.074158197559852
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_lithography 3.315670339534872
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title symbol_. 2.491538061014911
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Implied 0.9231960626992687
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Prospects 0.9231960626992687
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title unit_place_digit_0 7.691853609868461
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title unit_place_digit_4 5.093822216547599
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_length_10 5.529529539819706
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_length_11 8.542621003844404
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Ritual 2.401478890237194
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_The 12.879498590517091
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Other 0.9231960626992687
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_With 0.39040614297169735
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title capitalized_token 20.365525734486518
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Abolish 0.9231960626992687
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_a 1.1699945342709377
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_h 7.454557499947368
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_p -5.571131513475742
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_o -1.6507523905364265
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_C 9.051170754858315
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_B 10.282305482634191
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_E 0.17080758588542969
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_A 2.802394032435483
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_M -0.4434030929700733
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_L 6.97890307921263
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_F 6.306789502123646
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_H 5.254353074205634
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_S 15.190949539959286
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_N 8.038828331546465
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_O 10.294983246216713
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_P -2.6813567533321763
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_W 2.8304065197871244
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Constitution 0.9231960626992687
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Untitled 7.54403139978161
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_length_8 12.996353994736985
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_length_9 5.908495290974027
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Mitchell 1.19053086688268
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_length_7 -4.920182733889503
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_length_5 10.972938387249338
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_length_4 10.534360066624764
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_length_3 7.31897520946981
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_length_2 12.79476981973841
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Hold 1.338999637158507
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Six 3.0317713205899013
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_I 3.8795977751322677
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_in 4.944668417128375
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_States 2.158190071385515
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Be 1.0846838721690606
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_tole 3.8795977751322677
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_South 2.2788193101792333
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_One 0.2594722767152225
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Fargo 0.7567913140959672
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel symbol_/ 3.315075533596167
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_id_LIBRARY 3.315075533596176
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel all_capitalized_token 27.21050731507267
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel starts_with_char_A 22.974477358831013
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel starts_with_char_L -7.828184984635356
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel starts_with_char_H 14.278302777982551
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel starts_with_char_V 22.498283083550852
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_id_ART 30.940704979163094
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_id_ARCHIVES 3.315075533596176
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_id_VISUAL 30.940704979163094
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_length_8 -3.8988713473639387
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_id_HISTORY 20.99547837871781
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_length_7 2.1701505495659346
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_length_6 7.434998613942479
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_length_3 4.34477645146244
+http://xmlns.com/foaf/0.1/Document|http://isi.edu/integration/karma/dev#classLink alpha_id_OR 5.983377175422778
+http://xmlns.com/foaf/0.1/Document|http://isi.edu/integration/karma/dev#classLink alpha_id_itemdetail 5.983377175422778
+http://xmlns.com/foaf/0.1/Document|http://isi.edu/integration/karma/dev#classLink all_capitalized_token 5.977221268256382
+http://xmlns.com/foaf/0.1/Document|http://isi.edu/integration/karma/dev#classLink alpha_id_Artist 5.983377175422778
+http://xmlns.com/foaf/0.1/Document|http://isi.edu/integration/karma/dev#classLink alpha_id_caamuseum 5.9833691311074375
+http://xmlns.com/foaf/0.1/Document|http://isi.edu/integration/karma/dev#classLink alpha_id_record 5.983377175422778
+http://xmlns.com/foaf/0.1/Document|http://isi.edu/integration/karma/dev#classLink starts_with_char_m 5.983369130415308
+http://xmlns.com/foaf/0.1/Document|http://isi.edu/integration/karma/dev#classLink starts_with_char_o 5.940237187825333
+http://xmlns.com/foaf/0.1/Document|http://isi.edu/integration/karma/dev#classLink starts_with_char_w 5.983377173806716
+http://xmlns.com/foaf/0.1/Document|http://isi.edu/integration/karma/dev#classLink starts_with_char_B 1.5521845385219788
+http://xmlns.com/foaf/0.1/Document|http://isi.edu/integration/karma/dev#classLink starts_with_char_M 1.1087023593525531
+http://xmlns.com/foaf/0.1/Document|http://isi.edu/integration/karma/dev#classLink starts_with_char_G 0.6652190375004869
+http://xmlns.com/foaf/0.1/Document|http://isi.edu/integration/karma/dev#classLink starts_with_char_S 1.2159627853905748
+http://xmlns.com/foaf/0.1/Document|http://isi.edu/integration/karma/dev#classLink starts_with_char_T 1.108698509590059
+http://xmlns.com/foaf/0.1/Document|http://isi.edu/integration/karma/dev#classLink starts_with_char_O 5.983377152735391
+http://xmlns.com/foaf/0.1/Document|http://isi.edu/integration/karma/dev#classLink starts_with_char_P 0.4003472218885987
+http://xmlns.com/foaf/0.1/Document|http://isi.edu/integration/karma/dev#classLink starting_digit_5 5.9833691311074375
+http://xmlns.com/foaf/0.1/Document|http://isi.edu/integration/karma/dev#classLink starting_digit_4 5.940245303577846
+http://xmlns.com/foaf/0.1/Document|http://isi.edu/integration/karma/dev#classLink starting_digit_3 5.983377175422778
+http://xmlns.com/foaf/0.1/Document|http://isi.edu/integration/karma/dev#classLink starting_digit_2 5.983369131105936
+http://xmlns.com/foaf/0.1/Document|http://isi.edu/integration/karma/dev#classLink alpha_id_D 5.983377175422778
+http://xmlns.com/foaf/0.1/Document|http://isi.edu/integration/karma/dev#classLink before_decimal_len_2 5.977229385294146
+http://xmlns.com/foaf/0.1/Document|http://isi.edu/integration/karma/dev#classLink num_len_1 5.940237259262506
+http://xmlns.com/foaf/0.1/Document|http://isi.edu/integration/karma/dev#classLink num_len_2 5.977229385294592
+http://xmlns.com/foaf/0.1/Document|http://isi.edu/integration/karma/dev#classLink alpha_id_National 0.6616137259406116
+http://xmlns.com/foaf/0.1/Document|http://isi.edu/integration/karma/dev#classLink alpha_id_org 5.9833691311074375
+http://xmlns.com/foaf/0.1/Document|http://isi.edu/integration/karma/dev#classLink symbol_/ 5.9833691311074375
+http://xmlns.com/foaf/0.1/Document|http://isi.edu/integration/karma/dev#classLink symbol_+ 5.983369131107439
+http://xmlns.com/foaf/0.1/Document|http://isi.edu/integration/karma/dev#classLink symbol_? 5.9833691311074375
+http://xmlns.com/foaf/0.1/Document|http://isi.edu/integration/karma/dev#classLink symbol_: 5.983369131105779
+http://xmlns.com/foaf/0.1/Document|http://isi.edu/integration/karma/dev#classLink unit_place_digit_7 5.977229385311753
+http://xmlns.com/foaf/0.1/Document|http://isi.edu/integration/karma/dev#classLink unit_place_digit_1 5.9833691311074375
+http://xmlns.com/foaf/0.1/Document|http://isi.edu/integration/karma/dev#classLink unit_place_digit_2 5.9833691311074375
+http://xmlns.com/foaf/0.1/Document|http://isi.edu/integration/karma/dev#classLink unit_place_digit_3 5.983377175422775
+http://xmlns.com/foaf/0.1/Document|http://isi.edu/integration/karma/dev#classLink alpha_length_10 5.940236880886786
+http://xmlns.com/foaf/0.1/Document|http://isi.edu/integration/karma/dev#classLink alpha_length_16 5.983377175422778
+http://xmlns.com/foaf/0.1/Document|http://isi.edu/integration/karma/dev#classLink alpha_id_FMaker 5.983377175422778
+http://xmlns.com/foaf/0.1/Document|http://isi.edu/integration/karma/dev#classLink alpha_id_searchdescRecords 5.983377175422778
+http://xmlns.com/foaf/0.1/Document|http://isi.edu/integration/karma/dev#classLink alpha_id_the 5.983377125409487
+http://xmlns.com/foaf/0.1/Document|http://isi.edu/integration/karma/dev#classLink alpha_id_Tyler 0.3326095596891667
+http://xmlns.com/foaf/0.1/Document|http://isi.edu/integration/karma/dev#classLink capitalized_token 5.934088437236089
+http://xmlns.com/foaf/0.1/Document|http://isi.edu/integration/karma/dev#classLink alpha_length_9 5.980308007874713
+http://xmlns.com/foaf/0.1/Document|http://isi.edu/integration/karma/dev#classLink alpha_length_7 5.890221717639951
+http://xmlns.com/foaf/0.1/Document|http://isi.edu/integration/karma/dev#classLink alpha_length_6 5.94023714414935
+http://xmlns.com/foaf/0.1/Document|http://isi.edu/integration/karma/dev#classLink alpha_length_5 5.98300978866649
+http://xmlns.com/foaf/0.1/Document|http://isi.edu/integration/karma/dev#classLink alpha_length_4 5.977221002591197
+http://xmlns.com/foaf/0.1/Document|http://isi.edu/integration/karma/dev#classLink alpha_length_3 5.983009727402917
+http://xmlns.com/foaf/0.1/Document|http://isi.edu/integration/karma/dev#classLink alpha_length_1 5.983369087692232
+http://xmlns.com/foaf/0.1/Document|http://isi.edu/integration/karma/dev#classLink alpha_id_is 5.983377175422778
+http://xmlns.com/foaf/0.1/Document|http://isi.edu/integration/karma/dev#classLink alpha_id_asp 5.9833691311074375
+http://metadata.net/harmony/abc#Place|http://www.w3.org/2000/01/rdf-schema#label symbol_, 11.652507850341625
+http://metadata.net/harmony/abc#Place|http://www.w3.org/2000/01/rdf-schema#label alpha_id_Francisco 0.42543873765411316
+http://metadata.net/harmony/abc#Place|http://www.w3.org/2000/01/rdf-schema#label alpha_id_NY 0.42543873765411316
+http://metadata.net/harmony/abc#Place|http://www.w3.org/2000/01/rdf-schema#label starts_with_char_a 1.03685568237977
+http://metadata.net/harmony/abc#Place|http://www.w3.org/2000/01/rdf-schema#label alpha_id_California 12.763162129623392
+http://metadata.net/harmony/abc#Place|http://www.w3.org/2000/01/rdf-schema#label starts_with_char_o -0.2907854451871835
+http://metadata.net/harmony/abc#Place|http://www.w3.org/2000/01/rdf-schema#label all_capitalized_token 15.102458209452209
+http://metadata.net/harmony/abc#Place|http://www.w3.org/2000/01/rdf-schema#label starts_with_char_C 10.142268180329165
+http://metadata.net/harmony/abc#Place|http://www.w3.org/2000/01/rdf-schema#label starts_with_char_D -2.10194007622329
+http://metadata.net/harmony/abc#Place|http://www.w3.org/2000/01/rdf-schema#label starts_with_char_A 0.34148038069999065
+http://metadata.net/harmony/abc#Place|http://www.w3.org/2000/01/rdf-schema#label starts_with_char_M 1.6069837113250325
+http://metadata.net/harmony/abc#Place|http://www.w3.org/2000/01/rdf-schema#label starts_with_char_F -2.331898707152907
+http://metadata.net/harmony/abc#Place|http://www.w3.org/2000/01/rdf-schema#label starts_with_char_I 0.5039757250810819
+http://metadata.net/harmony/abc#Place|http://www.w3.org/2000/01/rdf-schema#label starts_with_char_R 2.170638835387565
+http://metadata.net/harmony/abc#Place|http://www.w3.org/2000/01/rdf-schema#label starts_with_char_S -1.5757205166443127
+http://metadata.net/harmony/abc#Place|http://www.w3.org/2000/01/rdf-schema#label starts_with_char_T -3.607985579520803
+http://metadata.net/harmony/abc#Place|http://www.w3.org/2000/01/rdf-schema#label starts_with_char_U 20.844707086694896
+http://metadata.net/harmony/abc#Place|http://www.w3.org/2000/01/rdf-schema#label starts_with_char_N 2.900056152786086
+http://metadata.net/harmony/abc#Place|http://www.w3.org/2000/01/rdf-schema#label starts_with_char_P -1.1884125985993395
+http://metadata.net/harmony/abc#Place|http://www.w3.org/2000/01/rdf-schema#label starts_with_char_W -1.4240819205962962
+http://metadata.net/harmony/abc#Place|http://www.w3.org/2000/01/rdf-schema#label starts_with_char_Y 2.900056152791671
+http://metadata.net/harmony/abc#Place|http://www.w3.org/2000/01/rdf-schema#label alpha_id_Pennsylvania 0.8508774753082263
+http://metadata.net/harmony/abc#Place|http://www.w3.org/2000/01/rdf-schema#label alpha_id_Tennessee 0.42543873765411316
+http://metadata.net/harmony/abc#Place|http://www.w3.org/2000/01/rdf-schema#label alpha_id_York 3.4035099012329053
+http://metadata.net/harmony/abc#Place|http://www.w3.org/2000/01/rdf-schema#label alpha_id_Rhode 2.552632425924679
+http://metadata.net/harmony/abc#Place|http://www.w3.org/2000/01/rdf-schema#label alpha_id_Illinois 0.42543873765411316
+http://metadata.net/harmony/abc#Place|http://www.w3.org/2000/01/rdf-schema#label alpha_id_USA 20.846498145074733
+http://metadata.net/harmony/abc#Place|http://www.w3.org/2000/01/rdf-schema#label alpha_length_8 0.8247412753011178
+http://metadata.net/harmony/abc#Place|http://www.w3.org/2000/01/rdf-schema#label alpha_length_9 -1.5695907918457896
+http://metadata.net/harmony/abc#Place|http://www.w3.org/2000/01/rdf-schema#label alpha_length_10 9.372798133471857
+http://metadata.net/harmony/abc#Place|http://www.w3.org/2000/01/rdf-schema#label alpha_length_11 0.42528735979958576
+http://metadata.net/harmony/abc#Place|http://www.w3.org/2000/01/rdf-schema#label alpha_length_7 -1.0301130530798146
+http://metadata.net/harmony/abc#Place|http://www.w3.org/2000/01/rdf-schema#label alpha_length_6 -1.344398567324483
+http://metadata.net/harmony/abc#Place|http://www.w3.org/2000/01/rdf-schema#label alpha_length_5 -0.060717568022528035
+http://metadata.net/harmony/abc#Place|http://www.w3.org/2000/01/rdf-schema#label alpha_length_4 -0.9942479144546881
+http://metadata.net/harmony/abc#Place|http://www.w3.org/2000/01/rdf-schema#label alpha_length_3 13.190232460440239
+http://metadata.net/harmony/abc#Place|http://www.w3.org/2000/01/rdf-schema#label alpha_length_2 -0.9086134652367052
+http://metadata.net/harmony/abc#Place|http://www.w3.org/2000/01/rdf-schema#label alpha_id_Mexico 1.6227135086759858
+http://metadata.net/harmony/abc#Place|http://www.w3.org/2000/01/rdf-schema#label alpha_id_Columbia 0.4254387376652743
+http://metadata.net/harmony/abc#Place|http://www.w3.org/2000/01/rdf-schema#label alpha_id_and 2.2030436051931392
+http://metadata.net/harmony/abc#Place|http://www.w3.org/2000/01/rdf-schema#label alpha_id_Island 2.552632425924679
+http://metadata.net/harmony/abc#Place|http://www.w3.org/2000/01/rdf-schema#label alpha_id_CA 0.42543873765411316
+http://metadata.net/harmony/abc#Place|http://www.w3.org/2000/01/rdf-schema#label alpha_id_Sweden 0.42543873765411316
+http://metadata.net/harmony/abc#Place|http://www.w3.org/2000/01/rdf-schema#label alpha_id_Colorado 0.42543873765411316
+http://metadata.net/harmony/abc#Place|http://www.w3.org/2000/01/rdf-schema#label alpha_id_State 0.42543873765411316
+http://metadata.net/harmony/abc#Place|http://www.w3.org/2000/01/rdf-schema#label alpha_id_New 3.4035099012329053
+http://metadata.net/harmony/abc#Place|http://www.w3.org/2000/01/rdf-schema#label alpha_id_Mississippi 0.42543481437161024
+http://metadata.net/harmony/abc#Place|http://www.w3.org/2000/01/rdf-schema#label capitalized_token 12.534105897692324
+http://metadata.net/harmony/abc#Place|http://www.w3.org/2000/01/rdf-schema#label alpha_id_Louisiana 0.42543873765411316
+http://metadata.net/harmony/abc#Place|http://www.w3.org/2000/01/rdf-schema#label alpha_id_Arizona 0.4254387376592033

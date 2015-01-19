@@ -1,0 +1,416 @@
+3
+
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson
+100
+15 Codman, Charles
+12 John Sharman
+18 Willard D. Paddock
+19 Benton, Thomas Hart
+27 Burchfield, Charles Ephraim
+23 Saint-Gaudens, Augustus
+23 Brewster, Anna Richards
+10 Cox, Jacob
+15 Duveneck, Frank
+14 Scudder, Janet
+24 Gruelle, Richard Buckner
+19 Stevens, Will Henry
+15 Mess, George Jo
+11 Kroll, Leon
+18 Potter, William J.
+23 Whittredge, Worthington
+21 Richardson, Constance
+22 Ketcham, Susan Merrill
+21 Miller, Richard Emile
+14 Scudder, Janet
+16 Grabach, John R.
+14 Scudder, Janet
+19 Sharp, Joseph Henry
+14 Inness, George
+16 Lachaise, Gaston
+21 O&039;Keeffe, Georgia
+20 Phillips, Bert Greer
+13 Carlsen, Emil
+23 Wagenhals, Katherine H.
+12 Robert Henri
+19 Wheeler, Clifton A.
+18 Payne, Edgar Alwin
+12 Wayman Adams
+10 Cox, Jacob
+20 Briscoe, Franklin D.
+23 Schofield, Walter Elmer
+24 Frieseke, Frederick Carl
+13 Ruthven Byrum
+19 John Singer Sargent
+14 Konti, Isidore
+22 Romano, Emanuel Glicen
+14 Lucioni, Luigi
+10 Kuhn, Walt
+17 Adams, John Ottis
+21 William Merritt Chase
+23 Siqueiros, David Alfaro
+23 Saint-Gaudens, Augustus
+11 T.C. Steele
+18 Ingraham, Ellen M.
+21 Peale, Anna Claypoole
+16 John W. Hardrick
+25 Dodson, Sarah Paxton Ball
+12 Robert Henri
+15 Higgins, Victor
+7 Unknown
+14 John J. Hegler
+19 John Singer Sargent
+21 Luks, George Benjamin
+16 Elmer H. Daniels
+30 Whistler, James Abbott McNeill
+24 Paxton, William McGregor
+15 Duveneck, Frank
+16 John W. Hardrick
+14 Peckham, Lewis
+23 Christian, Grant Wright
+19 Forsyth, William J.
+15 Duveneck, Frank
+19 Remington, Frederic
+14 Hopper, Edward
+28 Laer, Alexander Theobald van
+25 Weinman, Adolph Alexander
+17 Ball, L. Clarence
+11 Bosa, Louis
+21 Love, John Washington
+12 Bates, Dewey
+18 William H. Johnson
+24 Thayer, Abbott Handerson
+16 Rouland, Orlando
+14 Lawson, Ernest
+15 Delaney, Joseph
+23 Duncanson, Robert Scott
+26 Frishmuth, Harriet Whitney
+14 Kent, Rockwell
+19 Richards, Samuel G.
+11 T.C. Steele
+23 Goodwin, Arthur Clifton
+13 Daniel Garber
+12 Wayman Adams
+15 David K. Rubins
+23 Whittredge, Worthington
+16 Fechin, Nicholai
+21 Archipenko, Alexander
+22 Scott, William Edouard
+20 Wyeth, Andrew Newell
+21 Richardson, Constance
+20 Taggart, Lucy Martha
+23 Wyant, Alexander Helwig
+15 Lewis H. Meakin
+13 Manship, Paul
+23 Cropsey, Jasper Francis
+
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson
+100
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 american
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+8 American
+
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title
+100
+13 San Gimignano
+24 Portrait of Thomas Lakin
+14 The Visitation
+24 Landscape near Lafayette
+21 First Touch of Autumn
+21 Across Silvery Waters
+14 Woman in White
+14 Wyoming Desert
+15 The Painter Man
+7 Hot Sun
+22 A Break: Playing Cards
+21 Henry Look Unhitching
+16 Training for War
+31 Vista Terreno, Palm de Malloria
+5 Gamin
+14 On the Balcony
+13 The Jade Bowl
+24 Portrait of Paul Peckham
+16 The Harbor Light
+18 Untitled Landscape
+26 Education of Trooper Brown
+41 New Mexico Calvary (Holy Week Procession)
+39 Portrait of Mary Ethell Gertrude Walker
+13 Bronco Buster
+24 Portrait of Clara Fisher
+32 Indian Girl with Parrot and Hoop
+8 Builders
+36 Portrait of Charles Ballard as a Boy
+5 Diana
+37 Summer Pastorale (View of Kallenfels)
+13 Monarch Beech
+17 Old Peasant Woman
+39 Barnes Cabin on Owl Creek, Brown County
+15 Hill and Hollow
+22 The Constitutional Elm
+16 Above the Clouds
+25 Portrait of Madame Fisher
+8 Sea Gull
+8 Daybreak
+17 Across the Harbor
+13 Italian Roses
+14 Hopi Courtship
+5 April
+9 Bethlehem
+21 Young Girl with Child
+14 Women Dressing
+8 Seascape
+20 Fisherman&039;s Lore
+43 Plaster Cast of Bronze Bust of Evans Woolen
+20 Rainy Night, Etaples
+49 Portrait of Helen Miller (Mrs. Charles G. McLean)
+10 Ideal Head
+16 On the Pennypack
+17 EAST COAST U.S.A.
+42 He Is Risen (The Passion of Christ Series)
+12 Street Scene
+23 Pool in the Adirondacks
+14 Passing Shower
+52 Unfinished Landscape (American Lake Scene at Sunset)
+16 The Restless Sea
+10 Still Life
+30 George Washington at Princeton
+13 The Statuette
+6 Marine
+20 Children&039;s Heads
+17 On The Brandywine
+23 Afternoon - Yellow Room
+20 Untitled (The Birth)
+8 Wash Day
+25 Portrait of a Young Woman
+7 Calypso
+11 Jimson Weed
+8 Our Flag
+38 Portrait of Reverend Nathaniel A. Hyde
+20 His Majesty Receives
+11 Moses Swaim
+32 Village of Schliersee, Highlands
+18 Hauptmann Must Die
+23 Portrait of Ella Marvin
+7 Poppies
+27 Portrait of William Forsyth
+45 Portrait of Dr. George Henry Alexander Clowes
+13 Afternoon Tea
+30 Reading (Lady on a Deck Chair)
+11 Blue Monday
+22 Chief Flat Iron, Sioux
+23 At the End of the Porch
+14 Farmyard Scene
+15 Ohio River Boat
+13 Ruth Gleaning
+23 A Night in Central Park
+14 The Black Barn
+16 The Edge of Town
+13 In the Meadow
+12 Mountain Man
+15 Louisa Fletcher
+15 The Park, Salem
+14 Woman in White
+9 Loch Long
+11 Red Snapper
+
+104
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson after_decimal_len_0 -0.500585918612891
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson symbol_. 8.073917691586173
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson symbol_- 5.67072143834964
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson symbol_, 37.573902406524944
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson symbol_; -0.500585918612891
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Walter 0.3300042071998366
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Scudder 0.6601923600761394
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson all_capitalized_token 7.573331772925687
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_D 4.852974188601355
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_A -0.21390124117028542
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_K 1.356077006926166
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_J 11.639622659162004
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_L 3.7688401235786655
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_G 7.894643962084111
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_F 4.100724339477466
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_I -3.0607243717381456
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_H 4.278388515617812
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_R 0.8999332351224871
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_S 5.733293908945793
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_P -6.800215116184934
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_W 3.63507826218184
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starting_digit_0 -0.500585918612891
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Saint 5.67072143834964
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Elmer 1.428015921134314
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Edouard 0.3336509729664347
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Siqueiros 0.8548664190433892
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Daniel 1.3728047366925826
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_length_8 -4.010420450878075
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_length_9 8.277659433911191
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_length_10 -2.8519561315862085
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Henri 1.8709356408728928
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_length_7 7.7689530964084215
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_length_6 12.371124303807878
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_length_5 9.193279176429279
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_length_4 4.138065001804925
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_length_3 -10.303707123504742
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_length_1 5.081784106906731
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson before_decimal_len_3 -0.500585918612891
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_R 0.3299284726359517
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_M 1.0962675863229396
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_D 0.7435418797041551
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Alwin 2.811814957056379
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_John 9.343861713467286
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Leon 0.35877124868242516
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Arthur 1.0713367287935107
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Georgia 0.32992997102716504
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Alexander 3.7937892273951386
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson capitalized_token 0.01408900978068317
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Wheeler 0.6385984280169981
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_David 0.8548664190433892
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson starts_with_char_A 15.240527409044285
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson alpha_id_American 31.292802663935806
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson capitalized_token -8.811512011554134
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/countryAssociatedWithThePerson alpha_length_8 9.858540994123691
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title after_decimal_len_0 1.6089991354127937
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Village 0.8306964710154698
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_d 0.8305158896866733
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_i 1.6610228589050067
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_f 1.508374285943123
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_t 2.491538745106383
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_o 10.699744723539792
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title all_capitalized_token -1.5319592632818617
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_B 7.131016272511127
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_A -15.026626167874017
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Sun 0.830515888609726
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_M 7.4680206682795145
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_G 0.10007517648991926
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_H 1.2517547705148744
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_R 4.003086199457841
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_S 2.9391755616643085
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_T 7.359864103075612
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_P 11.610362925036426
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_W 2.9821883887162124
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Schliersee 0.8306964710154698
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Hopi 0.830518221493976
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Bowl 0.8305158891556237
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Cabin 0.8305159758868257
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Ohio 0.8305158897149554
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_In 0.8305158891449957
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Nathaniel 1.5638891350504274
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_length_8 -5.8481205432456225
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_length_9 2.266227729110128
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_length_10 4.620229324736264
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_length_7 3.1320940040209972
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_length_6 -0.6793382297150998
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_length_5 10.265763143190984
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_length_4 7.1991571797861305
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_length_3 14.143662122149792
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_length_2 18.122342609848374
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_length_1 1.7380732327891226
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_a 1.6610317764475881
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Highlands 0.8306964710154698
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Sioux 2.334398819731073
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Risen 0.830515889686616
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Scene 3.217992014367107
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_in 1.6610228589050067
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Portrait 5.71646857900985
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Ella 0.8305158890325619
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_The 6.6441002756114695
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_George 0.06643327100786636
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Diana 0.8305229445220844
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Man 2.4164045120558617
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_of 9.038712857943551
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title capitalized_token 8.797423001773563

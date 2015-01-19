@@ -1,0 +1,1604 @@
+10
+
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber
+100
+11 (97.292.2P)
+12 (93.102.157)
+11 (2007.62.7)
+12 (2004.1.134)
+12 (97.106.1AA)
+11 (92.97.100)
+12 (96.267.268)
+11 (93.102.20)
+12 (96.267.657)
+12 (96.267.348)
+12 (93.75.31EI)
+12 (97.106.2DW)
+12 (93.75.31JK)
+13 (96.267.1012)
+12 (96.267.249)
+11 (99.111.12)
+12 (99.111.130)
+13 (96.267.1142)
+12 (99.111.170)
+12 (96.267.591)
+13 (96.267.1130)
+12 (99.111.185)
+12 (96.267.432)
+12 (96.267.691)
+11 (94.195.16)
+12 (94.195.10C)
+12 (96.267.824)
+11 (99.201.26)
+10 (99.201.6)
+12 (96.267.547)
+11 (93.102.54)
+12 (96.267.367)
+12 (96.267.103)
+12 (97.106.2FK)
+13 (2007.62.121)
+12 (99.111.136)
+12 (97.106.1DW)
+11 (93.75.31G)
+12 (97.106.2CC)
+12 (93.102.171)
+12 (96.267.397)
+11 (97.292.9A)
+11 (94.195.8I)
+12 (93.102.144)
+12 (97.292.10B)
+11 (96.267.44)
+10 (92.97.18)
+12 (96.267.856)
+12 (97.106.1FQ)
+13 (2007.62.182)
+12 (97.106.2ET)
+12 (97.292.17E)
+12 (97.292.6AB)
+11 (2007.62.8)
+12 (96.267.772)
+10 (2004.1.5)
+13 (96.267.1077)
+12 (97.292.6CN)
+12 (93.75.31BV)
+12 (2007.62.25)
+11 (92.10.2BY)
+11 (93.102.10)
+12 (97.106.1CB)
+11 (93.75.31A)
+11 (96.267.43)
+11 (97.292.2C)
+12 (96.267.626)
+11 (93.102.64)
+11 (97.292.2B)
+11 (92.10.2AB)
+11 (99.201.13)
+12 (96.267.833)
+11 (99.201.29)
+13 (96.267.1080)
+12 (96.267.584)
+12 (97.106.1EW)
+10 (92.10.2L)
+12 (93.75.31HO)
+11 (2004.1.72)
+12 (96.267.776)
+12 (93.75.31GZ)
+12 (96.267.710)
+12 (96.267.761)
+11 (92.10.2BP)
+11 (99.111.83)
+12 (97.292.15N)
+12 (99.111.165)
+12 (96.267.956)
+11 (93.102.18)
+12 (97.292.15M)
+12 (96.267.107)
+12 (96.267.915)
+11 (97.292.4D)
+12 (93.75.31EO)
+10 (92.97.10)
+13 (2007.62.101)
+11 (97.106.1E)
+11 (97.106.1Z)
+12 (97.292.11I)
+13 (2007.62.112)
+
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson
+100
+14 Miyatake, Toyo
+15 Hoshida, George
+16 Muramoto, Walter
+15 Hoshida, George
+11 Rafu Shimpo
+15 Hoshida, George
+16 Muramoto, Walter
+16 Muramoto, Walter
+16 Muramoto, Walter
+11 Rafu Shimpo
+11 Iwata, Jack
+16 Muramoto, Walter
+11 Iwata, Jack
+11 Okubo, Mine
+11 Date, Hideo
+15 Sugimoto, Henry
+15 Hoshida, George
+11 Rafu Shimpo
+11 Okubo, Mine
+15 Hoshida, George
+11 Okubo, Mine
+14 Miyatake, Toyo
+16 Muramoto, Walter
+11 Rafu Shimpo
+11 Date, Hideo
+11 Iwata, Jack
+14 Miyatake, Toyo
+16 Miyatake, Archie
+11 Rafu Shimpo
+11 Rafu Shimpo
+11 Rafu Shimpo
+13 Shimada, Mori
+11 Okubo, Mine
+11 Rafu Shimpo
+14 Miyatake, Toyo
+11 Rafu Shimpo
+16 Muramoto, Walter
+17 Hirasaki, Tetsuzo
+14 Miyatake, Toyo
+11 Date, Hideo
+15 Ishigo, Estelle
+17 Hirasaki, Tetsuzo
+16 Muramoto, Walter
+16 Muramoto, Walter
+14 Miyatake, Toyo
+14 Miyatake, Toyo
+11 Rafu Shimpo
+11 Rafu Shimpo
+16 Muramoto, Walter
+15 Hoshida, George
+11 Okubo, Mine
+14 Miyatake, Toyo
+16 Muramoto, Walter
+14 Miyatake, Toyo
+11 Iwata, Jack
+16 Muramoto, Walter
+11 Rafu Shimpo
+11 Rafu Shimpo
+11 Rafu Shimpo
+14 Miyatake, Toyo
+16 Muramoto, Walter
+15 Hoshida, George
+15 Hoshida, George
+11 Date, Hideo
+11 Rafu Shimpo
+16 Muramoto, Walter
+11 Date, Hideo
+15 Sugimoto, Henry
+15 Ishigo, Estelle
+16 Ishino, Florence
+14 Tazawa, Haruno
+15 Hoshida, George
+17 Tasaki, Katherine
+11 Rafu Shimpo
+11 Rafu Shimpo
+16 Muramoto, Walter
+15 Ishigo, Estelle
+16 Muramoto, Walter
+16 Miyatake, Archie
+15 Hoshida, George
+14 Miyatake, Toyo
+11 Date, Hideo
+15 Ishigo, Estelle
+11 Rafu Shimpo
+16 Muramoto, Walter
+11 Rafu Shimpo
+15 Sugimoto, Henry
+15 Sugimoto, Henry
+11 Rafu Shimpo
+11 Rafu Shimpo
+14 Miyatake, Toyo
+14 Miyatake, Toyo
+16 Muramoto, Walter
+11 Rafu Shimpo
+11 Rafu Shimpo
+15 Ishigo, Estelle
+11 Date, Hideo
+11 Rafu Shimpo
+12 Hibi, Hisako
+12 Hibi, Hisako
+
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance
+100
+28 Gift of Jack and Peggy Iwata
+68 Photograph by Toyo Miyatake Studio, Gift of the Alan Miyatake Family
+25 Gift of Mine Okubo Estate
+68 Photograph by Toyo Miyatake Studio, Gift of the Alan Miyatake Family
+68 Photograph by Toyo Miyatake Studio, Gift of the Alan Miyatake Family
+20 Gift of Mori Shimada
+25 Gift of Mine Okubo Estate
+18 Gift of Hideo Date
+78 Gift of Madeleine Sugimoto and Naomi Tagawa, Japanese American National Museum
+68 Photograph by Toyo Miyatake Studio, Gift of the Alan Miyatake Family
+18 Gift of Hideo Date
+68 Photograph by Toyo Miyatake Studio, Gift of the Alan Miyatake Family
+68 Photograph by Toyo Miyatake Studio, Gift of the Alan Miyatake Family
+24 Gift of Barbara Kawakami
+33 Japanese American National Museum
+68 Gift of June Hoshida Honma, Sandra Hoshida and Carole Hoshida Kanada
+68 Photograph by Toyo Miyatake Studio, Gift of the Alan Miyatake Family
+34 Gift of the Walter Muramoto Family
+68 Photograph by Toyo Miyatake Studio, Gift of the Alan Miyatake Family
+27 Gift of Elizabeth Y. Yamada
+34 Gift of the Walter Muramoto Family
+34 Gift of the Walter Muramoto Family
+68 Photograph by Toyo Miyatake Studio, Gift of the Alan Miyatake Family
+22 Gift of Ibuki Hibi Lee
+24 Gift of Barbara Kawakami
+33 Japanese American National Museum
+68 Photograph by Toyo Miyatake Studio, Gift of the Alan Miyatake Family
+20 Gift of Mori Shimada
+27 Gift of Elizabeth Y. Yamada
+68 Photograph by Toyo Miyatake Studio, Gift of the Alan Miyatake Family
+68 Photograph by Toyo Miyatake Studio, Gift of the Alan Miyatake Family
+25 Gift of Mine Okubo Estate
+68 Photograph by Toyo Miyatake Studio, Gift of the Alan Miyatake Family
+68 Photograph by Toyo Miyatake Studio, Gift of the Alan Miyatake Family
+68 Photograph by Toyo Miyatake Studio, Gift of the Alan Miyatake Family
+68 Photograph by Toyo Miyatake Studio, Gift of the Alan Miyatake Family
+68 Photograph by Toyo Miyatake Studio, Gift of the Alan Miyatake Family
+18 Gift of Hideo Date
+18 Gift of Hideo Date
+68 Photograph by Toyo Miyatake Studio, Gift of the Alan Miyatake Family
+68 Photograph by Toyo Miyatake Studio, Gift of the Alan Miyatake Family
+34 Gift of the Walter Muramoto Family
+68 Photograph by Toyo Miyatake Studio, Gift of the Alan Miyatake Family
+68 Photograph by Toyo Miyatake Studio, Gift of the Alan Miyatake Family
+24 Gift of Barbara Kawakami
+20 Gift of Mori Shimada
+24 Gift of Barbara Kawakami
+24 Gift of Barbara Kawakami
+78 Gift of Madeleine Sugimoto and Naomi Tagawa, Japanese American National Museum
+27 Gift of Elizabeth Y. Yamada
+28 Gift of Jack and Peggy Iwata
+68 Photograph by Toyo Miyatake Studio, Gift of the Alan Miyatake Family
+34 Gift of the Walter Muramoto Family
+68 Photograph by Toyo Miyatake Studio, Gift of the Alan Miyatake Family
+68 Photograph by Toyo Miyatake Studio, Gift of the Alan Miyatake Family
+68 Photograph by Toyo Miyatake Studio, Gift of the Alan Miyatake Family
+68 Photograph by Toyo Miyatake Studio, Gift of the Alan Miyatake Family
+18 Gift of Hideo Date
+68 Gift of June Hoshida Honma, Sandra Hoshida and Carole Hoshida Kanada
+68 Photograph by Toyo Miyatake Studio, Gift of the Alan Miyatake Family
+33 Japanese American National Museum
+28 Gift of Jack and Peggy Iwata
+68 Photograph by Toyo Miyatake Studio, Gift of the Alan Miyatake Family
+25 Gift of Mine Okubo Estate
+68 Photograph by Toyo Miyatake Studio, Gift of the Alan Miyatake Family
+78 Gift of Madeleine Sugimoto and Naomi Tagawa, Japanese American National Museum
+33 Japanese American National Museum
+25 Gift of Mine Okubo Estate
+68 Photograph by Toyo Miyatake Studio, Gift of the Alan Miyatake Family
+68 Gift of June Hoshida Honma, Sandra Hoshida and Carole Hoshida Kanada
+34 Gift of the Walter Muramoto Family
+68 Photograph by Toyo Miyatake Studio, Gift of the Alan Miyatake Family
+27 Gift of Elizabeth Y. Yamada
+25 Gift of Mine Okubo Estate
+20 Gift of Mori Shimada
+78 Gift of Madeleine Sugimoto and Naomi Tagawa, Japanese American National Museum
+34 Gift of the Walter Muramoto Family
+34 Gift of the Walter Muramoto Family
+68 Photograph by Toyo Miyatake Studio, Gift of the Alan Miyatake Family
+68 Photograph by Toyo Miyatake Studio, Gift of the Alan Miyatake Family
+78 Gift of Madeleine Sugimoto and Naomi Tagawa, Japanese American National Museum
+24 Gift of Barbara Kawakami
+27 Gift of Elizabeth Y. Yamada
+68 Photograph by Toyo Miyatake Studio, Gift of the Alan Miyatake Family
+27 Gift of Elizabeth Y. Yamada
+27 Gift of Elizabeth Y. Yamada
+68 Photograph by Toyo Miyatake Studio, Gift of the Alan Miyatake Family
+18 Gift of Hideo Date
+68 Photograph by Toyo Miyatake Studio, Gift of the Alan Miyatake Family
+18 Gift of Hideo Date
+68 Gift of June Hoshida Honma, Sandra Hoshida and Carole Hoshida Kanada
+68 Gift of June Hoshida Honma, Sandra Hoshida and Carole Hoshida Kanada
+68 Gift of June Hoshida Honma, Sandra Hoshida and Carole Hoshida Kanada
+27 Gift of Elizabeth Y. Yamada
+18 Gift of Hideo Date
+68 Gift of June Hoshida Honma, Sandra Hoshida and Carole Hoshida Kanada
+18 Gift of Hideo Date
+22 Gift of Ibuki Hibi Lee
+68 Photograph by Toyo Miyatake Studio, Gift of the Alan Miyatake Family
+68 Gift of June Hoshida Honma, Sandra Hoshida and Carole Hoshida Kanada
+
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description
+100
+489 3 negatives : b&amp;w; ; 4 x 5 in.  Photographs of Senator Hiram Fong and Representative Daniel K. Inouye of Hawaii that were combined for the Rafu Shimpos holiday supplement cover, United States, December 1959.  Includes Fong in suit and dragon necktie standing in front of his Grand Pacific Life Insurance Company; Inouye in dark suit, right, displaying American flag held by an older Caucasian man; man in suit and eyeglasses standing with arms at sides turned at an angle to the right.
+475 1 photographic print : b&amp;w; ; 5 x 7 in.  1 negative : b&amp;w; ; 4 x 5 in.  Japanese man and woman with Los Angeles Mayor Sam Yorty in his office at City Hall in Little Tokyo, Los Angeles, California, 1965.br1P: Yorty, a smiling Caucasian man in suit, sits at his desk holding a piece of paper flanked by a woman in kimono and man in suit.br2N: Yorty stands, left, with hands atop glass case enclosing two metal figures of fish.  Woman in kimono and man in suit at right.
+2117 1 photographic print : b&amp;w;  Panoramic group portrait of the Buddhist Churches of America ministers and lay representatives gathered for a meeting, probably at San Francisco, California, February 19-21, 1941.  Five rows of men in dark suits pose in  front of elaborate painted screens and metalwork.  Men in front row are seated cross-legged on floor.  Second row is seated with one man in center wearing necktie, kimono and buddhist vestments.  Remaining rows stand.  The clergy are identified (L to R): brrow one, Rev. Giko Yamamoto (196)(5th), Rev. Rijun Katsueda (170)(6th), Rev. Chikara Aso (178)(7th), Rev. Koro Maehara (211)(8th), Rev. Shingetsu Akahoshi (147)(9th), Rev. Daisho Tana (118)(10th), Rev. Kakumin Fujinaga (184)(11th), Rev. Tatsuya Tsuruyama (187)(12th), Rev. Bunpo Kuwatsuki (193)(13th), Rev. Hozen Seki (143)(15th); brbrrow two, Rev. Koyo Tamanaha (194)(1st), Rev. Hideo Shimakawa (105)(2nd), Rev. Enryo Unno (169)(3rd), Rev. Koshun Sasaki (4th), Rev. Chonen Terakawa (154)(5th), Rev. Tokujo Tsumura (98)(6th), Rev. Taiken Masunaga (133)(7th), Rev. Shinjo Nagatani (171)(8th), Ichikura Kondo (Salinas)(9th), Rev. Tansai Terakawa (77)(10th), Rev. Ryotai Matsukage (201)(11th), Rev. Shozen Naito (138)(12th), Rev. Enryo Shigefuji (167)(13th), Rev. Joshin Motoyoshi (157)(14th), Rev. Sensho Sasaki (106)(15th), Rev. Masachika Yonemura (127)(16th), Rev. Seikaku Mizutani (51)(17th), Rev. Zenkai Okayama (190)(18th), Rev. Shisei Todoroki (177)(19th), Rev. Shashew Sakow (168)(20th); row three, Rev. Jitsujo Okabe (5th), Rev. Jotetsu Ono (205)(8th), Rev. Reichi Mori (198)(10th), Rev. Gyoyu Hirabayashi (206)(12th), Manki Abe (Salinas)(14th), Rev. Yoshio Iwanaga (189)(16th), Rev. Hojun Sugimoto (170)(17th), Rev. Eijitsu Hojo 188)(18th), Rev. Seijo Onoyama (166)(19th), Rev. Hoshin Fujikado (181)(20th), Rev. Zesei Kawasaki (165)(22nd);row four, Ukitaro Aratani (Los Angeles)(3rd), Soichi Nakatani (Sacramento), Rev. Gyodo Kono (195)(12th), Rev. Bunyu Fujimura (180)(13th), Rev. Miyoshi Okita (172)(14th), Mr. Kosakura (16th); row five, Rev. Issei Matsuura (44)(6th), Rev. Shintatsu Sanada (7th).
+531 1 photographic print : b&amp;w; ; 5 x 7 in.  1 negative : b&amp;w; ; 4 x 5 in.  Two men of the Fishing Club Kankodan with Los Angeles Mayor Sam Yorty in his office at City Hall in Little Tokyo, Los Angeles, California, April 16, 1963.  Yorty, a smiling Caucasian man in suit, stands in center holding the top part of a letter handed to him by a graying Japanese man in dark suit and eyeglasses.  Another man stands at right in suit and eyeglasses looking directly at viewer.  Seal of Los Angeles and an American flag in background.
+455 1 drawing on paper : ink ; image 9.25 x 13 in.  A woman in a cross-patterned shirt and jeans, Mine Okubo, perches atop a stack of wooden crates, leaning forward to search for her luggage among thousands in a baggage holding room. Her brother Benji stands next to her. The room is filled with crates upon which family names and numbers are written. In the background, other internees search for their belongings. Eight windows are visible on the back wall.
+781 1 photographic print : b&amp;w; ; 5 x 7 in.  1 negative : b&amp;w; ; 4 x 5 in.  Published in Rafu Shimpo, November 14, 1963.  Presidents Committee on Equal Employment Opportunity (PCEEO) met at the Sunset Room in the Ambassador Hotel in Los Angeles, California, November 14, 1963.  Hobart Taylor, Jr. vice chairman of the PCEEO, a tall African American man in suit and striped necktie with eyeglasses in breast pocket, stands in center holding a folder, Regional Community Leaders Conference, with a slender Japanese man in suit and eyeglasses.  They are flanked by three other men in suits.  Includes John Yoshino, deputy director of field services, right; Art Takei, Local 77, Retail Clerks Union; Wilbur Sato and Tak Kubota, officers of Japanese American Citizens League (JACL).
+379 1 negative : b&amp;w; ; 4 x 5 in.  Henry Ohye and Go For Broke single engine airplane, California, February 9, 1951.  Three men stand in front of white aircraft with Go For Broke written on nose.  Smiling Caucasian man in suit, left, shakes hands with smiling Japanese man in suit, eyeglasses and earphones around neck; young man in plaid coat and earphones around neck at right.
+303 5 negatives : b&amp;w; ; 4 x 5 in.  Easter service at St. Marys Episcopal Church in Los Angeles, California, April 9, 1950.  Includes service, choir, departure of congregation and group of young men on steps in front of building with 961 above door.  Reverend John M. H. Yamazaki gave sermon at service.
+606 1 negative : b&amp;w; ; 4 x 5 in.  Masaji Tabata, president of the Japanese Olympic Committee, presents the Tabata Trophy to Mr. Kawai of the Southern California Gardeners Federation at the home of Fred Wada in Los Angeles, California, June 13, 1962.  Kawai, an older white haired man in suit at right, holds a trophy in his proper left hand as he shakes hands with Tabata, man in suit and eyeglasses at left.  White haired Wada smiles stands between the two men, smiling.  Stuffed trout and pheasant on wall, left; poster of men running in track in field event for 1962 Olympics and a clock on right wall.
+612 1 furniture cover : cotton ; 8 x 11.5 x 7 in.  Small royal blue cotton yutan (furniture cover) the size of a toaster cover with red ties (7.5 x 0.675 in.) on sides and white appliqued mon (family crest) of oak leaf cluster (4.5 in. diameter) for brides dowry.  The crest was hand drawn on natural muslin fabric and stitched by machine onto the front of cover.  There is a set of ties on each side at front.  Side panels are attached at the top to long piece of fabric that composes front, top and back panels (23 in.).  Back panel  (22.5 x 59 in.) is shorter in length than the front.  Note, blue dye rubs off.br
+587 1 photographic print : b&amp;w; ; 5 x 7 in.  1 negative : b&amp;w; ; 120 mm.  Judge John F. Aiso with wife and daughter for his swearing-in ceremony (Sensei Shiki) for the State Courts of Appeal shakes hands with a Caucasian man in hallway at Broadway Room 908, California, November 4, 1968.   Mustached Aiso in suit and eyeglasses stands in center looking directly at viewer.  Aisos daughter, Emi Susan, in plaid suit stands at far left next to Aisos wife, Sumi, who wears white gloves as she shakes hands with balding man opposite her.  A line of Caucasian people queue down hallway.br
+510 1 photographic print : b&amp;w;  Portrait of a young man and woman standing in an open graveled area at Rohwer concentration camp, Rohwer, Arkansas, 1942-1945.  Utility poles and a few distant buildings visible at CL and CR in background. Dressed in a vest over a short-sleeved shirt and cuffed jeans, young man stands directly behind the woman with one hand on her proper R shoulder while holding her other hand.. The young woman wears a short pleated skirt, white blouse and a pin on the lapel of her jacket.
+873 1 photographi print : b&amp;w; ; 5 x 7 in.  3 negatives : b&amp;w; ; 120 mm.  Published in Rafu Shimpo, February 4, 1970, English and Japanese sections.  Boy Scouts of America Silver Beaver award presentation to Jack Masumoto and Harry S. Nako at the annual Los Angeles Area Council, Boy Scouts District dinner held at the Biltmore Bowl in the Los Angeles Biltmore hotel, Los Angeles, California, February 3, 1970.  Includes portrait of Nako, an older smiling Japanese man in dark suit and eyeglasses, and Masumoto in suit and eyeglasses, standing side by side wearing silver beaver replicas suspended from blue and white ribbons around neck and holding framed certificates (Published); James Nakagawa presenting medal to Nako and Masumoto flanked by their wives holding bouquets (Published); and a group portrait of Masumoto and wife seated in chairs surrounded by people.
+320 1 drawing on paper ; 8.5 x 11 in.  Pencil drawing of a view from back of a bus down center aisle.  Four men in hats ride in the two rows behind the driver, who is seated on the left gripping gear shaft.  Overhead compartments visible below roof.  Road and landscape stretch out in front of bus.  Fine rectangular border.
+256 1 negative : b&amp;w; ; 4 x 5 in.  Published in Rafu Shimpo, July 7, 1950.  Half-portrait of Saikonko, ping pong champion from North Korea in Los Angeles, California, July 7, 1950.  Dressed in a plaid jacket, Saikonko stands in front of a wood-veneer wall.
+200 1 photographic print : b&amp;w; ; 5 x 7 in.  Studio half-portrait of a smiling woman dressed in a kimono, Mrs. Chiba from Japan, Los Angeles, California, August 29, 1956.  She looks to left of viewer.
+500 1 photographic print : col. ; 4 x 4 in.  1 negative : col. ; 120 mm.  Group portrait of fourteen men and women at a welcome dinner for Mr. T. Ueda, President of the Japanese language newspaper Tokyo Mainichi, at the Kyoto Sukiyaki in Gardena, California, June 1968.  Six women sit in the front row; eight men stand in back row, including Buick Otsuki of Japan Air Lines, Teiho Hashida,  and Toyo Miyatake (second from right).  Black tables with pink chairs in foreground.  Shoji panels in background.
+367 7 photographic prints : b&amp;w; ; 5 x 7 in.  7 negatives : b&amp;w; ; 4 x 5 in.  Taken for New Year edition.  Published in Rafu Shimpo, November 7, 1955, Japanese section.  Gathering of Pioneer Zandankai at Taiyo Shoken, Los Angeles, California, November 6, 1955.  Large group of elderly men and women sit on couches having tea.  Men wear suits and women in dresses.
+413 1 negative : b&amp;w; ; 4 x 5 in.  Passing of the gavel at the Exposition Council Parent and Teacher Association (PTA), California, June 3, 1961.  An African American woman in dark suit and white pillbox hat with netting hands a wooden gavel to a woman in suit with a large corsage and a hat.  They are flanked by two women in light colored suits and hats.  Empty tables covered in white tablecloth in background.
+442 1 photographic print : b&amp;w;  Portrait of a young woman, Betty, standing in an overcoat in front of a barracks and car at Heart Mountain concentration camp, Wyoming, Winter 1944-1945.  She stands turned slightly to the right with proper right hand in pocket.  Her hair is curly and legs are exposed.  She smiles to the right of viewer.  She stands on open dirt area with shadow extending back to the right.  Barracks and car in background.
+2708 1 letter and envelope from Fusa Tsumagari to Clara Breed.  Transcription:brJanuary 14th/Sunday eve--/brDear Miss Breed,/Thank you ever so much for your lovely card and hankie. I dont know how to apologize for not sending you a Christmas card or greetings. I left most of my Christmas shopping to the last minute and then three days before Christmas that nasty cold caught up with me and put me into bed. That is my sad sad story. However, there was a bright side to Christmas--my brother came from Milwaukee to visit us./Were all very proud of him, and were certainly glad to see him. He has now graduated from Marquette, and at the present time is trying his hardest to get into Med School there. He was indeed lucky to be asked to join an honorary Biology fraternity--Ive forgotten the name. It seems that Niseis are not accepted at Marquette Med School, but my brother feels that he may be able to break the ice. At least he is trying--we will know in about three or four weeks definitly whether or not he will be accepted./I should like to tell you some very pleasant news--my sister and Bill are going to have a blessed event some time in May or June. Were all very happy in anticipation--but I think Bill is most excited. My mother is planning to come out in May, which we are eagerly anticipating. Incidentally, my father wrote that at the Canteen raffle in Crystal City my mother won a suitcase and is planning to come up with it. It makes a very good prize, doesnt it? The way my wrote it was so cute it makes me laugh just thinking about it./Last Friday night my girlfriend gave me one of these so called home permanents. All her previous ones were successful--but mine was an utter flop When we rinsed it--it was absolutely straight It makes me laugh just to think about it Ill have to make an appointment at some beauty shop and get a genuine one. This will cost me more money in the long run/The news of being able to go back to California has been accepted with mingled feeling. First of all were more than glad that the ban has been lifted, as it rightfully should be. Those with property are wanting to go back, but wondering how the sentiment will be. Of course we know that good friends like you would be glad to have us back but others who do not know us or understand us may not be as glad to see us. As for us who are not so fortunate to have property in California--were content to stay here for a while or maybe the rest of our life, but well make a point of seeing and visiting California later. My first ambition upon getting back to San Diego is to see you./ Well, this will be all for now. But may I wish you a happy New Year and hope youll write when you have time./Sincerely/Fusa
+619 1 photographic print : b&amp;w; ; 5 x 7 in.  1 negative : b&amp;w; ; 4 x 5 in.  Published in Rafu Shimpo, June 10, 1955.  Formal installation into office of Mrs. Akiko Nagashima as president-elect of Virginia Road Elementary School Parent Teacher Association (PTA)  for 1955-1956 in Los Angeles, California, June 9, 1955.  Nagashima receives a gavel from past president Mrs. Harry Safer; installation officer Mrs. Harold E. Dale stands between them; principal Mrs. Bessie B. Burke stands at far left; historian-elect Mrs. Hughes Tatara stands at far right.  All women wear corsages and all women except Burke wear hats.
+468 1 drawing on paper : ink ; image 9.25 x 13 in.  A woman in a cross-patterned shirt, Mine Okubo, stands in the foreground of an outdoor scene next to a woman covering her face and holding a rolled sheet of paper. They are attempting to protect themselves from mosquitos that swarm around them. Mosquitos bred in Topaz because of the areas nonabsorbant alkaline soil. A man in the distance is also swarmed by mosquitos. Barracks and one electric pole fill the midground.
+702 6 drawings on paper (1 sheet) : ink ; 9.5 x 5 in.  Ink sketches of six men, five identified with inscriptions.brTop left image of Adachi, a man seated three-quarters turned with back to viewer.brTop right image of Mr. Yoshimasu while he is playing cards ; viewed from shoulders up, head bent and eyes downcast.brMiddle left image of full view of back of Mr. Kagawa standing.brMiddle right image of a man wearing a jacket from waist up with hands in lap ; head turned slightly left.brBottom left image of Mr. K. Tanaka in profile facing left ; face and body shaded.brBottom right image of Kinoshita of Pepeekeo, Hawaii turned three-quarters away from viewer.brDrawing 97.106.1BN on verson of same sheet.
+867 2 drawings on paper, laminated (1 sheet) : ink ; left image 3.875 x 3 in., right image 3.875 x 3 in., on sheet 6 x 9.5 in.  Ink portraits of two caucasian men, Melbern Bishop and Allen L. Bonner, at Lordsburg Justice Department Camp, New Mexico on October 8, 1942.  Both drawings have black line borders.brLeft portrait of Melbern Bishop, United States Army Private, Quartermaster detachment from Oluster, Oklahoma.  Bishop gazes directly at viewer.  He has a square jaw, short, wavy hair combed back, and wears a button-down shirt with pockets open at neck.  Visible from shoulders up.brRight portrait of Allen L. Bonner, Unitde States Army Sergeant, Medical department of Gilmer, Texas.  Bonner is turned to the left and looks to the left of the viewer.  His hair is combed to the proper left.  He wears a button-down shirt with pockets.  Visible from shoulders up.
+461 5 photographic prints : b&amp;w; ; 5 x 7 in.  4 negatives : b&amp;w; ; 4 x 5 in.  Japanese Doll festival display in library at Foshay Junior High School in Los Angeles, California, March 18, 1955.  Large group of women and children view the various dolls displayed on tables in front of shelves of books against the wall.  Includes Japanese Consul General Shinsaku Hogen with Caucasian woman dressed in a kimono, and with large group of girls dressed in kimono.
+550 1 photographic print : b&amp;w;  Boy dressed in a United States Army dress uniform stands with arms at his sides on wooden porch steps in front of barracks at Rohwer concentration camp, Rohwer, Arkansas, August 6, 1944.  The uniform includes light-colored slacks, belted jacket with circular pin on lapel over light-colored shirt and necktie, and a dark overseas cap with a pin on proper L.  Two white-trimmed screen doors in background; letter box to L of doorframe above metal bucket.  Image has irregular scalloped border.  Same boy in 97.292.11D.
+675 Mounted on masonite and unframed.  A woman in blue dress and hat, holding baby and purse in left arm, suitcase in other hand, looks over her right shoulder back at Caucasian woman and girl waving goodbye in upper left corner.  Walking next to her, at left front, a  young girl in red dress with left hand on suitcase, waves with right hand and looking over left shoulder. The woman in the background wears a green dress and waves with her left hand while holding a dog on a leash with her right hand.  A young blonde girl stands next to her on the right wearing a light blue dress, also waving goodbye.  In background, are what appears to be farmhouses, trees and a windmill.
+685 2 photographic prints : b&amp;w; ; 5 x 7 in.  2 negatives : b&amp;w; ; 4 x 5 in.  Published in Rafu Shimpo, June 21, 1969, Japanese section.  Tsutomo Ito of Mie prefecture, Japan on Expo 70 Goodwill Tour Around the Continent van in front the Rafu Shimpo building in Little Tokyo, Los Angeles, California, June 20, 1969.  Van is decorated with Japanese flag and Expo 70 icon on drivers door and lettering, Goodwill Tour Around the Continent, Expo 70 a World Festival, and Riding on the 360 cc.  Includes Ito, a tall, thin, young man in suit, leaning against front of van and standing with seven older Japanese men in suits.   Rafu Shimpo. L.A. Japanese Daily News on wall in background.
+565 1 negative : b&amp;w; ; 4 x 5 in.  Published in Rafu Shimpo, April 29, 1959.  Ken H. Kato and Kenneth Yagura with Ernest E. Debs and Kenneth Hahn in Los Angeles County Supervisors chambers at Hall of Records for Boys Day in Government in Los Angeles, California, April 28, 1959.  Two boys in suits sit behind a table covered with papers, pen, microphone and nameplates, Ernest E. Debs and Kenneth Hahn.  Two Caucasian men stand behind them, leaning forward; Debs at left, Hahn at right.  Men sit and stand in background below murals on walls.  Flags hang in corner.
+379 1 photograph : b&amp;w; 5 x 7 in.  2 negatives : b&amp;w; ; 4 x 5 in.  Designer Sadohara and models at fashion show in the Los Angeles room of the Statler Hotel, Los Angeles, California, September 13, 1956.  Includes portrait of a little girl in a kimono, and Mr. Sadohara with models, Michi Kumamoto and Marilyn Bailey, and Madame Riye Yoshizawa of the Modern School of Fashion.
+269 Photo of 3 people in an office. Woman is sitting behind a desk. A man standing beside her behind the desk. And third man is sitting in front of the desk facing them both. Papers scattered on the desk. Calendar hanging on the wall. Windows shown looking out to barracks.
+707 1 photographic print : b&amp;w; ; 5 x 7 in.  2 negatives : b&amp;w; ; 4 x 5 in.  Published in Rafu Shimpo, June 16, 1966.  Consul General Toshiro Shimanouchi presents medal and certificate of the Japanese governments Fifth Class Order of the Rising Sun to Father Michael McKillop who receives it on behalf of Father Hugh T. Lavery at Consulate General office in Los Angeles, California, June 15, 1966.  Older white-haired Caucasian man wearing eyeglasses and priests collar holds medal in box and edge of certificate written in Japanese as Japanese man in suit holds left edge of certificate.  Also includes Father McKillop holding medal next to Consul General and six other older Japanese men in same room.
+503 1 photographic print : b&amp;w; ; image 1.5 x 1.5 in., sheet 2.625 x 2 in.  Mustached older man with round-rimmed eyeglasses stands in front of doorway and U.S. Mail box at Rohwer concentration camp, Rohwer, Arkansas, 1942-1945.  Visible from hips up, he wears a sweater over a white shirt tucked into his belted pants.  His hair is closely cropped at sides and he has creases on his forehead.  Small box mounted to left of doorway labeled US MAIL.  There  is a mop propped against wall in R background.
+343 1 negative : b&amp;w; ; 4 x 5 in.  Published in Rafu Shimpo, May 23, 1957.  Studio head and shoulder portrait of a smiling young man, Ken Kato, wearing a sweater with trojan helmet on shield emblem on chest over white collared shirt, Los Angeles, California, May 20, 1957.  Kato is turned slightly to the left and looks to the right of viewer.
+464 1 drawing on paper ; 8 x 10.5 in.  Pencil drawing of mochitsuki, Japanese New Years custom of pounding mochi at the California Sea Food Fish Cannery in Harbor City, California.  In foreground, women stand with backs to viewer as they lean over a table forming small Japanese rice cakes called mochi.  Two men are visible in background raising kine, pestles, over their heads to pound rice into mochi in an usu (mortar).  Outline of a trailer visible in background.
+153 Photo inside a barrack. Long narrow table in foreground with a pile of clothing  and boxes on top of it.  One man at the far left if examining the boxes.
+476 Matted and framed.  Abstract collage in hues of blue, red, yellow, black, brown, green on silver background.  Almond shaped red and yellow form, upper left.  Blue with black fish-like form, top center, appears next to large yellow form; overlapped by grey strip with black Japanese characters.  Block with black, green and gray variegated design runs parallel to bottom edge; triangle with same design angles to left edge; a strip with wood design runs parallel to right edge.
+313 1 negative : b&amp;w; ; 120 mm.  Published in Rafu Shimpo, December 20, 1969, holiday supplement.  Asian American Social Workers (AASW) meeting in Los Angeles, California, December 1969.  Group of men and women sit in a circle in a room; some hold cups in their hands.  Chairman Jim Miyano sits second from right.
+196 3 negatives : b&amp;w; ; 4 x 5 in.  Published in Rafu Shimpo, December 10, 1950.  Nob Kawai, supervisor, working with milk bottling machinery at Valley Maid facility, California, December 4, 1950.
+1823 1 letter and envelope from Tetsuzo (Ted) Hirasaki to Clara Breed.  Transcription:brEn route to Poston/December 3, 1943/Dear Miss Breed,/Thanks for the road map. Was delayed in leaving until this morning because of transportation difficulties. Departure time was postponed three times What disappointment there was on the faces at each announcement Everyone is happy now cuz were goin home./Yesterday we had the tiniest flakes of snowfall. Again it rained instead of really snowing. At least the tiny snowflakes were dry for a few minutes before the rain. We are hoping to run into snowfall on the way home. /Dad is working in the barber shop now. Yaeko writes that she is now out on indefinite leave in Preston, Idaho. She plans to visit Poston sometime soon. /The other day the kitchen crew went on a tour of the farm since we had not been able to go out since we worked all day. The farm is really huge. The soil is soft and black. The tremendous flocks of geese have done the soil such good. However they trampled the grain and ate the greens. We saw the Tule Lake. It is beautiful. Made me homesick for S.D. It looked as if we were looking out toward the sea./Thanks again for the road map. Now we can really see where we are going. It surprised us last night to see just how far we had gone and where we were./The letters were really welcome. Now I know how soldiers feel about mail. We certainly crowded around when mail was issued. The joy of receiving and the disappointment of not receiving. Mail was food for morale. /Sincerely,/Ted/P.S. You mentioned Eleanor was down for Thanksgiving. We missed the turkey but we had steak instead. I meant to drop her a line being so close to San Francisco, but I found that I didnt have her address. I certainly wished that I were back in S.D. as that Thanksgiving in 41./T.H.
+363 1 photographic print : b&amp;w;  Half-portrait of young woman in eyeglasses, vest over white short-sleeved shirt and leaf-patterned skirt standing with hands behind her back with open sky above at Rohwer concentration camp, Rohwer, Arkansas, 1942-1945.  Perspective is from a low angle.  Decorative geometric cropped corners.  Woman is also in 97.292.6G, 6M, 6AE.
+922 4 drawings on paper (1 sheet) : ink ; 9.5 x 6 in.  Ink sketches of scenes from comedic Japanese play, Joson danhi or Women respected, men disrespected, performed for anniversary of Hawaii people at Jerome Relocation Center, Denson, Arkansas, depicting men bowing to women, doctor attending someone in a sickbed and a portrait of doctor.brTop skech of two women in kimono looking down at two men bowing deeply before them with backs to viewer.brBottom left sketch of two men, Yoshihara and M. Sugita, standing with backs to viewer.  Sugita, the taller man, wears a hat.brBottom middle sketch of a woman bending over a person prostrate in bed as two men look on.  Man on left has a mustache and glasses.  All face away from the viewer.brBottom right portrait of doctor, visible from chest up.  He has a mustache, glasses and a smiling contenance.  He has a stethoscope in his ears.brDrawing 97.106.2I on recto of same sheet.
+740 1 photographic print ; b&amp;w; ; 5 x 7 in.  2 negatives : b&amp;w; ; 120 mm.  Published in Rafu Shimpo, December 22, 1970, English and Japanese sections.  Los Angeles Councilman Gilbert W. Lindsay presents a City Council resolution to Kansuma Fujima in recognition of her contribution of Japanese culture and art to Southern California in Lindsays office in City Hall, Los Angeles, California, December 22, 1970.  Balding African American man in suit and striped necktie, Lindsay stands next to Kansuma who wears a patterned kimono and Katsuma Mukaeda, an older Japanese man in suit and eyeglasses at right with three other men in suits, Akira Yoshihara, George Matsumoto, and Kauo Tanaka; photomural of city in background.  Also, includes
+204 Stretched and unframed.  Abstract in hues of red, yellow, orange, purple, brown, green.  Orange and red forms, right; large yellow form, upper middle; blue form upper left; brown form, bottom left corner.
+1869 1 letter and envelope from Katherine Tasaki to Clara Breed.  Transcription:brPage 1/Jan. 24, 1944/Poston, Ariz./Dear Miss Breed,/Ive decided to write a book No kidding. But before I do anything, I would like to have your advise. When you finish with the book, dont you have it typewritten? Thats what bothers me./After that dont I send it to a publisher?/Its lots of trouble to write a book, isnt it? And theres a chance that the book may be /Page 2/turned down. /I think the hardest part is the typewriter. I love to use it, but I really never learned. /Ive got lots of time, because I cant go to school. (Walking too much hurts.) My story will be about a little Japanese girl like me. Thats another thing. I never knew how hard it was to choose a name./brOf course, I can think of lots of Japanese names, but it might be pron/Page 3/onced wrong./Can you use true names in stories like: Whitney, San Diego, Santa Anita, Bank of America, etc.?/My goodness, if it takes too much trouble, I guess Ill have to call it off. I dont mind writing the story, but its the other things./I think Ive read enough to know how to hold the readers interest--I hope. /I hope Im not br/Page 4/putting you to too much trouble with my silly questions. /It sprinkled a little this morning and this afternoon, but not much. The last two days have been windy, and its a wonder the roof doesnt blow off. It almost did last year./I have quite a collection of hobbies, but they have grown bigger. My original hobbies were: jars + bottles, movie stars, books, and pins. Ive added: stamps, postmarks, pen pals, paper dolls, and collecting hobbies/I answered some letters in my magazine, and Im surprised at the results. Ive got many satisfactory answers, and Im getting more pen pals all the time./I must close now, but Ill write again. Tell everyone Hello, and give them my love./Love,/Katherine
+677 2 drawings on paper (1 sheet) : ink ; top image 4.75 x 6 in., bottom image 4.75 x 6 in., on sheet 9.5 x 6 in.  Ink sketches of four men pounding mochi and four women forming mochi at Jerome Relocation Center, Denson, Arkansas on December 31, 1943.brTop sketch depicts two pairs of men pounding mochi in two separate usu, or mortar.  On the left, a man pounds the mochi in the mortar with a kine, or pestle, while another man leans over mortar.  On the right, a man, Mr. Sugita, raises a kine over his head as other man turns the mochi in the usu.brBottom rough sketch of four women bending over a table as they form mochi into balls.brDrawing 97.106.2EQ on recto of same sheet.
+74 Photo of Jack Iwata and Gyokudo-sensei in the winter of 1944 at Tule Lake.
+352 1 photographic print : b&amp;w;  Three-quarter portrait of two young women standing side-by-side on footpath outside barracks at Rohwer concentration camp, Rohwer, Arkansas, 1942-1945.  Young woman on L wears patterned shirt and short dark skirt; young woman on R wears vest, skirt, and short-sleeved blouse and has her arm around the others shoulders.
+224 1 b&amp;w; photograph of baseball players. Total of 26 men: 12 standing in back, 14 sitting in front. Baseball bats and baseball gloves on ground in front. Most players in baseball uniforms. Spectators to the right of image.
+631 3 drawings on paper, laminated (1 sheet) : ink ; 9.5 x 6 in.  Ink sketches of three patients in Lordsburg camp hospital ward 2 on September 12, 1942.brTop sketch of a man reclining in bed holding his left hand to his face.  Another man wearing glasses is seated at right with his left hand to his right ear.brMiddle sketch of a mustached man laying on his side in bed with eyes closed ; his head is on left.brBottom sketch of a man lying in bed with his knees up under covers ; another man stands at right at the head of the bed ; a tray table with cups stands in foreground next to bed.brDrawing 97.106.1EH on verso of same sheet.
+911 2 drawings on paper, lined and laminated (1 sheet) : ink ; left image 4.125 x 3 in., right image 4.125 x 3 in., on sheet 6 x 9.5 in.  Ink portraits of two men, Isoo Kato and Shuji Kimura, at Lordsburg Justice Department Camp, New Mexico on July 28, 1942.  Both drawings have double black line borders.brLeft portrait of Isoo Kato, 66 year-old of Kealakekua, Hawaii, originally from Hiroshima, Japan.  Kato is dressed in a button-down shirt with top button buttoned.  He has a crewcut and looks to the right of viewer.  Vertical striped background.  Visible from shoulders up.brRight portrait of Shuji Kimura, principal of Honomu Japanese language school in Honomu, Hawaii, originally from Fukui, Japan.  Dressed in a checked button-down shirt and glasses, Kimura looks to the left of viewer.   He has a mustache, glasses, and hair parted on proper left.  Vertical striped background.  Visible from shoulders up.
+502 1 drawing on paper : ink ; image 9.25 x 13 in.  A  woman in a cross-patterned shirt, Mine Okubo stands in the right foreground covering her face with both hands to protect herself from the dust blowing towards her. A man in the center foreground, wears a face mask while using a pickax to make irrigation ditches to control the dust. Mounds of earth sit where ditches are dug. Two additional workers with shovels are visible in the left background. Five barracks and two electric poles lie beyond them.
+224 1 photographic print : b&amp;w; ; 5 x 7 in.  1 negative : b&amp;w; ; 4 x 5 in.  Tats Kushida presents Frank Chuman with Japanese American Citizens League (JACL) 1000 Club pin as David Yokozeki looks on, California, ca. 1955.
+444 1 short underkimono : cotton, silk ; 27 x 23.25 (center back), sleeves 21 x 11.75 in.  Accompanied by matching koshimaki (wrap-around underskirt) (2004.1.190)  Off-white cotton muslin hanjuban (half underkimono) with gray silk collar and front facing (4 in.), and cream habutae silk sleeves (21 x 11.75 in.) with faggoting detail on lower edge.  Gray collar has fine horizontal lines.  Collar is folded in half to 2 in. at the back of the neck.
+108 Unframed stretched canvas.  Image of still life of squash and melon.  The colors are yellow, green and gray.
+657 1 photographic print : b&amp;w; ; 5 x 7 in.  2 negatives : b&amp;w; ; 120 mm.  Published in Rafu Shimpo, March 29, 1968, Japanese section.  New Toho President Tatsuo Matsuoka, his wife and Toho executive, Tadashi Yonemoto, is greeted at airport and speaks in a room, California, March 28, 1968.br1P and 2N: Three young women of the Club of Toho Friends present rose bouquets to Matsuoka, a graying Japanese man in dark suit and eyeglasses, center, flanked by his wife and Yonemoto in front of an airplane.br3N: Graying Japanese man in dark suit stands and speaks into a microphone held by a woman in suit at right.  Man and woman sit on couch in background.
+3981 1 letter and envelope from Louise Ogawa to Helen McNary.  Transcription:brNovember 11, 1942/Dear Miss McNary,/This is Louise who is getting blacker and blacker by the minute in sunny Arizona. Since the last time I wrote nothing exciting has occurred. We are all fine and I hope you will receive this letter in the best of health too./Saturday, Nov. 7th, I experienced something I shall never forget. I went cotton picking with my school-mates to raise funds so the school will be able to have a school paper. We left home at 8:30 A.M. on a cattle truck. We were going bumpity bump down the narrow dirt road when all of a sudden we came to a halt. We quickly jumped to our feet and saw a little house. In it sat a military police who counted us like cattles. Then we were again winding through the Mosquite trees until finally we were surrounded by cotton plants. We all cried, Well, here we are--lets get busy After piling out of the truck like ants, we were given a large sack in which to put the cotton. This bag was very very long. It weighed 2 lbs and often got in our way. We flung the bag over our left shoulder and began picking the cotton. It certainly was a good thing that I wore slacks and a long sleeve blouse for you get scratched all over. I often crawled on the ground to pick the fallen cottons. I picked the long staple cotton./A.--long staple cotton--small cotton which is hard to pick--the price is 4 c. a lb./B.--short staple cotton--large cotton which is much easier to pick but the price is 1 c. a lb./I hate to mention how much I picked but Ill be bold and tell you. But before I do promise me you wont laugh I picked only 14 lbs. Now, isnt that sad? I only made 56 c. for the school. But when you add up all the students who picked 14 lbs. I guess the amount will be much greater. If I ever have a chance to go again Ill try to pick much more. At least this time Ill know how to go about it. You see, we were given no instructions as to how we should pick it. We were told to pick everything that was white either on the plants or on the ground./Cotton picking certainly is a boring job. It is no wonder that the negroes have developed such a talent in singing. But I enjoyed it tremendously. We also sang songs and cracked jokes while working./Do you remember Emi Himaka and Kikuye Kawamoto (one of the twins)? Well, in the morning Emi picked 4 lbs. and Kikuye picked 5 lbs. and I picked 6 lbs. But my other friend who is formerly from Visalia picked 8 lbs. Then in the afternoon Emi, Kikuye, and I together picked 18 lbs. We put all the cotton together in one bag. Emi carried the bag. Emi and I had to carry the bag together to take it to be weighed. We didnt expect it to weigh 18 lbs. Even though we didnt accomplish as much as we would have liked to we had a great deal of enjoyment./We stopped work about 4:30 P.M. and were taken to the trading post which is about 8 miles on this side of Parker. The trading post was one of thise country stores where they sold from shoes to food. There were many Indians there. That is where they do their shopping./One thing I missed was water. It was like being in the middle of a desert. When we arrived at the trading post, we ran in the store expecting to buy a soda. But to our disappointment no cold drinks were sold. Even though I had no water and came home exhausted I enjoyed every minute of it. It certainly felt good to get home/Today all the elderly people and invalids received a mattress. My father received one but Im still a spring chicken so the straw mattress is good enough for me/Oh by the way, this is how I looked when I went cotton picking: [drawing] Please use your imagination for itll help alot./brI have heard linoleums are going to be laid on the mess hall floors. I think this is wonderful/Since school began the first school affair was the Junior Jubilee. It was a social put on by the Junior class. It was very successful. The seniors are planning to have a social too. I hope this w
+351 1 negative : b&amp;w; ; 4 x 5 in.  Published in Rafu Shimpo, February 16, 1951, Japanese section.  Two men in suits and round-rimmed eyeglasses, Kiyoshi Yamaguchi and Kumio Shimizu, standing side by side looking at viewer, California, 1950.  Yamaguchi, right, stands with his hands behind his back; Shimizu, left, stands with his hands in his pockets.
+918 1 photographic print : b&amp;w; ; 5 x 7 in.  1 negative : b&amp;w; ; 4 x 5 in.  Published in Rafu Shimpo, October 28, 1969.  Baido Kai party with guests from Japan to celebrate five students passing exam at Kawafuku restaurant in Little Tokyo, Los Angeles, California, October 27, 1969.  Garakunoto Nakajima, a white-haired, older gentleman in dark suit and eyeglasses who is the head of Seihahongakkai, sits in center of front row seated on tatami floor at low tables covered with trays of Japanese food.  He is flanked by three women in kimono and one in western clothing, Gasho/Gaeki (?) Takashima, Gatoyo Hirata, and wife Reiko Nakajima.  Kayoko Wakita, also known as Baido Wakita, wears a dress in center of second row flanked by her five students who received their certification from Nakajima.  They are identified (left to right): Kazuko Urata, Kazuko Asayo, Patti Shirai, Carol Sakamoto, and Setsuko Yamazaki.
+337 1 drawing on paper : ink ; image 9.75 x 14.5 in.  A woman in a cross-patterened shirt, Mine Okubo looks back at the viewer while standing amidst a large crowd gathered outdoors for the Hanamatsuri festival.  A circle of dancers, dressed in kimonos and carrying fans performs in front of a partially visible stage in the right background.
+446 1 photographic print : b&amp;w;  Portrait of a young woman, Betty, in a sweater at an open field, Heart Mountain, Wyoming, ca. 1944-1945.  Dressed in a long sleeved sweater with a white color and a cross on a chain around her neck, Betty is turned slightly to the left with proper left arm slightly pulled back from body.  She has curly shoulder length hair and smiles to left of viewer.  She is visible from hips up.  Barracks in the background.
+399 1 drawing on paper : ink ; image 9.75 x 14.5 in.  A woman in a cross-patterned shirt, Mine Okubo, stands in a nursery school classroom. A teacher in a flower-patterned dress is seated, consoling a crying child. Three preschoolers wearing bibs, sit at a table looking at books. Two others stand by a row of cubbies, while another paints at an easel.  A ball, toy animal and book sit atop the cubbies.
+222 1 photographic print : b&amp;w;  Head and shoulder portrait of a smiling woman in light-colored blouse and eyeglasses at Rohwer concentration camp, Rohwer, Arkansas, October 29, 1944.  Shadow on wall directly behind woman.
+413 1 drawing on paper ; matted image 4.75 x 6.75 in., mat board 8 x 10 in.  Pencil sketch of family life in barracks of Heart Mountain concentration camp.  A woman gets hot water for tea from heating stove on left as boy talks to her.  Man sits in chair under laundry line of clothes with a small child standing before him.  Woman holds an infant, right, behind a woman lounging on a bed in foreground.  Line border.
+426 2 photographic prints : b&amp;w; ; 5 x 7 in.  A couple, Dr. and Mrs. E. Allen Peterson, sit at a table promoting their book, Hummel Hummel, about their transpacific adventure sailing on a Chinese junk, November 29, 1952.  Japanese American woman, Tani Yoshihara Petersen, sits at left wearing a belted dress and a very large pendant next to a bald Caucasian man, Petersen, who has a mustache, suit and floral necktie at right.
+410 1 negative : b&amp;w; ; 4 x 5 in.  Published in Rafu Shimpo, June 1, 1961.  Studio head and shoulder portrait of Tsuyu Sasaki, Belmont High School student body president for the Fall semester, taken at Toyo Miyatake Studio in Los Angeles, California, May 27, 1961.  Young woman in sleeveless light colored top leans forward turning slightly left while looking to right of viewer.  Her hair is a short bouffant.
+550 1 negative : b&amp;w; ; 4 x 5 in.  Published in Rafu Shimpo, August 22, 1968, Japanese section.  Portrait of four men and two women who participated in Nisei Week lecture event on stage held at the Nishi Honganji Temple in Little Tokyo, Los Angeles, California, August 21, 1968.  Older man in a suit sits beside two women, one in a suit and the other in a kimono.  Three men in suits stand behind them.  Six vertical banners with Japanese writing hang from drapery behind group.  Podium with microphone at right.  They are identified (left to right):
+1217 1 photographic print : sepia toned.  Panoramic group portrait of North American Federation of Young Womens Buddhist Association (YWBA) Leagues participants in front of Salinas Buddhist Church bell tower, Salinas, California, July 25, 1935.  Four rows of men and women pose in open area in front of bell tower and temple,left.  Men in suits sit in first row, many holding juzu, with four young women in white dresses and smiling man in white pants at far left.  The Buddhist clergy are identified: Rev. Kenshi Iwao (1st), Rev. Gyosei Nagafuji (7th), Rev. Y. Iwanaga (9th), Rev. S. Todoroki (19th), Rev. H. Shimizu (12th), Rev. T. Terakawa (13th), Rev. E. Shigefuji (15th), Rev. E. Terakawa (17th), Rev. Enyo Unno (21t), Rev. Giko Abiko (22nd) and Rev. Bunyu Fujimura (23rd).  A small girl and boy sit in front row left and another small boy stands between the legs of man in center.  Second and third rows composed predominantly of young women in white dresses.  Young men in suits stand in back row; man in eyeglasses above rest, far right: Eizo Masuyama.  Two women hold a banner, North American Federation of Y. W. B. A. Leagues, between them at far left.  Two women hold a vertical sign in Japanese at far right.br
+334 1 negative : b&amp;w;  ; 4 x 5 in.  Man, Mr. Utsunomiya, working on a watch in Kens Watch Shop, California, 1956.  A magnifying glass resting on his forehead, Utsunomiya looks down at the watch he holds in his hand as he holds a pointed instrument in his other hand.  Machinery on counter in foreground; clocks on shelf in background.
+310 Stretched and unframed.  On the left, a wooden structure with a wooden fence extending back to the right toward another structure hidden in foliage stands before a backdrop of brown trees. In the foreground, flat area of dirt with puddle at center before an expanse of grass with two wooden crates on the left.
+576 1 b&amp;w; image taken at an unspecified California concentration camp. Interior scene of 9-10 men unpacking plates, cups, and other tableware from metal containers. 3 men are in the foreground, 2 are leaning over a trashcan full of water, they have cups in their hand, 1 has a brush. The third man in the foreground has a towel in his hand, and he is setting a cup down on the table. Around the table, the remaining men are gathered. Along L wall on a bench are stacks of plates and gravy boats. Open doorway at far end of room. Other crates and containers in the background.
+1045 Stretched and unframed  A group of eight people eat fish and rice at a table.  In the foreground, with their backs to the viewer, a woman in brown with white collar watches her child dressed in red feed itself in the lower left ; seated next to them a man in blue shirt and overalls shovels rice with his chopsticks and arms upraised ; a boy in black and green stripes eats in lower right.  Seated across the table in the upper left, facing the viewer, an old woman with blue sweater and white collar eats next to a child in lime green who refuses food with upraised hands and turning head from its mother dressed in rust in the center ; a girl in pink with white collar and pink bow in her hair pokes at her food on the upper right.  White plates of fish and rice sit on the long wooden table next to white cups and oranges.  At table center are two sets of salt and pepper shakers and two other condiment bottles.  In the background on the wall are two white signs with grey print, No Second Serving and Milk for Children and Sick people only.
+387 1 photographic print : b&amp;w;  Portrait of a smiling young woman sitting on folding wooden chair in front of tarpapered barracks wall at Rohwer concentration camp, Rohwer, Arkansas, August 3, 1944.  Dressed in patterned skirt and short-sleeved white blouse, she sits with hands in lap.  Sapling to L; vine bush at R.  Screened windows visible at TL and TR.  Irregular scalloped border.
+942 5 photographic prints : b&amp;w; ; 5 x 7 in.  Party for Consul General Shinsaku Hogen of Japan held at the Ambassador Hotel in Los Angeles, California, 1954.  Includes group portraits with former Manzanar camp director Ralph Merritt and wife, Los Angeles Mayor Norris Poulson and wife, Judge Scott and performers in kimono.br1. Group portrait:  Front row, Mrs. Hogen in kimono; Second row, Judge Scott (third from left); Consul General Hogen (fourth person), Norris Poulson and Mrs. Poulson.  Third row, Ralph Merritt (2nd from left); Mrs. Ralph Merrit (third from left).br2.  Group portrait of local guests: Front row, Kakuo Tanaka (second from left), Kazahaya, Mrs. Sugimachi.  Back row, Dr. James Hara (second from left), Dr. Sugimachi (head of Kyodo system) and Mrs. Kazahaya.br3.  Norris Poulson and Mrs. Poulson greeted by Mr. and Mrs. Hogen.br4.  Kenbu performance.br5.  Mayor and Mrs. Norris Poulson with Japanese Americans in kimono.
+300 1 tanzen : silk, cotton  ; 54.5 x 25 (center back) in., sleeves 17.25 x 12.75 in., collar 2.25 in.  Quilted silk and cotton tanzen (padded kimono) with black and brown horizontal stripes.  Exterior is silk with full navy blue cotton lining.  Knotted ties of orange thread are throughout like a quilt.
+538 1 negative : b&amp;w; ; 4 x 5 in.  Published in Rafu Shimpo February 11, 1957.  Presenation of the George Inagaki perpetual plaque to East Los Angeles chapter for winning the Japanese American Citizens League (JACL) chapter of the year award at Thistle Inn, Los Angeles, California, February 10, 1957.  Three men, two Japanese American, one Caucasian, in suits stand next to a podium with a microphone: Ken Dyo of Pasadena presents the plaque to Fred Takata of East LA JACL; Los Angeles County Supervisor Kenneth Hahn stands between them.
+738 1 postcard from Margaret Arakawa to Clara Breed.  Transcription:brPoston, Arizona/Aug. 29, 1942/Dear Miss Breed/We were evacuated in the first move from Santa Anita to Camp III Poston Arizona which is 23 miles from Parker. We left last Wed Aug 26 at 8:30 and arrived here the next day at 3:30. Now the whole San Diego county has been reunited here. Everything is just fine all except for the dust. The heat is around 100 and little over. But I am used of this from Santa Anita./I have not heard from Miss Fay so I presume she is on her way to the Pacific coast. She wanted so much to comes and see me at the end of Aug at Santa Anita but now I am too far. Miss Breed thanks a lot for the past + best wishes to you. Sincerely,   Margaretbr
+518 1 negative : b&amp;w; ; 4 x 5 in.  A young woman, Margaret Ohara, stands beside a Caucasian man, Sheriff Peter J. Pitchess, in the Los Angeles Sheriffs office for Girls Week in Government, Los Angeles, California, March 19, 1958.  Ohara, left, wears a light-colored suit and hat with veil, and a name tag pinned to her collar.  Pitchess, right, wears a suit and smiles directly at the viewer.  Curtains in background.  Sign on wall, A man may fail many times, but he is not a failure until he begins to blame somebody.
+1336 1 letter and envelope from Margaret and Florence Ishino to Clara Breed.  Transcription:brSeptember 15, 1942/Dear Miss Breed,/Words cannot express my thanks for your kindness./It hardly seems possible that we have been here for 3 weeks. Without the dust and heat I could not complain about Poston./I have been working as a waitress for two weeks now and find it fun. Eleven other girls my age and over are working with me--all whom I know so we get along quite well together. /In the morning we serve coffee to the adults and coffee to the children. For dinner and supper we have ice water which is delicious because of the warm weather. Our food is much better than Santa Anita and we have more varieties. Breakfast is from 7:00 to 7:30; dinner is from 12:00 to 12:30; supper is from 5:30 to 6:00. /Next month school is going to start for students who are under 18 years of age. It is really going to be a joy getting back to school with Caucasian teachers. This is going to be a regular school and we are going to get credit for attending. I am privileged to have such an opportunity as I have only a year before I will graduate High School./Florence wants to write to you. /THANK YOU FOR THE CANDY, MISS BREED. HELLO MISS MCNARY. Florence/I will write again soon and please give my regards to Miss McNary./Sincerely,/Margaret Ishinobr
+505 2 photographic prints : b&amp;w; ; 5 x 7 in.  2 negatives : b&amp;w; ; 4 x 5 in.  Jun Negami, a movie actor from Japan, arrives at the Los Angeles International Airport (LAX) in Los Angeles, California, June 23, 1956.  Dresed in dark shirt, jacket and pant and white shoes, Negami waves and walks down stairway holding a Japan Air Lines (JAL) bag.  He is greeted by Frank Kumagai, a Los Angeles actor.  Dressed in a light colored suit, Kumagai points to the right.  United Airlines airplane in background.
+323 1 legging (1 of 2) ; denim ; 13 x 13.5 in., ties 6 in. and 29 in.  Accompanied by 2004.1.41B.  Denim kyahan (legging) for right leg with light brown fabric lining and 9 kohaze copper fasteners on interior edge with matching loops on exterior of opposite edge.  One handmade buttonhole on upper front 3.5 in. from side edge.
+147 Red and brown painting with a mountain and barracks in the background.  In the foreground is a water tower and rows of workers walking down a road.
+322 Unstretched and unframed canvas.  The Oakland cityscape as seen from Lake Merritt City Park, Oakland, California. In the right foreground, dark waters of lake; left, curving shoreline with dirt path on edge. Mid-ground, a bright green band of trees along the edge of the far lakeshore balances the light, cloudy sky above.
+247 Unstretched and unframed.  In foreground, swampy area of dry grass and reflective water.  Left, wooden structure with small fenced area.  In the background, more brush before a large woodpile.  Outline of trees visible behind barracks in distance.
+266 Stretched and unframed.  Abstract in dark hues of red, black, green, gray, yellow, brown.  Red, yellow and black hued form at right linked with animal-like form with grey rectangular forehead and pink eyes and nose on the left. Light yellow background at top center.
+374 2 negatives : b&amp;w; ; 4 x 5 in.  Published in Rafu Shimpo, April 10, 1965, Japanese section.  Japanese garden designed by the Nunokawas of Garden Art Landscaping in the Occidental Center building in Los Angeles, California, April 10, 1965.  Includes view of garden and portrait of father and son, Eijiro and Eiichi Nunokawa, standing beside a matsu (pine) tree in garden.
+411 1 photographic print : b&amp;w;  Three-quarter length portrait of smiling woman, Sakaye Nakatsuru, in dark suit, white blouse and eyeglasses standing on dirt road near row of barracks at Rohwer concentration camp, Rohwer, Arkansas, April 28, 1945.  Power lines overhead at T.  Woman wears short pleated skirt and short-sleeved jacket. A small wooden table in background near barracks.  Same woman in 97.292.6BR.
+360 1 b&amp;w; image taken at an unspecified California concentration camp. Group portrait of eleven men posing outdoors in an open, flat area ; three crouch in front row ; eight stand in back row.  Five of eight men in the back row are in military uniforms. Remaining men are in suits and ties.  Two large tents, utility poles, and mountain visible in background.
+358 1 negative : b&amp;w; ; 4 x 5 in.  Published in Rafu Shimpo, November 13, 1967, Japanese section.  Mutsumi Kai Choir practicing Beethovens Ninth symphony at Centenary Methodist Church in Little Tokyo, Los Angeles California, November 1967.  Twelve women stand in two rows behind a piano played by a man, right.  The women sing as they look down at songbooks.
+422 1 negative : b&amp;w; ; 4 x 5 in.  Published in Rafu Shimpo, November 3, 1967, Japanese section.  Los Angeles Mayor Sam Yorty poses with Japanese singer Linda Yamamoto in kimono at Los Angeles City Hall, Los Angeles, California, November 1, 1967.  Mayor Yorty smiles at left holding promotional pictures of Yamamoto.  Los Angeles City emblem on curtained wall flanked by American and California flags.  Desk in foreground.
+334 1 b&amp;w; image of interior of medical room taken at an unspeficied California concentration camp. A doctor and nurse in an examining room. They are standing behind an examining table. The nurse holds a tray of medical instruments while the doctor is holding one in his hand.   A large lamp is behind them as also a medicine cabinet.
+2268 3 photographic prints : b&amp;w; ; 5 x 7 in.  9 negatives : b&amp;w; ; 120 mm.  Published in Rafu Shimpo, October 10, 1968, English and Japanese sections.  Los Angeles Mayor Sam Yorty presents a proclamation to Osamu Shimizu, Kabuki song score composer and shakuhachi player, surrounded by the Nikikai Opera Company of Japan, in Yortys office in Los Angeles City Hall, Los Angeles, and troupe after performance of Kabuki play, Muko-Erabi (The Marriage Contest), at the Santa Monica Auditorium, Santa Monica, California, October 9, 1968.  Includes Kyoko Ito, the soprano and star of Nikikai; Dr. Jan Popper of UCLA, conductor; Yoshijiro Hanayagi, choreographer and dancer; Hiromitsu Nagauma, director; and troupe members Risaburo Tsukiji, Keiko Yano, Kiyoshi Oda, Tadahiko Hirano, Takeshi Nakamura and Katsumi Niwa.br1P and 4N: Mayor Yorty, a Caucasian man in suit, smiles as he holds a proclamation certificate with Osamu Shimizu, a Japanese man in suit and eyeglasses, in Yortys office.  A Japanese woman in kimono, Kyoko Ito, stands between them.  They are surrounded by ten Japanese men and women in kimono and suits.  Microphone on desk in foreground.  City of Los Angeles emblem hangs in front of curtains, flanked by American and California flags in background.br2P-3P, 7N, 11N-12N : Troupe members in costume socializing with audience.br5N: Portrait of Shimizu in tuxedo with eight members of troupe in costume in front of stage props.  Shimizu and Ito in kimono hold bouquets of carnations and roses, respectively.br6N: Shimizu in tuxedo stands with conductor Dr. Jan Popper of UCLA, a white haired Caucasian man in tuxedo flanked by four men and women of troupe in costume in front of stage props.br8N: Shimizu in tuxedo bows on stage holding a bouquet of flowers next to Dr. Popper, a white haired Caucasian man, center, and Ito, a woman in kimono holding bouquet of roses.  They are flanked by seven troupe members in costume.  Stage props in background.  Orchestra in foreground.br9N: Woman in kimono presents a bouquet to Dr. Popper, a white haired Caucasian man in tuxedo, on stage.br10N: Portrait of two Japanese women standing side by side.  Woman on left, Ito, holds a bouquet of roses.  Woman on right holds a purse and paper in her proper left hand.
+289 1 b&amp;w; image of a young couple looking at each other while sitting on a tree branch. He is on the L, wearing striped pants, a collared shirt, and a light jacket. The girl is on the R, higher up the tree. She is dressed in a striped short sleeved shirt, dark slacks, and white sneakers.
+405 2 photographic prints : b&amp;w; ; 5 x 7 in.  Group portrait of John F. Kennedy and members of the Japanese American Democratic Club, including Frank Chuman, Frank Kurihara, Meri-Jane Yokoe and James Mitsumori, at a reception for the Massachusetts U.S. Senator at the Biltmore Hotel in Los Angeles, California, September 19, 1956.  All five men and women wear suits.  American flag on stand in background.
+705 1 drawing on paper, laminated : ink ; 6 x 9.5 in.  Ink sketch of fifteen men in art class, some identified by inscription, at Lordsburg Justice Department camp, New Mexico in the evening of February 15, 1943.  Three rows of men are seated at picnic tables within a barracks, two or three at each table.  Five men in front at two tables hold writing or drawing implements in their right hands and work on a tablets in front of them (left to right): Tamura, Shimabukuro, Inouye, Maehara, Kawabe of Alaska.  Hyodo and Reverend Ak0hashi are seated in the second row on the left.  Murakami is seated on far right, second row.  Windows roughly sketched in background.brDrawing 97.106.1ER on verso of same sheet.
+707 3 negatives : b&amp;w; ; 4 x 5 in.  Published in Rafu Shimpo, January 1, 1966 and January 4, 1966, Japanese section.  Copy work of three artworks, December 1965.br1N: Woodblock print of a horse with butterfly, dragonfly and sun by Isaku Nakagawa, a Los Angeles artist, for Geishun, welcoming the New Year.  (Publsihed January 4, 1966)br2N: Woodblock print of a person lying under a palm tree with airplane flying overhead by Isaku Nakagawa, a Los Angeles artist.  (Published January 1, 1966)br3N: Sumie, ink painting, of a figure riding a bucking bronco by Toshio Kawai.  Japanese writing on painting indicates it was made at Rafu Shimpo in Little Tokyo, Los Angeles, California. (Published January 4, 1966)
+318 1 negative : b&amp;w; ; 4 x 5 in.  Group of wrestlers arrive from Japan at airport in California, February 1955.  A Caucasian man and Japanese man shake hands at the base of ramp stairs in front of rear of United Airlines plane on runway.  Group of men stand on stairs, including six in mandarin collar school uniform.
+973 Stretched and framed.  Self portrait of Henry Sugimoto as an older man.  A greying Sugimoto, dressed in a dark suit and black tie, gazes directly ahead through black-rimmed glasses.  Around his neck he wears a white ribbon with red stripes tied in bow above a five-pointed yellow star with a red circular design in its center. On his left breast are two medals: Kyokujitsu sho (The Order of the Rising Sun, Gold and Silver Rays) and Shiju hosho (Medal of Honor with purple ribbon).  The Kyokujitsu sho is a hexagonal medal with gold and white rays radiating from a red sun hanging from an paulownia medal attached to a red and white ribbon.  The Shiju hosho is a circular medal of a silver wreath surrounding two kanji characters attached to a silver clasp and bar with a dark purple ribbon.  On the left, behind him, a grey table with a Bible is visible.  A white scroll with two kanji characters hangs (possibly bright hope) in the upper right corner on a deep blue wall.
+365 2 negatives : b&amp;w; ; 5 x 7 in.  Studio head and shoulder portrait of two nuns of Maryknoll, Sister Maria Okamura and Sister Johanna Kawakubo, California, March 9, 1954.  Both nuns wear traditional habit with pendant hanging from a chain around neck.  Both wear eyeglasses; Sister Maria wears silver frames at left and Sister Johanna wears black frames on right.
+
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent
+100
+29 L: 57 in,  center back: 23 in
+20 H: 2.5 in, W: 2.5 in
+33 L: 55.5 in,  center back: 24.5 in
+18 H: 20 in, W: 16 in
+85 H: 11 in, W: 8.5 in (sheet) H: 10 in, W: 8 in (sheet) H: 3.5 in, W: 6.5 in (envelope)
+72 H: 10.4375 in, W: 6.5625 in (sheet) H: 3.875 in, W: 7.1875 in (envelope)
+20 H: 3.5 in, W: 2.5 in
+22 W: 11.75 in, L: 131 in
+18 H: 9.5 in, W: 6 in
+24 H: 7 1/8 in, W: 6 1/4 in
+22 H: 2.5 in, W: 3.625 in
+22 H: 2.5 in, W: 3.625 in
+31 H: 64 in, W: 51.5 in, D: .75 in
+18 H: 30 in, W: 38 in
+58 H: 7.875 in, W: 5 in (sheet) H: 3.5 in, W: 6 in (envelope)
+24 H: 7 3/4 in, W: 9 1/2 in
+52 H: 25.5 in, W: 31.75 in,  Frame: 26.5 x 32.75 x 1 in
+16 H: 5 in, W: 7 in
+18 H: 36 in, W: 28 in
+18 H: 40 in, W: 29 in
+64 H: 10.5 in, W: 7.25 in (sheet) H: 3.875 in, W: 7.5 in (envelope)
+24 H: 7 3/4 in, W: 9 1/2 in
+19 H: 8 in, W: 10.5 in
+24 H: 3.375 in, W: 5.375 in
+19 Neg Type: 120.00 mm
+18 H: 9.5 in, W: 6 in
+29 H: 66.5 in, W: 54 in, D: 1 in
+20 H: 3.5 in, W: 2.5 in
+18 H: 6.5 in, W: 5 in
+16 H: 5 in, W: 7 in
+18 H: 9.5 in, W: 6 in
+62 H: 10 in, W: 7.25 in (sheet) H: 3.875 in, W: 7.5 in (envelope)
+18 H: 5 in, W: 3.5 in
+24 H: 9 1/2 in, W: 7 3/4 in
+21 H: 3.25 in, W: 5.5 in
+22 H: 2.5 in, W: 3.625 in
+20 H: 9.25 in, W: 13 in
+22 H: 9.75 in, W: 14.5 in
+30 H: 13.5 in, W: 16 in, D: .5 in
+58 H: 8 in, W: 5 in (sheet); H: 3.5 in, W: 6.25 in (envelope)
+20 H: 2.5 in, W: 2.5 in
+20 H: 3.5 in, W: 2.5 in
+22 L: 9.75 in, W: 6.75 in
+18 H: 54 in, W: 41 in
+70 H: 5.5 in, W: 4.25 in (card, closed) H: 4.5 in, W: 5.625 in (envelope)
+18 H: 9.5 in, W: 6 in
+20 H: 9.25 in, W: 13 in
+22 H: 2.5 in, W: 3.625 in
+41 H: 19.75 in, W: 24 in,  Frame: 21 x 25 in
+24 H: 7 3/4 in, W: 9 1/2 in
+105 H: 8 in, W: 9.75 in (sheet, open) H: 8 in, W: 4.875 in (sheet, folded) H: 4.25 in, W: 5,125 in (envelope)
+23 H: 4.875 in, W: 6.75 in
+52 H: 19.25 in, W: 15.25 in,  Frame: 24.5 x 20.5 x 2 in
+19 Neg Type: 120.00 mm
+18 H: 9.5 in, W: 6 in
+24 H: 7 3/4 in, W: 9 1/2 in
+29 L: 64 in, W: 51.5 in, D: 1 in
+24 H: 5 1/2 in, W: 8 1/2 in
+18 H: 36 in, W: 26 in
+22 H: 10.5 in, W: 13.5 in
+20 H: 9.25 in, W: 13 in
+20 H: 10 in, W: 14.5 in
+20 H: 2.5 in, W: 3.5 in
+18 H: 5 in, W: 3.5 in
+24 H: 9.875 in, W: 27.75 in
+24 H: 7 3/4 in, W: 9 1/2 in
+18 H: 6 in, W: 9.5 in
+22 H: 9.75 in, W: 14.5 in
+16 H: 8 in, W: 5 in
+20 H: 2.5 in, W: 3.5 in
+19 Neg Type: 120.00 mm
+66 H: 10.5 in, W: 6.5 in (sheet) H: 3.875 in, W: 7.1875 in (envelope)
+24 H: 2.875 in, W: 2.125 in
+23 H: 4.875 in, W: 3.25 in
+20 H: 9.25 in, W: 13 in
+22 H: 2.5 in, W: 2.625 in
+34 H: 19.75 in, W: 23.5 in, D: .75 in
+58 H: 8 in, W: 5.125 (sheet); H: 3.625 in, W: 6 in (envelope)
+20 H: 3.5 in, W: 2.5 in
+20 H: 9.25 in, W: 13 in
+19 Neg Type: 120.00 mm
+20 H: 9.25 in, W: 13 in
+20 H: 3.5 in, W: 2.5 in
+19 Neg Type: 120.00 mm
+20 H: 9.25 in, W: 13 in
+19 Neg Type: 120.00 mm
+18 H: 24 in, W: 19 in
+51 H: 22.75 in, W: 31.75 in,  Frame: 24 x 33 x 1.25 in
+22 H: 2.5 in, W: 3.625 in
+22 H: 9.75 in, W: 14.5 in
+16 H: 4 in, W: 3 in
+20 H: 3.125 in, W: 2 in
+18 H: 36 in, W: 26 in
+20 H: 9.25 in, W: 13 in
+21 H: 5 in, W: 6.9375 in
+29 L: 57 in,  center back: 24 in
+20 H: 3 in, W: 2.375 in
+29 H: 24 in, W: 30 in, D: .75 in
+23 L: 40.5 in, W: 15.25 in
+21 H: 9.5 in, W: 13.5 in
+
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink
+100
+59 http://media.janm.org/collections/janm_2004.1.57_back_a.jpg
+55 http://media.janm.org/collections/janm_97.292.14G_a.jpg
+54 http://media.janm.org/collections/janm_93.102.66_a.jpg
+55 http://media.janm.org/collections/janm_97.292.13P_a.jpg
+59 http://media.janm.org/collections/janm_96.267.153_1_p_a.jpg
+58 http://media.janm.org/collections/janm_93.75.31ER_2r_a.jpg
+54 http://media.janm.org/collections/janm_96.601.54_a.jpg
+53 http://media.janm.org/collections/93.75.31EF_2r_a.jpg
+58 http://media.janm.org/collections/janm_93.75.31ES_3r_a.jpg
+58 http://media.janm.org/collections/janm_93.75.31GA_2r_a.jpg
+55 http://media.janm.org/collections/janm_2007.62.99_a.jpg
+55 http://media.janm.org/collections/janm_97.106.1EY_a.jpg
+57 http://media.janm.org/collections/janm_96.267.226_1_a.jpg
+55 http://media.janm.org/collections/janm_97.106.1BM_a.jpg
+57 http://media.janm.org/collections/janm_96.267.607_1_a.jpg
+55 http://media.janm.org/collections/janm_97.292.14C_a.jpg
+62 http://media.janm.org/collections/janm_2004.1.114_detail_a.jpg
+58 http://media.janm.org/collections/janm_93.75.31EK_2r_a.jpg
+58 http://media.janm.org/collections/janm_93.75.31HL_er_a.jpg
+54 http://media.janm.org/collections/janm_97.292.7D_a.jpg
+54 http://media.janm.org/collections/janm_99.111.65_a.jpg
+58 http://media.janm.org/collections/janm_93.75.31AG_2r_a.jpg
+62 http://media.janm.org/collections/janm_2004.1.67_detail3_a.jpg
+59 http://media.janm.org/collections/janm_96.267.274_1_p_a.jpg
+59 http://media.janm.org/collections/janm_96.267.363_1_p_a.jpg
+58 http://media.janm.org/collections/janm_93.75.31DK_1r_a.jpg
+58 http://media.janm.org/collections/janm_93.75.31AM_4r_a.jpg
+57 http://media.janm.org/collections/janm_93.75.31GJ_r_a.jpg
+57 http://media.janm.org/collections/janm_96.267.833_1_a.jpg
+58 http://media.janm.org/collections/janm_96.267.1173_1_a.jpg
+49 http://media.janm.org/collections/97.292.3F_a.jpg
+54 http://media.janm.org/collections/janm_97.292.6T_a.jpg
+55 http://media.janm.org/collections/janm_97.106.1AL_a.jpg
+54 http://media.janm.org/collections/janm_94.195.12_a.jpg
+57 http://media.janm.org/collections/janm_96.267.162_2_a.jpg
+58 http://media.janm.org/collections/janm_93.75.31AK_6r_a.jpg
+54 http://media.janm.org/collections/janm_99.111.11_a.jpg
+57 http://media.janm.org/collections/janm_93.75.31JJ_v_a.jpg
+56 http://media.janm.org/collections/janm_96.601.19_r_a.jpg
+63 http://media.janm.org/collections/janm_2004.1.104_detail2_a.jpg
+55 http://media.janm.org/collections/janm_94.195.7AE_a.jpg
+54 http://media.janm.org/collections/janm_93.102.37_a.jpg
+53 http://media.janm.org/collections/janm_92.97.53_a.jpg
+55 http://media.janm.org/collections/janm_97.292.13A_a.jpg
+55 http://media.janm.org/collections/janm_97.292.6BN_a.jpg
+58 http://media.janm.org/collections/janm_93.75.31GZ_3r_a.jpg
+54 http://media.janm.org/collections/janm_99.111.44_a.jpg
+55 http://media.janm.org/collections/janm_93.102.178_a.jpg
+57 http://media.janm.org/collections/janm_93.75.31HC_r_a.jpg
+57 http://media.janm.org/collections/janm_96.267.842_1_a.jpg
+57 http://media.janm.org/collections/janm_96.267.872_1_a.jpg
+60 http://media.janm.org/collections/janm_96.267.1036_1_p_a.jpg
+59 http://media.janm.org/collections/janm_2004.1.44A-44B_a.jpg
+58 http://media.janm.org/collections/janm_93.75.31HM_er_a.jpg
+54 http://media.janm.org/collections/janm_93.102.20_a.jpg
+55 http://media.janm.org/collections/janm_97.106.2DX_a.jpg
+53 http://media.janm.org/collections/janm_92.97.56_a.jpg
+62 http://media.janm.org/collections/janm_2004.1.90-91-92_2_a.jpg
+58 http://media.janm.org/collections/janm_93.75.31AP_4v_a.jpg
+59 http://media.janm.org/collections/janm_96.267.710_2_p_a.jpg
+55 http://media.janm.org/collections/janm_96.601.7_r_a.jpg
+58 http://media.janm.org/collections/janm_96.267.1151_3_a.jpg
+55 http://media.janm.org/collections/janm_99.111.153_a.jpg
+57 http://media.janm.org/collections/janm_96.267.959_1_a.jpg
+58 http://media.janm.org/collections/janm_93.75.31IY_er_a.jpg
+52 http://media.janm.org/collections/janm_92.97.2_a.jpg
+57 http://media.janm.org/collections/janm_96.267.703_1_a.jpg
+57 http://media.janm.org/collections/janm_96.267.831_1_a.jpg
+58 http://media.janm.org/collections/janm_93.75.31EJ_2r_a.jpg
+55 http://media.janm.org/collections/janm_97.292.6AS_a.jpg
+57 http://media.janm.org/collections/janm_93.75.31AN_r_a.jpg
+61 http://media.janm.org/collections/janm_2004.1.202_flat2_a.jpg
+54 http://media.janm.org/collections/janm_2004.1.89_a.jpg
+54 http://media.janm.org/collections/janm_93.102.79_a.jpg
+55 http://media.janm.org/collections/janm_93.102.125_a.jpg
+59 http://media.janm.org/collections/janm_96.267.187_1_p_a.jpg
+55 http://media.janm.org/collections/janm_2004.1.202_a.jpg
+56 http://media.janm.org/collections/janm_96.267.45_3_a.jpg
+58 http://media.janm.org/collections/janm_93.75.31FZ_5r_a.jpg
+55 http://media.janm.org/collections/janm_93.102.195_a.jpg
+57 http://media.janm.org/collections/janm_96.267.913_3_a.jpg
+58 http://media.janm.org/collections/janm_96.267.1094_3_a.jpg
+62 http://media.janm.org/collections/janm_2004.1.86-87-88_2_a.jpg
+57 http://media.janm.org/collections/93.75.31EO_supp_2_a.jpg
+61 http://media.janm.org/collections/janm_2004.1.110_back2_a.jpg
+57 http://media.janm.org/collections/janm_96.267.843_1_a.jpg
+54 http://media.janm.org/collections/janm_92.97.101_a.jpg
+59 http://media.janm.org/collections/janm_96.267.647_1_p_a.jpg
+58 http://media.janm.org/collections/janm_93.75.31DZ_er_a.jpg
+55 http://media.janm.org/collections/janm_2007.62.29_a.jpg
+59 http://media.janm.org/collections/janm_96.267.362_3_p_a.jpg
+55 http://media.janm.org/collections/janm_99.111.161_a.jpg
+59 http://media.janm.org/collections/janm_2004.1.44A-44B_a.jpg
+55 http://media.janm.org/collections/janm_93.102.200_a.jpg
+56 http://media.janm.org/collections/janm_2007.62.113_a.jpg
+58 http://media.janm.org/collections/janm_93.75.31JI_2v_a.jpg
+53 http://media.janm.org/collections/janm_98.138.8_a.jpg
+55 http://media.janm.org/collections/janm_93.102.131_a.jpg
+55 http://media.janm.org/collections/janm_97.292.11A_a.jpg
+58 http://media.janm.org/collections/janm_96.267.1131_1_a.jpg
+
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium
+100
+6 pencil
+8 masonite
+9 photocopy
+3 ink
+5 metal
+3 ink
+3 oil
+3 ink
+5 paper
+3 ink
+9 mat board
+5 paper
+6 canvas
+6 canvas
+3 ink
+3 ink
+3 ink
+3 oil
+10 watercolor
+4 silk
+3 ink
+5 paper
+10 watercolor
+3 ink
+6 canvas
+6 canvas
+3 oil
+5 paper
+8 masonite
+6 cotton
+4 silk
+3 ink
+6 canvas
+3 ink
+3 ink
+3 ink
+3 ink
+4 glue
+5 paper
+6 canvas
+5 paper
+3 ink
+5 board
+10 watercolor
+3 ink
+10 watercolor
+3 oil
+6 pencil
+3 ink
+5 paper
+6 pencil
+5 paper
+5 paper
+3 ink
+3 ink
+3 oil
+5 paper
+5 paper
+3 ink
+6 canvas
+8 laminate
+4 tape
+5 paper
+6 canvas
+3 ink
+3 ink
+6 pencil
+5 paper
+3 ink
+6 cotton
+3 oil
+5 paper
+3 oil
+6 canvas
+5 paper
+3 oil
+5 paper
+5 paper
+3 ink
+5 paper
+5 paper
+5 paper
+3 ink
+10 watercolor
+5 paper
+9 mat board
+3 ink
+6 pencil
+3 ink
+6 canvas
+3 ink
+6 canvas
+5 paper
+3 oil
+3 ink
+5 straw
+5 paper
+8 laminate
+5 paper
+3 ink
+
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created
+100
+30 Arcadia, Calif.,April 11, 1942
+22 Rohwer, Ark.,1942-1945
+30 Poston, Ariz.,January 24, 1944
+30 Lordsburg, N.M.,August 9, 1942
+26 Alameda, Calif.,April 1936
+22 Newell, Calif.,c. 1942
+34 Stockton, Calif.,November 14, 1926
+25 California,March 19, 1962
+25 Rohwer, Ark.,October 1944
+36 Los Angeles, Calif.,February 7, 1970
+37 Los Angeles, Calif.,November 25, 1955
+34 Los Angeles, Calif.,March 21, 1969
+19 New York, N.Y.,19xx
+31 Poston, Ariz.,December 28, 1942
+33 Pasadena, Calif.,October 26, 1956
+34 Los Angeles, Calif.,March 16, 1964
+25 Lordsburg, N.M.,1942-1943
+34 Heart Mountain, Wyo.,Win 1943-1944
+29 Heart Mountain, Wyo.,May 1944
+25 California,March 20, 1955
+29 United States,January 7, 1943
+29 Arcadia, Calif.,July 16, 1942
+26 Rohwer, Ark.,July 29, 1944
+28 California,December 14, 1954
+37 Los Angeles, Calif.,November 11, 1970
+32 Santa Fe, N.M.,November 13, 1943
+25 Rohwer, Ark.,July 8, 1944
+31 Rohwer, Ark.,September 23, 1944
+15 California,1970
+24 California,ca. 1942-1945
+23 United States,1942-1944
+24 California,ca. 1950-1964
+28 Rohwer, Ark.,August 19, 1944
+33 Los Angeles, Calif.,November 1965
+33 Los Angeles, Calif.,June 15, 1968
+30 Poston, Ariz.,October 10, 1942
+16 Ewa, Hawaii,193x
+25 Heart Mountain, Wyo.,1943
+32 Arcadia, Calif.,June 17-19, 1942
+30 Rohwer, Ark.,November 11, 1944
+29 Rohwer, Ark.,November 4, 1944
+23 California,October 1970
+23 United States,1942-1944
+30 Manzanar, Calif.,ca. 1942-1945
+24 Los Angeles, Calif.,1968
+33 Los Angeles, Calif.,July 22, 1969
+29 Rohwer, Ark.,October 16, 1944
+35 Los Angeles, Calif.,August 21, 1968
+37 Los Angeles, Calif.,December 15, 1956
+34 Los Angeles, Calif.,March 29, 1962
+20 Lordsburg, N.M.,1942
+30 United States,October 20, 1942
+19 California,ca. 1935
+26 Hermosa Beach, Calif.,1957
+26 Topaz, Utah,September 1944
+8 ,unknown
+16 California,1966?
+23 United States,1942-1944
+33 Los Angeles, Calif.,June 17, 1953
+21 Denson, Ark.,ca. 1942
+27 Poston, Ariz.,June 19, 1943
+20 Denson, Ark.,c. 1943
+8 ,unknown
+36 Los Angeles, Calif.,October 10, 1958
+15 California,1950
+32 Poston, Ariz.,September 27, 1943
+30 Inglewood, Calif.,May 20, 1968
+24 Fukushima, Japan,unknown
+14 France,c. 1930
+34 Los Angeles, Calif.,April 14, 1956
+24 California,ca. 1942-1945
+33 Los Angeles, Calif.,December 1950
+31 Los Angeles, Calif.,August 1969
+26 Manzanar, Calif.,1942-1945
+19 New York, N.Y.,1964
+22 New York, N.Y.,c. 1975
+23 United States,1942-1944
+19 Newell, Calif.,1944
+22 Rohwer, Ark.,1942-1945
+32 Los Angeles, Calif.,July 7, 1970
+23 New York, N.Y.,ca. 1966
+33 Los Angeles, Calif.,June 13, 1959
+29 Manzanar, Calif.,c. 1942-1945
+37 Los Angeles, Calif.,December 13, 1957
+24 California,February 1955
+32 Los Angeles, Calif.,July 7, 1951
+30 Manzanar, Calif.,ca. 1942-1945
+20 Lordsburg, N.M.,1943
+23 California,June 3, 1961
+28 Lordsburg, N.M.,ca.1942-1943
+20 Lordsburg, N.M.,1943
+23 United States,1942-1944
+22 Newell, Calif.,c. 1944
+36 Los Angeles, Calif.,January 22, 1957
+36 Los Angeles, Calif.,October 13, 1962
+38 Los Angeles, Calif.,September 22, 1968
+29 Heart Mountain, Wyo.,Feb 1944
+36 Los Angeles, Calif.,January 18, 1956
+22 Newell, Calif.,c. 1945
+15 California,1955
+
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel
+200
+19 Concentration camps
+23 Concentration camp life
+18 Elementary schools
+17 African Americans
+7 Dresses
+3 Men
+8 Arkansas
+10 Warehouses
+10 Eyeglasses
+3 Men
+12 Boutonnieres
+17 Tasaki, Katherine
+8 Barracks
+5 Women
+8 Arkansas
+16 Academic costume
+8 Shopping
+14 Correspondence
+11 Young women
+5 Shoes
+17 Bowls (Tableware)
+18 Clothing and dress
+31 New York Harbor (N.Y. and N.J.)
+10 Mess halls
+6 Creels
+17 Hirasaki, Tetsuzo
+12 Competitions
+19 Concentration camps
+4 Boys
+19 Concentration camps
+6 Whites
+9 Europeans
+18 Plantation workers
+31 Rohwer Relocation Center (Ark.)
+5 Dolls
+9 Interiors
+10 Cemeteries
+9 Draperies
+20 Los Angeles (Calif.)
+14 Kikuchi, David
+5 Women
+18 Doors and doorways
+7 Bathing
+4 Boys
+23 Concentration camp life
+10 Valentines
+5 Women
+19 Concentration camps
+4 Food
+18 Evergreen Cemetery
+6 Chairs
+10 Eyeglasses
+18 Japanese Americans
+9 Aquariums
+8 Diseases
+7 Dresses
+10 Recreation
+10 City halls
+3 Men
+3 Men
+4 Hats
+8 Abstract
+11 Catholicism
+6 Hawaii
+6 Houses
+7 Kimonos
+6 Hawaii
+15 Christmas trees
+20 Brothers and sisters
+7 Writing
+10 California
+5 Women
+7 Weather
+3 Men
+15 Names, Japanese
+5 Japan
+26 Assembly Centers, Tanforan
+8 Barracks
+18 Japanese Americans
+5 Banks
+9 Farewells
+7 Arizona
+16 American letters
+6 Rifles
+10 California
+5 Boots
+8 Arkansas
+20 World War, 1939-1945
+3 Men
+9 Mountains
+23 Concentration camp life
+11 Ice skating
+16 American letters
+6 Crowds
+5 Dance
+11 Headdresses
+7 Schools
+36 Gila River Relocation Center (Ariz.)
+8 Airports
+16 Suits (Clothing)
+10 photograph
+8 negative
+7 collage
+13 copy negative
+7 drawing
+7 drawing
+7 drawing
+10 photograph
+6 fabric
+8 negative
+8 negative
+7 drawing
+6 kimono
+10 photograph
+10 photograph
+20 photograph  negative
+7 drawing
+8 scissors
+6 letter
+8 painting
+8 negative
+21 tabi (Japanese socks)
+7 drawing
+8 negative
+7 drawing
+3 bag
+8 painting
+8 negative
+8 negative
+13 copy negative
+8 painting
+7 drawing
+7 drawing
+7 drawing
+10 photograph
+8 negative
+8 negative
+7 drawing
+6 letter
+7 drawing
+7 drawing
+10 photograph
+10 photograph
+10 photograph
+7 drawing
+8 painting
+20 panoramic photograph
+7 drawing
+10 photograph
+6 letter
+13 jacket  haori
+7 drawing
+10 photograph
+20 photograph  negative
+6 letter
+8 negative
+8 negative
+7 drawing
+8 negative
+20 photograph  negative
+8 negative
+10 photograph
+7 drawing
+21 tabi (Japanese socks)
+8 postcard
+6 letter
+8 negative
+10 photograph
+10 photograph
+10 photograph
+6 letter
+10 photograph
+10 photograph
+10 photograph
+7 drawing
+8 painting
+8 negative
+10 photograph
+8 painting
+8 negative
+10 photograph
+8 painting
+10 photograph
+15 card, Christmas
+7 drawing
+7 legging
+6 letter
+20 photograph  negative
+7 drawing
+7 drawing
+20 photograph  negative
+8 painting
+7 drawing
+7 drawing
+7 drawing
+8 painting
+6 letter
+8 negative
+10 photograph
+10 photograph
+
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title
+100
+8 Untitled
+115 Portrait of Monterey Young Mens and Womens Buddhist Association, League Coast District, California, October 4, 1931
+88 Sixth annual JACL installation ball promotion, Los Angeles, California, January 11, 1958
+109 Xth. anniversary N.A. Federation of Y.W.B.A. Leagues conference, Los Angeles, California, July 21st-26th 1936
+76 Letter to Clara Breed from Yaeko Hirasaki, Preston, Idaho, December 24, 1943
+33 Barrack interior, 10-7-42 8:20 PM
+91 CINO convention dance at Los Angeles City College, Los Angeles, California, January 5, 1955
+8 Untitled
+68 Letter to Clara Breed from Aiko Kubo, Poston, Arizona, June 20, 1944
+97 Joyce Takeuchi in cap and gown, head and shoulder portrait, Los Angeles, California, June 4, 1955
+76 Letter to Clara Breed from Katherine Tasaki, Poston, Arizona, August 1, 1943
+8 Untitled
+36 Mayor Kawabe farewell party, 11-6-42
+86 Postcard to Clara Breed from Tetsuzo (Ted) Hirasaki, Poston, Arizona, October 29, 1943
+85 Mr. Nagai and friend in front of Rafu Shimpo, Los Angeles, California, August 1, 1951
+69 Our barrack : Lordsburg internment camp, company D, barrack 4, 7-4-42
+89 Sister Maria Okamura and Sister Johanna  Kawakubo of Maryknoll, California, March 9, 1954
+34 Santos Maru, California, June 1953
+8 Untitled
+76 Letter to Clara Breed from Fusa Tsuamagari, Poston, Arizona, August 23, 1943
+34 Sgt. Angus McNutt, age 26, 9-19-42
+81 Womens group in front of Rafu Shimpo building, Los Angeles, California, June 1963
+51 Black and gray silk kimono with basket weave design
+29 White muslin kerchief, Hawaii
+81 Older woman with eyeglasses in front of barracks, half-portrait, Rohwer, Arkansas
+89 Three Eagle Scouts of Troop 41, full portrait, Los Angeles, California, November 11, 1967
+106 Far East Travel Service : Kankodan party for Japan trip departure, Los Angeles, California, March 26, 1955
+73 Warrior looks down at bowing woman in Kabuki play, Rohwer, Arkansas, 1944
+111 Installation of Mrs. Ken Kozasa as Muir Junior High School PTA president, Los Angeles, California, May 22, 1956
+40 Kilauea military detention camp, 8-25-42
+35 Denim tabi with white cotton lining
+49 Peach koshimaki (underskirt) with red leaf design
+35 Mrs. Rikino Wada, California, 1956?
+98 Tsuyu Sasaki, Belmont High School student body president, head and shoulder portrait, May 27, 1961
+92 Imperial Gardens restaurants one year anniversary, Los Angeles, California, October 26, 1955
+82 Isamu Sakamoto, Belmont High School gymnast, Los Angeles, California, June 5, 1959
+67 Harness racing sumie painting, Inglewood, California, November 1966
+58 Beige womans kimono with purple asanoha (hemp leaf) design
+88 Nisei Week Kendo tournament with groups from Japan, Los Angeles, California, August 1957
+83 Large group of people standing in front of mess hall 3, Rohwer, Arkansas, 1942-1945
+89 Trick or Treat dance at Fox Hills Country Club, Los Angeles, California, October 20, 1956
+53 Yoshios birthplace at Gone village in Kumamoto, Japan
+75 Letter to Clara Breed from Margaret Ishino, Poston, Arizona, March 18, 1943
+90 Mine reads newspaper announcing war declaration against Japan,  Berkeley, California, 1941
+8 Untitled
+59 Guardhouse or checkpoint, Rohwer, Arkansas, August 19, 1944
+58 Christmas cheer, Los Angeles, California, December 4, 1954
+72 Men and women standing in line in mess hall, Rohwer, Arkansas, 1942-1945
+81 Disneylands invitation to teacher : taken at Pan American airport, March 30, 1956
+67 Baseball team in front of scoreboard, Heart Mountain, Wyoming, 1944
+70 Nobuko Fujimoto, piano teacher, Los Angeles, California, April 9, 1955
+57 Mr. Lawlon, head and shoulder portrait, November 29, 1949
+17 Where Lotus Abide
+65 Two young men in front of barracks, Heart Mountain, Wyoming, 1944
+115 Mako and Masahiro Shinoda of Hyogensha Productions at Kawafuku restaurant, Los Angeles, California, August 21, 1970
+115 Two young women sitting on wooden platform in front of barracks, 1-4-A and 1-4-B, Rohwer, Arkansas, October 1, 1944
+90 Mari Sono and Watanabe Puro visiting Bank of Tokyo, Los Angeles, California, June 12, 1970
+119 Registering at the Civil Control Station at Pilgrim Hall of the First Congregational Church, Berkeley, California, 1942
+43 Lavendar momohiki (pantaloons), Ewa, Hawaii
+13 Self portrait
+48 JACL Nisei relay queen and attendents, June 1956
+78 Postcard to Clara Breed from Yoshiko Kubo, Arcadia, California, April 11, 1942
+29 Untitled? (Camp Warehouse II)
+8 Untitled
+22 Rohwer Camp Water Tank
+120 Ochigo at Oakland Buddhist Church on the occasion of the churchs 30th anniversary, Oakland, California, January 27, 1935
+100 Hiroshi Teshigawara and Toshiko Kobayashi at Academy Awards, Santa Monica, California, April 4, 1965
+87 Kenji Sasaki in suit, head and shoulder portrait, Los Angeles, California, June 3, 1955
+10 Still life
+102 Vice-governor of Tokyo presents doll at Los Angeles City Hall, Los Angeles, California, April 17, 1957
+102 Young woman wearing eyeglasses in front of barracks porch, 2-7-C, Rohwer, Arkansas, September 23, 1944
+41 6 P.M. 10-9-42 News hour : Rev. Motoyoshi
+17 11-10-42, 9:35 PM
+78 Letter to Clara Breed from Katherine Tasaki, Poston, Arizona, November 6, 1943
+76 Smiling boy in suit next to chest of drawers, Rohwer, Arkansas, May 24, 1944
+83 Outdoor funeral gathering for Mitsuno Nakatsuru, Rohwer, Arkansas, December 8, 1944
+31 Gold and silver braided obijime
+32 Ward 1 : my hospital bed, 9-8-42
+138 Kagoshima-ken High School group at Los Angeles International Airport and banquet at Kawafuku restaurant, Los Angeles, California,July 1966
+70 Mine and Benji standing with their luggage, Berkeley, California, 1942
+76 Letter to Clara Breed from Hisako Watanabe, Poston, Arizona, October 5, 1943
+55 Kenso Zenimura swinging at bat, Heart Mountain, Wyoming
+80 Men and women preparing plates of food in mess hall, Rohwer, Arkansas, 1942-1945
+17 Untitled, 10-6-42
+60 Cream nagajuban (long underkimono) with wave and bird design
+8 Untitled
+62 Young man sitting on deck, Rohwer, Arkansas, February 18, 1945
+51 Akatombo at Kawai piano, California, April 12, 1964
+110 Dr. Paul Dudley White looking at book at Hollywood Roosevelt Hotel, Los Angeles, California, November 14, 1968
+64 East Los Angeles JACL, Los Angeles, California, December 7, 1957
+16 11-3-43, 8:25 AM
+8 Untitled
+85 A young woman, Itsuko, standing next to a fire hydrant, Heart Mountain, Wyoming, 1943
+97 Teiho Hashida and friend from Japan at Toyo Miyatake Studio, Los Angeles, California, August 1969
+8 Untitled
+78 Founders Day at Sixth Avenue School, Los Angeles, California, February 6, 1956
+121 Japanese car to caravan North and South America in front of Rafu Shimpo building, Los Angeles, California, August 3, 1966
+107 Eastside Major champions Hound Dogs-1 basketball team, portrait, Los Angeles, California, December 17, 1955
+75 Letter to Helen McNary from Louise Ogawa, Poston, Arizona, January 27, 1943
+19 In front of my apt.
+
+471
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber after_decimal_len_1 6.1950680354276155
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber after_decimal_len_2 16.27792210980288
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber after_decimal_len_3 15.235358061527789
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber after_decimal_len_4 1.7924003178629773
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber num_len_6 13.650541738214185
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber num_len_5 13.302312286211421
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber symbol_) 34.371187063894276
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber num_len_4 0.5468786102486439
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber symbol_( 34.371187063894276
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber num_len_3 7.7170257764186685
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber num_len_7 0.8963397307013264
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber num_len_2 5.506821900976159
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber tenth_place_digit_1 15.563564898903966
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber tenth_place_digit_3 6.547068922623455
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber tenth_place_digit_2 17.698143847161287
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber tenth_place_digit_5 -4.5549473824300994
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber tenth_place_digit_4 0.9744323118088059
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber tenth_place_digit_7 5.077213838834881
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber tenth_place_digit_6 -0.08594330176210835
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber all_capitalized_token 17.70324011835049
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber starts_with_char_C -0.5584689939896397
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber starts_with_char_E 0.9899134162269636
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber starts_with_char_D -2.935531938672936
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber starts_with_char_A -6.478063276096661
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber starts_with_char_L -2.565479286255859
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber starts_with_char_G -2.000669170719046
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber starts_with_char_F -0.6110536600723272
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber starts_with_char_I -5.494783020265965
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber starts_with_char_N -0.07231846792994019
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber starting_digit_9 27.225883479962945
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber alpha_id_EW 0.6035991998650503
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber unit_place_digit_6 -0.6436147354567929
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber unit_place_digit_7 6.017400275418795
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber unit_place_digit_9 -2.697093260904148
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber unit_place_digit_2 0.40448622132149026
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber unit_place_digit_3 1.6731834402759829
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber alpha_id_HO 1.3294526180578041
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber before_decimal_len_4 -5.7274468677883
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber before_decimal_len_0 27.43374662171382
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber alpha_length_2 5.531871713443373
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber alpha_length_1 -0.9638814925915495
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber before_decimal_len_2 25.849160756561805
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber alpha_id_L 1.304404258586971
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber alpha_id_B 1.9203312574435722
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber alpha_id_AA 1.273276022263178
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber alpha_id_BY 1.2814423944847733
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber alpha_id_BP 1.2814423944847733
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber alpha_id_CN 0.45206623188713335
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber alpha_id_CB 0.6597350016751228
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://www.americanartcollaborative.org/ontology/accessionNumber tenth_place_digit_9 1.1683957701551795
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson symbol_, 47.60990210770046
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Walter 9.82794669671574
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Hirasaki 3.4024033553691164
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Muramoto 9.82794669671574
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_E -6.189600778568752
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_D -0.5296015299231855
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_A -13.55884919077664
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_J -8.345654740386156
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_M 12.59466768239625
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Tetsuzo 3.4869239525921683
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_G -15.364703561965356
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_F -12.972975377746184
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_I 10.61336301042871
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_H 11.569961917408449
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_R 16.709740547959566
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_S 1.300495461642014
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_T 2.624611851774617
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_O 4.836399558119095
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Toyo 4.980889904459131
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson starts_with_char_W 2.0138304353255427
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Florence 2.1879999734478446
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Hoshida 8.133078632678066
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Ishigo 3.7574791870546
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Jack 5.318826200994351
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Mine 6.475552983620777
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Miyatake 8.084689681545326
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Shimpo 18.506479124318826
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_length_8 13.426836317128302
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_length_7 -0.4055123697151918
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_length_6 10.722513478556184
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_length_5 -0.5742097073545129
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_length_4 19.10320666943976
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Henry 5.7019992693147294
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Iwata 5.318826200994351
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Estelle 3.7574791870546
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Okubo 6.475552983620777
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Ishino 2.1879998101807088
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Archie 3.1037997770861874
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Rafu 18.506479124318826
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Sugimoto 4.299593277534525
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_George 10.937891559373238
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Date 4.4987279453244
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson capitalized_token 4.850533849648616
+http://www.americanartcollaborative.org/ontology/Person|http://rdvocab.info/ElementsGr2/nameOfThePerson alpha_id_Hideo 4.4987279453244
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Family 22.7418354833864
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance symbol_. -25.55277621269538
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance symbol_, -14.905199410721455
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_the 2.0873073135030054
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance all_capitalized_token -13.800869155819566
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Toyo 16.547368784593054
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Studio 19.090698754215342
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Sandra 9.46215913021451
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Tagawa 3.4112753225120196
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Carole 9.46215913021451
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Miyatake 15.763312808370603
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_length_10 -4.377163972678167
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Elizabeth 3.4112760605781993
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Photograph 20.46765193504774
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Honma 9.46215913021451
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance capitalized_token 7.152031152465303
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_b -7.119447286246739
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_a -13.816434272401295
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_t -3.4205053963471945
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_o 24.108252769066755
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_D -6.847728536310388
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_A 12.553374118379688
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_K 5.012294945623505
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_J 9.06471961092116
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_M 20.81891866868357
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_G 42.52397106885873
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_F 11.522485214142767
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_H -8.565379593323541
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_S 7.931855812987791
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_T 0.9907457568116538
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_P 8.236021937624457
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance starts_with_char_Y -4.898248184889248
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Hoshida 5.541879855890183
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Gift 56.08292260923089
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_length_8 5.9652445158388145
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_length_9 -18.539935302697476
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_length_7 -15.908670515063212
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_length_6 12.526403493409818
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_length_5 -16.399507300220513
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_length_4 6.537339699822953
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_length_3 4.433928741080553
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_length_2 26.971752844715432
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_length_1 -22.798869979690565
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Y 2.7227994701619997
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Iwata 0.01760706461111568
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_and -8.997098151534601
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Kanada 9.46215913021451
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Madeleine 3.4112753225120196
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_of 29.920812302697524
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/provenance alpha_id_Hideo 0.7257444142605407
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_between 7.7848479649766595
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_Mr 5.298011985378941
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_for 21.35083651515285
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_br 7.685766759120509
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_Susan 1.1345695921672823
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description starts_with_char_l 44.43812451272382
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_Image 1.134581888524134
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description starts_with_char_t 35.64471954942946
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description starts_with_char_s 43.757771149204416
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description starts_with_char_C 8.326666317137825
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description starts_with_char_D 15.00223473319208
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description starts_with_char_K 17.034335671713013
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description starts_with_char_L 25.827181834230522
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description starts_with_char_R 21.263527456756794
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description starts_with_char_T 16.492183371720106
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_desk 3.6110770167467243
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_button 1.8055385337801986
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_b 42.05938493195256
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_A 16.31832926607258
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_suits 14.068305204517145
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_Gyosei 1.8055385337801986
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_certainly 1.8055385337801986
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_shake 1.8055382217985054
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_patterned 8.356736029863328
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description num_len_4 -5.163803909323754
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_crew 1.8055385337801986
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_them 8.455804639376671
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_classroom 1.8055385400680177
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_LAX 1.8055385337801981
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description symbol_. 29.78546140804625
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description symbol_: 5.955088044139695
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description symbol_& 42.05938493195256
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_older 5.4477955166711745
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description unit_place_digit_5 21.809370231061916
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description unit_place_digit_3 1.1831669232278457
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_length_13 11.783929257207943
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_surrounded 3.6110770599325863
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description after_decimal_len_0 -6.7866231114506705
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_face 4.466457630708967
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_dresses 2.9401204222131825
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description capitalized_token -29.949475327090415
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_Motoyoshi 1.8055385337611527
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_with 46.16036287166747
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_length_8 11.387218170906577
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_length_3 -3.096782414066224
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_length_2 6.288420937262227
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_length_1 14.826253329507777
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_brRight 1.8055385337801986
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_another 9.88307325699622
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/description alpha_id_and 53.29934655950259
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent after_decimal_len_1 13.445613134757162
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent after_decimal_len_2 19.578361744045246
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent after_decimal_len_0 -2.369186930194867
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent after_decimal_len_3 3.1682628783052875
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent symbol_/ -4.277754667110525
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent symbol_( -7.766139606221221
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent symbol_, 15.65516546456969
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent symbol_: 28.45594440610136
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent tenth_place_digit_2 7.052114914970373
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent tenth_place_digit_5 14.895519601886376
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent tenth_place_digit_7 -4.392044974764747
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent all_capitalized_token 13.094049942290948
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent unit_place_digit_6 -1.547687151273297
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent unit_place_digit_5 -2.947370157211888
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent unit_place_digit_7 -8.120162531707894
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent unit_place_digit_9 4.004946738831316
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent unit_place_digit_0 12.347694332273491
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent unit_place_digit_2 0.19319085455033333
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent unit_place_digit_3 1.0815367480177964
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent unit_place_digit_4 0.38876230706176984
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent before_decimal_len_1 4.121509881621067
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent before_decimal_len_2 -5.837476904158706
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent alpha_id_envelope 1.7630426185995032
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent capitalized_token -2.867649016693214
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent num_len_4 -1.4469532477381961
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent num_len_3 -0.03127093780546275
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent num_len_2 -2.8952828268003676
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starts_with_char_e -9.548365341921993
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starts_with_char_i 17.23435857599515
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starts_with_char_F -6.516132148583531
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starts_with_char_H 23.740692981842237
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starts_with_char_T 5.327127118112483
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starts_with_char_W 31.249503266266192
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starting_digit_8 -3.7018948677453807
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starting_digit_7 -3.7318590001217204
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starting_digit_6 0.4520548957520523
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starting_digit_5 -0.1657291280216864
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starting_digit_4 -2.1967679354114744
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starting_digit_3 8.018681468242999
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starting_digit_2 4.133136472279691
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent starting_digit_1 10.060866429364026
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent alpha_length_8 -17.122415836596428
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent alpha_length_3 -11.590332578486288
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent alpha_length_2 24.567618744963777
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent alpha_length_1 11.584298389735364
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent alpha_id_W 35.97940875648866
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent alpha_id_H 35.16807566850633
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent alpha_id_D 3.385708794563984
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent alpha_id_back -5.388935620712995
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/extent alpha_id_in 17.765539606659246
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink symbol__ 27.431675316012004
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink symbol_/ 27.431675316012004
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink symbol_. 22.742218207856745
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink symbol_: 20.05182630794818
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink all_capitalized_token -4.843453403432132
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink unit_place_digit_7 -5.412923465744712
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink unit_place_digit_1 2.1262921351191864
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink unit_place_digit_2 0.22341094265494266
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink unit_place_digit_4 2.67647756234529
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_length_11 26.573769773821446
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starts_with_char_c 13.30149553600918
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starts_with_char_a 22.7422171807907
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starts_with_char_m -2.465472734382075
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starts_with_char_j 27.431675315990297
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starts_with_char_h 22.742269845699102
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starts_with_char_p -12.832064258112654
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starts_with_char_o 16.09549785739733
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starts_with_char_B -1.1846084235350995
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starting_digit_4 -0.30760463853982906
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starting_digit_2 5.41963754536611
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink starting_digit_9 4.963459660228697
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_a 26.5738343080855
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_B -0.6153228285975563
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_media 27.431675316012004
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_collections 27.431675316012004
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_r 4.937701556882165
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_p 2.1945340252809595
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink after_decimal_len_2 -4.268867904237746
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink after_decimal_len_3 4.806615242143675
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink tenth_place_digit_1 -1.4057313720955074
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink tenth_place_digit_3 3.3996800569006393
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink tenth_place_digit_2 0.14241463557226683
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink tenth_place_digit_5 1.3366297388903234
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink tenth_place_digit_7 3.6407089085379134
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_janm 27.431675316012004
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink before_decimal_len_4 1.5792029720716196
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink before_decimal_len_0 7.399015024248035
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink before_decimal_len_2 4.105669643053634
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink num_len_6 0.7850364737068994
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink num_len_5 0.6390088048698258
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink num_len_3 4.227062935411775
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink num_len_1 8.709894210962066
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink num_len_2 -6.46563241471153
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_http 27.431675316012004
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_length_5 -8.989849556445504
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_length_4 17.07484199139033
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_length_3 4.611080489510422
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_length_2 -8.524716717179912
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_length_1 17.155100409479996
+http://www.europeana.eu/schemas/edm/WebResource|http://isi.edu/integration/karma/dev#classLink alpha_id_org 27.431675316012004
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_pencil 4.088941630877966
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_canvas 9.032726763048679
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_metal 18.432495117284486
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_paper 10.638296881261653
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_silk 18.648949047630484
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_board 2.2345359409815915
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_watercolor 8.790091254003954
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_c 5.611227174423179
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_b -2.3156221136433732
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_m 12.28042046629843
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_i 12.795790875407945
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_t 14.156880780293713
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_s 14.471082841318804
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_p 8.596650904307937
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_o 5.27546534806989
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium starts_with_char_w 6.273584983593342
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_ink 16.615081993801358
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_photocopy 4.305209054108772
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_mat 1.1078239218951835
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_oil 10.393848349947527
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_length_9 1.062543546006324
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_length_10 -1.254068309328309
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_id_tape 18.64893527655708
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_length_6 8.511015472916313
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_length_5 19.737422285441507
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_length_4 22.022590585749626
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/medium alpha_length_3 19.66997039776563
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created after_decimal_len_0 23.723402447610965
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created alpha_id_August 1.601103435479449
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created symbol_. 25.987498026788018
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created symbol_, 23.002695309591722
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created alpha_id_California -10.359487261451543
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created alpha_id_June -4.240462112230927
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created alpha_id_Calif 20.198165115691165
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created unit_place_digit_6 -7.010064394328932
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created unit_place_digit_8 -1.3944581194674357
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created unit_place_digit_7 -6.589792147772361
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created unit_place_digit_9 -6.268206030628611
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created alpha_id_United 3.779707375480414
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created unit_place_digit_2 6.677926890401392
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created unit_place_digit_3 0.8284801722887614
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created unit_place_digit_4 3.9850681522706433
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created before_decimal_len_4 27.299987622466432
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created before_decimal_len_5 2.739868252476043
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created alpha_id_Mountain 6.961206909358051
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created capitalized_token 15.905133666089393
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created num_len_4 25.069461132382543
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created num_len_1 -16.795869697996217
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created num_len_2 6.268567438502937
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created alpha_id_Angeles 4.241446036373392
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created starts_with_char_c -8.402816493932026
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created starts_with_char_C 1.9808470378477137
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created starts_with_char_A -2.1076172891454044
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created starts_with_char_J -2.582488915613947
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created starts_with_char_M -6.960135473353942
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created starts_with_char_L -2.2008003912606435
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created starts_with_char_H -11.895129187875368
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created starts_with_char_R -3.4694474491645715
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created starts_with_char_S -10.312838650454601
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created starts_with_char_U 2.5727953317089867
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created starts_with_char_N 0.23642237205009842
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created starts_with_char_O -4.107168080451143
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created starts_with_char_P -10.877544010853956
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created starts_with_char_W -1.8414568426210005
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created starting_digit_- 0.9550766488430588
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created starting_digit_2 -3.248836302649308
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created starting_digit_1 23.707760929942456
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created alpha_id_Los 4.241446036373392
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created alpha_id_unknown 10.801392178707374
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created alpha_length_7 -5.976160262634498
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created alpha_length_6 -16.904184384943626
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created alpha_length_5 3.4761454131150957
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created alpha_length_3 1.0028981405504092
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created alpha_length_2 -24.204761876720845
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created alpha_id_N 2.801964606510027
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created alpha_id_States 4.671917971513977
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/terms/created alpha_id_c 5.11802326953052
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_id_Angeles 1.093937383876756
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_id_Relocation 1.3236023945286999
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel starts_with_char_d 2.5767936873971373
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel starts_with_char_C 15.982181340378135
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel starts_with_char_B 7.376580054620516
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel starts_with_char_E 2.291893299631574
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel starts_with_char_A 8.495825939295761
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel starts_with_char_J -2.2322318292887102
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel starts_with_char_M -7.588596346052508
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel starts_with_char_H 0.6762988181368106
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel starts_with_char_W 0.10737336594982994
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_id_life 4.0194782384864745
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_id_Food 1.3472161816945936
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_id_Los 1.093937383876756
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_id_Barracks 1.3210672778835302
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel capitalized_token 33.1579488801184
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_length_8 7.005505046944178
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_length_9 -5.894710528229719
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_length_7 4.076456726390031
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_length_6 -2.9719898973904293
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_length_5 8.952616030191791
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_length_4 -0.8824463268343412
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_length_3 10.946464857893067
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_id_photograph 8.567914673612988
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel symbol_) 1.7982169478043188
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel symbol_( 1.7982169478043188
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel symbol_. 0.0017232852833273628
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_id_Eyeglasses 2.2601362679337153E-7
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_id_workers 7.79125154442922E-8
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel starts_with_char_c 2.720596402424352
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel starts_with_char_l 13.525212909467966
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel starts_with_char_p 8.432502695051536
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel starts_with_char_n 4.710399447077484
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_id_Chairs 8.53557336640917E-12
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_id_Americans 2.830248235876568E-6
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel starts_with_char_F -4.99988187712795
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel starts_with_char_I -0.0829438508480618
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel starts_with_char_R -1.6613040948776852
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_id_Banks 6.533668700821603E-10
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_id_Hawaii -0.1217676516907337
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_id_painting 5.65014634200349
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_id_negative 4.7103994470776
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_id_Japanese 3.0422650907557647
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_id_letter 12.87178626645879
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_id_Bathing 1.0502189548029353E-12
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_id_drawing 0.1903447671325477
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_id_Shopping 1.8259517178178134E-5
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_id_Creels 8.53557336640917E-12
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_length_11 -2.5841024450926574E-4
+http://www.w3.org/2008/05/skos#Concept|http://www.w3.org/2008/05/skos#prefLabel alpha_id_Women 4.705420233962069E-9
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title after_decimal_len_0 14.215817497889766
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title symbol_, 12.174829778924657
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title all_capitalized_token 2.097928036538265
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_group 0.9767710859672335
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_next 1.0621141533475071
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title unit_place_digit_6 5.847152695811211
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title unit_place_digit_5 8.003835964632316
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title unit_place_digit_8 4.064256900912811
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title unit_place_digit_4 -1.1048400631020203
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_length_10 10.070614270603544
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_length_11 1.3513645917067818
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title before_decimal_len_1 4.987672459298124
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title before_decimal_len_2 8.82111271981282
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Water 1.5789633870372832
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_young 0.5310589469107204
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Heart -3.6507791716881757
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_women 2.0651466347036296
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_people 0.5302696270428657
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title capitalized_token 27.869208251175927
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title num_len_1 4.987672459298124
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title num_len_2 8.82111271981282
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Hall 0.45835938208743066
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Angeles 3.281968563895167
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_d 3.8781406746618723
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_c 2.070782483846954
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_a 9.509044294217231
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_f 6.781762406923665
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_C 10.748769430566949
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_B 4.813368575724544
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_A 12.727340642995287
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_J 1.4350025021895672
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_M 4.885866422678942
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_I 2.2020404919318306
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_H 0.9714570913981175
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title starts_with_char_S 4.584539968534279
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_bowing 0.5310594448679254
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Letter 2.7639950739945305
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_length_8 18.7897963613695
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_length_9 3.8883637941124203
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_length_5 12.705377170614504
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_length_4 24.02225333970604
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_length_3 10.36665832626753
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_length_2 12.812549061915048
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_America 0.44727338354187396
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Postcard 0.5286882492945648
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Sasaki 1.0621126833980032
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_and 6.6490402055130335
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_Gardens 0.4465038769911245
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_May 0.014734014927432648
+http://www.americanartcollaborative.org/ontology/CulturalHeritageObject|http://purl.org/dc/elements/1.1/title alpha_id_hall 2.595416261746495
